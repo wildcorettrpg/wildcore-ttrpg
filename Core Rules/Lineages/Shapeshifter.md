@@ -10,7 +10,7 @@ Most Shapeshifters keep to themselves or to deep-woods clans of their own kind. 
 ## Traits
 
 ### Keen Senses
-A Shapeshifter's inner animal sharpens every sense they carry in human form. Within 30 ft., their sight, hearing, smell, taste, and touch exceed what any purely human person can perceive.
+A Shapeshifter’s inner animal sharpens every sense they carry in human form. Within 30 ft., their sight, hearing, smell, taste, and touch exceed what any purely human person can perceive.
 
 ### Low-Light Vision
 Even in human form, Shapeshifters can see in low-light conditions as clearly as broad daylight within 30 ft.
@@ -19,7 +19,7 @@ Even in human form, Shapeshifters can see in low-light conditions as clearly as 
 Shapeshifters can communicate telepathically with other Shapeshifters regardless of form, up to a distance of one mile.
 
 ### Multi-Strike
-A Shapeshifter's natural weapons — claws, fangs, or whatever their animal form has honed — can manifest even in human form. Once per round, a Shapeshifter may make a single unarmed attack that strikes twice, each with its own attack roll and damage roll.
+A Shapeshifter’s natural weapons — claws, fangs, or whatever their animal form has honed — can manifest even in human form. Once per round, a Shapeshifter may make a single unarmed attack that strikes twice, each with its own attack roll and damage roll.
 
 ## Flaws
 
@@ -29,11 +29,12 @@ Shapeshifters are distrusted by society at large. −4 on all Social Opposition 
 ## Opposition Check Modifiers
 
 +4 on all perception-based Opposition Checks relying on sight, sound, smell, taste, or touch within 30 ft.
+
 +2 on Fortitude Opposition Checks.
 
 ## Animal Forms
 
-A Shapeshifter's animal form is chosen at character creation (or when the lineage is unlocked through play) and is fixed for life. It is not a choice so much as a discovery — the form that surfaced at puberty is the only one there is.
+A Shapeshifter’s animal form is chosen at character creation (or when the lineage is unlocked through play) and is fixed for life. It is not a choice so much as a discovery — the form that surfaced at puberty is the only one there is.
 
 In animal form, the character retains their own Strength and Reflex for attack rolls and defense. Melee Attack skill bonuses apply to natural weapon attacks — claws, fangs, and talons are melee attacks. The Weapon proficiency trees do not apply; natural weapons require no proficiency and impose no untrained penalty. Keen Senses, Low-Light Vision, and Mindspeech carry over in all forms.
 

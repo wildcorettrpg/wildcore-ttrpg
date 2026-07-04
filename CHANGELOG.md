@@ -6,6 +6,9 @@ This is the public-facing summary. It doesn't need session-by-session design rat
 
 ## 2026-07-03
 
+**Website**
+- Fixed a bug in the site builder where trait and flaw descriptions on lineage pages were silently dropped if no blank line appeared between the `###` heading and the paragraph below it. All lineage pages now display their full descriptions.
+
 **Rules**
 - **Shapeshifter** now has a full Animal Forms section: 15 forms (Bat through Wolf), each with its own size, movement, and natural weapon damage. Natural weapon damage follows the same one-tier-above-5e-SRD scale as standard weapons. Multi-Strike can use any natural weapons the form has — player's call per activation.
 - **Kith Improvised Combatant** rewritten: Kith apply all purchased Melee Attack or Ranged Attack skills to improvised weapons, removing the reference to undefined weapon categories.

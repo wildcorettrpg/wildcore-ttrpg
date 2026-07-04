@@ -311,6 +311,17 @@ function splitBlocks(text) {
       continue;
     }
 
+    // Headings are always single-line blocks. Whenever we hit a heading line,
+    // close whatever is in current (discarding any buffered blanks), emit the
+    // heading as its own block, and move on — no blank line required.
+    if (!inCode && /^#{1,6}\s/.test(line)) {
+      if (current.length) blocks.push(current.join('\n'));
+      blocks.push(line);
+      current = [];
+      pendingBlanks = [];
+      continue;
+    }
+
     // Non-blank line: decide what to do with the buffered blanks
     if (pendingBlanks.length > 0) {
       const lastLine = current[current.length - 1] || '';

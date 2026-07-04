@@ -6,12 +6,12 @@
 | :------- | ----: | -------: | ---: |
 | 🔴 Critical | 4 | 4 | 0 |
 | 🟡 Significant | 11 | 11 | 0 |
-| 🟠 Minor | 5 | 4 | 1 |
-| **Total** | **20** | **19** | **1** |
+| 🟠 Minor | 5 | 5 | 0 |
+| **Total** | **20** | **20** | **0** |
 
 Analysis covered 81 files across 8 directories (Characters, Encounters, Equipment, Lineages, Skills/Universal, Tables, Glossary, and root Introduction/Example of Play). All files were read in full.
 
-Resolved issues were fixed in the same session. Open issues require a design decision before they can be addressed — see each entry for options.
+All issues were resolved in the same session.
 
 ---
 
