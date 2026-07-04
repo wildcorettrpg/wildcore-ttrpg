@@ -45,7 +45,7 @@
 
 1. A participant is engaged when within melee range of an opponent.  
 2. Moving within melee range does not trigger reactions.  
-3. Moving out of melee range may trigger a reaction if an opponent has an ability that allows it.  
+3. Moving out of melee range may trigger an Opportunity Attack from any opponent who has AP available — see **opportunity attack** in the [Glossary](../../Glossary/Glossary.md).  
 4. Entering melee range may trigger abilities that activate when a participant comes within proximity.  
 5. The Narrator determines melee range based on the fiction and the abilities involved.  
 

@@ -4,6 +4,7 @@ Dwarves are compact athletes — shorter than five feet, built with dense muscle
 
 **Size:** Small
 **Base Movement Speed:** 30 ft
+**Languages**: Common, Dwarven
 
 ## Traits
 
@@ -16,12 +17,13 @@ Dwarves' compact, powerful build makes them exceptionally difficult to move agai
 ## Flaws
 
 ### Reckless
-Dwarves don't back down. −2 on Opposition Checks when attempting to disengage, retreat, or avoid a direct physical confrontation.
+Dwarves don't back down. -2 on Opposition Checks when attempting to disengage, retreat, or avoid a direct physical confrontation.
 
 ## Opposition Check Modifiers
 
-+2 on Athletics Opposition Checks.
-+2 on Fortitude Opposition Checks.
+- +2 on Opposition Checks to resist being tripped, knocked prone, or forced into movement.
+- Automatic success on Willpower Opposition Checks to resist fear.
+- -2 on Opposition Checks when attempting to disengage, retreat, or avoid a direct physical confrontation.
 
 ## Languages
 

@@ -3,14 +3,13 @@
 ## Stabilization
 
 1. A Wounded or Dying character can be stabilized by a healer.
-2. Stabilization ends Bleeding Out. It does not restore Health and does not remove the Wounded or Dying conditions — those end only when Health is restored above the relevant threshold.
+2. Stabilization ends Bleeding Out. It does not restore Health and does not remove the Wounded, Unconscious, or Dying conditions.
 
 ## Effects of Stabilization
 
 1. A stabilized character is no longer Bleeding Out.
-2. A stabilized character no longer makes Consciousness Checks — Consciousness Checks are a consequence of the Dying condition, which requires active Bleeding Out to continue triggering.
-3. If the stabilized character was Incapacitated before stabilization, that condition remains — stabilization does not remove it.
-4. Stabilization does not remove the Unconscious condition. A stabilized character remains unconscious until a healer removes that condition separately. Conditions are independent of one another — stabilization addresses only Bleeding Out.
+2. A stabilized character no longer makes Consciousness Checks — Consciousness Checks are a consequence of the Dying condition.
+3. Stabilization does not remove the Unconscious condition. A stabilized character remains unconscious until a healer removes that condition separately. Conditions are independent of one another — stabilization addresses only Bleeding Out.
 
 ## Requirements for stabilization
 

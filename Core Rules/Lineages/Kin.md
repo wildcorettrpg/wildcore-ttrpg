@@ -14,14 +14,18 @@ The Kin share the Kith's compact frame and dark skin, but where Kith pour their 
 
 **Size:** Small
 **Base Movement Speed:** 25 ft
+**Languages**: Common, Kithkin
 
 ## Traits
 
+### Gregarious Nature
+Kin are natural socialites, effortlessly reading tone, intention, and emotional undercurrents. Their curiosity and warmth make them quick to connect with others, smoothing conversations and negotiations alike. +2 on Social Opposition Checks.
+
 ### Voracious Mind
-Kin read everything, remember most of it, and ask questions constantly. +4 on Knowledge and Investigation Opposition Checks.
+Kin read everything, remember most of it, and ask questions constantly. +2 on Investigation Opposition Checks, and +4 on Research Opposition Checks.
 
 ### Innate Magic
-Kin have a natural affinity for magic that predates any formal training. This affinity grants access to Magic Attack skills and manifests as exceptional aptitude on magical attacks.
+Kin have a natural affinity for magic that predates any formal training. This affinity grants access to Magic Attack skills and manifests as exceptional aptitude on magical attacks. Kin have Magic Attack I unlocked for free. +2 on Magic Attack Opposition Checks.
 
 ## Flaws
 
@@ -33,11 +37,9 @@ While Wounded (Health at or below their wounded threshold), at the start of each
 
 ## Opposition Check Modifiers
 
-+4 on Knowledge and Investigation Opposition Checks (see Voracious Mind).
-+2 on Research Opposition Checks.
-+2 on Social Opposition Checks.
-+2 on Magic Attack Opposition Checks.
+- +2 on Investigation Opposition Checks (see Voracious Mind).
+- +4 on Research Opposition Checks (see Voracious Mind).
+- +2 on Social Opposition Checks.
+- -2 on Melee Attack and Ranged Attack Opposition Checks.
+- +2 on Magic Attack Opposition Checks.
 
-## Languages
-
-Common, Kithkin.

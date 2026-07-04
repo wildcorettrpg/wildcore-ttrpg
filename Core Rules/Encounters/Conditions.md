@@ -6,9 +6,9 @@ Conditions are conditions imposed by combat, injury, supernatural effects, or Na
 
 **Trigger:** Applied by any effect that causes it — entering the Wounded condition, certain weapons or abilities, or Narrator judgment.
 
-**Effect:** The character loses 1 Health per round, at the end of their turn. If this loss causes the character to enter or remain in the Dying condition, it triggers a Consciousness Check.
+**Effect:** The character loses 1 Health per round, at the end of their turn. If this loss drops the character to or below their dying threshold, they enter the Dying condition. If the character is already Dying when this loss occurs, it triggers a Consciousness Check — see [Dying](../Characters/Dying.md).
 
-**Ends:** Stabilization (see [Stabilization](../Characters/Stabilization.md)), or when the character dies.
+**Ends:** Stabilization (see [Stabilization](../Characters/Stabilization.md)), healing above the wounded threshold, or when the character dies.
 
 ## Blind
 
@@ -94,7 +94,7 @@ Conditions are conditions imposed by combat, injury, supernatural effects, or Na
 
 **Trigger:** A failed Consciousness Check while dying, or imposed directly by a skill, ability, or effect. 
 
-**Effect:** The character cannot act, cannot take Reactions, and is Incapacitated. If the character is dying, they no longer make Consciousness Checks but continue Bleeding Out. If the character is stabilized, they remain Unconscious until a healer removes the condition — see [Stabilization](../Characters/Stabilization.md) §5 — or until Forced Awakening ([Stabilization](../Characters/Stabilization.md) §6).  
+**Effect:** The character cannot act, cannot take Reactions, and is Incapacitated. The character is also Prone and cannot move at all — these restrictions are stricter than Incapacitated's and override it for movement purposes. If the character is dying, they no longer make Consciousness Checks but continue Bleeding Out. If the character is stabilized, they remain Unconscious until a healer removes the condition — see [Stabilization](../Characters/Stabilization.md) §5 — or until Forced Awakening ([Stabilization](../Characters/Stabilization.md) §6).  
 
 **Ends:** A healer removes the Unconscious condition (requires stabilization first if the character is dying), or Forced Awakening (which removes Unconscious but imposes additional impairments — see [Stabilization](../Characters/Stabilization.md) §6).
 
@@ -116,8 +116,8 @@ Conditions are conditions imposed by combat, injury, supernatural effects, or Na
 
 ## Vulnerable
 
-**Trigger:** Certain movement states (Narrator's judgment, e.g., committed climbing, swimming, or flight); Intense Concentration (a character fully absorbed in a Concentration effect — Narrator's judgment); Forced Awakening; or any situation where a character is fully committed to a non-combat activity.  
+**Trigger:** Certain movement states (Narrator's judgment, e.g., committed climbing, swimming, or flight); Intense Concentration (a character fully absorbed in a Concentration effect — Narrator's judgment); or any situation where a character is fully committed to a non-combat activity.  
 
 **Effect:** The character cannot roll Reflex to oppose melee or ranged attacks and automatically takes the hit. Armor mitigation still applies normally. A Vulnerable character may continue to oppose whatever activity caused the condition (e.g., a supernatural contest).  
 
-**Ends:** The situation causing Vulnerability ends (e.g., the movement mode changes, the Forced Awakening state resolves).
+**Ends:** The situation causing Vulnerability ends (e.g., the movement mode changes, the Concentration effect ends).

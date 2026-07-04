@@ -36,7 +36,7 @@ Spell attacks follow the same structure, but the defender's response depends on 
 
 ## Attribute Pairings
 
-[Attribute Parings for Opposition Checks Table](Tables/Attribute%20Parings%20for%20Opposition%20Checks%20Table.md) lists all standard Opposition Check pairings used throughout the system.
+[Attribute Parings for Opposition Checks Table](../Tables/Attribute%20Parings%20for%20Opposition%20Checks%20Table.md) lists all standard Opposition Check pairings used throughout the system.
 
 ## Vulnerable from Intense Concentration
 
@@ -53,7 +53,6 @@ A Vulnerable character:
 - automatically takes the hit  
 - still applies armor mitigation normally  
 - may continue opposing the action they are concentrating on  
-- cannot initiate physical actions until the concentration ends  
 - may lose concentration if struck, if the ability or action specifies that damage disrupts it  
 
 See the Glossary for the full Vulnerable condition definition.

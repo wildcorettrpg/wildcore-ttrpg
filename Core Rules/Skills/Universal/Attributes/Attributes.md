@@ -13,13 +13,10 @@ Attribute skills represent focused self-improvement — deliberate effort to str
 
 ## Branches
 
-1. **Social** (constellation) — two branches that grant identical +Social bonuses, differing in flavor and capstone effects:
-    1. [Dominance](Dominance.md)
-    2. [Empathy](Empathy.md)
-2. [Fortitude](Fortitude.md)
-3. [Reflex](Reflex.md)
-4. [Strength](Strength.md)
-5. [Vitality](Vitality.md)
-6. [Willpower](Willpower.md)
+- [Strength](Strength.md)
+- [Reflex](Reflex.md)
+- [Fortitude](Fortitude.md)
+- [Willpower](Willpower.md)
+- [Social](Social.md)
+- [Vitality](Vitality.md)
 
-> **Note:** Initiative was previously a branch here. It has been removed along with the Initiative attribute — see [Turn Order](../../../Encounters/Turn Order.md).

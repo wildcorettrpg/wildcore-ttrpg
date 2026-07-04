@@ -9,9 +9,9 @@
 
 ## Core Attributes
 
-1. Fortitude measures a character’s physical resistance to environmental threats — poison, disease, and extreme conditions (freezing cold, scorching heat, toxic atmosphere, oxygen deprivation — see [Environmental Hazards](../Encounters/Environmental Hazards.md)).
+1. Fortitude measures a character’s physical resistance to environmental threats — poison, disease, exhaustion, and extreme conditions (freezing cold, scorching heat, toxic atmosphere, oxygen deprivation — see [Environmental Hazards](../Encounters/Environmental Hazards.md)).
 2. Reflex is used when a character attempts to dodge, parry, or block.
-3. Social measures a character’s capacity for social influence — persuasion, intimidation, negotiation, and contests of will or empathy with others. A character builds Social through two skill-tree branches, Dominance and Empathy (see `Skills/Universal/Attributes/`), which grant identical +Social bonuses but differ in flavor and capstone effects.
+3. Social measures a character’s capacity for social influence — persuasion, intimidation, negotiation, and contests of will or empathy with others. A character builds Social through the [Social](../Skills/Universal/Attributes/Social.md) attribute skill tree.
 4. Strength is used for opposed physical checks and provides a damage bonus on melee and ranged attacks (see §6).
 5. Vitality determines a character’s maximum Health. The base maximum Health is 25. Vitality is not assigned during character creation — it is fixed at 25 for all characters and increases only through skills or abilities (see [Vitality](../Skills/Universal/Attributes/Vitality.md)).
 6. Willpower is used to resist domination, intimidation, and similar Social-based effects, provides a damage bonus on spell attacks (see §6), and is used for Consciousness Checks — a dying character rolls their dice pool + Willpower.
@@ -25,11 +25,10 @@
 
 ## Lineage and Attributes
 
-1. No lineage available at character creation modifies, raises, or lowers a character's core attributes.
-2. No attribute may exceed 3 during character creation, including for non-Human lineages.
-3. A lineage may instead apply situational bonuses or penalties to specific checks (e.g., a Faerie's ethereal nature may impose a penalty on Strength-based Opposition Checks without lowering their Strength attribute), or grant access to an alternate stat block (e.g., a Shapeshifter's animal form has its own attributes, separate from and not derived from their base form's attributes).
-4. Lineages unlocked through play (e.g., Angel, Demon, Fae, Shapeshifter, Vampire, Werewolf) come with their own skill trees, and — like the Universal Attribute trees — some skills within those trees may grant attribute bonuses as purchased progression. This is earned advancement, not a creation-time bonus, and is unaffected by rule 1.
-5. Humans receive no lineage skill tree. To keep Human a meaningful choice, Humans instead receive a one-time Skill Point bonus at character creation — see "Human Potential" in the Session Zero Guide.
+1. No attribute may exceed 3 during character creation, regardless of lineage.
+2. A lineage may apply attribute bonuses or penalties, situational bonuses or penalties to specific checks (e.g., a Faerie's ethereal nature imposing a penalty on Strength-based Opposition Checks), or grant access to an alternate stat block (e.g., a Shapeshifter's animal form has its own attributes, separate from the base form's).
+3. Lineages unlocked through play (e.g., Angel, Demon, Fae, Shapeshifter, Vampire, Werewolf) come with their own skill trees, and — like the Universal Attribute trees — some skills within those trees may grant attribute bonuses as purchased progression. This is earned advancement, not a creation-time bonus.
+4. Humans receive no lineage skill tree. To keep Human a meaningful choice, Humans instead receive a one-time Skill Point bonus at character creation — see "Human Potential" in the Session Zero Guide.
 
 ## Attribute Advancement
 

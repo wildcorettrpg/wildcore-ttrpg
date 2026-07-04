@@ -10,7 +10,7 @@ Combat begins when the Narrator determines that timing, danger, or opposition re
 
 A combat encounter proceeds in three phases:
 
-1. **Opening** — The Narrator privately determines which side acts first (see [Turn Order](Turn%20Order.md) §3). If the Element of Surprise applies, a surprise round occurs before the first standard round (see [Turn Order](Turn%20Order.md) §5).
+1. **Opening** — The Narrator privately determines which side acts first (see [Turn Order](Turn%20Order.md) §3). If Surprise applies, a surprise round occurs before the first standard round (see [Turn Order](Turn%20Order.md) §4).
 2. **Rounds** — Each round, one side completes all of its turns before the other side begins. Within a side, participants choose their own acting order at the start of each round. Rounds continue until the encounter ends.
 3. **Resolution** — The encounter ends when all hostile participants are defeated, incapacitated, or withdrawn; one side surrenders or ceases hostilities; or the Narrator determines the conflict has resolved (see [Encounter Structure](Encounter%20Structure.md)).
 
@@ -65,7 +65,7 @@ See [Damage](Damage.md) for the full damage rules. See [Armor](../Equipment/Armo
 
 ## Spellcasting in Combat
 
-Casting a spell costs the caster Health equal to the spell's level (Level 0 costs nothing; a 9th-level spell costs 9 Health). This cost is never reduced by skill investment. Casting 3rd-level spells and above recklessly in quick succession may draw supernatural attention — the nature of that attention depends on the campaign setting. See [Magic Attack](../Skills/Universal/Combat/Magic%20Attack.md).
+Casting a spell costs the caster Health equal to the spell's level (Level 0 costs nothing; a 9th-level spell costs 9 Health). This cost is never reduced by skill investment. Every spell of Level 1 or higher may draw supernatural attention — casting spells in sustained succession reduces the Predation Difficulty and risks a hostile manifestation. Level 0 spells never draw attention. The nature of any manifestation depends on the campaign setting. See [Magic Attack](../Skills/Universal/Combat/Magic%20Attack.md).
 
 ## Conditions
 
@@ -73,6 +73,6 @@ Combat regularly imposes conditions on participants — Dying, Prone, Hindered, 
 
 ## Dying and Death
 
-When a character's Health falls to or below their **wounded threshold** (half their Vitality, rounded up — 13 Health at base Vitality 25), they enter the Wounded condition and begin Bleeding Out. When Health falls further to or below their **dying threshold** (one quarter of their Vitality, rounded up — 7 Health at base Vitality 25), they enter the Dying condition: −2 on all Opposition Checks, movement reduced by 5 ft, Consciousness Checks on incoming damage. Reaching 0 Health means death.
+When a character's Health falls to or below their **wounded threshold** (half their Vitality, rounded up — 13 Health at base Vitality 25), they enter the Wounded condition and begin Bleeding Out. When Health falls further to or below their **dying threshold** (one quarter of their Vitality, rounded up — 7 Health at base Vitality 25), they enter the Dying condition: −2 on all Opposition Checks, movement reduced by 5 ft, Consciousness Checks when they enter the Dying condition, take damage, or lose Health from Bleeding Out. Reaching 0 Health means death.
 
 See [Dying](../Characters/Dying.md), [Stabilization](../Characters/Stabilization.md), and [Death](../Characters/Death.md).

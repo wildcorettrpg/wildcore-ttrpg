@@ -74,7 +74,7 @@ Potion values and costs are first-draft; calibrate against the Healing skill's h
 
 Mundane items used to treat wounds, conditions, and ailments without spellcasting. Most are Tiny and stack by type in inventory.
 
-Using a healing supply to treat a condition requires an Opposition Check where the item's purpose demands skill — binding a wound, setting a bone, treating a fever. Healing flat bonuses apply. An untrained character (no Healing skills) can still attempt these checks; they simply have no flat bonus. Items that work by chemical action — antivenom, smelling salts — take effect on use without a check.
+Using a healing supply to treat a condition requires an Opposition Check where the item's purpose demands skill — binding a wound, setting a bone, treating a fever. Healing flat bonuses apply. An untrained character (no Healing skills) can still attempt these checks; they simply have no flat bonus. Items that work by chemical action — antivenom — take effect on use without a check. Smelling salts (Forced Awakening) also require no check, but do require Healing II and impose conditions on the patient — see the table entry below.
 
 | Item | Size | Cost | Purpose |
 | :--- | :--- | ----: | :--- |
@@ -88,7 +88,7 @@ Using a healing supply to treat a condition requires an Opposition Check where t
 | Healing Salve | Tiny | 2 gp | Restore 2 Health when applied to a wound. No check required. |
 | Mortar & Pestle | Small | 3 gp | Tool required to prepare poultices, herbal remedies, and healing potions from raw ingredients. Not consumed on use. |
 | Poultice | Tiny | 1 gp | Herbal compress applied to a wound. Opposition Check required; Healing bonuses apply. On success, restores 1d4 Health. Can be prepared from one bundle of Common Herbs using a Mortar & Pestle, or purchased ready-made. |
-| Smelling Salts | Tiny | 1 gp | Remove the Unconscious condition from a willing or helpless target. No check required. |
+| Smelling Salts | Tiny | 1 gp | **Forced Awakening** (see [Stabilization](../Characters/Stabilization.md#forced-awakening)). Requires Healing II. Costs 1 AP. Once per patient per incident. Removes the Unconscious condition immediately — the patient wakes Prone and Hindered until they receive medical treatment or the scene ends. Does not restore Health. No check required. |
 | Vial (empty) | Tiny | 5 sp | Required to bottle a crafted healing potion or other prepared remedy. One vial per dose produced. Stacks by type. |
 
 Costs and healing values are first-draft; calibrate during playtesting.

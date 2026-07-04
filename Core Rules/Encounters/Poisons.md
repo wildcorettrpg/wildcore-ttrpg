@@ -46,6 +46,6 @@ The following poisons are available for purchase where illegal trade thrives. Fi
 
 1. All poisons are Tiny. Multiple doses of the same poison stack in a single inventory slot (see [Inventory](../Equipment/Inventory.md) §Stacking).
 2. Poisons in the Named Poisons table are available as Open Game Content from the d20 SRD; they appear here in Velocity terms.
-3. Special conditions listed in the Notes column (Unconscious, Incapacitated, Blind) apply immediately on exposure and last until the poison ends, unless a specific removal condition is stated.
+3. Special conditions listed in the Notes column apply as stated in each entry. When no trigger is specified, the condition applies immediately on exposure and lasts until the poison ends.
 4. The Narrator may introduce original poisons using any severity tier and delivery type. Named poison entries serve as reference points for calibrating new ones.
 5. A character with Healing V or higher may treat a Poisoned character (1 AP, one item consumed from the Healer's Bag). On treatment, the Fortitude check difficulty is halved for the remainder of the scene — use the Difficulty (treated) column. A single treatment application covers the scene; the healer does not need to repeat the action each round.

@@ -4,7 +4,7 @@
 
 Environmental hazards are passive, ongoing threats posed by the environment itself — extreme temperatures, toxic air, oxygen deprivation, and similar conditions that wear a character down over time. They are not combatants and do not roll against the character; instead, the character rolls to resist them.
 
-Environmental hazards are resolved as **Fortitude checks against a static difficulty**, making them one of the system's two deliberate exceptions to the opposed-dice-pool model (alongside Stabilization — see [Opposition Checks](Opposition Checks.md) §4).
+Environmental hazards are resolved as **Fortitude checks against a static difficulty**, making them one of the system's two deliberate exceptions to the opposed-dice-pool model (alongside Stabilization — see [Opposition Checks](Opposition%20Checks.md)).
 
 ## Severity
 
@@ -37,7 +37,7 @@ What counts as mitigation is Narrator judgment based on narrative logic:
 - A breathing apparatus or sealed environment mitigates toxic atmosphere and oxygen deprivation.
 - Supplemental oxygen or acclimatization time mitigates high-altitude low-oxygen hazards.
 
-Partial mitigation (inadequate gear, improvised shelter) may reduce severity by one tier at the Narrator's discretion, or impose disadvantage on the Fortitude check without changing the tier.
+Partial mitigation (inadequate gear, improvised shelter) may reduce severity by one tier at the Narrator's discretion, or impose a −2 penalty on the Fortitude check without changing the tier.
 
 ## Wilderness Skills
 

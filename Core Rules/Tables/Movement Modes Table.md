@@ -29,7 +29,5 @@ Each AP spent on a movement mode grants one full increment of that mode's distan
 
 **Notes**
 
-1. **Vulnerable**, per the corrected Glossary definition, applies whenever a movement mode fully commits a character's attention and balance (climbing, swimming, flying) — they cannot oppose attacks with Reflex and automatically take hits while moving this way, though armor still mitigates.
-2. **"Weakened"** has been removed from the Swimming rows. It was never a defined term anywhere in Core Rules — the Vulnerable and Reflex penalties already cover swimming's fictional difficulty without inventing an undefined status.
-3. **Resolved 2026-06-21:** this table previously listed Concentration penalties ("reduces Concentration to Medium tier" / "ends Concentration") tied to a Concentration Tier system that no longer exists — [Concentration](../Encounters/Concentration.md) was rewritten (Session 8, 2026-06-14) to remove all movement-Concentration interaction entirely, per the design decision that movement should never impede spellcasting. Those penalty references have been removed from this table; movement mode no longer affects Concentration at all.
-4. This table is a reference, not a new rule — [Movement](../Encounters/Movement.md) remains the canonical description of how movement and AP interact.
+1. **Vulnerable**, per the Glossary definition, applies whenever a movement mode fully commits a character's attention and balance (climbing, swimming, flying) — they cannot oppose attacks with Reflex and automatically take hits while moving this way, though armor still mitigates.
+2. This table is a reference, not a new rule — [Movement](../Encounters/Movement.md) remains the canonical description of how movement and AP interact.

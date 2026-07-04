@@ -45,4 +45,4 @@ Light shields — wooden shields, steel shields, and bucklers — are carried in
 
 **Cost:** 1 SP  
 **Prerequisite:** Light Shield IV  
-**Effect:** **Shield Bash.** You may make a Shield Bash as a melee attack (1 AP). Roll a standard attack Opposition Check (Melee Attack dice + Strength). On a hit, the bash deals 1d4 + Strength damage and the target is Hindered until the start of your next turn.
+**Effect:** **Shield Bash.** You may make a Shield Bash as a melee attack (1 AP). Roll a standard attack Opposition Check (Melee Attack dice + Strength). On a hit, the bash deals 1d4 damage plus the attacker's flat Strength bonus (minimum 1), and the target is Hindered until the start of your next turn. The Strength attribute damage bonus (1 bonus die per 3 points of Strength, per [Damage](../../../Encounters/Damage.md) §3) applies normally.

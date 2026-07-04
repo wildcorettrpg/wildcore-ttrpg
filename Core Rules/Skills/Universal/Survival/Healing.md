@@ -13,7 +13,7 @@ Healing is the trained ability to keep people alive under adverse conditions. At
 1. **Treatment cost** — Each treatment costs 1 AP. Some improvised techniques require additional time outside combat, noted in the tier description.
 2. **Healer's Bag** — 5 slots holding up to 5 identical Tiny or Small healing supplies per slot. Using an item removes it from the bag. Unlocked at Healing V. See [Gear](../../../Equipment/Gear.md) §Healer's Supplies.
 3. **Master Healer's Satchel** — 10 slots, same per-slot limit. Unlocked at Healing VII. A character with a Satchel may also use a Healer's Bag if preferred.
-4. **Heroic Measures** — When treating a Wounded or Dying character with a Healer's Bag or Master Healer's Satchel, the healer may declare Heroic Measures instead of a standard treatment. The Opposition Check difficulty is the standard treatment difficulty + 4. On success: the patient is Stabilized, regains consciousness, and recovers Health (Healer's Bag: 1d6 + Willpower; Master Healer's Satchel: 2d6 + Willpower). Costs 1 AP and consumes one item from the bag. Unlocked at Healing VI.
+4. **Heroic Measures** — When treating a Wounded or Dying character with a Healer's Bag or Master Healer's Satchel, the healer may declare Heroic Measures instead of a standard treatment. The Opposition Check difficulty is a Narrator-assigned value based on the severity of the patient's injuries (typically Challenging, difficulty 8–13, for Wounded characters; Dangerous, difficulty 14–16, for Dying characters — see the [Opposition Check Difficulty Table](../../../Tables/Opposition%20Check%20Difficulty%20Table.md)), plus 4. On success: the patient is Stabilized, regains consciousness, and recovers Health (Healer's Bag: 1d6 + Willpower; Master Healer's Satchel: 2d6 + Willpower). Costs 1 AP and consumes one item from the bag. Unlocked at Healing VI.
 
 ## Training Tier
 
@@ -77,4 +77,4 @@ Healing is the trained ability to keep people alive under adverse conditions. At
 
 **Cost:** 1 SP  
 **Prerequisite:** Healing IX  
-**Effect:** +1d10 to Healing Opposition Checks. Heroic Measures no longer incurs the +4 difficulty penalty — the check is made at standard treatment difficulty.
+**Effect:** +1d10 to Healing Opposition Checks. Heroic Measures no longer incurs the +4 difficulty penalty — the check is made at the base Narrator-assigned difficulty without the +4 addition.

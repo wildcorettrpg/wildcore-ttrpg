@@ -8,7 +8,7 @@
     
 ## Surprise
 
-1. If the Narrator has ruled that the Element of Surprise applies (see [Turn Order](Turn%20Order.md) §5), a surprise round occurs before the first standard round.
+1. If the Narrator has ruled that Surprise applies (see [Turn Order](Turn%20Order.md) §4), a surprise round occurs before the first standard round.
 2. Only the surprising side takes turns during the surprise round, if the surprise was severe enough to prevent the other side from acting at all.
 3. After the surprise round ends, the first standard round begins.
 

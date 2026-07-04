@@ -22,3 +22,5 @@ Combat covers all forms of direct physical and supernatural conflict. It represe
 6. [Light Armor](Light Armor.md)
 7. [Medium Armor](Medium Armor.md)
 8. [Heavy Armor](Heavy Armor.md)
+9. [Light Shield](Light Shield.md)
+10. [Heavy Shield](Heavy Shield.md)

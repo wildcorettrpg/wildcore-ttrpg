@@ -22,7 +22,7 @@
 
 ## Concentration Checks
 
-1. A Concentration Check is a Willpower opposition check against the triggering effect.  
+1. A Concentration Check is a Willpower Opposition Check against the triggering effect.  
 2. The triggering effect determines the opposing stat:  
     - Melee attacks: opposed by the attacker's Strength  
     - Ranged attacks: opposed by the attacker's Strength  

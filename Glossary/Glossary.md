@@ -28,7 +28,7 @@ The damage die a weapon or spell deals before any attribute or skill bonuses are
 
 ### bleeding out
 
-The ongoing Health loss suffered by a **Wounded** character: 1 Health at the end of their turn each round. Bleeding out triggers a **Consciousness Check** when the character is also Dying. Bleeding out ends when the character is **stabilized**, recovers Health above their **wounded threshold**, or dies.
+The ongoing Health loss suffered by a **Wounded** character: 1 Health at the end of their turn each round. A character who is **Dying** makes a **Consciousness Check** when they lose Health from Bleeding Out — see **consciousness check** for the complete trigger list. Bleeding out ends when the character is **stabilized**, recovers Health above their **wounded threshold**, or dies.
 
 ### blind
 
@@ -102,7 +102,7 @@ A value equal to half a character's maximum Vitality, rounded up. When Health is
 
 A numerical measure of total character capability, equal to a character's total spent Skill Points (unspent Skill Points don't count). Used for character creation, NPC/enemy creation, and as the basis for **Group Effective Level**. Monsters ported from d20 bestiaries convert Challenge Rating directly to a Skill Point budget — see [Porting d20 Monsters](../Narrator%27s%20Guide/Porting%20d20%20Monsters.md).
 
-### element of surprise
+### surprise
 
 A narrative determination (not a roll) that a side has caught the other completely unaware. The Narrator may rule that the surprising side acts first for the encounter and, if severe enough, that the surprised side cannot act during the first round at all. See [Surprise](../Core%20Rules/Encounters/Turn%20Order.md#surprise).
 
@@ -120,7 +120,7 @@ Merged into **dodge** as of 2026-06-24. Dodge now covers both rolling clear of a
 
 ### forced awakening
 
-Reviving an **Unconscious** character using smelling salts or an equivalent stimulant. Requires Healing II; costs 1 AP; no Healing Opposition Check; may only be attempted once per patient per incident. The Unconscious condition is removed immediately — the character regains consciousness. All other conditions present at the time of awakening remain in effect. The character is **Prone**, **Hindered** (until they receive medical treatment or the scene ends), and **Vulnerable** (until they receive medical treatment or the scene ends). Forced Awakening does not heal the patient. See [Forced Awakening](../Core%20Rules/Characters/Stabilization.md#forced-awakening).
+Reviving an **Unconscious** character using smelling salts or an equivalent stimulant. Requires Healing II; costs 1 AP; no Healing Opposition Check; may only be attempted once per patient per incident. The Unconscious condition is removed immediately — the character regains consciousness. All other conditions present at the time of awakening remain in effect. The character is **Prone** and **Hindered** until they receive medical treatment or the scene ends. Forced Awakening does not heal the patient. See [Forced Awakening](../Core%20Rules/Characters/Stabilization.md#forced-awakening).
 
 ### forced movement
 
@@ -164,7 +164,7 @@ The slot-based system that tracks what a character carries. Each character has a
 
 ### lineage
 
-A character's ancestry or origin (e.g., Human, Elf, Vampire, Shapeshifter). No lineage available at creation modifies, raises, or lowers core attributes. Instead, a lineage may apply situational bonuses or penalties to specific checks, or grant an alternate stat block (such as a Shapeshifter's animal form). Lineages unlocked through play may include skills that grant attribute bonuses as purchased progression, same as the Universal Attribute trees. By default, lineages other than Human are unlocked through play rather than chosen at creation; some campaign settings (such as Anar) override this and make multiple lineages available as creation-time ancestries. See [Lineage and Attributes](../Core%20Rules/Characters/Attributes.md#lineage-and-attributes) and the Lineages chapter.
+A character's ancestry or origin (e.g., Human, Elf, Vampire, Shapeshifter). A lineage may apply attribute bonuses or penalties, situational bonuses or penalties to specific checks, or grant an alternate stat block (such as a Shapeshifter's animal form). No attribute may exceed 3 during character creation, regardless of lineage. Lineages unlocked through play may include skills that grant attribute bonuses as purchased progression, same as the Universal Attribute trees. By default, lineages other than Human are unlocked through play rather than chosen at creation; some campaign settings (such as Anar) override this and make multiple lineages available as creation-time ancestries. See [Lineage and Attributes](../Core%20Rules/Characters/Attributes.md#lineage-and-attributes) and the Lineages chapter.
 
 ### martial action
 
@@ -192,11 +192,11 @@ A condition. A Mute character cannot speak. Skills and abilities requiring verba
 
 ### natural armor
 
-Armor provided by a creature's own physiology — scales, hide, bone plates, or similar features — rather than worn equipment. Natural armor functions identically to worn armor: it provides flat damage mitigation applied after a hit lands, and does not affect hit chance. It is always active unless suppressed by a specific effect, and stacks with worn armor unless a rule specifies a cap. See [Natural Armor](../Core%20Rules/Equipment/Armor.md#natural-armor).
+Armor provided by a creature's own physiology — scales, hide, bone plates, or similar features — rather than worn equipment. Natural armor functions identically to worn armor: it provides flat damage mitigation applied after a hit lands, and does not affect hit chance. It is always active unless suppressed by a specific effect, and stacks with worn armor unless a rule specifies a cap. See [Armor](../Core%20Rules/Equipment/Armor.md).
 
 ### nauseated
 
-A condition. A nauseated character cannot Concentrate and takes a −2 penalty on all Opposition Checks. Ends when the source of the condition is removed, an Healing check removes it, or the effect expires. See [Conditions](../Core%20Rules/Encounters/Conditions.md).
+A condition. A nauseated character cannot Concentrate and takes a −2 penalty on all Opposition Checks. Ends when the source of the condition is removed, a Healing check removes it, or the effect expires. See [Conditions](../Core%20Rules/Encounters/Conditions.md).
 
 ### node
 
@@ -268,11 +268,11 @@ A named collection of related skills and nodes (e.g., Melee Attack, Persuasion, 
 
 ### social
 
-An attribute. Determines a character's capacity for social influence — persuasion, intimidation, negotiation, and contests of will or empathy with others. Used to project social influence: Persuasion, Intimidation, Negotiation, and Domination Opposition Checks. Resisting those effects uses Willpower — see **willpower**. A character builds Social through two Universal Attribute skill-tree branches, Dominance and Empathy, which grant identical +Social bonuses but differ in flavor and capstone effects — see [Dominance](../Core%20Rules/Skills/Universal/Attributes/Dominance.md) and [Empathy](../Core%20Rules/Skills/Universal/Attributes/Empathy.md).
+An attribute. Determines a character's capacity for social influence — persuasion, intimidation, negotiation, and contests of will or empathy with others. Used to project social influence: Persuasion, Intimidation, Negotiation, and Domination Opposition Checks. Resisting those effects uses Willpower — see **willpower**. A character builds Social through the [Social](../Core%20Rules/Skills/Universal/Attributes/Social.md) attribute skill tree.
 
 ### spell overcharging
 
-A casting option that amplifies a spell's effect at greater Health cost. An overcharged spell costs 1.5× the spell's level in Health (rounded up, minimum 1) instead of the normal cost. All numerical aspects of the spell — range, number of targets, duration, radius, damage — are doubled. Overcharging a 3rd-level or higher spell counts as twice as reckless as a normal cast of the same level for the Narrator's attention-escalation judgment. Overcharging a Level 0–2 spell does not increase attention risk. See [Spell Overcharging](../Core%20Rules/Skills/Universal/Combat/Magic%20Attack.md#spell-overcharging).
+A casting option that amplifies a spell's effect at greater Health cost. An overcharged spell costs 1.5× the spell's level in Health (rounded up, minimum 1) instead of the normal cost. All numerical aspects of the spell — range, number of targets, duration, radius, damage — are doubled. Overcharging a Level 1+ spell subtracts twice its level from the Predation Difficulty instead of once. Overcharging a Level 0 spell does not affect the Predation Difficulty. See [Spell Overcharging](../Core%20Rules/Skills/Universal/Combat/Magic%20Attack.md#spell-overcharging).
 
 ### stabilization
 
@@ -320,7 +320,7 @@ A condition. An unconscious character cannot act, cannot take Reactions, and is 
 
 ### vitality
 
-An attribute. Determines a character's maximum Health (base 25). Vitality does not decrease during play unless a rule explicitly reduces it, and increases only through attributes, skills, or abilities.
+An attribute. Determines a character's maximum Health (base 25). Vitality does not decrease during play unless a rule explicitly reduces it, and increases only through the Vitality skill tree, the Fortitude attribute skill tree (tiers VII and IX), lineage abilities, or other explicitly stated effects.
 
 ### vulnerable
 

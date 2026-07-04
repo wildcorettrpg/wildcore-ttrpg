@@ -19,7 +19,7 @@
 
 1. A character with at least Healing I can provide treatment to recover Health or remove conditions. The form of treatment and equipment required depend on the healer’s Healing tier — see [Healing](../Skills/Universal/Survival/Healing.md) for the full progression.
 2. At Healing V, the healer may apply items from a Healer’s Bag (1 AP per treatment, one item consumed). At Healing VII, they may instead use a Master Healer’s Satchel. Item effects are defined in [Gear](../Equipment/Gear.md) §Healer’s Supplies.
-3. Heroic Measures (Healing VI+) is a special intervention for Wounded or Dying characters. On a successful Opposition Check (standard difficulty +4), the patient is Stabilized, regains consciousness, and recovers 1d6 + Willpower Health (Healer’s Bag) or 2d6 + Willpower (Master Healer’s Satchel). See [Healing](../Skills/Universal/Survival/Healing.md) §Notes.
+3. Heroic Measures (Healing VI+) is a special intervention for Wounded or Dying characters. On a successful Opposition Check against a Narrator-assigned difficulty (based on injury severity) plus 4, the patient is Stabilized, regains consciousness, and recovers 1d6 + Willpower Health (Healer’s Bag) or 2d6 + Willpower (Master Healer’s Satchel). See [Healing](../Skills/Universal/Survival/Healing.md) §Notes.
 4. Healing potions restore Health immediately on use — no check required. See [Gear](../Equipment/Gear.md) §Healing Potions for available grades and effects.
 
 ## Unconsciousness

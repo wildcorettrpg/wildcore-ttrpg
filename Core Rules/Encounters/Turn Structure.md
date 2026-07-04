@@ -18,8 +18,8 @@
 ## Action Types
 
 1. Free Actions don’t cost AP unless a rule states otherwise.  
-2. Martial Actions cost AP as listed in their descriptions.  
-3. Supernatural Actions cost AP as listed in their descriptions.  
+2. Martial Actions (a Standard Action — see [Glossary](../../Glossary/Glossary.md)) cost AP as listed in their descriptions. These cover physical maneuvers: attacks, shoves, grapples, and similar.  
+3. Supernatural Actions (a Standard Action — see [Glossary](../../Glossary/Glossary.md)) cost AP as listed in their descriptions. These cover magical abilities: spells, lineage powers, and similar.  
 4. Reactions may be taken outside the participant’s turn when their trigger occurs and cost AP as listed.  
 5. Movement is purchased with AP and follows the rules in the Movement chapter.  
 

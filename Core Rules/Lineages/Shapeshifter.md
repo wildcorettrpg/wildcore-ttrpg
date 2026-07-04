@@ -6,14 +6,18 @@ Most Shapeshifters keep to themselves or to deep-woods clans of their own kind. 
 
 **Size:** Medium (human form); varies by animal form
 **Base Movement Speed:** 30 ft (human form); varies by animal form
+**Languages:** Common
 
 ## Traits
 
+### Inner Animal
+A shapeshifter's inner animal grants them increased resistance to environmental effects and poisons. +2 on Fortitude Opposition Checks.
+
 ### Keen Senses
-A Shapeshifter’s inner animal sharpens every sense they carry in human form. Within 30 ft., their sight, hearing, smell, taste, and touch exceed what any purely human person can perceive.
+A Shapeshifter’s inner animal sharpens every sense they carry in human form. Within 30 ft., their sight, hearing, smell, taste, and touch exceed what any purely human person can perceive. +2 to perception-based Opposition Checks within 30 ft.
 
 ### Low-Light Vision
-Even in human form, Shapeshifters can see in low-light conditions as clearly as broad daylight within 30 ft.
+Even in human form, Shapeshifters can see in low-light conditions as clearly as broad daylight within 30 ft. +2 to Perception Opposition Checks at night or in low light conditions.
 
 ### Mindspeech
 Shapeshifters can communicate telepathically with other Shapeshifters regardless of form, up to a distance of one mile.
@@ -28,9 +32,10 @@ Shapeshifters are distrusted by society at large. −4 on all Social Opposition 
 
 ## Opposition Check Modifiers
 
-+4 on all perception-based Opposition Checks relying on sight, sound, smell, taste, or touch within 30 ft.
-
-+2 on Fortitude Opposition Checks.
+- +2 on all perception-based Opposition Checks relying on the physical senses within 30 ft.
+- +2 on Fortitude Opposition Checks (enhanced resistance from inner animal)
+- +2 on Perception Opposition Checks at night or in low-light conditions.
+- -4 on all Social Opposition Checks.
 
 ## Animal Forms
 
@@ -51,13 +56,9 @@ Multi-Strike uses any natural weapons available to the form. The player decides 
 | **Mountain Lion** | Large  | 40 ft / climb 20 ft | Claws 1d10, bite 1d10                                                                    |
 | **Otter**         | Medium | 30 ft / swim 40 ft  | Bite 1d8, claws 1d8                                                                      |
 | **Owl**           | Small  | 15 ft / fly 50 ft   | Talons 1d6, beak 1d6; flight is silent — no Stealth penalty for movement while airborne  |
-| **Panther**       | Medium | 40 ft / climb 30 ft | Claws 1d8, bite 1d8                                                                      |
+| **Panther**       | Medium | 40 ft / climb 30 ft | Claws 1d10, bite 1d10                                                                    |
 | **Raven**         | Small  | 10 ft / fly 40 ft   | Beak 1d6, talons 1d6                                                                     |
 | **Serpent**       | Medium | 30 ft / swim 30 ft  | Bite 1d8                                                                                 |
 | **Stag**          | Large  | 50 ft               | Antlers 2d8, hooves 2d8                                                                  |
 | **Wild Boar**     | Medium | 40 ft               | Tusks 1d10                                                                               |
 | **Wolf**          | Medium | 40 ft               | Bite 1d10                                                                                |
-
-## Languages
-
-Common.

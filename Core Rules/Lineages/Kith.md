@@ -14,11 +14,12 @@ The Kith are small, dark-skinned, and lean — approximately three feet tall, bu
 
 **Size:** Small
 **Base Movement Speed:** 25 ft
+**Languages**: Common, Kithkin
 
 ## Traits
 
 ### Improvised Combatant
-Kith treat improvised weapons — bottles, furniture, tools, rocks, anything at hand — as melee or ranged weapons, applying all Melee Attack or Ranged Attack skills they have purchased, as appropriate to how the weapon is used.
+Kith treat improvised weapons — bottles, furniture, tools, rocks, anything at hand — as melee or ranged weapons, applying all Melee Attack or Ranged Attack skills they have purchased, as appropriate to how the weapon is used. Further, they receive a +2 bonus to Attack Opposition Checks when using improvised weapons.
 
 ### Terrain Mastery
 Kith are instinctively aware of their surroundings in a fight. +2 on attack Opposition Checks when exploiting terrain features — cover, elevation, obstacles, or confined spaces.
@@ -33,9 +34,5 @@ While Wounded (Health at or below their wounded threshold), at the start of each
 
 ## Opposition Check Modifiers
 
-+2 on attack Opposition Checks when exploiting terrain features (see Terrain Mastery).
-+2 on Fortitude Opposition Checks.
-
-## Languages
-
-Common, Kithkin.
+- +2 on attack Opposition Checks when exploiting terrain features (see Terrain Mastery).
+- +2 on Attack Opposition Checks when using improvised weapons.

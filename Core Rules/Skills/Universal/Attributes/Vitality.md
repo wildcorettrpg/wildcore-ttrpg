@@ -13,7 +13,7 @@ Each skill in this tree costs Skill Points equal to its tier number — Vitality
 ## Notes
 
 1. Vitality determines a character's maximum Health. Increasing Vitality increases maximum Health by the same amount.
-2. Lineage skills may increase Vitality beyond the values achievable through this tree.
+2. Universal attribute skills (Fortitude VII and IX, +10 Vitality each) and lineage skills may increase Vitality beyond the values achievable through this tree alone.
 
 ## Training Tier
 
