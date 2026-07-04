@@ -15,11 +15,11 @@ A character exposed to a poison is immediately subjected to the [Poisoned](Condi
 
 ## Severity Tiers
 
-| Severity | Difficulty | Health Loss per Round | Examples |
-| :--- | :---: | :--- | :--- |
-| **Mild** | 8 | 1 Health | Serpent venom, street-grade sedatives |
-| **Potent** | 14 | 1d4 Health | Assassin-grade toxins, exotic animal venoms |
-| **Lethal** | 20 | 2d6 Health | Refined creature toxins, alchemical murder tools |
+| Severity | Difficulty (untrained) | Difficulty (treated) | Health Loss per Round | Examples |
+| :--- | :---: | :---: | :--- | :--- |
+| **Mild** | 8 | 4 | 1 Health | Serpent venom, street-grade sedatives |
+| **Potent** | 14 | 7 | 1d4 Health | Assassin-grade toxins, exotic animal venoms |
+| **Lethal** | 20 | 10 | 2d6 Health | Refined creature toxins, alchemical murder tools |
 
 ## Named Poisons
 
@@ -48,4 +48,4 @@ The following poisons are available for purchase where illegal trade thrives. Fi
 2. Poisons in the Named Poisons table are available as Open Game Content from the d20 SRD; they appear here in Velocity terms.
 3. Special conditions listed in the Notes column (Unconscious, Incapacitated, Blind) apply immediately on exposure and last until the poison ends, unless a specific removal condition is stated.
 4. The Narrator may introduce original poisons using any severity tier and delivery type. Named poison entries serve as reference points for calibrating new ones.
-5. A Master Healer's Satchel used by a character with Apothecary IX neutralizes any poison regardless of severity, ending the Poisoned condition immediately.
+5. A character with Healing V or higher may treat a Poisoned character (1 AP, one item consumed from the Healer's Bag). On treatment, the Fortitude check difficulty is halved for the remainder of the scene — use the Difficulty (treated) column. A single treatment application covers the scene; the healer does not need to repeat the action each round.

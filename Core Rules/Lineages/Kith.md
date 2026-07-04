@@ -18,7 +18,7 @@ The Kith are small, dark-skinned, and lean — approximately three feet tall, bu
 ## Traits
 
 ### Improvised Combatant
-Kith treat improvised weapons — bottles, furniture, tools, rocks, anything at hand — as Martial weapons. They suffer no penalty for using objects not designed as weapons.
+Kith treat improvised weapons — bottles, furniture, tools, rocks, anything at hand — as melee or ranged weapons, applying all Melee Attack or Ranged Attack skills they have purchased, as appropriate to how the weapon is used.
 
 ### Terrain Mastery
 Kith are instinctively aware of their surroundings in a fight. +2 on attack Opposition Checks when exploiting terrain features — cover, elevation, obstacles, or confined spaces.

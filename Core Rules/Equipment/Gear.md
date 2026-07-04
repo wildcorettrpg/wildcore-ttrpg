@@ -5,10 +5,6 @@
 1. This is the general equipment list for adventuring gear that isn't a weapon ([Weapons](Weapons.md)) or worn armor ([Armor](Armor.md)).
 2. Every item lists a **Size** (Tiny/Small/Medium/Large, per [Inventory](Inventory.md) §2) for inventory purposes and a **Cost** for purchase.
 
-## Currency
-
-1. See [Currency](Currency.md) for the cp/sp/gp/pp exchange rate and how currency interacts (or doesn't) with inventory.
-
 ## General Gear
 
 | Item | Size | Cost |
@@ -47,14 +43,59 @@ See [Starting Equipment](../Characters/Starting Equipment.md) for the full start
 
 ## Healer's Supplies
 
-| Item | Size | Cost | Notes |
+### Bags
+
+A Healer's Bag and Master Healer's Satchel are expanded inventory — extra slots that hold only Tiny or Small healing supplies (bandages, antivenom, potions, and similar). They do not have charges; using an item removes it from the bag like any other consumable.
+
+Unlike a backpack, healer's bags impose a per-slot item limit of 5. A slot holds up to 5 identical Tiny items — 10 Minor Healing Potions occupy 2 slots, not 1.
+
+| Item | Size | Cost | Slots | Per-slot limit | Notes |
+| :--- | :--- | ----: | :--- | :--- | :--- |
+| Healer's Bag | Small | 5 gp | 5 Tiny/Small | 5 items | Unlocked at Healing V — see [Healing](../Skills/Universal/Survival/Healing.md) and [Recovery](../Characters/Recovery.md) §3 |
+| Master Healer's Satchel | Medium | 20 gp | 10 Tiny/Small | 5 items | Unlocked at Healing VII — see [Healing](../Skills/Universal/Survival/Healing.md) and [Recovery](../Characters/Recovery.md) §3 |
+
+### Healing Potions
+
+Drinking a healing potion restores Health immediately — no check required. All potions are Tiny and stack by grade.
+
+| Item | Size | Cost | Effect |
 | :--- | :--- | ----: | :--- |
-| Healer's Bag (10 charges) | Small | 5 gp | Training-tier Apothecary tool — [Apothecary](../Skills/Universal/Survival/Apothecary.md), [Recovery](../Characters/Recovery.md) §3 (Medical Recovery) |
-| Master Healer's Satchel (10 charges) | Medium | 20 gp | Apothecary VII tool — [Apothecary](../Skills/Universal/Survival/Apothecary.md), [Recovery](../Characters/Recovery.md) §3 (Medical Recovery) |
+| Minor Healing Potion | Tiny | 10 gp | Restores 1d4 Health |
+| Lesser Healing Potion | Tiny | 25 gp | Restores 1d8 Health |
+| Medium Healing Potion | Tiny | 50 gp | Restores 2d8 Health |
+| Major Healing Potion | Tiny | 100 gp | Restores 3d8 Health |
+| Grand Healing Potion | Tiny | 200 gp | Restores 4d8 Health |
+| Superior Healing Potion | Tiny | 500 gp | Restores 5d8 Health |
+| Supreme Healing Potion | Tiny | 1,000 gp | Restores 6d8 Health |
+
+Potion values and costs are first-draft; calibrate against the Healing skill's healing output during playtesting.
+
+### Healing Supplies
+
+Mundane items used to treat wounds, conditions, and ailments without spellcasting. Most are Tiny and stack by type in inventory.
+
+Using a healing supply to treat a condition requires an Opposition Check where the item's purpose demands skill — binding a wound, setting a bone, treating a fever. Healing flat bonuses apply. An untrained character (no Healing skills) can still attempt these checks; they simply have no flat bonus. Items that work by chemical action — antivenom, smelling salts — take effect on use without a check.
+
+| Item | Size | Cost | Purpose |
+| :--- | :--- | ----: | :--- |
+| Antivenom (Lethal) | Tiny | 75 gp | End a Lethal poison immediately. No check required. See [Poisons](../Encounters/Poisons.md). |
+| Antivenom (Mild) | Tiny | 10 gp | End a Mild poison immediately. No check required. See [Poisons](../Encounters/Poisons.md). |
+| Antivenom (Potent) | Tiny | 30 gp | End a Potent poison immediately. No check required. See [Poisons](../Encounters/Poisons.md). |
+| Bandages | Tiny | 1 sp | Stop Bleeding Out. Opposition Check required; Healing bonuses apply. A bundle of bandages is also required when setting a bone with a Bone Splint. |
+| Bone Splint | Tiny | 5 sp | Set and immobilize a broken limb. Opposition Check required; Healing bonuses apply. Requires Bandages to bind the splint in place. |
+| Common Herbs (bundle) | Tiny | 5 sp | Raw ingredient. One bundle yields one poultice or one dose of healing potion when prepared with a Mortar & Pestle. |
+| Fever Tonic | Tiny | 5 gp | End a fever or illness. Opposition Check required; Healing bonuses apply. |
+| Healing Salve | Tiny | 2 gp | Restore 2 Health when applied to a wound. No check required. |
+| Mortar & Pestle | Small | 3 gp | Tool required to prepare poultices, herbal remedies, and healing potions from raw ingredients. Not consumed on use. |
+| Poultice | Tiny | 1 gp | Herbal compress applied to a wound. Opposition Check required; Healing bonuses apply. On success, restores 1d4 Health. Can be prepared from one bundle of Common Herbs using a Mortar & Pestle, or purchased ready-made. |
+| Smelling Salts | Tiny | 1 gp | Remove the Unconscious condition from a willing or helpless target. No check required. |
+| Vial (empty) | Tiny | 5 sp | Required to bottle a crafted healing potion or other prepared remedy. One vial per dose produced. Stacks by type. |
+
+Costs and healing values are first-draft; calibrate during playtesting.
 
 ## Stacking
 
-1. Tiny and Small items of the same type stack per [Inventory](Inventory.md) §3 — a single slot holds a stack of identical Tiny/Small gear (e.g., several torches, days of rations, or candles) regardless of quantity.
+1. Tiny and Small items of the same type stack per [Inventory](Inventory.md) §3 — a single slot holds any number of identical Tiny or Small items with no quantity limit.
 
 ## Notes for Playtesting
 

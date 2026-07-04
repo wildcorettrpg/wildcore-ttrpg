@@ -4,7 +4,7 @@
 
 **Dying threshold:** one quarter of maximum Vitality, rounded up. At or below this value, the character enters the **Dying** condition: −2 on all Opposition Checks, movement reduced by 5 ft, Consciousness Checks on incoming damage.
 
-Vitality values shown reflect the base (25) plus each tier of the Vitality skill tree (+4 per tier, 10 tiers). Lineage traits may add Vitality beyond these values.
+Vitality values shown reflect the base (25) plus each tier of the Vitality skill tree (+4 per tier, 10 tiers). Lineage traits may add Vitality beyond these values. Fortitude VII and IX each grant an additional +10 Vitality; a character who invests in both can reach Vitality 85 — Wounded at 43 HP, Dying at 22 HP.
 
 | Vitality | Wounded Threshold | Dying Threshold |
 | -------: | ----------------: | --------------: |

@@ -34,7 +34,7 @@
 ## Damage Application
 
 1. After rolling all damage dice, total the result.
-2. Apply armor mitigation to the total, if applicable. Armor mitigates damage from mundane weapons and natural physical attacks only — magic weapons, spells, magical creature abilities, and environmental hazards bypass armor entirely. See [Armor](../Equipment/Armor.md) §What Armor Protects Against.
+2. Apply armor mitigation to the total, if applicable — see §Armor Mitigation below.
 3. Apply any remaining damage to the target's Health.
 4. If total damage after mitigation is 0 or less, the target takes no damage.
 
@@ -43,3 +43,41 @@
 1. Some attacks inflict conditions in addition to damage.
 2. Conditions are applied after damage is resolved unless the attack specifies otherwise.
 3. A condition is applied regardless of whether the attack deals damage, unless the condition's source specifies it requires damage to trigger.
+
+## Armor Mitigation
+
+1. Armor provides flat damage mitigation applied to every hit unless a rule states otherwise.
+2. Armor does not modify hit chance — it only reduces damage after a hit lands.
+3. Mitigation sources stack unless a rule specifies a cap or exception. Sources include:
+    1. Worn armor
+    2. Natural armor
+    3. Temporary effects
+    4. Abilities or traits
+
+## What Armor Protects Against
+
+Armor mitigates physical damage only.
+
+**Mitigated:**
+
+1. Mundane weapons — slashing, piercing, and bludgeoning damage from non-magical weapons.
+2. Natural attacks — claws, teeth, unarmed strikes, and similar physical attacks from any creature.
+
+**Not mitigated:**
+
+1. Magic weapons — weapons with magical properties or enhancements bypass armor entirely, regardless of damage type.
+2. Spells — all magical effects bypass armor.
+3. Magical creature abilities — breath weapons, supernatural attacks, and similar abilities bypass armor.
+4. Environmental hazards — toxic atmosphere, extreme temperatures, poison, and similar threats bypass armor.
+
+## Natural Armor
+
+1. Natural armor functions identically to worn armor — it applies flat mitigation to every hit.
+2. Natural armor is always active unless suppressed by a specific effect.
+3. Large or resilient creatures may have high natural armor values.
+
+## Armor and Health
+
+1. Armor reduces incoming damage before Health is lost.
+2. High armor reduces the need for high Health pools.
+3. Health represents biological endurance, not avoidance.

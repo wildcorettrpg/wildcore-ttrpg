@@ -14,7 +14,7 @@ Survival covers the practical skills that keep characters alive and functional u
 ## Branches
 
 1. [Athletics](Athletics.md)
-2. [Apothecary](Apothecary.md)
+2. [Healing](Healing.md)
 3. [Perception](Perception.md)
 4. [Stealth](Stealth.md)
 5. [Tracking](Tracking.md)

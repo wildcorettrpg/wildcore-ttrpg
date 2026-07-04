@@ -120,7 +120,7 @@ Merged into **dodge** as of 2026-06-24. Dodge now covers both rolling clear of a
 
 ### forced awakening
 
-Reviving an **Unconscious** character using smelling salts or an equivalent stimulant. Requires Apothecary II; costs 1 AP; no Apothecary Opposition Check; may only be attempted once per patient per incident. The Unconscious condition is removed immediately — the character regains consciousness. All other conditions present at the time of awakening remain in effect. The character is **Prone**, **Hindered** (until they receive medical treatment or the scene ends), and **Vulnerable** (until they receive medical treatment or the scene ends). Forced Awakening does not heal the patient. See [Forced Awakening](../Core%20Rules/Characters/Stabilization.md#forced-awakening).
+Reviving an **Unconscious** character using smelling salts or an equivalent stimulant. Requires Healing II; costs 1 AP; no Healing Opposition Check; may only be attempted once per patient per incident. The Unconscious condition is removed immediately — the character regains consciousness. All other conditions present at the time of awakening remain in effect. The character is **Prone**, **Hindered** (until they receive medical treatment or the scene ends), and **Vulnerable** (until they receive medical treatment or the scene ends). Forced Awakening does not heal the patient. See [Forced Awakening](../Core%20Rules/Characters/Stabilization.md#forced-awakening).
 
 ### forced movement
 
@@ -152,7 +152,7 @@ A condition. A hindered character has only 1 AP per round and moves at half thei
 
 ### incapacitated
 
-A condition. An incapacitated character may speak, crawl, gesture, and take other very simple actions, but cannot attack, cast spells, concentrate, or do anything else strenuous. Often applied directly by an effect (such as the **dying** condition) or as a consequence of another condition, such as **unconscious** — while Unconscious is active, its own stricter restrictions control.
+A condition. An incapacitated character may speak, crawl, gesture, and take other very simple actions, but cannot attack, cast spells, concentrate, or do anything else strenuous. Often applied as a consequence of another condition, such as **unconscious** — while Unconscious is active, its own stricter restrictions control.
 
 ### intense concentration
 
@@ -170,9 +170,9 @@ A character's ancestry or origin (e.g., Human, Elf, Vampire, Shapeshifter). No l
 
 A Standard Action representing a physical maneuver (attacks, shoves, grapples, and similar). Costs AP as listed in its description.
 
-### apothecary check
+### healer check
 
-An Opposition Check (or, for Stabilization, a check against a stated difficulty) using a character's Apothecary-related dice pool and bonuses, used to stabilize a dying character or provide medical recovery. See [Apothecary](../Core%20Rules/Skills/Universal/Survival/Apothecary.md).
+An Opposition Check (or, for Stabilization, a check against a stated difficulty) using a character's Healing-related dice pool and bonuses, used to stabilize a dying character or provide medical recovery. See [Healing](../Core%20Rules/Skills/Universal/Survival/Healing.md).
 
 ### melee attack
 
@@ -196,7 +196,7 @@ Armor provided by a creature's own physiology — scales, hide, bone plates, or 
 
 ### nauseated
 
-A condition. A nauseated character cannot Concentrate and takes a −2 penalty on all Opposition Checks. Ends when the source of the condition is removed, an Apothecary check removes it, or the effect expires. See [Conditions](../Core%20Rules/Encounters/Conditions.md).
+A condition. A nauseated character cannot Concentrate and takes a −2 penalty on all Opposition Checks. Ends when the source of the condition is removed, an Healing check removes it, or the effect expires. See [Conditions](../Core%20Rules/Encounters/Conditions.md).
 
 ### node
 
@@ -224,7 +224,7 @@ A condition. A prone character takes a −4 penalty on Opposition Checks made to
 
 ### poisoned
 
-A condition. A Poisoned character is **Hindered** and loses Health at the end of each of their turns at a rate set by the poison's severity (Narrator's judgment). The character may make a Fortitude Opposition Check each round; a success prevents that round's Health loss but does not end the condition. Apothecary VII techniques reduce severity; a Master Healer's Satchel used by a character with Apothecary IX ends the condition entirely. See [Conditions](../Core%20Rules/Encounters/Conditions.md).
+A condition. A Poisoned character is **Hindered** and loses Health at the end of each of their turns at a rate set by the poison's severity tier (Mild: 1/round, Potent: 1d4/round, Lethal: 2d6/round). The character may make a Fortitude check against the poison's difficulty each round; on a success, they lose no Health that round but the condition is not ended. A character with Healing V or higher may treat a Poisoned character by spending 1 AP and consuming one item from a Healer's Bag, halving the Fortitude check difficulty for the remainder of the scene. Antivenom (grade-matched to the poison's severity) ends the condition immediately without a check. See [Poisons](../Core%20Rules/Encounters/Poisons.md) and [Conditions](../Core%20Rules/Encounters/Conditions.md).
 
 ### ranged attack
 
@@ -276,7 +276,7 @@ A casting option that amplifies a spell's effect at greater Health cost. An over
 
 ### stabilization
 
-The act of stopping a **Wounded** or **Dying** character's Bleeding Out and Consciousness Checks. A healer adjacent to the character spends 1 AP and succeeds on an **Apothecary check** against a difficulty equal to **(wounded threshold − current Health)**, with +4 added in combat. Stabilization doesn't restore Health, doesn't remove the Wounded or Dying conditions, and doesn't remove the Unconscious condition — see **Forced Awakening** and [Stabilization](../Core%20Rules/Characters/Stabilization.md).
+The act of stopping a **Wounded** or **Dying** character's Bleeding Out and Consciousness Checks. A healer adjacent to the character spends 1 AP and succeeds on an **Healing check** against a difficulty equal to **(wounded threshold − current Health)**, with +4 added in combat. Stabilization doesn't restore Health, doesn't remove the Wounded or Dying conditions, and doesn't remove the Unconscious condition — see **Forced Awakening** and [Stabilization](../Core%20Rules/Characters/Stabilization.md).
 
 ### stalemate
 
@@ -328,4 +328,4 @@ A condition applied when a character is fully committed to a non-combat activity
 
 ### willpower
 
-An attribute. Provides a flat bonus on magical attack rolls and grants 1 bonus damage die per 3 points of Willpower on spell attacks. Also used to resist social and supernatural effects — domination, charm, compulsion, illusion, fear, and similar mind-affecting spells or abilities. Willpower contributes to Consciousness Checks: a dying character rolls the higher of their Willpower or Fortitude — see **consciousness check**. Willpower also governs **Consciousness Checks** — a dying character rolls their dice pool + Willpower to stay conscious. And Willpower determines whether Concentration is maintained when a concentrating participant takes damage — see **concentration check**.
+An attribute. Provides a flat bonus on magical attack rolls and grants 1 bonus damage die per 3 points of Willpower on spell attacks. Also used to resist social and supernatural effects — domination, charm, compulsion, illusion, fear, and similar mind-affecting spells or abilities. Willpower governs **Consciousness Checks** — a dying character rolls their dice pool + Willpower to stay conscious — see **consciousness check**. Willpower also determines whether Concentration is maintained when a concentrating participant takes damage — see **concentration check**.

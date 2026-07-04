@@ -136,7 +136,7 @@ Going unconscious is not death — it is a story problem.
 
 A conscious character can stabilize an unconscious, bleeding-out ally. Stabilization stops the bleeding and ends Consciousness Checks. It does not restore Health or remove the Unconscious condition — a stabilized character remains unconscious until healed.
 
-A character with Apothecary skills and a Healer's Bag can restore Health: 1d6 + Willpower per charge (10 charges). Without tools, stabilization alone is available.
+A character with Healing skills and a Healer's Bag can restore Health: 1d6 + Willpower per charge (10 charges). Without tools, stabilization alone is available.
 
 [Core Rules reference: Stabilization](Core%20Rules/Characters/Stabilization.md#stabilization)
 

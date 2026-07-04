@@ -11,7 +11,7 @@ Not every action calls for dice. Per Velocity's drama-over-detail principle (A C
 - The action takes place in combat.
 - Rolling would heighten the stakes of the scene, even if the outcome seems likely.
 
-If none of these apply, don't roll. Instead, compare the acting character's **opposition score** — their relevant Attribute plus any flat bonuses granted by applicable skills, with no dice involved — against a **difficulty** the Narrator assigns using the [Opposition Check Difficulty Table](Tables/Opposition%20Check%20Difficulty%20Table.md).
+If none of these apply, don't roll. Instead, compare the acting character's **opposition score** — their relevant Attribute plus any flat bonuses granted by applicable skills, with no dice involved — against a **difficulty** the Narrator assigns using the [Opposition Check Difficulty Table](../Tables/Opposition%20Check%20Difficulty%20Table.md).
 
 - If the opposition score **meets or exceeds** the difficulty, the character automatically succeeds. No roll is made.
 - If the opposition score **falls short**, or the Narrator decides the moment calls for tension after all, resolve the action as a full Opposition Check instead.

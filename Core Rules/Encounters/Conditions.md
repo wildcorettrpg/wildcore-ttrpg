@@ -4,7 +4,7 @@ Conditions are conditions imposed by combat, injury, supernatural effects, or Na
 
 ## Bleeding Out
 
-**Trigger:** A character enters the Wounded condition.
+**Trigger:** Applied by any effect that causes it — entering the Wounded condition, certain weapons or abilities, or Narrator judgment.
 
 **Effect:** The character loses 1 Health per round, at the end of their turn. If this loss causes the character to enter or remain in the Dying condition, it triggers a Consciousness Check.
 
@@ -38,7 +38,7 @@ Conditions are conditions imposed by combat, injury, supernatural effects, or Na
 
 **Trigger:** A character's Health falls to or below their wounded threshold (half their maximum Vitality, rounded up — 13 Health at base Vitality 25).
 
-**Effect:** The character begins Bleeding Out (1 Health lost per round at the end of their turn). The character can still attack, defend, and act without penalty — they are hurt, not impaired. If Health drops further to or below the dying threshold, the character also enters the Dying condition.
+**Effect:** The character gains the Bleeding Out condition. The character can still attack, defend, and act without penalty — they are hurt, not impaired. If Health drops further to or below the dying threshold, the character also enters the Dying condition.
 
 **Ends:** The character recovers Health above their wounded threshold through healing, or the character dies. Stabilization ends Bleeding Out but does not remove the Wounded condition.
 
@@ -48,7 +48,7 @@ Conditions are conditions imposed by combat, injury, supernatural effects, or Na
 
 **Effect:** The character has only 1 AP per round and moves at half their normal movement rate. 
 
-**Ends:** The effect or condition that imposed Hindered ends. Apothecary III can remove Hindered when it results from pain or a pain-based condition.
+**Ends:** The effect or condition that imposed Hindered ends. Healing III can remove Hindered when it results from pain or a pain-based condition.
 
 ## Incapacitated
 
@@ -72,7 +72,7 @@ Conditions are conditions imposed by combat, injury, supernatural effects, or Na
 
 **Effect:** The character is Hindered and loses Health at the end of each of their turns. The rate of Health loss is set by the poison's severity tier (see [Poisons](Poisons.md)): Mild — 1 Health per round; Potent — 1d4 Health per round; Lethal — 2d6 Health per round. Each round, the character may make a Fortitude check against the poison's difficulty (Mild 8, Potent 14, Lethal 20); a success prevents that round's Health loss but does not end the condition.  
 
-**Ends:** Apothecary III can remove the Hindered penalty using improvised analgesics (see the Hindered condition). A Master Healer's Satchel used by a character with Apothecary IX neutralizes the poison entirely, ending the condition. Some lineage abilities or Narrator-determined antidotes may also end the condition.
+**Ends:** Healing III can remove the Hindered penalty using improvised analgesics (see the Hindered condition). Antivenom of the matching severity ends the Poisoned condition immediately. A healer with Healing V or higher can treat the character to halve the Fortitude check difficulty for the remainder of the scene (see [Poisons](Poisons.md) §Notes). Some lineage abilities or Narrator-determined antidotes may also end the condition.
 
 ## Prone
 
@@ -112,7 +112,7 @@ Conditions are conditions imposed by combat, injury, supernatural effects, or Na
 
 **Effect:** The character cannot Concentrate. They take a −2 penalty on all Opposition Checks.
 
-**Ends:** The source of the condition is removed, an Apothecary check removes it, or the effect expires.
+**Ends:** The source of the condition is removed, a Healing check removes it, or the effect expires.
 
 ## Vulnerable
 

@@ -18,7 +18,7 @@ The Kin share the Kith's compact frame and dark skin, but where Kith pour their 
 ## Traits
 
 ### Voracious Mind
-Kin read everything, remember most of it, and ask questions constantly.
+Kin read everything, remember most of it, and ask questions constantly. +4 on Knowledge and Investigation Opposition Checks.
 
 ### Innate Magic
 Kin have a natural affinity for magic that predates any formal training. This affinity grants access to Magic Attack skills and manifests as exceptional aptitude on magical attacks.
@@ -33,6 +33,7 @@ While Wounded (Health at or below their wounded threshold), at the start of each
 
 ## Opposition Check Modifiers
 
++4 on Knowledge and Investigation Opposition Checks (see Voracious Mind).
 +2 on Research Opposition Checks.
 +2 on Social Opposition Checks.
 +2 on Magic Attack Opposition Checks.

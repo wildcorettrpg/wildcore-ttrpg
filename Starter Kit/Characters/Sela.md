@@ -14,7 +14,7 @@
 | Social | 0 |
 | Strength | 0 |
 | Vitality | 25 |
-| Willpower | 2 |
+| Willpower | 3 |
 
 **Health:** 25 | **Wounded threshold:** 13 | **Dying threshold:** 7
 
@@ -27,12 +27,12 @@
 | Magic Attack | I | May cast Level 0 spells |
 | Magic Attack | II | May cast 1st-level spells; +2 to magic attack rolls |
 | Magic Attack | III | May cast 2nd-level spells; +2 to magic damage rolls |
-| Apothecary | I | +1 to Apothecary Opposition Checks |
-| Apothecary | II | +1 to Apothecary Opposition Checks |
-| Apothecary | III | +1 to Apothecary Opposition Checks |
-| Apothecary | IV | +1 to Apothecary Opposition Checks |
-| Apothecary | V | +1 to Apothecary Opposition Checks; unlocks Healer's Bag |
-| Investigation | I | Unlocks Forensics, Research, Supernatural Detection branches; +1 to all Investigation Opposition Checks |
+| Healing | I | +1 to Healing Opposition Checks |
+| Healing | II | +1 to Healing Opposition Checks |
+| Healing | III | +1 to Healing Opposition Checks |
+| Healing | IV | +1 to Healing Opposition Checks |
+| Healing | V | +1 to Healing Opposition Checks; unlocks Healer's Bag |
+| Willpower | I | +1 Willpower |
 | Perception | I | +1 to Perception Opposition Checks |
 
 ---
@@ -60,15 +60,15 @@
 
 **Armor:** None  
 **Weapon:** None  
-**Healer's Bag:** 10 charges. Heals 1d6 + 2 (Willpower) per charge.
+**Healer's Bag:** 10 charges. Heals 1d6 + 3 (Willpower) per charge.
 
 ---
 
 ## Key Rolls
 
-**Magic attack:** 1d10 + 6 (Magic Attack II +2, Willpower +2, Kin OC modifier +2)  
-**Magic damage:** spell damage die + 2 (Magic Attack III)  
-**Apothecary:** 1d10 + 5 (Apothecary I–V); heals 1d6 + 2 per charge  
+**Magic attack:** 1d10 + 7 (Magic Attack II +2, Willpower +3, Kin OC modifier +2)  
+**Magic damage:** 2 spell damage dice + 2 (Magic Attack III flat bonus; Willpower 3 adds +1 bonus damage die)  
+**Healing:** 1d10 + 5 (Healing I–V); applies Healer's Bag items (see Gear.md §Healer's Supplies for item effects)  
 **Research:** 1d10 + 2 (Kin OC modifier)  
 **Perception:** 1d10 + 1 (Perception I +1)  
 **Dodge:** 1d10 + 0
@@ -104,6 +104,6 @@ You're in this tribunal because the wrong person is in chains.
 
 Sela's magic attack total of +6 makes her the party's most dangerous attacker against armored targets — magic bypasses armor entirely. Her Healer's Bag (1d6 + 2 per charge, 10 charges) makes her the party's primary healer in Act 3.
 
-Her Research OC modifier (+2) and Investigation I give her the best chance of anyone in the party to succeed on the research-based investigation checks in Act 2.
+Her Research OC modifier (+2) gives her the best chance of anyone in the party to succeed on the research-based investigation checks in Act 2.
 
-**Kithkin Blood is a genuine danger.** Once she enters the Wounded condition (Health 13 or lower), she rolls 1d10 + 2 against difficulty 20 at the start of each turn — she will almost certainly fail. Note that she starts Bleeding Out the moment she's Wounded, losing 1 Health per round. Plan around it: keep her out of melee, let her cast from range, have someone ready to stabilize her if she goes down. If she enters blood rage she becomes a threat to allies. The player and Narrator should both watch her Health closely.
+**Kithkin Blood is a genuine danger.** Once she enters the Wounded condition (Health 13 or lower), she rolls 1d10 + 3 against difficulty 20 at the start of each turn — she will almost certainly fail. Note that she starts Bleeding Out the moment she's Wounded, losing 1 Health per round. Plan around it: keep her out of melee, let her cast from range, have someone ready to stabilize her if she goes down. If she enters blood rage she becomes a threat to allies. The player and Narrator should both watch her Health closely.

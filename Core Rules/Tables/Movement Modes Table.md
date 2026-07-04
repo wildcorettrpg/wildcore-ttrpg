@@ -4,26 +4,28 @@ A Narrator's quick reference for how AP spent on movement translates to distance
 
 See [Glossary](../../Glossary/Glossary.md) for the definition of **Vulnerable**.
 
-| Mode                 | AP cost | Distance                 | Penalties                                                                      |
-| -------------------- | ------: | ------------------------ | ------------------------------------------------------------------------------ |
-| Walking              |    1 AP | Up to 1× base movement   | None                                                                            |
-| Running              |    2 AP | Up to 1.5× base movement | −1 to attacks; −1 to Dodge                                                    |
-| Sprinting            |    3 AP | Up to 2× base movement   | −2 to attacks; −2 to Dodge; no Reactions                                      |
-| Crawling (careful)   |    1 AP | Up to ¼× base movement   | Prone                                                                           |
-| Crawling (hurried)   |    2 AP | Up to ⅓× base movement   | Prone; −2 Reflex-based Opposition Checks                                        |
-| Crawling (scramble)  |    3 AP | Up to ½× base movement   | Prone; −4 Reflex-based Opposition Checks; attacks against you gain +1 damage die|
-| Climbing (steady)    |    1 AP | Up to ½× base movement   | Vulnerable                                                                      |
-| Climbing (fast)      |    2 AP | Up to ¾× base movement   | Vulnerable; −2 Reflex-based Opposition Checks; may require checks               |
-| Climbing (rush)      |    3 AP | Up to 1× base movement   | Vulnerable; −4 Reflex-based Opposition Checks; automatic check on difficult surfaces|
-| Wading (careful)     |    1 AP | Up to ½× base movement   | None                                                                            |
-| Wading (push)        |    2 AP | Up to ¾× base movement   | −2 Reflex-based Opposition Checks                                               |
-| Wading (force)       |    3 AP | Up to 1× base movement   | −4 Reflex-based Opposition Checks                                               |
-| Swimming (steady)    |    1 AP | Up to ¼× base movement   | Vulnerable                                                                      |
-| Swimming (hard)      |    2 AP | Up to ⅓× base movement   | Vulnerable; −2 Reflex-based Opposition Checks                                   |
-| Swimming (desperate) |    3 AP | Up to ½× base movement   | Vulnerable; −4 Reflex-based Opposition Checks; automatic check in rough water   |
-| Flying (steady)      |    1 AP | Up to 1× base movement   | Vulnerable                                                                      |
-| Flying (fast)        |    2 AP | Up to 2× base movement   | Vulnerable; −2 to Dodge                                                         |
-| Flying (dash)        |    3 AP | Up to 3× base movement   | Vulnerable; −4 to Dodge                                                         |
+Each AP spent on a movement mode grants one full increment of that mode's distance unit. The unit varies by mode — Walking's unit is full base movement; Crawling's unit is ¼ base movement; Climbing and Wading's unit is ½ base movement; Flying's unit is full base movement.
+
+| Mode                 | AP cost | Distance              | At base 30 ft | Penalties                                                                        |
+| -------------------- | ------: | --------------------- | ------------: | -------------------------------------------------------------------------------- |
+| Walking              |    1 AP | 1× base movement      |         30 ft | None                                                                             |
+| Running              |    2 AP | 2× base movement      |         60 ft | −1 to attacks; −1 to Dodge                                                      |
+| Sprinting            |    3 AP | 3× base movement      |         90 ft | −2 to attacks; −2 to Dodge; no Reactions                                        |
+| Crawling (careful)   |    1 AP | ¼× base movement      |          5 ft | Prone                                                                            |
+| Crawling (hurried)   |    2 AP | ½× base movement      |         15 ft | Prone; −2 Reflex-based Opposition Checks                                         |
+| Crawling (scramble)  |    3 AP | ¾× base movement      |         20 ft | Prone; −4 Reflex-based Opposition Checks; attacks against you gain +1 damage die |
+| Climbing (steady)    |    1 AP | ½× base movement      |         15 ft | Vulnerable                                                                       |
+| Climbing (fast)      |    2 AP | 1× base movement      |         30 ft | Vulnerable; −2 Reflex-based Opposition Checks; may require checks                |
+| Climbing (rush)      |    3 AP | 1½× base movement     |         45 ft | Vulnerable; −4 Reflex-based Opposition Checks; automatic check on difficult surfaces |
+| Wading (careful)     |    1 AP | ½× base movement      |         15 ft | None                                                                             |
+| Wading (push)        |    2 AP | 1× base movement      |         30 ft | −2 Reflex-based Opposition Checks                                                |
+| Wading (force)       |    3 AP | 1½× base movement     |         45 ft | −4 Reflex-based Opposition Checks                                                |
+| Swimming (steady)    |    1 AP | ¼× base movement      |          5 ft | Vulnerable                                                                       |
+| Swimming (hard)      |    2 AP | ½× base movement      |         15 ft | Vulnerable; −2 Reflex-based Opposition Checks                                    |
+| Swimming (desperate) |    3 AP | ¾× base movement      |         20 ft | Vulnerable; −4 Reflex-based Opposition Checks; automatic check in rough water    |
+| Flying (steady)      |    1 AP | 1× base movement      |         30 ft | Vulnerable                                                                       |
+| Flying (fast)        |    2 AP | 2× base movement      |         60 ft | Vulnerable; −2 to Dodge                                                          |
+| Flying (dash)        |    3 AP | 3× base movement      |         90 ft | Vulnerable; −4 to Dodge                                                          |
 
 **Notes**
 

@@ -8,13 +8,13 @@ Elves are tall, graceful, and noble in bearing — and profoundly, quietly sad. 
 ## Traits
 
 ### Arcane Echo
-Though their innate magic is gone, elves retain a faint resonance with magical forces. This makes them naturally attuned to both casting and resisting magic, even without formal training.
+Though their innate magic is gone, elves retain a faint resonance with magical forces. This makes them naturally attuned to both casting and resisting magic, even without formal training. Arcane Echo grants access to Magic Attack skills.
 
 ### Immortal Vitality
 Elves' ageless bodies carry extraordinary reserves. +20 Vitality.
 
 ### Intimidating Presence
-Elves carry themselves with the cold authority of someone who has outlived entire civilizations. Their bearing alone gives pause. In confrontation, they are formidable.
+Elves carry themselves with the cold authority of someone who has outlived entire civilizations. Their bearing alone gives pause. In confrontation, they are formidable. +4 to Intimidation Opposition Checks.
 
 ## Flaws
 

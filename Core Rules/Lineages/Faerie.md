@@ -19,7 +19,7 @@ This makes Faerie testimony legally and culturally unimpeachable throughout Anar
 Faeries can sense the truthfulness of any statement made within 10 ft. of them. This ability detects sincerity, not objective fact — if the speaker genuinely believes what they are saying, it registers as true regardless of whether it is. A deliberate lie registers immediately.
 
 ### Ethereal Form
-Once per day, a Faerie must assume their true form: a purely ethereal state with no physical body. They may move freely in this form, but cannot physically interact with the world. Normal weapons cannot pierce or harm them while ethereal; magical weapons, spells, and mind-affecting abilities such as charm and compulsion can. While ethereal, a Faerie heals at twice the normal rate. The Faerie must remain in Ethereal Form for four consecutive hours. A Faerie who does not assume Ethereal Form suffers −4 on all Opposition Checks the following day.
+Once per day, a Faerie must assume their true form: a purely ethereal state with no physical body. They may move freely in this form, but cannot physically interact with the world. Normal weapons cannot pierce or harm them while ethereal; magical weapons, spells, and mind-affecting abilities such as charm and compulsion can. While ethereal, a Faerie recovers 2 Health per hour of rest instead of 1, and doubles Health restored by potions and Healing skills. The Faerie must remain in Ethereal Form for four consecutive hours. A Faerie who does not assume Ethereal Form suffers −4 on all Opposition Checks the following day.
 
 ## Flaws
 
