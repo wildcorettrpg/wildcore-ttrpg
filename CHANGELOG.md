@@ -4,6 +4,19 @@ Notable changes to Velocity — rules, content, and the website — recorded her
 
 This is the public-facing summary. It doesn't need session-by-session design rationale (why a decision was made, alternatives considered) — just what changed, in plain terms a player, Narrator, or site visitor would care about.
 
+## 2026-07-03
+
+**Rules**
+- **Shapeshifter** now has a full Animal Forms section: 15 forms (Bat through Wolf), each with its own size, movement, and natural weapon damage. Natural weapon damage follows the same one-tier-above-5e-SRD scale as standard weapons. Multi-Strike can use any natural weapons the form has — player's call per activation.
+- **Kith Improvised Combatant** rewritten: Kith apply all purchased Melee Attack or Ranged Attack skills to improvised weapons, removing the reference to undefined weapon categories.
+- **Kin Voracious Mind** now has a mechanical effect: +4 on Knowledge and Investigation Opposition Checks.
+- **Faerie Ethereal Form** healing rate clarified: 2 Health per hour of rest (instead of 1); doubles Health restored by potions and Healing skills.
+- **Elf Arcane Echo** now explicitly grants access to Magic Attack skills.
+- **Movement Modes Table** corrected to match the Glossary's movement model: Running is now 2× base movement (was 1.5×) and Sprinting 3× (was 2×). Crawling and Swimming normalized to constant ¼× increments. A pre-calculated "at base 30 ft" column added to eliminate multiplication at the table.
+- Various Glossary corrections: the Willpower entry no longer references the retired "higher of Willpower or Fortitude" rule for Consciousness Checks; the Incapacitated entry no longer incorrectly lists Dying as a cause; the Poisoned entry now correctly reflects the rules in Poisons.md.
+- Recovery clarified: the restriction on recovering Health while Dying applies to rest only — it does not block Heroic Measures or other explicit healing.
+- Stabilization clarified: stabilization ends Bleeding Out only. If a character was Incapacitated before being stabilized, that condition remains; stabilization does not remove it.
+
 ## 2026-07-02
 
 **Website**
