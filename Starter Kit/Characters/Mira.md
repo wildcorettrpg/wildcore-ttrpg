@@ -56,7 +56,7 @@
 
 +2 on History and Lore Opposition Checks.  
 +2 on Cosmology Opposition Checks.  
-+2 on Magic Attack and magical defense Opposition Checks.  
++2 on Spellcasting and magical defense Opposition Checks.  
 +4 on Intimidation Opposition Checks.
 
 ---

@@ -2,82 +2,44 @@
 
 ## Damage Basics
 
-1. When an attack or supernatural effect hits, the attacker rolls damage.
-2. Damage reduces the target's Health after armor mitigation is applied.
-3. Damage cannot reduce a character's Health below 0.
+When an attack or supernatural effect hits, the attacker rolls damage. Damage reduces the target's Health after armor mitigation is applied. Damage cannot reduce a character's Health below 0.
 
 ## Base Damage
 
-1. Every weapon has a base damage die defined by its category in [Weapons](../Equipment/Weapons.md).
-2. Every spell has a base damage value defined in its description.
-3. Base damage is expressed as a die or fixed value (e.g., 1d6, 2d6).
-4. Base damage reflects the nature of the weapon or spell, not the attacker's attributes.
+Every weapon has a base damage die defined by its category in [Weapons](../Equipment/Weapons.md). Every spell has a base damage value defined in its description. Base damage is expressed as a die or fixed value (e.g., 1d6, 2d6) and reflects the nature of the weapon or spell, not the attacker's attributes.
 
 ## Attribute Damage Bonus
 
-1. A character's relevant attribute increases their damage beyond the base value.
-2. The relevant attribute is:
-    1. **Strength** for melee attacks.
-    2. **Strength** for ranged attacks.
-    3. **Willpower** for spell attacks.
-3. A character gains 1 bonus damage die for every 3 points in the relevant attribute.
-4. Bonus damage dice use the same die as the weapon or spell's base damage.
-5. If the relevant attribute does not meet the threshold for a bonus die, no bonus die is added.
-6. Only one attribute damage bonus applies to any single attack.
+A character's relevant attribute increases their damage beyond the base value. The relevant attribute is **Strength** for melee attacks, **Strength** for ranged attacks, and **Willpower** for spell attacks. A character gains **1 bonus damage die for every 3 points** in the relevant attribute. Bonus damage dice use the same die as the weapon or spell's base damage. If the relevant attribute does not meet the threshold for a bonus die, no bonus die is added. Only one attribute damage bonus applies to any single attack.
 
 ## Skill Damage Bonuses
 
-1. Certain skills may grant additional damage dice or flat damage bonuses.
-2. Skill-based damage bonuses are defined in the skill's description.
-3. Skill damage bonuses stack with attribute damage bonuses unless a rule states otherwise.
+Certain skills may grant additional damage dice or flat damage bonuses, as defined in each skill's description. Skill damage bonuses stack with attribute damage bonuses unless a rule states otherwise.
 
 ## Damage Application
 
-1. After rolling all damage dice, total the result.
-2. Apply armor mitigation to the total, if applicable — see §Armor Mitigation below.
-3. Apply any remaining damage to the target's Health.
-4. If total damage after mitigation is 0 or less, the target takes no damage.
+After rolling all damage dice, total the result. Apply armor mitigation to the total, if applicable — see [Armor Mitigation](#armor-mitigation) below. Apply any remaining damage to the target's Health. If total damage after mitigation is 0 or less, the target takes no damage.
 
 ## Damage and Conditions
 
-1. Some attacks inflict conditions in addition to damage.
-2. Conditions are applied after damage is resolved unless the attack specifies otherwise.
-3. A condition is applied regardless of whether the attack deals damage, unless the condition's source specifies it requires damage to trigger.
+Some attacks inflict conditions in addition to damage. Conditions are applied after damage is resolved unless the attack specifies otherwise. A condition is applied regardless of whether the attack deals damage, unless the condition's source specifies it requires damage to trigger.
 
 ## Armor Mitigation
 
-1. Armor provides flat damage mitigation applied to every hit unless a rule states otherwise.
-2. Armor does not modify hit chance — it only reduces damage after a hit lands.
-3. Mitigation sources stack unless a rule specifies a cap or exception. Sources include:
-    1. Worn armor
-    2. Natural armor
-    3. Temporary effects
-    4. Abilities or traits
+Armor provides flat damage mitigation applied to every hit unless a rule states otherwise. Armor does not modify hit chance — it only reduces damage after a hit lands. Mitigation sources stack unless a rule specifies a cap or exception. Sources include worn armor, natural armor, temporary effects, and abilities or traits.
 
 ## What Armor Protects Against
 
-Armor mitigates physical damage only.
+The default is that armor mitigates. It does not mitigate when a rule explicitly says otherwise.
 
-**Mitigated:**
+**Mitigated:** mundane weapons (slashing, piercing, and bludgeoning damage from non-magical weapons); natural attacks (claws, teeth, unarmed strikes, and similar physical attacks from any creature); and elemental spell damage — fire, cold, lightning, acid, and similar effects that produce a real physical phenomenon. Armor reduces how much of that heat, cold, or current reaches the body beneath.
 
-1. Mundane weapons — slashing, piercing, and bludgeoning damage from non-magical weapons.
-2. Natural attacks — claws, teeth, unarmed strikes, and similar physical attacks from any creature.
-
-**Not mitigated:**
-
-1. Magic weapons — weapons with magical properties or enhancements bypass armor entirely, regardless of damage type.
-2. Spells — all magical effects bypass armor.
-3. Magical creature abilities — breath weapons, supernatural attacks, and similar abilities bypass armor.
-4. Environmental hazards — toxic atmosphere, extreme temperatures, poison, and similar threats bypass armor.
+**Not mitigated:** magic weapons bypass armor entirely regardless of damage type; purely magical effects — force, conjured weapons, and effects that are supernatural rather than physical — bypass armor; magical creature abilities that are explicitly supernatural (not breath weapons, which are elemental) bypass armor; environmental hazards including toxic atmosphere, extreme temperatures, and poison bypass armor. A spell indicates **(unmitigated)** in its Damage line when armor does not apply.
 
 ## Natural Armor
 
-1. Natural armor functions identically to worn armor — it applies flat mitigation to every hit.
-2. Natural armor is always active unless suppressed by a specific effect.
-3. Large or resilient creatures may have high natural armor values.
+Natural armor functions identically to worn armor — it applies flat mitigation to every hit and is always active unless suppressed by a specific effect. Large or resilient creatures may have high natural armor values.
 
 ## Armor and Health
 
-1. Armor reduces incoming damage before Health is lost.
-2. High armor reduces the need for high Health pools.
-3. Health represents biological endurance, not avoidance.
+Armor reduces incoming damage before Health is lost. High armor reduces the need for high Health pools. Health represents biological endurance, not avoidance.

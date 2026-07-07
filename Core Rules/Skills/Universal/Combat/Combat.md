@@ -16,7 +16,7 @@ Combat covers all forms of direct physical and supernatural conflict. It represe
 
 1. [Melee Attack](Melee Attack.md)
 2. [Ranged Attack](Ranged Attack.md)
-3. [Magic Attack](Magic Attack.md)
+3. [Spellcasting](Spellcasting.md)
 4. [Defense](Defense.md)
 5. [Movement](Movement.md)
 6. [Light Armor](Light Armor.md)

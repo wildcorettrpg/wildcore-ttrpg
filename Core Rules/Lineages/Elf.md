@@ -15,7 +15,7 @@ Their culture turned inward long ago; elven lands are closed to outsiders, and e
 ## Traits
 
 ### Arcane Echo
-Though their innate magic is gone, elves retain a faint resonance with magical forces. This makes them naturally attuned to both casting and resisting magic, even without formal training. Arcane Echo grants access to Magic Attack skills. Elves have Magic Attack I unlocked for free.
+Though their innate magic is gone, elves retain a faint resonance with magical forces. This makes them naturally attuned to both casting and resisting magic, even without formal training. Arcane Echo grants access to Spellcasting skills. Elves have Spellcasting I unlocked for free.
 
 ### Immortal Vitality
 Elves' ageless bodies carry extraordinary reserves. +20 Vitality.

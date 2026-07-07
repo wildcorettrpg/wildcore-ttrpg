@@ -8,7 +8,7 @@ A discrete activity a participant performs during their turn. Most actions cost 
 
 ### action point (AP)
 
-The resource that pays for actions, movement, and Concentration upkeep during an encounter. Each participant receives 3 AP at the start of their turn. Skills in the Melee Attack, Ranged Attack, and Magic Attack trees can increase this to a maximum of 5 AP. Unspent AP do not carry over to the next turn.
+The resource that pays for actions, movement, and Concentration upkeep during an encounter. Each participant receives 3 AP at the start of their turn. Skills in the Melee Attack, Ranged Attack, and Spellcasting trees can increase this to a maximum of 5 AP. Unspent AP do not carry over to the next turn.
 
 ### armor
 
@@ -20,7 +20,7 @@ A single action taken by a participant to harm a target, resolved as an Oppositi
 
 ### attribute
 
-One of the six core measures of a character's physical, mental, and social capability: Fortitude, Reflex, Social, Strength, Vitality, and Willpower. All attributes begin at 0. Characters assign 2 attribute points at character creation (no attribute may exceed 3 at creation, for any lineage). Lineage never modifies core attributes — see **Lineage**.
+One of the six core measures of a character's physical, mental, and social capability: Fortitude, Reflex, Social, Strength, Vitality, and Willpower. All attributes begin at 0. Characters assign 2 attribute points at character creation across five assignable attributes (Fortitude, Reflex, Social, Strength, Willpower); no attribute may exceed 3 at creation, for any lineage. Vitality is not creation-assignable. A lineage may apply attribute bonuses or penalties at creation — see **lineage**.
 
 ### base damage
 
@@ -54,13 +54,17 @@ A check made when a concentrating participant takes damage, to determine whether
 
 A check made by a non-unconscious character when they enter the **Dying** condition, take damage while Dying, or lose Health from **bleeding out** while Dying. The character rolls their dice pool + Willpower; if the result meets or exceeds the damage value that triggered the check, they remain conscious. If the result is lower, they fall unconscious.
 
+### damage
+
+The reduction in a target's Health following a successful attack or harmful effect. Damage = base damage (from the weapon or spell) + attribute damage bonus (1 bonus die per 3 points of Strength for physical attacks, or Willpower for spell attacks — only one attribute bonus applies per attack) + any skill-based damage bonuses. Armor mitigation is applied to the total before it reduces Health.
+
 ### dead / death
 
 A condition. A character dies instantly when their Health reaches 0, or if they suffer **Catastrophic Destruction**. A dead character cannot act, cannot regain Health except through revival, and cannot be stabilized or forcibly awakened. See [Death](../Core%20Rules/Characters/Death.md) for revival rules.
 
-### damage
+### deaf
 
-The reduction in a target's Health following a successful attack or harmful effect. Damage = base damage (from the weapon or spell) + attribute damage bonus (1 bonus die per 3 points of Strength for physical attacks, or Willpower for spell attacks — only one attribute bonus applies per attack) + any skill-based damage bonuses. Armor mitigation is applied to the total before it reduces Health.
+A condition. A Deaf character cannot hear. All hearing-based Perception and Investigation checks fail automatically. The character cannot understand verbal communication. Social skills requiring spoken exchange (Persuasion, Intimidation, Negotiation) require written or gestural alternatives; the Narrator determines whether this is feasible in context. See [Conditions](../Core%20Rules/Encounters/Conditions.md).
 
 ### dice pool
 
@@ -78,10 +82,6 @@ A static number the Narrator assigns to a check, used in place of an opposed rol
 
 A defensive option against an attack. The defender rolls clear, twists, or steps out of the path of the attack, rolling their dice pool from Dodge-granting skills + Reflex. Always available. When the defender has no open space to step into (cornered, completely surrounded, restrained, or within 5 feet of the attacker with no open ground), Dodge takes a −2 penalty. A prone defender may still Dodge but takes the −4 Prone penalty. Parry and Block cannot deflect magic; Dodge is the only physical defense available against physical and elemental spells. See [Attack Resolution](../Core%20Rules/Encounters/Actions.md#attack-resolution).
 
-### deaf
-
-A condition. A Deaf character cannot hear. All hearing-based Perception and Investigation checks fail automatically. The character cannot understand verbal communication. Social skills requiring spoken exchange (Persuasion, Intimidation, Negotiation) require written or gestural alternatives; the Narrator determines whether this is feasible in context. See [Conditions](../Core%20Rules/Encounters/Conditions.md).
-
 ### dying
 
 A condition. A character enters the Dying condition when their Health is at or below their **dying threshold** (one quarter of maximum Vitality, rounded up). Dying characters suffer −2 on all Opposition Checks and have their movement speed reduced by 5 ft — they can still attack, defend, and act, but at reduced effectiveness. A Dying character is also **Wounded** (and therefore **bleeding out**, if not stabilized). Dying characters must make **Consciousness Checks** when they enter the Dying condition, take damage, or lose Health from bleeding out. If a dying character fails a Consciousness Check, they become **unconscious**, whose stricter restrictions then control. The Dying condition ends when the character's Health is restored above the dying threshold, or when they die. Stabilization ends bleeding out and Consciousness Checks but does not remove the Dying condition. See [Dying](../Core%20Rules/Characters/Dying.md).
@@ -90,21 +90,9 @@ A condition. A character enters the Dying condition when their Health is at or b
 
 A value equal to one quarter of a character's maximum Vitality, rounded up. When Health is reduced to this value or lower, the character enters the **dying** condition. See also **wounded threshold**.
 
-### wounded
-
-A condition. A character enters the Wounded condition when their Health is at or below their **wounded threshold** (half their maximum Vitality, rounded up). Wounded characters begin **bleeding out** — 1 Health lost per round at the end of their turn — but can still attack, defend, and act without penalty. If Health drops further to or below the **dying threshold**, the character also enters the **dying** condition. The Wounded condition ends when Health is restored above the wounded threshold. Stabilization ends bleeding out but does not remove the Wounded condition. See [Dying](../Core%20Rules/Characters/Dying.md).
-
-### wounded threshold
-
-A value equal to half a character's maximum Vitality, rounded up. When Health is reduced to this value or lower, the character enters the **wounded** condition and begins **bleeding out**. See the [Health Thresholds by Vitality Table](../Core%20Rules/Tables/Health%20Thresholds%20by%20Vitality%20Table.md) for values at each Vitality total.
-
 ### effective level (EL)
 
 A numerical measure of total character capability, equal to a character's total spent Skill Points (unspent Skill Points don't count). Used for character creation, NPC/enemy creation, and as the basis for **Group Effective Level**. Monsters ported from d20 bestiaries convert Challenge Rating directly to a Skill Point budget — see [Porting d20 Monsters](../Narrator%27s%20Guide/Porting%20d20%20Monsters.md).
-
-### surprise
-
-A narrative determination (not a roll) that a side has caught the other completely unaware. The Narrator may rule that the surprising side acts first for the encounter and, if severe enough, that the surprised side cannot act during the first round at all. See [Surprise](../Core%20Rules/Encounters/Turn%20Order.md#surprise).
 
 ### encounter
 
@@ -142,6 +130,10 @@ A condition. A frightened character cannot willingly move toward the source of t
 
 The combined capability of a group of characters or enemies, derived from the group's **base effective level** (the average EL of its members, rounded up) and the group's size, via the [Party Effective Level Calculation table](../Core%20Rules/Tables/Party%20Effective%20Level%20Calculation.md).
 
+### healer check
+
+An Opposition Check (or, for Stabilization, a check against a stated difficulty) using a character's Healing-related dice pool and bonuses, used to stabilize a dying character or provide medical recovery. See [Healing](../Core%20Rules/Skills/Universal/Survival/Healing.md).
+
 ### health
 
 A tracked value representing a character's current physical condition, ranging from 0 to their Vitality-set maximum. All characters begin with Health equal to their Vitality (25 at base). Health is reduced by damage (after armor mitigation) and restored by healing or recovery. A character dies when Health reaches 0.
@@ -169,10 +161,6 @@ A character's ancestry or origin (e.g., Human, Elf, Vampire, Shapeshifter). A li
 ### martial action
 
 A Standard Action representing a physical maneuver (attacks, shoves, grapples, and similar). Costs AP as listed in its description.
-
-### healer check
-
-An Opposition Check (or, for Stabilization, a check against a stated difficulty) using a character's Healing-related dice pool and bonuses, used to stabilize a dying character or provide medical recovery. See [Healing](../Core%20Rules/Skills/Universal/Survival/Healing.md).
 
 ### melee attack
 
@@ -218,13 +206,13 @@ A character's relevant Attribute plus any flat bonuses granted by applicable ski
 
 A defensive option against a melee attack. The defender rolls their dice pool from Parry-granting skills + Reflex as an Opposition Check against the attacker.
 
-### prone
-
-A condition. A prone character takes a −4 penalty on Opposition Checks made to Dodge, Parry, or Block. Dodge remains available — rolling clear of an attack is possible from the ground. The Narrator may rule a specific defense unavailable when the situation makes it physically impossible (pinned, boxed in, no room to move). A prone character may crawl or stand (standing from prone is a Free Action).
-
 ### poisoned
 
 A condition. A Poisoned character is **Hindered** and loses Health at the end of each of their turns at a rate set by the poison's severity tier (Mild: 1/round, Potent: 1d4/round, Lethal: 2d6/round). The character may make a Fortitude check against the poison's difficulty each round; on a success, they lose no Health that round but the condition is not ended. A character with Healing V or higher may treat a Poisoned character by spending 1 AP and consuming one item from a Healer's Bag, halving the Fortitude check difficulty for the remainder of the scene. Antivenom (grade-matched to the poison's severity) ends the condition immediately without a check. See [Poisons](../Core%20Rules/Encounters/Poisons.md) and [Conditions](../Core%20Rules/Encounters/Conditions.md).
+
+### prone
+
+A condition. A prone character takes a −4 penalty on Opposition Checks made to Dodge, Parry, or Block. Dodge remains available — rolling clear of an attack is possible from the ground. The Narrator may rule a specific defense unavailable when the situation makes it physically impossible (pinned, boxed in, no room to move). A prone character may crawl or stand (standing from prone is a Free Action).
 
 ### ranged attack
 
@@ -272,7 +260,7 @@ An attribute. Determines a character's capacity for social influence — persuas
 
 ### spell overcharging
 
-A casting option that amplifies a spell's effect at greater Health cost. An overcharged spell costs 1.5× the spell's level in Health (rounded up, minimum 1) instead of the normal cost. All numerical aspects of the spell — range, number of targets, duration, radius, damage — are doubled. Overcharging a Level 1+ spell subtracts twice its level from the Predation Difficulty instead of once. Overcharging a Level 0 spell does not affect the Predation Difficulty. See [Spell Overcharging](../Core%20Rules/Skills/Universal/Combat/Magic%20Attack.md#spell-overcharging).
+A casting option that amplifies a spell's effect at greater Health cost. An overcharged spell costs 1.5× the spell's level in Health (rounded up, minimum 1) instead of the normal cost. All numerical aspects of the spell — range, number of targets, duration, radius, damage — are doubled. Overcharging a Level 1+ spell subtracts its overcharged Health cost from the Predation Difficulty instead of the spell's normal level. Overcharging a Level 0 spell does not affect the Predation Difficulty. See [Spell Overcharging](../Core%20Rules/Skills/Universal/Combat/Magic%20Attack.md#spell-overcharging).
 
 ### stabilization
 
@@ -302,6 +290,10 @@ A condition. A stunned character cannot take actions or Reactions for the durati
 
 A Standard Action representing the use of a supernatural ability (spells, lineage powers, and similar). Costs AP as listed in its description.
 
+### surprise
+
+A narrative determination (not a roll) that a side has caught the other completely unaware. The Narrator may rule that the surprising side acts first for the encounter and, if severe enough, that the surprised side cannot act during the first round at all. See [Surprise](../Core%20Rules/Encounters/Turn%20Order.md#surprise).
+
 ### turn
 
 A participant's opportunity to act during a round. At the start of their turn, a participant's AP refreshes to 3 (or up to 5, if they have AP bonuses from skills), and any Concentration AP upkeep is paid before other AP is spent. A turn ends when all AP are spent or the participant voluntarily ends it; unspent AP are lost.
@@ -316,7 +308,7 @@ A melee attack made without a weapon. Unarmed attacks have no base damage die; d
 
 ### unconscious
 
-A condition. An unconscious character cannot act, cannot take Reactions, and is **Incapacitated**. An unconscious dying character no longer makes Consciousness Checks but continues to bleed out. An unconscious stabilized character remains unconscious until a healer removes the condition (or, for Forced Awakening, until the listed effects end).
+A condition. An unconscious character cannot act, cannot take Reactions, and is **Incapacitated**. The character is also **Prone** and cannot move at all — these restrictions are stricter than Incapacitated's and override it for movement purposes. An unconscious dying character no longer makes Consciousness Checks but continues to bleed out. An unconscious stabilized character remains unconscious until a healer removes the condition (or, for Forced Awakening, until the listed effects end).
 
 ### vitality
 
@@ -329,3 +321,11 @@ A condition applied when a character is fully committed to a non-combat activity
 ### willpower
 
 An attribute. Provides a flat bonus on magical attack rolls and grants 1 bonus damage die per 3 points of Willpower on spell attacks. Also used to resist social and supernatural effects — domination, charm, compulsion, illusion, fear, and similar mind-affecting spells or abilities. Willpower governs **Consciousness Checks** — a dying character rolls their dice pool + Willpower to stay conscious — see **consciousness check**. Willpower also determines whether Concentration is maintained when a concentrating participant takes damage — see **concentration check**.
+
+### wounded
+
+A condition. A character enters the Wounded condition when their Health is at or below their **wounded threshold** (half their maximum Vitality, rounded up). Wounded characters begin **bleeding out** — 1 Health lost per round at the end of their turn — but can still attack, defend, and act without penalty. If Health drops further to or below the **dying threshold**, the character also enters the **dying** condition. The Wounded condition ends when Health is restored above the wounded threshold. Stabilization ends bleeding out but does not remove the Wounded condition. See [Dying](../Core%20Rules/Characters/Dying.md).
+
+### wounded threshold
+
+A value equal to half a character's maximum Vitality, rounded up. When Health is reduced to this value or lower, the character enters the **wounded** condition and begins **bleeding out**. See the [Health Thresholds by Vitality Table](../Core%20Rules/Tables/Health%20Thresholds%20by%20Vitality%20Table.md) for values at each Vitality total.

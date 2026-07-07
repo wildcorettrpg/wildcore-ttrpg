@@ -24,9 +24,9 @@
 
 | Skill | Tier | Effect |
 |-------|------|--------|
-| Magic Attack | I | May cast Level 0 spells |
-| Magic Attack | II | May cast 1st-level spells; +2 to magic attack rolls |
-| Magic Attack | III | May cast 2nd-level spells; +2 to magic damage rolls |
+| Spellcasting | I | May cast Level 0 spells |
+| Spellcasting | II | May cast 1st-level spells; +2 to magic attack rolls |
+| Spellcasting | III | May cast 2nd-level spells; +2 to magic damage rolls |
 | Healing | I | +1 to Healing Opposition Checks |
 | Healing | II | +1 to Healing Opposition Checks |
 | Healing | III | +1 to Healing Opposition Checks |
@@ -39,7 +39,7 @@
 
 ## Traits
 
-**Innate Magic** — Natural affinity for magic; grants access to Magic Attack skills.  
+**Innate Magic** — Natural affinity for magic; grants access to Spellcasting skills.  
 **Voracious Mind** — Reads everything, remembers most of it. Insatiably curious.
 
 ## Flaws
@@ -52,7 +52,7 @@
 
 +2 on Research Opposition Checks.  
 +2 on Social Opposition Checks.  
-+2 on Magic Attack Opposition Checks.
++2 on Spellcasting Opposition Checks.
 
 ---
 
@@ -66,8 +66,8 @@
 
 ## Key Rolls
 
-**Magic attack:** 1d10 + 7 (Magic Attack II +2, Willpower +3, Kin OC modifier +2)  
-**Magic damage:** 2 spell damage dice + 2 (Magic Attack III flat bonus; Willpower 3 adds +1 bonus damage die)  
+**Magic attack:** 1d10 + 7 (Spellcasting II +2, Willpower +3, Kin OC modifier +2)  
+**Magic damage:** 2 spell damage dice + 2 (Spellcasting III flat bonus; Willpower 3 adds +1 bonus damage die)  
 **Healing:** 1d10 + 5 (Healing I–V); applies Healer's Bag items (see Gear.md §Healer's Supplies for item effects)  
 **Research:** 1d10 + 2 (Kin OC modifier)  
 **Perception:** 1d10 + 1 (Perception I +1)  

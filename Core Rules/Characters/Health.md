@@ -1,34 +1,25 @@
 # Health
 
-## Vitality System
+## Vitality and Health
 
-1. Vitality represents a character’s maximum Health.
-2. A character’s Vitality begins at 25 and increases only through skills or abilities.
-3. Vitality does not decrease during play unless a rule explicitly reduces it.
-4. Vitality may be increased only through attributes, skills, or abilities.
+**Vitality** represents a character's maximum Health. It begins at **25** for every character and increases only through skills or abilities — never through attribute assignment at creation. Vitality does not decrease during play unless a rule explicitly reduces it.
 
-## Health System
-
-1. Health represents a character’s current physical condition.
-2. Health is reduced by damage and increased by healing.
-3. Health cannot exceed Vitality.
-4. Health cannot be reduced below 0.
+**Health** represents a character's current physical condition. It is reduced by damage and increased by healing. Health cannot exceed Vitality and cannot be reduced below 0.
 
 ## Starting Values
 
-1. All characters begin with 25 Vitality.
-2. All characters begin with Health equal to their Vitality.
+All characters begin play with **25 Vitality** and Health equal to their Vitality — so every new character starts at full Health.
 
 ## Health Changes
 
-1. When a character takes damage, reduce their Health by the damage amount after mitigation.
-2. When a character receives healing, increase their Health by the amount healed.
-3. Health changes immediately when damage or healing is applied.
+When a character takes damage, reduce their Health by the damage amount after mitigation is applied. When a character receives healing, increase their Health by the amount healed. Health changes are applied immediately.
 
 ## Health Thresholds
 
-1. Thresholds are checked immediately when Health is reduced; a character enters the appropriate state as soon as their Health meets or falls below a threshold.
-2. A character dies instantly when their Health reaches 0 — see [Death](Death.md).
-3. **Wounded threshold:** half of maximum Vitality, rounded up. A character at or below this value enters the Wounded condition and begins Bleeding Out.
-4. **Dying threshold:** one quarter of maximum Vitality, rounded up. A character at or below this value enters the Dying condition: −2 on all Opposition Checks, movement reduced by 5 ft, Consciousness Checks when they enter the Dying condition, take damage, or lose Health from Bleeding Out.
-5. For full rules on both conditions, Consciousness Checks, and Bleeding Out, see [Dying](Dying.md). For threshold values at each Vitality total, see [Health Thresholds by Vitality Table](../Tables/Health%20Thresholds%20by%20Vitality%20Table.md).
+Thresholds are checked the moment Health is reduced. A character enters the appropriate condition as soon as their Health meets or falls below a threshold.
+
+**Wounded threshold:** half of maximum Vitality, rounded up. A character at or below this value enters the Wounded condition and begins Bleeding Out.
+
+**Dying threshold:** one quarter of maximum Vitality, rounded up. A character at or below this value enters the Dying condition — **−2** on all Opposition Checks, movement reduced by **5 ft** per AP, and Consciousness Checks when they enter the Dying condition, take damage, or lose Health from Bleeding Out.
+
+A character whose Health reaches **0** dies instantly — see [Death](Death.md). For full rules on both conditions, Consciousness Checks, and Bleeding Out, see [Dying](Dying.md). For threshold values at each Vitality total, see [Health Thresholds by Vitality Table](../Tables/Health%20Thresholds%20by%20Vitality%20Table.md).

@@ -1,43 +1,15 @@
 # Modifiers
 
-## Modifier system
+## Modifier System
 
-1. Modifiers represent bonuses or penalties that apply to attacks, opposition checks, and damage.
-2. Modifiers don’t exist at character creation unless granted by lineage or by skills selected at character creation.
-3. Modifiers are gained through lineages, skills, abilities, or temporary effects.
-4. Modifiers stack unless a rule explicitly states otherwise.
-5. A modifier applies automatically when its conditions are met.
+Modifiers are bonuses or penalties that apply to attacks, Opposition Checks, and damage. A character has no modifiers at creation unless granted by their lineage or by skills chosen at character creation. Modifiers stack unless a rule explicitly states otherwise, and a modifier applies automatically whenever its conditions are met.
 
-## Modifier application
+## Modifier Application
 
-1. Modifiers apply to attack rolls, opposition checks, and damage rolls.
-2. When a character makes an attack roll, all applicable modifiers are added to the roll.
-3. When a character participates in an opposition check, all applicable modifiers are added to their total.
-4. When a character deals damage, all applicable damage modifiers are added to the damage roll.
-5. A modifier applies only to the roll types specified in the rule that grants it.
+When a character makes an attack roll or participates in an Opposition Check, all applicable modifiers are added to their total. When a character deals damage, all applicable damage modifiers are added to the damage roll. A modifier applies only to the roll types specified by the rule that granted it. A modifier cannot reduce a roll below 0, applies only when its conditions are satisfied, and is removed immediately when its source is removed, disabled, or suppressed.
 
-## Modifier sources
+## Modifier Sources
 
-1. Lineages may grant modifiers.
-2. Skills may grant modifiers.
-3. Abilities may grant modifiers.
-4. Temporary effects may grant modifiers.
-5. Modifiers granted by skills or abilities remain active as long as the skill or ability remains active.
+Modifiers come from lineages, skills, abilities, and temporary effects. Modifiers granted by skills or abilities remain active as long as the skill or ability remains active. Each skill, ability, lineage, or effect that grants a modifier specifies the modifier's value and the roll types it applies to — those modifiers belong on the character sheet. Modifiers are applied after all dice are rolled but before the outcome is determined; if multiple modifiers apply, they are all added together.
 
-## Modifier limits
-
-1. A modifier can’t reduce a roll below 0.
-2. A modifier applies only when its conditions are satisfied.
-3. A modifier is removed immediately when its source is removed, disabled, or suppressed.
-
-## Modifier timing
-
-1. Modifiers are applied after all dice are rolled.
-2. Modifiers are applied before determining the outcome of the roll.
-3. If multiple modifiers apply, all applicable modifiers are added together unless a rule specifies otherwise.
-
-## Modifier reference
-
-1. Each skill, ability, lineage, or effect that grants a modifier must specify the modifier’s value and the roll types it applies to.
-2. Modifiers granted by skills, abilities, lineages, or effects must be listed on the character sheet.
-3. Modifiers are not attributes and don’t interact with attribute advancement.
+Modifiers are not attributes and do not interact with attribute advancement.

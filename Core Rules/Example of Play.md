@@ -31,7 +31,7 @@ The following scene illustrates how Velocity plays at the table — how Oppositi
 | Ranged Attack | III | +2 to ranged damage rolls with light weapons |
 | Light Armor | I | Trained mitigation with light armor |
 
-**Traits:** Arcane Echo (attuned to casting and resisting magic; +2 on Magic Attack and magical defense Opposition Checks), Immortal Vitality (+20 Vitality), Intimidating Presence (+4 on Intimidation Opposition Checks)  
+**Traits:** Arcane Echo (attuned to casting and resisting magic; +2 on Spellcasting and magical defense Opposition Checks), Immortal Vitality (+20 Vitality), Intimidating Presence (+4 on Intimidation Opposition Checks)  
 **Flaws:** Grief (−2 on Willpower Opposition Checks against mind-affecting abilities), Faded (−4 on Fortitude Opposition Checks), Distant (−2 on Persuasion and Negotiation Opposition Checks)
 
 **Armor:** Leather armor (light, mitigation 3 trained)  
@@ -262,8 +262,8 @@ Then something drops through it ahead of him. Something small: barely three feet
 
 *Sela is an unexpected ally, her agenda her own. Her stat block for what follows:*
 
-**Sela** — Kin, Magic Attack III (may cast 2nd-level spells), Willpower 2.  
-Magic attack roll: 1d10 + 2 (Magic Attack II) + 2 (Willpower) + 2 (Kin lineage) = 1d10 + 6.  
+**Sela** — Kin, Spellcasting III (may cast 2nd-level spells), Willpower 2.  
+Magic attack roll: 1d10 + 2 (Spellcasting II) + 2 (Willpower) + 2 (Kin lineage) = 1d10 + 6.  
 Casting a 2nd-level spell costs her 2 Health.
 
 **Narrator:** She casts.
@@ -292,10 +292,10 @@ Sela wipes the corner of her mouth — a thin line of blood, the price of castin
 
 **Going unconscious is a story problem, not an elimination.** Cael failed his Consciousness Check, so he went down. That didn't end his role in the scene — it changed what every other character had to respond to. Mira is fighting under pressure. Sela has a reason to act. An unconscious character is a hook, not a removed piece.
 
-**The Consciousness Check is against the damage that triggered it.** Cael rolled 1d10 + Willpower (0) against 16 — the amount of damage that dropped him into the Dying condition. A character with meaningful Willpower investment, or Magic Attack V's trained resilience, would have had a better chance of staying on their feet.
+**The Consciousness Check is against the damage that triggered it.** Cael rolled 1d10 + Willpower (0) against 16 — the amount of damage that dropped him into the Dying condition. A character with meaningful Willpower investment, or Spellcasting V's trained resilience, would have had a better chance of staying on their feet.
 
 **Casting costs Health — visibly.** Sela paid 2 Health to cast a 2nd-level force bolt. Not a slot, not a point in a mana bar. Health. The blood on her lip was the cost of that casting, legible to everyone in the room. Magic hurts the person using it. That's always true, always present, and never reduced by skill investment.
 
 **Physical spells can only be Dodged.** The enforcer couldn't Parry or Block a force bolt — only get out of the way. A mind-affecting spell would have been resisted with Willpower instead. The type of defense available is determined by the type of spell, not the defender's preference.
 
-**Sela chose a 2nd-level spell deliberately.** At Magic Attack III she can cast up to 2nd-level spells — and she did. Every Level 1+ spell reduces the Predation Difficulty — the Narrator's hidden tracker for how close the magical field is to drawing a hostile manifestation. Level 0 spells are the only ones that never contribute. A 2nd-level spell is quieter than a 3rd-level one; it moves the needle less. She used what the situation needed and cast as quietly as she could. That's also a decision characters make at the table.
+**Sela chose a 2nd-level spell deliberately.** At Spellcasting III she can cast up to 2nd-level spells — and she did. Every Level 1+ spell reduces the Predation Difficulty — the Narrator's hidden tracker for how close the magical field is to drawing a hostile manifestation. Level 0 spells are the only ones that never contribute. A 2nd-level spell is quieter than a 3rd-level one; it moves the needle less. She used what the situation needed and cast as quietly as she could. That's also a decision characters make at the table.

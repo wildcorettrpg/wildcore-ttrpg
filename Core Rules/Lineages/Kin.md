@@ -25,7 +25,7 @@ Kin are natural socialites, effortlessly reading tone, intention, and emotional 
 Kin read everything, remember most of it, and ask questions constantly. +2 on Investigation Opposition Checks, and +4 on Research Opposition Checks.
 
 ### Innate Magic
-Kin have a natural affinity for magic that predates any formal training. This affinity grants access to Magic Attack skills and manifests as exceptional aptitude on magical attacks. Kin have Magic Attack I unlocked for free. +2 on Magic Attack Opposition Checks.
+Kin have a natural affinity for magic that predates any formal training. This affinity grants access to Spellcasting skills and manifests as exceptional aptitude on magical attacks. Kin have Spellcasting I unlocked for free. +2 on Spellcasting Opposition Checks.
 
 ## Flaws
 
@@ -41,5 +41,5 @@ While Wounded (Health at or below their wounded threshold), at the start of each
 - +4 on Research Opposition Checks (see Voracious Mind).
 - +2 on Social Opposition Checks.
 - -2 on Melee Attack and Ranged Attack Opposition Checks.
-- +2 on Magic Attack Opposition Checks.
+- +2 on Spellcasting Opposition Checks.
 

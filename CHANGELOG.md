@@ -4,6 +4,18 @@ Notable changes to Velocity — rules, content, and the website — recorded her
 
 This is the public-facing summary. It doesn't need session-by-session design rationale (why a decision was made, alternatives considered) — just what changed, in plain terms a player, Narrator, or site visitor would care about.
 
+## 2026-07-07
+
+**Website**
+- Spell header blocks now render as formatted lists instead of collapsing into a single line of text. Each field (Level, Category, Range, etc.) displays as its own line.
+
+**Rules**
+- Added a **Spells** section to Core Rules: ten files, one per spell level, covering Level 0 through Level 9.
+- Each spell entry now includes a **Damage** field where applicable, showing dice, damage type, and any special notes.
+- **Armor mitigation rule clarified for spells:** Elemental spell damage (fire, cold, lightning, acid) is mitigated by armor. Purely magical effects — force, conjured weapons — bypass armor entirely and are tagged `(unmitigated)` in the spell's Damage field. The default is that armor mitigates unless a spell says otherwise. Updated Magic.md, Combat.md, and Damage.md to reflect this.
+- **Balathor's Creation** (Level 8): Bolg stat block updated. Each Bolg has 15 Vitality, 9 damage mitigation from natural hide, and 60 ft. base movement. They target the healthiest enemy first, not the most wounded. Hits that get past mitigation trigger Bleeding Out; multiple hits stack the condition.
+- Renamed the **Magic Attack** skill tree to **Spellcasting** throughout all Core Rules documents.
+
 ## 2026-07-03
 
 **Website**
