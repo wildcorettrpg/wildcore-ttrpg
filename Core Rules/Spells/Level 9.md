@@ -18,6 +18,25 @@
 The caster chooses a damage type — Fire, Ice, or Electric — at the moment of casting. The bolt strikes its target with elemental force, dealing 4d10 damage of the chosen type.
 
 
+### Lightning Storm
+
+- **Level:** 9
+- **Category:** Offense
+- **Casting Time:** 1 AP
+- **Casting Cost:** 9 Health
+- **Range:** 120 ft. (line of sight)
+- **Target:** One creature (primary) + 1d8 enemy creatures within 120 ft. of the primary target
+- **Damage:** 6d6 lightning (primary); 3d6 lightning (secondary)
+- **Duration:** Concentration
+- **Defense:** None
+
+The caster selects a primary target within range. An arc of lightning strikes the primary target for 6d6 lightning damage, then branches outward, striking additional enemy creatures within 120 feet of the primary target for 3d6 lightning damage each. Roll 1d8 to determine the number of secondary targets. If the result exceeds the number of valid targets, all valid targets are struck. Otherwise, the arc strikes the creatures closest to the primary target first.
+
+This spell cannot be dodged. All targets are struck automatically.
+
+Every target struck — primary and secondary — becomes Electrified for as long as the caster maintains Concentration. Electrified targets are Immobilized and take their damage again automatically at the end of each of the caster's turns, with no possibility of defense. The primary target continues to take 6d6 lightning damage each round; secondary targets continue to take 3d6.
+
+
 ### Nunor's Trident
 
 - **Level:** 9

@@ -24,7 +24,7 @@ On a success, the spell is added to the character's repertoire. On a failure, th
 
 A character may learn a spell at any level, even one above their current Spellcasting tier. They cannot cast it until they unlock the appropriate tier, but they may study and prepare it in advance.
 
-**Attempting a spell without learning it.** A caster who attempts to cast a spell they have not learned automatically triggers a Predation manifestation — no Predation Difficulty roll is made, something always answers. Whether the spell produces its intended effect is the Narrator's call.
+**Attempting a spell without learning it.** A caster who attempts to cast a spell they have not learned triggers a Predation manifestation immediately, regardless of the current Predation Difficulty. Whether the spell produces its intended effect is the Narrator's call.
 
 ## Casting a Spell
 
@@ -73,9 +73,15 @@ The [Predation Difficulty](#predation-difficulty) system applies to all casters 
 
 Every spell of Level 1 or higher sends ripples through the magical field — and in some settings, something in those depths may notice. Level 0 spells are too shallow to reach anything dangerous, no matter how many are cast.
 
-**Tracking.** At the start of each encounter, the Narrator privately sets the Predation Difficulty to **25**. Each time a Level 1+ spell is cast, subtract that spell's level from the Predation Difficulty, then roll 1d10. If the roll meets or exceeds the current Predation Difficulty, a hostile manifestation appears — the Narrator determines what it is, where it appears, and who it targets. Players do not track the Predation Difficulty.
+**Tracking.** At the start of each encounter, the Narrator privately sets the Predation Difficulty to **25**. The Predation Difficulty is shared — every caster on the battlefield, friend and foe alike, draws from the same pool. Players do not track the Predation Difficulty.
+
+**Casting.** Each time a Level 1+ spell is cast, subtract that spell's level from the Predation Difficulty.
 
 If a spell is overcharged, subtract its overcharged Health cost (see [Spell Overcharging](#spell-overcharging)) from the Predation Difficulty instead of the spell's normal level.
+
+**Concentration.** Maintaining a concentration spell is channeling — the caster continues to draw on the magical field to sustain the effect. At the start of each of the caster's turns, subtract 1 from the Predation Difficulty for each concentration spell they are maintaining. Each maintained spell is a separate subtraction. A caster maintaining two concentration spells subtracts 2.
+
+**Manifestation.** When the Predation Difficulty reaches 0, a hostile manifestation occurs — the Narrator determines what it is, where it appears, and who it targets. From that point forward, every draw on the magical field triggers an additional manifestation immediately: each cast of a Level 1+ spell, and each concentration spell maintained at the start of a caster's turn.
 
 The campaign setting defines what specifically answers the call (e.g., Anar's Magesea predators). If the active campaign setting has no such mechanism, the Narrator may rule that the Predation Difficulty system does not apply.
 

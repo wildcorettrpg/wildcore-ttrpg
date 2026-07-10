@@ -78,3 +78,24 @@ The bond makes both creatures more resilient against any single attack, and more
 The caster names a single subject and opens Kerek's eye upon the target's mind. On a failed defense, the target is forced to see the truth of that subject with absolute clarity — stripped of rationalization, self-deception, and illusion. They cannot look away from what is shown to them.
 
 The spell compels sight, not action. What the target does with the truth is entirely their own reckoning.
+
+
+### Lightning Arc
+
+- **Level:** 5
+- **Category:** Offense, Crowd Control
+- **Casting Time:** 1 AP
+- **Casting Cost:** 5 Health
+- **Range:** 60 ft. (line of sight)
+- **Target:** One creature
+- **Damage:** 2d6 lightning
+- **Duration:** Concentration
+- **Defense:** Dodge (dice pool + Reflex)
+
+The caster channels a sustained arc of lightning into a single target. On a successful hit, the target takes 2d6 lightning damage and becomes Electrified for as long as the caster maintains Concentration.
+
+An Electrified target is Immobilized, cannot dodge or otherwise defend against the arc, and takes 2d6 lightning damage automatically at the end of each of the caster's turns. Flammable materials on or near an Electrified target ignite. Any creature that touches an Electrified target takes 2d6 lightning damage and is thrown back 5 feet.
+
+If the target is wearing metal or in direct contact with water, the arc deals +2d6 additional lightning damage on every instance of damage for the duration.
+
+The effect ends when the caster drops Concentration.

@@ -4,6 +4,17 @@ Notable changes to Velocity — rules, content, and the website — recorded her
 
 This is the public-facing summary. It doesn't need session-by-session design rationale (why a decision was made, alternatives considered) — just what changed, in plain terms a player, Narrator, or site visitor would care about.
 
+## 2026-07-10
+
+**Rules**
+- Added two new spells: **Lightning Arc** (Level 5) and **Lightning Storm** (Level 9).
+  - Lightning Arc locks a single target in a sustained arc of electricity for as long as the caster maintains Concentration. On hit: 2d6 lightning damage and the target is Electrified and Immobilized until the arc ends. Additional 2d6 per damage instance if the target is wearing metal or in contact with water. Anyone who touches an Electrified target takes 2d6 and is thrown back 5 feet.
+  - Lightning Storm strikes a primary target plus up to 1d8 additional enemies within 120 feet. 6d6 lightning to the primary, 3d6 to each secondary. Cannot be dodged. All targets Electrified for the duration of Concentration, taking repeated automatic damage each round.
+- Added two new conditions: **Electrified** and **Immobilized**.
+  - Electrified: imposes Immobilized, ignites nearby flammables, conducts damage to anyone who makes physical contact, and makes stealth impossible.
+  - Immobilized: cannot take actions, Reactions, or move voluntarily; auto-fails checks that require voluntary movement.
+- **Predation Difficulty redesigned.** Now a pure countdown rather than a die roll. Starts at 25 each encounter. When a Level 1+ spell is cast, subtract its level. When a concentration spell is maintained, subtract 1 per maintained spell per round. When PD reaches 0, a manifestation occurs — and every subsequent draw on the magical field triggers another immediately. The PD is shared across all casters on the battlefield, friends and enemies alike.
+
 ## 2026-07-07
 
 **Website**

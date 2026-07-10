@@ -42,6 +42,14 @@ Conditions are conditions imposed by combat, injury, supernatural effects, or Na
 
 **Ends:** The character recovers Health above their wounded threshold through healing, or the character dies. Stabilization ends Bleeding Out but does not remove the Wounded condition.
 
+## Electrified
+
+**Trigger:** Applied by a spell, ability, or effect that causes it — typically a sustained electrical attack.
+
+**Effect:** The character is Immobilized. Flammable materials on or within 5 ft. of the character ignite, including cloth, hair, and volatile liquids. Any creature that touches an Electrified character takes 2d6 lightning damage and is thrown back 5 feet. Visible sparking and arcing make stealth impossible for the duration.
+
+**Ends:** The effect that imposed Electrified ends (e.g., the caster drops Concentration or is disrupted).
+
 ## Hindered
 
 **Trigger:** Imposed by injury, poison, terrain, a skill effect, or Narrator judgment.  
@@ -57,6 +65,14 @@ Conditions are conditions imposed by combat, injury, supernatural effects, or Na
 **Effect:** The character may speak, crawl, gesture, and take other very simple actions, but cannot attack, cast spells, concentrate, or do anything else strenuous.  
 
 **Ends:** The effect or condition that imposed Incapacitated ends. If Incapacitated was a consequence of Unconscious, it ends when Unconscious is removed.
+
+## Immobilized
+
+**Trigger:** Applied by a spell, ability, or effect that causes it — paralysis, neuromuscular disruption, magical restraint, or similar.
+
+**Effect:** The character cannot take actions, cannot take Reactions, and cannot move under their own power. The character automatically fails any Opposition Check requiring voluntary movement or action. The character may still speak, see, hear, and perceive normally unless the effect explicitly prevents it. The character may be moved by external forces — pushes, pulls, explosions, or environmental hazards — but cannot resist forced movement unless an ability explicitly allows resistance without voluntary movement.
+
+**Ends:** The effect that imposed Immobilized ends.
 
 ## Mute
 
