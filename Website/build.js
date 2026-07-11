@@ -671,9 +671,10 @@ function readerPage(contentHtml, chapterName, bookName, bookColor, navHtml, page
   const description = `Velocity TTRPG ${chapterName}`;
 
   return `<!DOCTYPE html>
-<html lang="en">
+<html lang="en" data-theme="light">
 <head>
   <meta charset="UTF-8">
+  <meta name="color-scheme" content="light dark">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="description" content="${escHtml(description)}">
   <script>(function(){var t=localStorage.getItem("theme")||(window.matchMedia("(prefers-color-scheme: dark)").matches?"dark":"light");document.documentElement.setAttribute("data-theme",t);}());</script>

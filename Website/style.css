@@ -3,6 +3,8 @@
 /* ─── Design Tokens — Light (default) ────────────────────────────────────── */
 
 :root {
+  color-scheme: light;
+
   --font-content: 'Lora', Georgia, "Palatino Linotype", serif;
   --font-ui:      "Segoe UI", Trebuchet MS, sans-serif;
 
@@ -70,6 +72,7 @@
 /* ─── Design Tokens — Dark ────────────────────────────────────────────────── */
 
 html[data-theme="dark"] {
+  color-scheme: dark;
   --bg-page:        #1c1c1e;
   --bg-secondary:   #2c2c2e;
   --bg-card:        #2c2c2e;
