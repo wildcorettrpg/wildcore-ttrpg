@@ -27,3 +27,6 @@ Bulletproof/
 # OS noise
 .DS_Store
 Thumbs.db
+
+# Core Rules Analysis working documents
+Core Rules Analysis - *.md

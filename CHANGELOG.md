@@ -4,6 +4,11 @@ Notable changes to Velocity — rules, content, and the website — recorded her
 
 This is the public-facing summary. It doesn't need session-by-session design rationale (why a decision was made, alternatives considered) — just what changed, in plain terms a player, Narrator, or site visitor would care about.
 
+## 2026-07-11
+
+**Website**
+- "Cinema-first" replaced with "narrative-first" throughout the site and Starter Kit.
+
 ## 2026-07-10
 
 **Rules**
@@ -57,5 +62,3 @@ This is the public-facing summary. It doesn't need session-by-session design rat
 - Split the old single "dying" threshold into two stages: **Wounded** (half of max Vitality) and **Dying** (a quarter of max Vitality). Bleeding Out now begins at Wounded rather than Dying, creating urgency earlier.
 - Renamed **Situational Awareness** to **Perception** and moved it from the Investigation skill branch to Survival, where it no longer requires another skill as a prerequisite.
 - Reworded some Investigation skill descriptions to fit the setting better.
-- Added a Health Thresholds by Vitality reference table.
-- Updated the Starter Kit adventure to match the above.

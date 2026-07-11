@@ -1,6 +1,6 @@
 # Velocity TTRPG
 
-A cinema-first tabletop roleplaying game built for emotionally intense, relationship-driven stories. Combat is a punctuation mark, not the core loop. The rules stay out of the way so the story can move.
+A narrative-first tabletop roleplaying game built for emotionally intense, relationship-driven stories. Combat is a punctuation mark, not the core loop. The rules stay out of the way so the story can move.
 
 **Live site:** [velocityttrpg.github.io/velocity-ttrpg](https://velocityttrpg.github.io/velocity-ttrpg)
 

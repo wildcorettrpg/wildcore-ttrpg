@@ -2,7 +2,7 @@
 
 ## What Is This?
 
-*The Weight of Silence* is a self-contained starter adventure for Velocity — a cinema-first, roleplay-centered tabletop RPG built for emotionally intense, relationship-driven stories.
+*The Weight of Silence* is a self-contained starter adventure for Velocity — a narrative-first tabletop RPG built for emotionally intense, relationship-driven stories.
 
 This kit contains everything a group needs to sit down and play: a complete adventure, four pregenerated characters, and a Narrator's Quick Reference that covers the rules you'll need to run the game. No other books required.
 
