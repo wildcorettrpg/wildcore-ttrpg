@@ -42,7 +42,7 @@ See [Damage](Damage.md) for the full damage rules. See [Armor](../Equipment/Armo
 
 Casting a spell costs the caster Health equal to the spell's level (Level 0 costs nothing; a 9th-level spell costs 9 Health). This cost is never reduced by skill investment. Every spell of Level 1 or higher may draw supernatural attention — see [Predation Difficulty](Magic.md#predation-difficulty) for how this is tracked and what it risks. Level 0 spells never draw attention.
 
-Elemental spell damage (fire, cold, lightning, acid) is mitigated by armor normally. Purely magical effects — force, conjured weapons, and effects marked **(unmitigated)** in their Damage line — bypass armor entirely. See [Magic](Magic.md) for spell attack and defense rules, and [Spellcasting](../Skills/Universal/Combat/Spellcasting.md) for the skill tree.
+Elemental spell damage (fire, cold, lightning, acid) is mitigated by armor normally. Purely magical effects — force, conjured weapons, and effects marked **(unmitigated)** in their Damage line — bypass armor entirely. See [Magic](Magic.md) for spell attack and defense rules, and [Spellcasting](../Skills/Universal/Combat/Spellcasting%20Skill.md) for the skill tree.
 
 ## Conditions
 

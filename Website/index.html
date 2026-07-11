@@ -7,7 +7,7 @@
   <link rel="icon" type="image/svg+xml" href="favicon.svg">
   <link rel="icon" type="image/png" href="favicon-32.png">
   <link rel="apple-touch-icon" href="apple-touch-icon.png">
-  <link rel="stylesheet" href="style.css?v=1783420578579">
+  <link rel="stylesheet" href="style.css?v=1783732936799">
   <style>
     /* Landing-only overrides */
     body { padding-top: var(--dev-banner-h); }
@@ -22,8 +22,12 @@
     }
     #landing-results:empty { display: none; }
   </style>
+  <script>(function(){var t=localStorage.getItem("theme")||(window.matchMedia("(prefers-color-scheme: dark)").matches?"dark":"light");document.documentElement.setAttribute("data-theme",t);}());</script>
 </head>
 <body>
+
+<!-- Theme toggle (landing has no topbar, so this is standalone) -->
+<button class="theme-toggle" id="theme-toggle" style="position:fixed;top:calc(var(--dev-banner-h) + 8px);right:16px;z-index:100;" aria-label="Toggle theme" title="Toggle light/dark theme">&#9788;</button>
 
 <div id="dev-banner">
   <svg class="dev-banner-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
@@ -110,14 +114,30 @@
 
 </div><!-- /#landing -->
 
-<script src="search-index.js?v=1783420578579"></script>
-<script src="search.js?v=1783420578579"></script>
+<script src="search-index.js?v=1783732936799"></script>
+<script src="search.js?v=1783732936799"></script>
 <script>
   VelocitySearch.init(
     document.getElementById('search-input'),
     document.getElementById('landing-results'),
     { indexUrl: 'search-index.json' }
   );
+</script>
+<script>
+(function(){
+  var btn=document.getElementById("theme-toggle");
+  var html=document.documentElement;
+  function applyTheme(t){
+    html.setAttribute("data-theme",t);
+    btn.innerHTML=t==="dark"?"&#9728;":"&#9790;";
+    btn.setAttribute("aria-label",t==="dark"?"Switch to light mode":"Switch to dark mode");
+  }
+  applyTheme(html.getAttribute("data-theme")||"light");
+  btn.addEventListener("click",function(){
+    var next=html.getAttribute("data-theme")==="dark"?"light":"dark";
+    applyTheme(next);localStorage.setItem("theme",next);
+  });
+}());
 </script>
 </body>
 </html>

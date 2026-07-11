@@ -4,7 +4,7 @@ For armor mitigation rules — how mitigation works, what armor protects against
 
 ## Armor Types
 
-1. Worn armor is grouped into three categories — Light, Medium, and Heavy — each with its own skill tree (see [Light Armor](../Skills/Universal/Combat/Light Armor.md), [Medium Armor](../Skills/Universal/Combat/Medium Armor.md), [Heavy Armor](../Skills/Universal/Combat/Heavy Armor.md)).
+1. Worn armor is grouped into three categories — Light, Medium, and Heavy — each with its own skill tree (see [Light Armor](../Skills/Universal/Combat/Light%20Armor%20Skill.md), [Medium Armor](../Skills/Universal/Combat/Medium%20Armor%20Skill.md), [Heavy Armor](../Skills/Universal/Combat/Heavy%20Armor%20Skill.md)).
 2. Each armor item provides its own flat mitigation value. Trained mitigation applies when the character has at least tier I in the matching skill tree; untrained mitigation applies when they do not. A character wearing no armor receives no mitigation at all.
 3. Wearing armor without the matching skill training imposes the following untrained wear penalties by category:
     1. **Light**: No additional penalties. The mitigation reduction (trained vs. untrained column) is the only cost.
@@ -38,7 +38,7 @@ Two shield types exist, each with its own training path:
 
 A buckler is the exception among light shields: it straps to the forearm rather than being gripped, allowing the same arm to carry a one-handed weapon or item. All other light shields require the off-hand to grip.
 
-The tower shield imposes additional penalties when used without Heavy Shield training: −2 to Reflex-based Opposition Checks and −2 to Stealth Opposition Checks. These are removed by the [Heavy Shield](../Skills/Universal/Combat/Heavy Shield.md) skill tree. No other shield imposes additional untrained penalties beyond using the lower benefit value.
+The tower shield imposes additional penalties when used without Heavy Shield training: −2 to Reflex-based Opposition Checks and −2 to Stealth Opposition Checks. These are removed by the [Heavy Shield](../Skills/Universal/Combat/Heavy%20Shield%20Skill.md) skill tree. No other shield imposes additional untrained penalties beyond using the lower benefit value.
 
 | Type | Item | Size | Cost | Benefit (trained) | Benefit (untrained) |
 | :--- | :--- | :--- | ---: | :--- | :--- |
@@ -49,4 +49,4 @@ The tower shield imposes additional penalties when used without Heavy Shield tra
 | Light | Light shield, wood | Small | 3 gp | +2 to Block Opposition Checks | +1 to Block Opposition Checks |
 | Heavy | Tower shield | Large | 30 gp | 6 mitigation | 3 mitigation; −2 Reflex, −2 Stealth |
 
-See [Light Shield](../Skills/Universal/Combat/Light Shield.md) and [Heavy Shield](../Skills/Universal/Combat/Heavy Shield.md) for training options. Values are a first draft intended for playtesting alongside the armor table above.
+See [Light Shield](../Skills/Universal/Combat/Light%20Shield%20Skill.md) and [Heavy Shield](../Skills/Universal/Combat/Heavy%20Shield%20Skill.md) for training options. Values are a first draft intended for playtesting alongside the armor table above.

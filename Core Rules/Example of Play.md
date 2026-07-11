@@ -31,7 +31,7 @@ The following scene illustrates how Velocity plays at the table — how Oppositi
 | Ranged Attack | III | +2 to ranged damage rolls with light weapons |
 | Light Armor | I | Trained mitigation with light armor |
 
-**Traits:** Arcane Echo (attuned to casting and resisting magic; +2 on Spellcasting and magical defense Opposition Checks), Immortal Vitality (+20 Vitality), Intimidating Presence (+4 on Intimidation Opposition Checks)  
+**Traits:** Arcane Echo (grants access to Spellcasting skills; Spellcasting I unlocked for free), Immortal Vitality (+20 Vitality), Intimidating Presence (+4 on Intimidation Opposition Checks)  
 **Flaws:** Grief (−2 on Willpower Opposition Checks against mind-affecting abilities), Faded (−4 on Fortitude Opposition Checks), Distant (−2 on Persuasion and Negotiation Opposition Checks)
 
 **Armor:** Leather armor (light, mitigation 3 trained)  
@@ -40,7 +40,6 @@ The following scene illustrates how Velocity plays at the table — how Oppositi
 **Damage roll:** 1d8 + 2 (Ranged Attack III)  
 **Stealth Opposition Check:** 1d10 + 3
 
----
 
 ### Cael
 
@@ -78,11 +77,9 @@ The following scene illustrates how Velocity plays at the table — how Oppositi
 **Damage roll:** 1d8 + 2 (Melee Attack III)  
 **Persuasion Opposition Check:** 1d10 + 4 (Influence I +1, Persuasion I +1, Persuasion II +1, Social +1)
 
----
 
 When a player makes a check, they roll their base 1d10, add any flat bonuses from skills and attributes, and compare their total to the Narrator's roll. Highest total wins. A tie is a stalemate — neither side gains the upper hand, and the Narrator narrates forward without declaring a winner. Some skills at higher tiers add a second die to the pool; most early investment adds flat bonuses instead.
 
----
 
 ## Scene: The Counting House
 
@@ -126,7 +123,6 @@ The party needs information from a smuggler named Voss. He's meeting with an ass
 
 **Narrator:** *(rolls)* The bored guard goes absolutely still. The street guard turns around and sees his partner's face. The knock never lands.
 
----
 
 ## What This Illustrates
 
@@ -136,7 +132,6 @@ Mira's Intimidation check is worth noting: she has no investment in Intimidation
 
 If Cael's second Persuasion total had matched the guard's, the result would have been a stalemate. The Narrator narrates forward; nobody wins, and the scene evolves.
 
----
 
 ## Scene: Voss Makes a Run for It
 
@@ -192,7 +187,6 @@ The interrogation is going nowhere. Voss shoves the table over and bolts for the
 
 **Narrator:** "All right. All right."
 
----
 
 ## What This Illustrates
 
@@ -206,7 +200,6 @@ Cael's shortsword is a light melee weapon. He's trained with it through Melee At
 
 A character can attack more than once per turn when AP allows. A second attack costs 1 AP but incurs a −2 penalty on that roll; a third costs another AP and another −2 (cumulative). Cael's +3 flat bonus from Melee Attack II and Strength directly offsets that penalty — which is why investing in attack skills matters even for characters who aren't primarily fighters.
 
----
 
 ## Scene: The Back Door
 
@@ -240,7 +233,6 @@ Voss has his hands up. Then the back door splinters inward. Two enforcers — bi
 
 **Narrator:** The floor comes up fast. You're out.
 
----
 
 *Cael is unconscious and bleeding. Mira has the bodyguard and one enforcer. Voss is edging toward the window.*
 
@@ -258,13 +250,12 @@ Voss has his hands up. Then the back door splinters inward. Two enforcers — bi
 
 Then something drops through it ahead of him. Something small: barely three feet tall, dark-skinned, compact. A Kin. She lands between Voss and the frame, takes one look at the room — Cael on the floor, the enforcer still standing, Mira cornered — and raises both hands.
 
----
 
 *Sela is an unexpected ally, her agenda her own. Her stat block for what follows:*
 
-**Sela** — Kin, Spellcasting III (may cast 2nd-level spells), Willpower 2.  
+**Sela** — Kin, Spellcasting IV (may cast 3rd-level spells), Willpower 2.  
 Magic attack roll: 1d10 + 2 (Spellcasting II) + 2 (Willpower) + 2 (Kin lineage) = 1d10 + 6.  
-Casting a 2nd-level spell costs her 2 Health.
+Casting a 3rd-level spell costs her 3 Health.
 
 **Narrator:** She casts.
 
@@ -272,13 +263,12 @@ Casting a 2nd-level spell costs her 2 Health.
 
 **Narrator:** *(rolls both)* His Dodge doesn't reach it.
 
-The force bolt takes him off his feet. He doesn't get up.
+The elemental bolt takes him off his feet. He doesn't get up.
 
 Sela wipes the corner of her mouth — a thin line of blood, the price of casting. She looks at Cael, looks at Mira.
 
 "He needs stabilizing." A pause. "I can help with that too."
 
----
 
 ## What This Illustrates
 
@@ -294,8 +284,8 @@ Sela wipes the corner of her mouth — a thin line of blood, the price of castin
 
 **The Consciousness Check is against the damage that triggered it.** Cael rolled 1d10 + Willpower (0) against 16 — the amount of damage that dropped him into the Dying condition. A character with meaningful Willpower investment, or Spellcasting V's trained resilience, would have had a better chance of staying on their feet.
 
-**Casting costs Health — visibly.** Sela paid 2 Health to cast a 2nd-level force bolt. Not a slot, not a point in a mana bar. Health. The blood on her lip was the cost of that casting, legible to everyone in the room. Magic hurts the person using it. That's always true, always present, and never reduced by skill investment.
+**Casting costs Health — visibly.** Sela paid 3 Health to cast Elemental Bolt III. Not a slot, not a point in a mana bar. Health. The blood on her lip was the cost of that casting, legible to everyone in the room. Magic hurts the person using it. That's always true, always present, and never reduced by skill investment.
 
-**Physical spells can only be Dodged.** The enforcer couldn't Parry or Block a force bolt — only get out of the way. A mind-affecting spell would have been resisted with Willpower instead. The type of defense available is determined by the type of spell, not the defender's preference.
+**Physical spells can only be Dodged.** The enforcer couldn't Parry or Block an Elemental Bolt — only get out of the way. A mind-affecting spell would have been resisted with Willpower instead. The type of defense available is determined by the type of spell, not the defender's preference.
 
-**Sela chose a 2nd-level spell deliberately.** At Spellcasting III she can cast up to 2nd-level spells — and she did. Every Level 1+ spell reduces the Predation Difficulty — the Narrator's hidden tracker for how close the magical field is to drawing a hostile manifestation. Level 0 spells are the only ones that never contribute. A 2nd-level spell is quieter than a 3rd-level one; it moves the needle less. She used what the situation needed and cast as quietly as she could. That's also a decision characters make at the table.
+**Sela chose Elemental Bolt III deliberately.** At Spellcasting IV she can cast up to 3rd-level spells. Every Level 1+ spell reduces the Predation Difficulty — the Narrator's hidden tracker for how close the magical field is to drawing a hostile manifestation. A 3rd-level spell reduces PD by 3. She weighed that cost against what the fight needed and made the call. That's a decision characters make at the table.

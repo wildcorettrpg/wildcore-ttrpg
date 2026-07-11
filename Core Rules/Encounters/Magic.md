@@ -4,7 +4,7 @@ Magic is the ability to impose a supernatural will on reality. The specific trad
 
 ## Access
 
-A character cannot cast spells unless something explicitly grants access to magical abilities: a lineage trait, an unlocked supernatural lineage, or a campaign setting rule. Access grants the ability to invest in the [Spellcasting](../Skills/Universal/Combat/Spellcasting.md) skill tree. Spellcasting skills unlock spell levels and improve Spellcasting attack Opposition Checks and spell damage.
+A character cannot cast spells unless something explicitly grants access to magical abilities: a lineage trait, an unlocked supernatural lineage, or a campaign setting rule. Access grants the ability to invest in the [Spellcasting](../Skills/Universal/Combat/Spellcasting%20Skill.md) skill tree. Spellcasting skills unlock spell levels and improve Spellcasting attack Opposition Checks and spell damage.
 
 ## Learning Spells
 
@@ -40,6 +40,8 @@ When a spell targets an unwilling creature, the caster makes a Spellcasting atta
 **Defender:** see [Spell Defense](#spell-defense) below
 
 If the caster's total exceeds the defender's total, the spell hits. On a hit, apply the spell's effect.
+
+A successful defense Opposition Check does not automatically mean the target escapes unharmed. The spell's description defines what happens on a successful defense. If the spell specifies no outcome for a successful defense, the target is assumed to emerge unaffected.
 
 Spells that do not target an unwilling creature — healing, utility, and buff spells — require no attack Opposition Check. Their effects apply automatically.
 
@@ -127,15 +129,11 @@ Each spell in the catalog uses the following fields:
 - **Defense** — how the target resists an attack spell. See [Spell Defense](#spell-defense). Spells with no Defense line do not allow a resistance roll.
 
 
-## The Sight Spells
+## The Sight Abilities
 
-Far Sight, Long Sight, and True Sight are linked. No character may possess more than one of these three abilities, by any means.
+Far Sight, Long Sight, and True Sight are cross-lineage traits, not spells. They are innate perceptions — present from birth, requiring no Spellcasting investment, costing no Health, and contributing nothing to the Predation Difficulty. They cannot be learned, purchased, or trained.
 
-A character may be born with exactly one of the three as an innate ability, independent of the Spellcasting skill tree — no Spellcasting investment is required to use it. A character born with one of the Sight spells is considered **God-touched** — marked by something beyond ordinary mortal experience, for good or ill. A God-touched character cannot learn the other two Sight spells regardless of their Spellcasting investment.
-
-A player character who is God-touched must clear it with the Narrator before play begins and work the ability into their backstory. It is not a creation choice made in isolation.
-
-Characters who are not God-touched may learn any of the three through normal Spellcasting investment. Once a character learns one of the three, they cannot learn the other two.
+Characters who possess one of these abilities are **God-touched**. See [Traits](../Characters/Traits.md#god-touched) for full rules on God-touched characters and the three Sight abilities.
 
 
 ## Available Spells
@@ -143,3 +141,4 @@ Characters who are not God-touched may learn any of the three through normal Spe
 The spell catalog lists available spells by level. See [Spells](../Spells/Spells.md).
 
 Campaign settings may add spells to any level. Spells listed in the Core Rules catalog are available in any setting unless a campaign setting explicitly restricts them.
+                                                                                                                                                                             

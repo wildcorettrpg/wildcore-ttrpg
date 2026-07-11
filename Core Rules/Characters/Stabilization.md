@@ -24,4 +24,4 @@ A stabilized character remains at their current Health. They can still take dama
 
 A character with **Healing II** or higher can perform a Forced Awakening on an Unconscious character using smelling salts or an equivalent stimulant. The healer must be adjacent to the patient. Forced Awakening costs **1 AP** and requires no Opposition Check. It may only be attempted once per patient per incident.
 
-Forced Awakening removes the **Unconscious** condition — the character regains consciousness immediately. All other conditions present at the time of awakening remain in effect; a character who was Dying and Bleeding Out continues to be Dying and Bleeding Out. The awakened character is **Prone** and **Hindered** until they receive healing or the scene ends.
+Forced Awakening removes the **Unconscious** condition — the character regains consciousness immediately. All other conditions present at the time of awakening remain in effect; a character who was Dying and Bleeding Out continues to be Dying and Bleeding Out. The awakened character is **Prone** and **Hindered** until they receive medical treatment or the scene ends.

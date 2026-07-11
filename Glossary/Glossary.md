@@ -132,7 +132,7 @@ The combined capability of a group of characters or enemies, derived from the gr
 
 ### healer check
 
-An Opposition Check (or, for Stabilization, a check against a stated difficulty) using a character's Healing-related dice pool and bonuses, used to stabilize a dying character or provide medical recovery. See [Healing](../Core%20Rules/Skills/Universal/Survival/Healing.md).
+An Opposition Check (or, for Stabilization, a check against a stated difficulty) using a character's Healing-related dice pool and bonuses, used to stabilize a dying character or provide medical recovery. See [Healing](../Core%20Rules/Skills/Universal/Survival/Healing%20Skill.md).
 
 ### health
 
@@ -172,7 +172,7 @@ A bonus or penalty, granted by a lineage, skill, ability, or temporary effect, t
 
 ### movement allowance
 
-The distance a participant can move per AP spent on movement, equal to their lineage's base movement. Spending 1 AP grants a movement pool equal to the participant's full base movement; each additional AP spent on movement grants another full increment of base movement (see [Movement](../Core%20Rules/Skills/Universal/Combat/Movement.md)).
+The distance a participant can move per AP spent on movement, equal to their lineage's base movement. Spending 1 AP grants a movement pool equal to the participant's full base movement; each additional AP spent on movement grants another full increment of base movement (see [Movement](../Core%20Rules/Skills/Universal/Combat/Movement%20Skill.md)).
 
 ### mute
 
@@ -192,7 +192,7 @@ A structural organizer within a skill tree. Nodes group related skills and gate 
 
 ### opportunity attack
 
-A **Reaction** triggered when an opponent moves out of melee range. The triggering character may immediately make a melee attack against the departing opponent. Opportunity attacks follow all standard Reaction rules: they cost AP, a participant may take at most one Reaction per round unless a rule grants more, and a participant who is Stunned, Unconscious, or Incapacitated cannot take them. See [Common Reaction Triggers](../Core%20Rules/Encounters/Reactions.md#common-reaction-triggers) and [Engagement](../Core%20Rules/Encounters/Movement.md#engagement).
+A **Reaction** triggered when an opponent moves out of melee range. The triggering character may immediately make a melee attack against the departing opponent. Opportunity attacks follow all standard Reaction rules: they cost AP, a participant may take at most one Reaction per round unless a rule grants more, and a participant who is Stunned, Unconscious, or Incapacitated cannot take them. See [Common Reaction Triggers](../Core%20Rules/Encounters/Reactions.md#common-reaction-triggers) and [Engagement](../Core%20Rules/Encounters/Movement%20Skill.md#engagement).
 
 ### opposition check
 
@@ -256,11 +256,11 @@ A named collection of related skills and nodes (e.g., Melee Attack, Persuasion, 
 
 ### social
 
-An attribute. Determines a character's capacity for social influence — persuasion, intimidation, negotiation, and contests of will or empathy with others. Used to project social influence: Persuasion, Intimidation, Negotiation, and Domination Opposition Checks. Resisting those effects uses Willpower — see **willpower**. A character builds Social through the [Social](../Core%20Rules/Skills/Universal/Attributes/Social.md) attribute skill tree.
+An attribute. Determines a character's capacity for social influence — persuasion, intimidation, negotiation, and contests of will or empathy with others. Used to project social influence: Persuasion, Intimidation, Negotiation, and Domination Opposition Checks. Resisting those effects uses Willpower — see **willpower**. A character builds Social through the [Social Skill](Social%20Skill.md) attribute skill tree.
 
 ### spell overcharging
 
-A casting option that amplifies a spell's effect at greater Health cost. An overcharged spell costs 1.5× the spell's level in Health (rounded up, minimum 1) instead of the normal cost. All numerical aspects of the spell — range, number of targets, duration, radius, damage — are doubled. Overcharging a Level 1+ spell subtracts its overcharged Health cost from the Predation Difficulty instead of the spell's normal level. Overcharging a Level 0 spell does not affect the Predation Difficulty. See [Spell Overcharging](../Core%20Rules/Skills/Universal/Combat/Magic%20Attack.md#spell-overcharging).
+A casting option that amplifies a spell's effect at greater Health cost. An overcharged spell costs 1.5× the spell's level in Health (rounded up, minimum 1) instead of the normal cost. All numerical aspects of the spell — range, number of targets, duration, radius, damage — are doubled. Overcharging a Level 1+ spell subtracts its overcharged Health cost from the Predation Difficulty instead of the spell's normal level. Overcharging a Level 0 spell does not affect the Predation Difficulty. See [Spell Overcharging](../Core%20Rules/Encounters/Magic.md#spell-overcharging).
 
 ### stabilization
 
@@ -329,3 +329,4 @@ A condition. A character enters the Wounded condition when their Health is at or
 ### wounded threshold
 
 A value equal to half a character's maximum Vitality, rounded up. When Health is reduced to this value or lower, the character enters the **wounded** condition and begins **bleeding out**. See the [Health Thresholds by Vitality Table](../Core%20Rules/Tables/Health%20Thresholds%20by%20Vitality%20Table.md) for values at each Vitality total.
+                                                    

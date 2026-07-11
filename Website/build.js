@@ -34,12 +34,16 @@ const PROJECT_ROOT = path.dirname(SCRIPT_DIR);
 
 const BOOKS = [
   {
-    id:         'core',
-    name:       'Core Rules',
-    slug:       'core-rules',
-    color:      '#6fb7ff',
-    source:     path.join(PROJECT_ROOT, 'Core Rules'),
-    navExclude: new Set(),
+    id:           'core',
+    name:         'Core Rules',
+    slug:         'core-rules',
+    color:        '#6fb7ff',
+    source:       path.join(PROJECT_ROOT, 'Core Rules'),
+    navExclude:   new Set(),
+    chapterOrder: [
+      'Introduction',
+      'Example of Play',
+    ],
   },
   {
     id:         'glossary',
@@ -664,12 +668,15 @@ function readerPage(contentHtml, chapterName, bookName, bookColor, navHtml, page
   // outputAtRoot pages (About, Playtesting) aren't really "in" a book from a
   // reader's perspective, so skip the redundant " — Site Pages" middle segment.
   const titleSuffix = outputAtRoot ? '' : ` — ${escHtml(bookName)}`;
+  const description = `Velocity TTRPG ${chapterName}`;
 
   return `<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="${escHtml(description)}">
+  <script>(function(){var t=localStorage.getItem("theme")||(window.matchMedia("(prefers-color-scheme: dark)").matches?"dark":"light");document.documentElement.setAttribute("data-theme",t);}());</script>
   <title>${escHtml(chapterName)}${titleSuffix} — Velocity</title>
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -696,6 +703,7 @@ ${devBannerHtml(root)}
     <div id="search-results" hidden></div>
   </div>
   <a class="topbar-back" href="${root}index.html">&larr; Library</a>
+  <button class="theme-toggle" id="theme-toggle" aria-label="Toggle theme" title="Toggle light/dark theme">&#9788;</button>
 </div>
 
 <div id="sidebar">
@@ -758,6 +766,22 @@ ${contentHtml}
   );
 </script>
 
+<script>
+(function(){
+  var btn=document.getElementById("theme-toggle");
+  var html=document.documentElement;
+  function applyTheme(t){
+    html.setAttribute("data-theme",t);
+    btn.innerHTML=t==="dark"?"&#9728;":"&#9790;";
+    btn.setAttribute("aria-label",t==="dark"?"Switch to light mode":"Switch to dark mode");
+  }
+  applyTheme(html.getAttribute("data-theme")||"light");
+  btn.addEventListener("click",function(){
+    var next=html.getAttribute("data-theme")==="dark"?"light":"dark";
+    applyTheme(next);localStorage.setItem("theme",next);
+  });
+}());
+</script>
 </body>
 </html>`;
 }
@@ -1035,10 +1059,7 @@ function main() {
   for (const [, chapters] of bookChapters) {
     for (const ch of chapters) generatedUrls.add(ch.url);
   }
-  const allUrls = [
-    ...STATIC_PAGES,
-    ...[...generatedUrls],
-  ];
+  const allUrls = [...new Set([...STATIC_PAGES, ...[...generatedUrls]])];
   const today = new Date().toISOString().slice(0, 10);
   const sitemapXml =
     '<?xml version="1.0" encoding="UTF-8"?>\n' +
@@ -1063,4 +1084,3 @@ function main() {
 }
 
 main();
-

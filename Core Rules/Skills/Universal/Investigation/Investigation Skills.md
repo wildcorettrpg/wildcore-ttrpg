@@ -1,0 +1,22 @@
+# Investigation Skills
+
+**Tree:** Universal
+
+## Description
+
+Investigation covers the methods characters use to uncover hidden truths — reading scenes of violence, digging through records, and sensing the supernatural. It is the toolkit of detectives, scholars, hunters, and anyone who has learned that the world rarely reveals its secrets without pressure.
+
+The Investigation trunk is a required purchase. It represents the foundational mindset — the discipline of observation, the habit of questioning assumptions, and the instinct to look past surface appearances — that makes all other Investigation skills possible.
+
+## Trunk
+
+**Investigation I**
+1. Cost: 1 SP
+2. Prerequisite: None
+3. Effect: +1 to all Investigation Opposition Checks. Unlocks all Investigation branches.
+
+## Branches
+
+1. [Forensics](Forensics%20Skill.md)
+2. [Research](Research%20Skill.md)
+3. [Supernatural Detection](Supernatural%20Detection%20Skill.md)

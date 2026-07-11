@@ -7,10 +7,10 @@ Items are grouped by area. Strike items and move a summary line to `CHANGELOG.md
 ## Equipment Chapter
 
 ### ~~Shields~~
-~~Done — `Armor.md` §Shields (buckler / shield / tower shield item table); `Skills/Universal/Combat/Light Shield.md` (3 skills, Block bonus); `Skills/Universal/Combat/Heavy Shield.md` (4 skills, mitigation + penalty removal).~~
+~~Done — `Armor.md` §Shields (buckler / shield / tower shield item table); `Skills/Universal/Combat/Light Shield Skill.md` (3 skills, Block bonus); `Skills/Universal/Combat/Heavy Shield Skill.md` (4 skills, mitigation + penalty removal).~~
 
-### Ammunition
-`Weapons.md` §Ammunition has the mechanic (Tiny, stacks to 20/slot, 20 pieces = 1 gp) but no itemized table. Decide whether different ammo types exist beyond "generic ammo for your weapon type." If not, a short item-table entry in `Gear.md` closes this.
+### ~~Ammunition~~
+~~`Weapons.md` §Ammunition has the mechanic (Tiny, stacks to 20/slot, 20 pieces = 1 gp) but no itemized table. Decide whether different ammo types exist beyond "generic ammo for your weapon type." If not, a short item-table entry in `Gear.md` closes this.~~
 
 ### Medical & Healing Supplies
 ~~Add a Name / Size / Cost / Purpose table to `Gear.md`.~~ Done — see `Equipment/Gear.md` §Healing Supplies (bandages, bone splint, smelling salts, healing salve, fever tonic, antivenom ×3) and §Healing Potions (six grades, automatic).
@@ -20,17 +20,17 @@ Items are grouped by area. Strike items and move a summary line to `CHANGELOG.md
 
 ---
 
-## Healer's Bag Redesign (Charges → Inventory)
+## ~~Healer's Bag Redesign (Charges → Inventory)~~
 
-**Direction confirmed (2026-07-02):** "charges" are eliminated entirely — not renamed, deleted. Both bags become expanded inventory that holds only Tiny or Small items; using an item removes it from the bag like any other consumable. No separate counter.
+~~**Direction confirmed (2026-07-02):** "charges" are eliminated entirely — not renamed, deleted. Both bags become expanded inventory that holds only Tiny or Small items; using an item removes it from the bag like any other consumable. No separate counter.~~
 
-- Healer's Bag — 5 Tiny/Small slots
-- Master Healer's Satchel — 10 Tiny/Small slots
+- ~~Healer's Bag — 5 Tiny/Small slots~~
+- ~~Master Healer's Satchel — 10 Tiny/Small slots~~
 
-This is blocked on the Medical & Healing Supplies table above — the bag's contents need to be defined before the bag mechanic makes sense.
+~~This is blocked on the Medical & Healing Supplies table above — the bag's contents need to be defined before the bag mechanic makes sense.~~
 
 **Files to update:**
-- ~~`Skills/Universal/Survival/Healing.md`~~ — done
+- ~~`Skills/Universal/Survival/Healing Skill.md`~~ — done
 - ~~`Characters/Stabilization.md`~~ — done
 - ~~`Equipment/Gear.md`~~ — done
 - ~~`Characters/Recovery.md` §3~~ — done
@@ -65,8 +65,4 @@ This is blocked on the Medical & Healing Supplies table above — the bag's cont
 - [ ] Monster conversion tool
 - [ ] Spell conversion tool
 - [ ] Item conversion tool
-- [ ] NPC designer tool
-
----
-
-
+- [

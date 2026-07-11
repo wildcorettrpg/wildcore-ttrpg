@@ -9,7 +9,7 @@ Not every action calls for dice. Per Velocity's drama-over-detail principle (A C
 
 If none of these apply, don't roll. Instead, compare the acting character's **opposition score** — their relevant Attribute plus any flat bonuses granted by applicable skills, with no dice involved — against a **difficulty** the Narrator assigns using the [Opposition Check Difficulty Table](../Tables/Opposition%20Check%20Difficulty%20Table.md). If the opposition score **meets or exceeds** the difficulty, the character automatically succeeds and no roll is made. If the opposition score **falls short**, or the Narrator decides the moment calls for tension after all, resolve the action as a full Opposition Check instead.
 
-This applies to ordinary skill-based and social actions outside combat. It does not change how Stabilization (see [Stabilization](../Characters/Stabilization.md)) or Environmental Hazards (see [Environmental Hazards](Environmental Hazards.md)) are resolved — both are inherently high-stakes and already define their own difficulty and rolling procedure.
+This applies to ordinary skill-based and social actions outside combat. It does not change how Stabilization (see [Stabilization](../Characters/Stabilization.md)) or Environmental Hazards (see [Environmental Hazards](Environmental%20Hazards.md)) are resolved — both are inherently high-stakes and already define their own difficulty and rolling procedure.
 
 ## Core Procedure
 
@@ -22,6 +22,8 @@ A stalemate represents a moment of tension where neither side gains ground. The 
 Physical and magical attacks are resolved as Opposition Checks. The attacker rolls their dice pool + Strength (melee) or Willpower (magical). Dice and flat bonuses come from applicable attack skills. The defender responds with their chosen defensive skill. Armor does not prevent hits; it mitigates damage after the attack lands. See the Actions chapter for the full attack resolution procedure.
 
 Spell attacks follow the same structure, but the defender's response depends on the spell's type (per its description). **Physical and elemental spells** (fire, lightning, force, cold, and similar) can only be Dodged — Parry and Block cannot deflect or absorb magic. **Mind-affecting spells** (charm, compulsion, illusion, fear, and similar) are resisted with the defender's dice pool + Willpower — a contest of wills that no physical defense can counter. See [Actions](Actions.md) §8.3 for the full procedure.
+
+A successful defense Opposition Check against a spell does not automatically mean the target escapes unharmed. The spell's description defines what happens on a successful or failed defense. If the spell specifies no outcome for a successful defense, the target is assumed to emerge unaffected.
 
 ## Attribute Pairings
 
@@ -45,6 +47,4 @@ Armor does not influence Opposition Checks. It does not prevent hits or make cha
 
 ## Narrator Guidance
 
-Use the Attribute pairings consistently to reinforce the logic of the world, and let stalemates create tension rather than frustration. Apply the Vulnerable condition whenever a character is fully committed to a supernatural contest. Keep the focus on narrative consequences — every Opposition Check should matter. Remember that armor mitigates damage, not hit chance. Encourage players to exploit openings, flank distracted enemies, and protect allies engaged in supernatural duels.
-
-Opposition Checks are the beating heart of Velocity’s action economy. They keep the game fast, decisive, and grounded in character capability rather than random chance.
+Use the Attribute pairings consistently to reinforce the logic of the world, and let stalemates create tension rather than frustration. Apply the Vulnerable condition whenever a character is fully committed to a supernatural contest. Keep the focus on narrative consequences — every Opposition Check should matter. Remember that armor mitigates damage, not hit

@@ -154,7 +154,7 @@ Velocity's social resolution uses the same Opposition Check framework as combat.
 
 **Investigation checks** reveal information. Set difficulty based on how obscure the information is. A successful check delivers what the player was looking for. A failed check delivers nothing — or delivers something that creates a new question.
 
-[Core Rules reference: Opposition Checks — Core Procedure](Core%20Rules/Encounters/Opposition%20Checks.md#core-procedure) · [Influence skill tree](Core%20Rules/Skills/Universal/Influence/Influence.md)
+[Core Rules reference: Opposition Checks — Core Procedure](Core%20Rules/Encounters/Opposition%20Checks.md#core-procedure) · [Influence skill tree](Core%20Rules/Skills/Universal/Influence/Influence%20Skills.md)
 
 ---
 

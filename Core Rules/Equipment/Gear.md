@@ -39,7 +39,7 @@ The following items from this table are provided free to every character at crea
 
 **Bottomless Coinpurse, Backpack, Bedroll, Rope (50 ft), Flint, Rations × 14, Torch × 2, Waterskin**
 
-See [Starting Equipment](../Characters/Starting Equipment.md) for the full starting equipment rules, including starting gold (100 gp).
+See [Starting Equipment](../Characters/Starting%20Equipment.md) for the full starting equipment rules, including starting gold (100 gp).
 
 ## Healer's Supplies
 
@@ -51,8 +51,8 @@ Unlike a backpack, healer's bags impose a per-slot item limit of 5. A slot holds
 
 | Item | Size | Cost | Slots | Per-slot limit | Notes |
 | :--- | :--- | ----: | :--- | :--- | :--- |
-| Healer's Bag | Small | 5 gp | 5 Tiny/Small | 5 items | Unlocked at Healing V — see [Healing](../Skills/Universal/Survival/Healing.md) and [Recovery](../Characters/Recovery.md) §3 |
-| Master Healer's Satchel | Medium | 20 gp | 10 Tiny/Small | 5 items | Unlocked at Healing VII — see [Healing](../Skills/Universal/Survival/Healing.md) and [Recovery](../Characters/Recovery.md) §3 |
+| Healer's Bag | Small | 5 gp | 5 Tiny/Small | 5 items | Unlocked at Healing V — see [Healing](../Skills/Universal/Survival/Healing%20Skill.md) and [Recovery](../Characters/Recovery.md) §3 |
+| Master Healer's Satchel | Medium | 20 gp | 10 Tiny/Small | 5 items | Unlocked at Healing VII — see [Healing](../Skills/Universal/Survival/Healing%20Skill.md) and [Recovery](../Characters/Recovery.md) §3 |
 
 ### Healing Potions
 

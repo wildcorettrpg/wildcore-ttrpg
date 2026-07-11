@@ -42,7 +42,7 @@
 
 ## Traits
 
-**Arcane Echo** — Naturally attuned to casting and resisting magic.  
+**Arcane Echo** — Grants access to Spellcasting skills. Spellcasting I is unlocked for free (may cast Level 0 spells).  
 **Immortal Vitality** — +20 Vitality.  
 **Intimidating Presence** — The cold authority of someone who has outlived civilizations.
 
@@ -54,9 +54,8 @@
 
 ## Opposition Check Modifiers
 
-+2 on History and Lore Opposition Checks.  
-+2 on Cosmology Opposition Checks.  
-+2 on Spellcasting and magical defense Opposition Checks.  
++2 on Research Opposition Checks.  
++2 on Supernatural Opposition Checks.  
 +4 on Intimidation Opposition Checks.
 
 ---
@@ -74,7 +73,6 @@
 **Ranged damage:** 1d8 + 2 (Ranged Attack III)  
 **Stealth:** 1d10 + 5  
 **Intimidation:** 1d10 + 4 (OC modifier)  
-**Magical defense:** 1d10 + 2 (OC modifier)  
 **Dodge:** 1d10 + 1 (Reflex)
 
 ---
