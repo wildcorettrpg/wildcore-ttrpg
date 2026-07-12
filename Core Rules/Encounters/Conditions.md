@@ -1,6 +1,6 @@
 # Conditions
 
-Conditions are conditions imposed by combat, injury, supernatural effects, or Narrator judgment. Each condition has specific mechanical consequences and ends only when its listed removal condition is met. Multiple conditions may apply simultaneously and stack unless a rule states otherwise.
+Conditions are temporary or persistent states imposed by combat, injury, supernatural effects, or Narrator judgment. Each condition has specific mechanical consequences and ends only when its listed removal condition is met. Multiple conditions may apply simultaneously and stack unless a rule states otherwise.
 
 ## Bleeding Out
 

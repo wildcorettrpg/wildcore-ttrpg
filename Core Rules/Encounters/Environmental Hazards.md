@@ -18,7 +18,7 @@ The Narrator assigns a severity tier based on narrative logic. The same hazard c
 
 ## Making the Check
 
-The character rolls their dice pool + Fortitude against the hazard's difficulty. On a result equal to or higher than the difficulty, the check succeeds and the character suffers no effect this interval. On a lower result, apply the failure effect for that severity tier.
+The character rolls their [dice pool](Dice%20Pools.md) + Fortitude against the hazard's difficulty. On a result equal to or higher than the difficulty, the check succeeds and the character suffers no effect this interval. On a lower result, apply the failure effect for that severity tier.
 
 Applicable bonuses from the Fortitude skill tree apply normally.
 

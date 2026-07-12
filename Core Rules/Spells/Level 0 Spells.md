@@ -1,6 +1,6 @@
 # Level 0 Spells
 
-*Level 0 spells cost no Health to cast and do not affect the Predation Difficulty. They are unlocked at Spellcasting I.*
+*Level 0 spells cost no Health to cast and do not affect the Predation Clock. They are unlocked at Spellcasting I.*
 
 ### Balathor's Gift
 
@@ -26,7 +26,7 @@ Balathor gives fire freely. What you do with it is your business.
 - **Target:** One creature
 - **Damage:** 1d4 Fire
 - **Duration:** Instantaneous
-- **Defense:** Dodge (dice pool + Reflex)
+- **Defense:** Dodge ([dice pool](../Encounters/Dice%20Pools.md) + Reflex)
 
 The caster touches a single target, igniting a brief burst of fire against them. On a failed defense, the target takes 1d4 fire damage.
 
@@ -95,4 +95,4 @@ Nunor does not acknowledge the casting. The water simply comes.
 
 The caster touches a mundane object, door, or window and speaks a password of their choosing. A magical ward settles over the target — it cannot be opened or moved by any means unless the correct password is spoken aloud. The caster must declare the password at the time of casting.
 
-The ward has no effect on magical objects or living creatures. Speaking the correct password dispels the ward
+The ward has no effect on magical objects or living creatures. Speaking the correct pass

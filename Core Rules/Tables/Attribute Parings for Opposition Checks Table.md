@@ -23,4 +23,4 @@
 
 ¹ **Physical and elemental spells** (fire, lightning, force, cold, and similar): the spell occupies space — the defender can get out of the way. Dodge applies with standard rules (−2 when space is restricted, −4 when prone). Parry and Block are unavailable.
 
-² **Mind-affecting spells** (charm, compulsion, illusion, fear, and similar): the spell targets the mind — no physical movement can deflect it. The defender resists with their dice pool + Willpower. Parry and Block are unavailable. A defender who is Stunned, Unconscious, or Incapacitated takes the hit automatically.
+² **Mind-affecting spells** (charm, compulsion, illusion, fear, and similar): the spell targets the mind — no physical movement can deflect it. The defender resists with their [dice pool](../Encounters/Dice%20Pools.md) + Willpower. Parry and Block are unavailable. A defender who is Stunned, Unconscious, or Incapacitated takes the hit automatically.

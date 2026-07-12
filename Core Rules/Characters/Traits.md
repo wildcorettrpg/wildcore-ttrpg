@@ -62,7 +62,7 @@ A God-touched character was born with one of three Sight abilities — a direct,
 
 A player character who is God-touched must establish this with the Narrator before play begins and work the ability into their backstory. It is not a creation choice made in isolation.
 
-God-touched Sight abilities do not cost Health, do not require Spellcasting investment, and do not affect the Predation Difficulty. They are perception — not magic the character wields, but something the character simply is.
+God-touched Sight abilities do not cost Health, do not require Spellcasting investment, and do not affect the Predation Clock. They are perception — not magic the character wields, but something the character simply is.
 
 #### Far Sight
 
@@ -97,4 +97,4 @@ The character perceives four truths about a target simultaneously:
 - **Intention** — what the target means to do next, or within the current scene.
 - **Essence** — whether the target is of mundane origin or carries something beyond it: magical, demonic, celestial, undead, or any other extraordinary nature they bear.
 
-These truths are perceived directly, not inferred. Shapeshifting, glamours, illusions, and deliberate deception cannot obscure them. The target is unaware the ability was used. True Sight is instantaneous — a single moment of perception, not a sustained vision.
+These truths are perceived directly, not inferred. Shapeshifting, glamours, illusions, and deliberate deception cannot obscure them. The target is unaware the ability was used. True Sight is instantan

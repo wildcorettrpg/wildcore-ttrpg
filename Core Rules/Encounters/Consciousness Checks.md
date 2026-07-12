@@ -10,7 +10,7 @@ A character who is already Unconscious does not make further Consciousness Check
 
 ## Making a Consciousness Check
 
-A Consciousness Check is a special check — not a standard Opposition Check. The character rolls their dice pool + **Willpower**, adding any dice or flat bonuses from applicable skills.
+A Consciousness Check is a special check — not a standard Opposition Check. The character rolls their [dice pool](Dice%20Pools.md) + **Willpower**, adding any dice or flat bonuses from applicable skills.
 
 The result is compared to the **damage or Health loss value** that triggered the check:
 

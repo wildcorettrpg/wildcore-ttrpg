@@ -13,7 +13,7 @@
 - **Target:** One creature
 - **Damage:** 4d4 Fire, Ice, or Electric
 - **Duration:** Instantaneous
-- **Defense:** Dodge (dice pool + Reflex)
+- **Defense:** Dodge ([dice pool](../Encounters/Dice%20Pools.md) + Reflex)
 
 The caster chooses a damage type — Fire, Ice, or Electric — at the moment of casting. The bolt strikes its target with elemental force, dealing 4d4 damage of the chosen type.
 
@@ -76,7 +76,7 @@ The bond cannot be forced on an unwilling creature. Either bonded creature may a
 - **Range:** 30 ft. (line of sight)
 - **Target:** One creature
 - **Duration:** Instantaneous
-- **Defense:** Willpower (dice pool + Willpower)
+- **Defense:** Willpower ([dice pool](../Encounters/Dice%20Pools.md) + Willpower)
 
 The caster names a single subject and opens Kerek's eye upon the target's mind. On a failed defense, the target is forced to see the truth of that subject with absolute clarity — stripped of rationalization, self-deception, and illusion. They cannot look away from what is shown to them.
 
@@ -93,12 +93,8 @@ The spell compels sight, not action. What the target does with the truth is enti
 - **Target:** One creature
 - **Damage:** 2d6 lightning
 - **Duration:** Concentration
-- **Defense:** Dodge (dice pool + Reflex)
+- **Defense:** Dodge ([dice pool](../Encounters/Dice%20Pools.md) + Reflex)
 
 The caster channels a sustained arc of lightning into a single target. On a successful hit, the target takes 2d6 lightning damage and becomes Electrified for as long as the caster maintains Concentration.
 
-An Electrified target is Immobilized, cannot dodge or otherwise defend against the arc, and takes 2d6 lightning damage automatically at the end of each of the caster's turns. Flammable materials on or near an Electrified target ignite. Any creature that touches an Electrified target takes 2d6 lightning damage and is thrown back 5 feet.
-
-If the target is wearing metal or in direct contact with water, the arc deals +2d6 additional lightning damage on every instance of damage for the duration.
-
-The effect ends when the caster drops Concentration.
+An Electrified target is Immobilized, cannot dodge or otherwise defend against the arc, and takes 2d6 lightning damage automatically at the end of each of the caster's turns. Flammable materials on or near an Electrified target ignite. Any creature that touches an Electrified targ

@@ -28,7 +28,7 @@ The mantle sheds light in a 20 ft. radius. It does not harm the caster or their 
 - **Target:** One creature
 - **Damage:** 1d12 Fire, Ice, or Electric
 - **Duration:** Instantaneous
-- **Defense:** Dodge (dice pool + Reflex)
+- **Defense:** Dodge ([dice pool](../Encounters/Dice%20Pools.md) + Reflex)
 
 The caster chooses a damage type — Fire, Ice, or Electric — at the moment of casting. The bolt strikes its target with elemental force, dealing 1d12 damage of the chosen type.
 
@@ -75,4 +75,4 @@ When the creature's Health reaches 0, it vanishes. The caster may also dismiss i
 
 The caster reaches across the threshold and holds a recently dead creature at the boundary between life and death. The target is stable and unconscious — not alive, not yet gone. Death does not take them for 1 hour.
 
-This is not resurrection. The target will die when the hour expires unless they receive sufficient healing to bring them above 0 Health before then. 
+This is not resurrection. The target will die when the hour expires unless they receive sufficient healing to bring them above 0 He

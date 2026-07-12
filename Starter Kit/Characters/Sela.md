@@ -79,7 +79,7 @@
 
 Sela can cast spells up to **2nd level**. Each spell costs Health equal to its level (Level 0 = free; 1st level = 1 Health; 2nd level = 2 Health).
 
-Level 0 spells never draw attention. Level 1+ spells reduce the Narrator's hidden Predation Difficulty — but at Sela's tier, the risk is very low.
+Level 0 spells never draw attention. Level 1+ spells reduce the Narrator's hidden Predation Clock — but at Sela's tier, the risk is very low.
 
 **Physical spells** (fire, force, lightning, cold): opposed by Dodge only.  
 **Mind-affecting spells** (charm, fear, compulsion): opposed by defender's dice pool + Willpower.

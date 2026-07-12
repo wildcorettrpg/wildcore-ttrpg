@@ -14,7 +14,7 @@ Attributes represent a character's core physical, mental, and social capabilitie
 
 **Strength** is used for opposed physical checks and provides a damage bonus on melee and ranged attacks (see Damage Modifiers, below).
 
-**Willpower** is used to resist domination, intimidation, and similar Social-based effects, provides a damage bonus on spell attacks (see Damage Modifiers, below), and is used for Consciousness Checks — when a character's Health drops to 7 or below, they roll their dice pool + Willpower to stay conscious.
+**Willpower** is used to resist domination, intimidation, and similar Social-based effects, provides a damage bonus on spell attacks (see Damage Modifiers, below), and is used for Consciousness Checks — when a character's Health drops to 7 or below, they roll their [dice pool](../Encounters/Dice%20Pools.md) + Willpower to stay conscious.
 
 ## Health
 
@@ -39,6 +39,4 @@ Humans receive no lineage skill tree. To keep Human a meaningful choice, Humans 
 
 Characters gain attribute points only through attribute skills or major narrative milestones. Each attribute skill grants **+1** to the relevant attribute (or +2 at specific mastery tiers). Major narrative milestones grant attribute points only when the Narrator determines that a character has undergone significant development. Attribute advancement doesn't occur automatically when a character's effective level increases.
 
-## Damage Modifiers
-
-Strength and Willpower provide bonus damage dice for physical and spell attacks, respectively. See [Damage](../Encounters/Damage.md) §3 (Attribute Damage Bonus) for the full rule.
+## Damag

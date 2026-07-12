@@ -24,7 +24,7 @@ On a success, the spell is added to the character's repertoire. On a failure, th
 
 A character may learn a spell at any level, even one above their current Spellcasting tier. They cannot cast it until they unlock the appropriate tier, but they may study and prepare it in advance.
 
-**Attempting a spell without learning it.** A caster who attempts to cast a spell they have not learned triggers a Predation manifestation immediately, regardless of the current Predation Difficulty. Whether the spell produces its intended effect is the Narrator's call.
+**Attempting a spell without learning it.** A caster who attempts to cast a spell they have not learned triggers a Predation manifestation immediately, regardless of the current Predation Clock. Whether the spell produces its intended effect is the Narrator's call.
 
 ## Casting a Spell
 
@@ -34,9 +34,9 @@ Some spells require sustained effort — see [Concentration Spells](#concentrati
 
 ## Spell Attacks
 
-When a spell targets an unwilling creature, the caster makes a Spellcasting attack Opposition Check. The caster's dice pool comes from Spellcasting skills that explicitly grant dice to the roll, plus a flat bonus from Willpower and any applicable flat skill bonuses. The target responds with a defensive Opposition Check.
+When a spell targets an unwilling creature, the caster makes a Spellcasting attack Opposition Check. The caster's [dice pool](Dice%20Pools.md) comes from Spellcasting skills that explicitly grant dice to the roll, plus a flat bonus from Willpower and any applicable flat skill bonuses. The target responds with a defensive Opposition Check.
 
-**Attacker:** Spellcasting dice pool + Willpower  
+**Attacker:** Spellcasting [dice pool](Dice%20Pools.md) + Willpower  
 **Defender:** see [Spell Defense](#spell-defense) below
 
 If the caster's total exceeds the defender's total, the spell hits. On a hit, apply the spell's effect.
@@ -53,7 +53,7 @@ How a target resists a spell depends on the spell's type, as stated in the spell
 
 **Magical spells** (force, conjured weapons, and effects that are purely supernatural rather than a physical phenomenon) can only be Dodged. Armor provides no mitigation against these effects — there is nothing physical to block. A defender who cannot or chooses not to Dodge takes the full damage. Spells that bypass armor will state **(unmitigated)** in their Damage line.
 
-**Mind-affecting spells** (charm, compulsion, illusion, fear, and similar) are resisted with the defender's dice pool + Willpower. No physical defense can counter a spell that targets the mind; Parry and Block are unavailable. A defender who cannot make a Willpower check (Stunned, Unconscious, [Incapacitated](Conditions.md), or similar) takes the hit automatically.
+**Mind-affecting spells** (charm, compulsion, illusion, fear, and similar) are resisted with the defender's [dice pool](Dice%20Pools.md) + Willpower. No physical defense can counter a spell that targets the mind; Parry and Block are unavailable. A defender who cannot make a Willpower check (Stunned, Unconscious, [Incapacitated](Conditions.md), or similar) takes the hit automatically.
 
 A defender who cannot make any defensive Opposition Check — because they are [Vulnerable](Conditions.md), unable to act or react, or lack the AP to pay for a defensive Reaction — takes the hit automatically. Armor mitigation still applies normally.
 
@@ -69,23 +69,23 @@ A creature's magic is physiological — inherent to its nature, not a trained sk
 
 Humanoid NPCs are built on the same framework as player characters and pay the same Health cost when they cast.
 
-The [Predation Difficulty](#predation-difficulty) system applies to all casters — creature or otherwise — whenever a Level 1+ spell is cast.
+The [Predation Clock](#predation-clock) system applies to all casters — creature or otherwise — whenever a Level 1+ spell is cast.
 
-## Predation Difficulty
+## Predation Clock
 
 Every spell of Level 1 or higher sends ripples through the magical field — and in some settings, something in those depths may notice. Level 0 spells are too shallow to reach anything dangerous, no matter how many are cast.
 
-**Tracking.** At the start of each encounter, the Narrator privately sets the Predation Difficulty to **25**. The Predation Difficulty is shared — every caster on the battlefield, friend and foe alike, draws from the same pool. Players do not track the Predation Difficulty.
+**Tracking.** At the start of each encounter, the Narrator privately sets the Predation Clock to **25**. The Predation Clock is shared — every caster on the battlefield, friend and foe alike, draws from the same pool. Players do not track the Predation Clock.
 
-**Casting.** Each time a Level 1+ spell is cast, subtract that spell's level from the Predation Difficulty.
+**Casting.** Each time a Level 1+ spell is cast, subtract that spell's level from the Predation Clock.
 
-If a spell is overcharged, subtract its overcharged Health cost (see [Spell Overcharging](#spell-overcharging)) from the Predation Difficulty instead of the spell's normal level.
+If a spell is overcharged, subtract its overcharged Health cost (see [Spell Overcharging](#spell-overcharging)) from the Predation Clock instead of the spell's normal level.
 
-**Concentration.** Maintaining a concentration spell is channeling — the caster continues to draw on the magical field to sustain the effect. At the start of each of the caster's turns, subtract 1 from the Predation Difficulty for each concentration spell they are maintaining. Each maintained spell is a separate subtraction. A caster maintaining two concentration spells subtracts 2.
+**Concentration.** Maintaining a concentration spell is channeling — the caster continues to draw on the magical field to sustain the effect. At the start of each of the caster's turns, subtract 1 from the Predation Clock for each concentration spell they are maintaining. Each maintained spell is a separate subtraction. A caster maintaining two concentration spells subtracts 2.
 
-**Manifestation.** When the Predation Difficulty reaches 0, a hostile manifestation occurs — the Narrator determines what it is, where it appears, and who it targets. From that point forward, every draw on the magical field triggers an additional manifestation immediately: each cast of a Level 1+ spell, and each concentration spell maintained at the start of a caster's turn.
+**Manifestation.** When the Predation Clock reaches 0, a hostile manifestation occurs — the Narrator determines what it is and where it appears. The manifestation targets the caster whose action triggered it. From that point forward, every draw on the magical field triggers an additional manifestation immediately: each cast of a Level 1+ spell, and each concentration spell maintained at the start of a caster's turn.
 
-The campaign setting defines what specifically answers the call (e.g., Anar's Magesea predators). If the active campaign setting has no such mechanism, the Narrator may rule that the Predation Difficulty system does not apply.
+The campaign setting defines what specifically answers the call (e.g., Anar's Magesea predators). If the active campaign setting has no such mechanism, the Narrator may rule that the Predation Clock system does not apply.
 
 ## Spell Overcharging
 
@@ -106,7 +106,7 @@ A caster may choose to overcharge a spell at the moment of casting, pushing more
 | 8 | 8 | 12 |
 | 9 | 9 | 14 |
 
-**Predation.** Overcharging a Level 1+ spell subtracts its overcharged Health cost from the Predation Difficulty instead of the spell's normal level. Overcharging a Level 0 spell does not affect the Predation Difficulty.
+**Predation.** Overcharging a Level 1+ spell subtracts its overcharged Health cost from the Predation Clock instead of the spell's normal level. Overcharging a Level 0 spell does not affect the Predation Clock.
 
 ## Concentration Spells
 
@@ -131,7 +131,7 @@ Each spell in the catalog uses the following fields:
 
 ## The Sight Abilities
 
-Far Sight, Long Sight, and True Sight are cross-lineage traits, not spells. They are innate perceptions — present from birth, requiring no Spellcasting investment, costing no Health, and contributing nothing to the Predation Difficulty. They cannot be learned, purchased, or trained.
+Far Sight, Long Sight, and True Sight are cross-lineage traits, not spells. They are innate perceptions — present from birth, requiring no Spellcasting investment, costing no Health, and contributing nothing to the Predation Clock. They cannot be learned, purchased, or trained.
 
 Characters who possess one of these abilities are **God-touched**. See [Traits](../Characters/Traits.md#god-touched) for full rules on God-touched characters and the three Sight abilities.
 
@@ -141,4 +141,4 @@ Characters who possess one of these abilities are **God-touched**. See [Traits](
 The spell catalog lists available spells by level. See [Spells](../Spells/Spells.md).
 
 Campaign settings may add spells to any level. Spells listed in the Core Rules catalog are available in any setting unless a campaign setting explicitly restricts them.
-                                                                                                                                                                             
+                                                                                                                              

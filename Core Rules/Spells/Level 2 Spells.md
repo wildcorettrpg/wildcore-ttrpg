@@ -13,7 +13,7 @@
 - **Target:** One creature
 - **Damage:** 1d8 Fire, Ice, or Electric
 - **Duration:** Instantaneous
-- **Defense:** Dodge (dice pool + Reflex)
+- **Defense:** Dodge ([dice pool](../Encounters/Dice%20Pools.md) + Reflex)
 
 The caster chooses a damage type — Fire, Ice, or Electric — at the moment of casting. The bolt strikes its target with elemental force, dealing 1d8 damage of the chosen type.
 
@@ -28,7 +28,7 @@ The caster chooses a damage type — Fire, Ice, or Electric — at the moment of
 - **Target:** One creature
 - **Damage:** 1d4 Fire (ongoing, per turn)
 - **Duration:** Until extinguished
-- **Defense:** Dodge (dice pool + Reflex)
+- **Defense:** Dodge ([dice pool](../Encounters/Dice%20Pools.md) + Reflex)
 
 The caster touches the target and sets them alight with magical fire. On a failed defense, the target catches fire and takes 1d4 fire damage at the end of each of their turns until the fire is extinguished.
 
@@ -43,7 +43,7 @@ The fire can be extinguished by spending 1 AP to stop, drop, and smother it; by 
 - **Range:** 30 ft. (line of sight)
 - **Target:** One creature
 - **Duration:** Concentration
-- **Defense:** Dodge (dice pool + Reflex)
+- **Defense:** Dodge ([dice pool](../Encounters/Dice%20Pools.md) + Reflex)
 
 Ethereal binds erupt from the ground and wrap around the target. On a failed defense, the target is Incapacitated for as long as the caster maintains Concentration. The binds vanish the moment Concentration ends.
 
@@ -89,4 +89,4 @@ The target becomes a light source, illuminating everything within 30 ft. as if i
 
 The caster touches an object or a fixed point in a location and perceives a brief vision — an echo of the most emotionally significant moment that occurred there. The vision is not a full account. It is what the place or object remembers most deeply: a fragment of feeling, an impression of presence, the shape of something that mattered.
 
-The Narrator determines what the echo shows, based on the history of the object or location. T
+The Narrator determines what the echo shows, based on the history of the 

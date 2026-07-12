@@ -13,7 +13,7 @@
 - **Target:** One creature
 - **Damage:** 1d10 Fire, Ice, or Electric
 - **Duration:** Instantaneous
-- **Defense:** Dodge (dice pool + Reflex)
+- **Defense:** Dodge ([dice pool](../Encounters/Dice%20Pools.md) + Reflex)
 
 The caster chooses a damage type — Fire, Ice, or Electric — at the moment of casting. The bolt strikes its target with elemental force, dealing 1d10 damage of the chosen type.
 
@@ -91,8 +91,6 @@ The caster may dismiss the bridge at any time at no cost. If the caster is knock
 - **Radius:** 30 ft.
 - **Target:** All enemies within radius
 - **Duration:** 2 rounds
-- **Defense:** Dodge (dice pool + Reflex)
+- **Defense:** Dodge ([dice pool](../Encounters/Dice%20Pools.md) + Reflex)
 
-A burst of white light flashes from the caster, flooding the area in blinding radiance. All enemies within radius must make a Dodge Opposition Check against the caster's Spellcasting dice pool + Willpower. On a failed defense, the target is Blinded for 2 rounds. On a successful defense, they are unaffected.
-
-Solan does not warn. He simply illuminates.
+A burst of white light
