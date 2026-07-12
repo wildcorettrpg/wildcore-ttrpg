@@ -6,7 +6,7 @@ The following scene illustrates how Velocity plays at the table — how Oppositi
 
 ### Mira
 
-**Lineage:** Elf  
+**Race:** Elf  
 **Max Health:** 45 (25 base + 20 from Immortal Vitality) | **Health:** 45
 
 **Attributes**
@@ -43,7 +43,7 @@ The following scene illustrates how Velocity plays at the table — how Oppositi
 
 ### Cael
 
-**Lineage:** Human  
+**Race:** Human  
 **Max Health:** 25 (base) | **Health:** 25
 
 **Attributes**
@@ -115,7 +115,7 @@ The party needs information from a smuggler named Voss. He's meeting with an ass
 
 **Narrator:** That's Intimidation. What do you have for it?
 
-**Mira's player:** No Intimidation skills. But Intimidating Presence gives me plus 4 from my lineage. So 1d10 plus 4.
+**Mira's player:** No Intimidation skills. But Intimidating Presence gives me plus 4 from my race. So 1d10 plus 4.
 
 **Narrator:** The situation is doing the rest of the work. Roll.
 
@@ -128,7 +128,7 @@ The party needs information from a smuggler named Voss. He's meeting with an ass
 
 Every action was an Opposition Check. The Narrator named the type of check and rolled the opposition privately. Each player assembled their total — base 1d10, flat bonuses from skills, applicable attribute — and announced it before rolling. Neither side rolled against a fixed number.
 
-Mira's Intimidation check is worth noting: she has no investment in Intimidation skills, but her Elf lineage grants +4 on Intimidation Opposition Checks through Intimidating Presence. The crossbow pressed against the guard's ribs gave the Narrator reason to let that bonus carry the scene. Lineage modifiers are always in play — skill investment amplifies them.
+Mira's Intimidation check is worth noting: she has no investment in Intimidation skills, but her Elf race grants +4 on Intimidation Opposition Checks through Intimidating Presence. The crossbow pressed against the guard's ribs gave the Narrator reason to let that bonus carry the scene. Lineage modifiers are always in play — skill investment amplifies them.
 
 If Cael's second Persuasion total had matched the guard's, the result would have been a stalemate. The Narrator narrates forward; nobody wins, and the scene evolves.
 
@@ -254,12 +254,12 @@ Then something drops through it ahead of him. Something small: barely three feet
 *Sela is an unexpected ally, her agenda her own. Her stat block for what follows:*
 
 **Sela** — Kin, Spellcasting IV (may cast 3rd-level spells), Willpower 2.  
-Magic attack roll: 1d10 + 2 (Spellcasting II) + 2 (Willpower) + 2 (Kin lineage) = 1d10 + 6.  
+Magic attack roll: 1d10 + 2 (Spellcasting II) + 2 (Willpower) = 1d10 + 4.  
 Casting a 3rd-level spell costs her 3 Health.
 
 **Narrator:** She casts.
 
-*(Physical spell — the enforcer can only Dodge. Sela's attack: 1d10 + 6.)*
+*(Physical spell — the enforcer can only Dodge. Sela's attack: 1d10 + 4.)*
 
 **Narrator:** *(rolls both)* His Dodge doesn't reach it.
 
@@ -289,4 +289,3 @@ Sela wipes the corner of her mouth — a thin line of blood, the price of castin
 **Physical spells can only be Dodged.** The enforcer couldn't Parry or Block an Elemental Bolt — only get out of the way. A mind-affecting spell would have been resisted with Willpower instead. The type of defense available is determined by the type of spell, not the defender's preference.
 
 **Sela chose Elemental Bolt III deliberately.** At Spellcasting IV she can cast up to 3rd-level spells. Every Level 1+ spell reduces the Predation Clock — the Narrator's hidden tracker for how close the magical field is to drawing a hostile manifestation. A 3rd-level spell reduces PD by 3. She weighed that cost against what the fight needed and made the call. That's a decision characters make at the table.
-                                                                                                                                                                                                                                                                                                                                                                                                                                                          

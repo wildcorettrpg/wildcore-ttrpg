@@ -21,7 +21,9 @@ Dwarves don't back down. -2 on Opposition Checks when attempting to disengage, r
 
 ## Opposition Check Modifiers
 
-- +2 on Opposition Checks to resist being tripped, knocked prone, or forced into movement.
-- Automatic success on Willpower Opposition Checks to resist fear.
-- -2 on Opposition Checks when attempting to disengage, retreat, or avoid a direct physical confrontation.
+| Source | Modifier |
+| :----- | :------- |
+| Low Center of Gravity | +2 on OCs to resist being tripped, knocked [Prone](../Conditions%20and%20Hazards/Conditions.md#prone), or forced movement |
+| Fearless | Automatic success on Willpower OCs against fear |
+| Reckless | −2 on OCs to disengage, retreat, or avoid direct physical confrontation |
 

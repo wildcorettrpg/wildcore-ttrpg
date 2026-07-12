@@ -27,6 +27,9 @@ Humans are more susceptible to supernatural compulsion and influence. −2 on Op
 
 ## Opposition Check Modifiers
 
-- +4 on Investigation Opposition Checks when searching for or assessing valuables.
-- +2 on Negotiation Opposition Checks when trading or establishing prices.
+| Source | Modifier |
+| :----- | :------- |
+| Eye for Value | +4 on Investigation OCs when searching for or assessing valuables |
+| Eye for Value | +2 on Negotiation OCs when trading or establishing prices |
+| Mortal Nature | −2 on OCs to resist mind-affecting supernatural abilities |
 

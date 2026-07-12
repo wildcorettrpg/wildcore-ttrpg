@@ -26,7 +26,7 @@ Balathor gives fire freely. What you do with it is your business.
 - **Target:** One creature
 - **Damage:** 1d4 Fire
 - **Duration:** Instantaneous
-- **Defense:** Dodge ([dice pool](../Core%20Mechanics/Dice%20Pools.md) + Reflex)
+- **Defense:** Dodge
 
 The caster touches a single target, igniting a brief burst of fire against them. On a failed defense, the target takes 1d4 fire damage.
 

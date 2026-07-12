@@ -10,40 +10,40 @@ Traits that grant mechanical bonuses are noted in the character's Opposition Che
 
 Each lineage carries its own set of traits. Full trait descriptions appear in the relevant lineage file.
 
-**Human** ([Human Race](Human%20Lineage.md))
+**Human** ([Human Race](../Races/Human%20Race.md))
 - **Human Potential** — Begins play with 12 Skill Points instead of 10.
 - **Mundane Presence** — Cannot be detected by Supernatural Detection or similar abilities.
 - **Eye for Value** — +4 to find and assess the value of treasure; +2 on Investigation and Negotiation checks when trading.
 - **Uncanny Adaptability** — Once per session, re-roll any failed Opposition Check and take the better result.
 
-**Dwarf** ([Dwarf Race](Dwarf%20Lineage.md))
+**Dwarf** ([Dwarf Race](../Races/Dwarf%20Race.md))
 - **Fearless** — Immune to fear effects. Automatic success on Willpower Opposition Checks to resist fear.
 - **Low Center of Gravity** — +2 on Opposition Checks to resist being tripped, knocked [Prone](../Conditions%20and%20Hazards/Conditions.md#prone), or forced into movement.
 
-**Elf** ([Elf Race](Elf%20Lineage.md))
+**Elf** ([Elf Race](../Races/Elf%20Race.md))
 - **Arcane Echo** — Grants access to Spellcasting skills. Spellcasting I is unlocked for free.
 - **Immortal Vitality** — +20 Maximum Health.
 - **Intimidating Presence** — +4 on Intimidation Opposition Checks.
 - **Living Memory** — +2 on Research Opposition Checks.
 
-**Faerie** ([Faerie Race](Faerie%20Lineage.md))
+**Faerie** ([Faerie Race](../Races/Faerie%20Race.md))
 - **Luminous** — Emits faint ambient light; can produce and direct a nonflammable light illuminating up to 30 ft.
 - **Incapable of Deception** — Cannot make a false statement. Constitutionally incapable, not culturally restrained.
 - **Sense Truth** — Detects sincerity of any statement made within 10 ft. Automatic success on checks to detect deception within 10 ft.; +2 beyond.
 - **Ethereal Form** — Once per day, assumes a purely ethereal state for four consecutive hours. Cannot physically interact with the world while ethereal; heals at double rate.
 - **Lightborne Step** — Hovers above the ground; ignores Difficult Terrain; +4 to Stealth Opposition Checks while moving.
 
-**Kin** ([Kin Race](Kin%20Lineage.md))
+**Kin** ([Kin Race](../Races/Kin%20Race.md))
 - **Gregarious Nature** — +2 on Social Opposition Checks.
 - **Voracious Mind** — +2 on Investigation Opposition Checks; +4 on Research Opposition Checks.
 - **Innate Magic** — Grants access to Spellcasting skills. Spellcasting I is unlocked for free. +2 on Spellcasting Opposition Checks.
 
-**Kith** ([Kith Race](Kith%20Lineage.md))
+**Kith** ([Kith Race](../Races/Kith%20Race.md))
 - **Improvised Combatant** — All purchased Melee Attack or Ranged Attack skills apply to improvised weapons. +2 on Attack Opposition Checks with improvised weapons.
 - **Terrain Mastery** — +2 on attack Opposition Checks when exploiting terrain features.
 - **Wallcrawler** — Can scale any vertical surface without assistance; can run or sprint across walls and ceilings.
 
-**Shapeshifter** ([Shapeshifter Race](Shapeshifter%20Lineage.md))
+**Shapeshifter** ([Shapeshifter Race](../Races/Shapeshifter%20Race.md))
 - **Inner Animal** — +2 on Fortitude Opposition Checks.
 - **Keen Senses** — +2 to perception-based Opposition Checks within 30 ft.
 - **Low-Light Vision** — Sees in low-light conditions as clearly as daylight within 30 ft. +2 on Perception Opposition Checks at night or in low light.
@@ -97,4 +97,4 @@ The character perceives four truths about a target simultaneously:
 - **Intention** — what the target means to do next, or within the current scene.
 - **Essence** — whether the target is of mundane origin or carries something beyond it: magical, demonic, celestial, undead, or any other extraordinary nature they bear.
 
-These truths are perceived directly, not inferred. Shapeshifting, glamours, illusions, and deliberate deception cannot obscure them. The target is unaware the ability was used. True Sight is instantan
+These truths are perceived directly, not inferred. Shapeshifting, glamours, illusions, and deliberate deception cannot obscure them. The target is unaware the ability was used. True Sight is instantaneous — a single moment of absolute clarity, not a sustained state. A character may use True Sight once per scene.

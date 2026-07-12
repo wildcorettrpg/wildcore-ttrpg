@@ -32,10 +32,12 @@ Shapeshifters are distrusted by society at large. −4 on all Social Opposition 
 
 ## Opposition Check Modifiers
 
-- +2 on all perception-based Opposition Checks relying on the physical senses within 30 ft.
-- +2 on Fortitude Opposition Checks (enhanced resistance from inner animal)
-- +2 on Perception Opposition Checks at night or in low-light conditions.
-- -4 on all Social Opposition Checks.
+| Source | Modifier |
+| :----- | :------- |
+| Keen Senses | +2 on perception-based OCs within 30 ft |
+| Low-Light Vision | +2 on Perception OCs at night or in low-light conditions |
+| Inner Animal | +2 on Fortitude OCs |
+| Social Outcast | −4 on Social OCs |
 
 ## Animal Forms
 

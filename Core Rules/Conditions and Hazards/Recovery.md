@@ -22,4 +22,4 @@ A stabilized character who is [Unconscious](Conditions.md#unconscious) remains s
 
 ## Restrictions on Recovery
 
-A character cannot recover Health through rest while [Bleeding Out](Conditions.md#bleeding-out), and cannot recover Health at all while dead. Only one recovery method may apply at a time — rest and healing cannot both count toward the same recovery action. No recovery method can raise a character's Health 
+A character cannot recover Health through rest while [Bleeding Out](Conditions.md#bleeding-out), and cannot recover Health at all while dead. Only one recovery method may apply at a time — rest and healing cannot both count toward the same recovery action. No recovery method can raise a character's Health above their Maximum Health.

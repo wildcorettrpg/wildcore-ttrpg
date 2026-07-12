@@ -62,4 +62,14 @@ Skill trees are organized into two categories: **Universal** and **Setting**. Un
     - [Social Skill](Universal/Attributes/Social%20Skill.md)
     - [Fortitude Skill](Universal/Attributes/Fortitude%20Skill.md)
     - [Reflex Skill](Universal/Attributes/Reflex%20Skill.md)
-    - [Strength Skill](Unive
+    - [Strength Skill](Universal/Attributes/Strength%20Skill.md)
+    - [Health Skill](Universal/Attributes/Health%20Skill.md)
+    - [Willpower Skill](Universal/Attributes/Willpower%20Skill.md)
+
+**Lineage trees** (acquired through play — see [Lineages](Lineages/Lineages.md)):
+
+- [Angel Lineage](Lineages/Angel%20Lineage.md)
+- [Demon Lineage](Lineages/Demon%20Lineage.md)
+- [Fae-Touched Lineage](Lineages/Fae-Touched%20Lineage.md)
+- [Vampire Lineage](Lineages/Vampire%20Lineage.md)
+- [Werewolf Lineage](Lineages/Werewolf%20Lineage.md)

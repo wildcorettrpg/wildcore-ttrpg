@@ -23,4 +23,4 @@ Combat covers all forms of direct physical and supernatural conflict. It represe
 7. [Medium Armor](Medium%20Armor%20Skill.md)
 8. [Heavy Armor](Heavy%20Armor%20Skill.md)
 9. [Light Shield](Light%20Shield%20Skill.md)
-10. [Heavy Shield](Heavy Shie
+10. [Heavy Shield](Heavy%20Shield%20Skill.md)

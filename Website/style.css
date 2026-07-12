@@ -459,6 +459,12 @@ details.nav-accordion details.nav-accordion details.nav-accordion > a {
 
 /* ─── Reader Typography ───────────────────────────────────────────────────── */
 
+#reader-content h1,
+#reader-content h2, #reader-content h3,
+#reader-content h4, #reader-content h5, #reader-content h6 {
+  scroll-margin-top: calc(var(--dev-banner-h) + var(--topbar-h) + 16px);
+}
+
 #reader-content h2, #reader-content h3,
 #reader-content h4, #reader-content h5, #reader-content h6 {
   color: var(--text-main);

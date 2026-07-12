@@ -33,6 +33,21 @@ This is the public-facing summary. It doesn't need session-by-session design rat
   - **Encounters** (retained) — Encounter Structure, Turn Order, Turn Structure, Action Points, Actions, Free Actions, Reactions, Combat, Damage, Consciousness Checks, Movement
 - **Characters chapter narrowed to character creation.** Dying, Death, Stabilization, and Recovery moved to Conditions and Hazards — they are play-state rules, not character creation content. Characters now covers: Attributes, Health, Skill Points, Traits, Modifiers, Effective Level, Starting Equipment.
 
+**Rules — Vampire Lineage**
+- **Blood Healing redesigned** as a per-round Health transfer. Initiating costs 1 AP; each sustained round costs 1 AP. At Vampire III (Blood Healing), **8 Health transfers per round** from the target to the vampire — the target loses it, the vampire gains it. Target must be willing or [Incapacitated]. At Vampire X (Apex Predator), the rate increases to **16 Health per round** and the vampire may feed from any creature regardless of condition. No once-per-scene limit.
+
+**Rules — Spells**
+- **Spells.md** now includes a complete alphabetical spell index (all 53 spells with Level and Category, each linked to its spell entry).
+
+**Rules — Stabilization**
+- **Forced Awakening clarified:** a character forced back to consciousness while still at 7 Health or below resumes making Consciousness Checks each time their Health drops further. Forced Awakening restores consciousness; it does not secure it.
+
+**Rules — Dice Pools**
+- **Named Pool Types** defined in `Core Mechanics/Dice Pools.md`: Spellcasting attack pool (Willpower), Melee attack pool (Strength), Ranged attack pool (Strength), Dodge/Parry/Block pools (Reflex), Willpower pool. Verbose "dice pool + Attribute" phrasing replaced with pool names throughout the Core Rules.
+
+**Website**
+- **Anchor navigation fixed.** Links to section headings now scroll correctly — the target heading is no longer hidden behind the fixed playtest banner. Fix: `scroll-margin-top` set on all headings in `#reader-content` using the banner and topbar CSS variables.
+
 ## 2026-07-11
 
 **Rules**

@@ -8,4 +8,4 @@
 | Faerie       | 30 ft                   | Human-equivalent movement in physical form.                  |
 | Kin          | 25 ft                   | Small size; movement penalty applies.                        |
 | Kith         | 25 ft                   | Small size; Wallcrawler trait grants full movement on vertical surfaces. |
-| Shapeshifter | 30 ft                   | Human form only. Animal form movement varies by form — see [Shapeshifter Race](Shapeshifter%20Lineage.md) §Animal Forms. |
+| Shapeshifter | 30 ft                   | Human form only. Animal form movement varies by form — see [Shapeshifter Race](../Races/Shapeshifter%20Race.md) §Animal Forms. |

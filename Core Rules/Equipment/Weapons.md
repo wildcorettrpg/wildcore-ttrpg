@@ -109,20 +109,20 @@ Certain weapon materials deal 1 additional damage die against specific races and
 | Silver | [Vampire](../Skills/Lineages/Vampire%20Lineage.md) lineage; [Werewolf](../Skills/Lineages/Werewolf%20Lineage.md) lineage | Special order. ×10 base weapon cost. Silver arrows and bolts are available at 10 gp per 20. |
 
 1. Most metal weapons are iron or steel by default. Weapons made of other materials (wooden clubs, bone knives, obsidian blades) do not trigger the iron/steel bonus.
-2. Silver weapons are softer than steel â they are not inherently better against other targets, just specifically effective against Vampire and Werewolf lineages.
+2. Silver weapons are softer than steel — they are not inherently better against other targets, just specifically effective against Vampire and Werewolf lineages.
 3. Dual-material weapons (e.g., a silver blade on an iron crossguard) are not supported. A weapon is either silver or iron/steel, not both.
 
 ## Weapon Coatings
 
 Silver and wolfsbane can be applied as coatings to bladed weapons and arrowheads to deliver their effects against supernatural creatures without forging the weapon from a special material.
 
-Applying a coating takes **1 AP** and requires a free hand. A coated weapon holds **3 doses** â each hit against a living target expends one dose. Coatings can also be applied to arrowheads or bolts individually (1 dose each).
+Applying a coating takes **1 AP** and requires a free hand. A coated weapon holds **3 doses** — each hit against a living target expends one dose. Coatings can also be applied to arrowheads or bolts individually (1 dose each).
 
 | Coating | Delivery | Effect on Hit | Cost per Dose |
 | :--- | :--- | :--- | :--- |
 | Silver paste | Injury | Counts as a silver weapon: +1 damage die vs. [Vampire](../Skills/Lineages/Vampire%20Lineage.md) and [Werewolf](../Skills/Lineages/Werewolf%20Lineage.md) lineages; suppresses healing until cleansed (see each lineage entry) | 25 gp |
 | Wolfsbane | Injury | Delivers [Wolfsbane](../Conditions%20and%20Hazards/Poisons.md) poison to the target on a hit that deals damage | 25 gp |
 
-1. Silver paste produces the same mechanical effects as a silver weapon against affected lineages. It does not make the weapon physically silver â a coated iron blade is still iron and still triggers iron/steel effects against Faerie and Fae-Touched.
-2. Wolfsbane coating uses the Injury delivery type. The full wolfsbane poison entry â including the werewolf-specific healing suppression â applies on a successful hit that deals damage.
-3. Wiping a coated weapon clean requires 1 AP and a cloth or rag. A coating on an arrowhead or bolt in the quiver does not expire â only fired shots expend doses.
+1. Silver paste produces the same mechanical effects as a silver weapon against affected lineages. It does not make the weapon physically silver — a coated iron blade is still iron and still triggers iron/steel effects against Faerie and Fae-Touched.
+2. Wolfsbane coating uses the Injury delivery type. The full wolfsbane poison entry — including the werewolf-specific healing suppression — applies on a successful hit that deals damage.
+3. Wiping a coated weapon clean requires 1 AP and a cloth or rag. A coating on an arrowhead or bolt in the quiver does not expire — only fired shots expend doses.

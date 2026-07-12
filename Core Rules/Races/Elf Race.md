@@ -38,4 +38,16 @@ Immortality and perfect memory are a heavy combination. Every loss an elf has ev
 The fading of their innate magic left elves physically fragile in ways their constitution cannot compensate for. −4 on Fortitude Opposition Checks.
 
 ### Distant
-That same imperious quality that makes elves so formidable in confrontation makes genuine warmth nearly im
+That same imperious quality that makes elves so formidable in confrontation makes genuine warmth nearly impossible to approach with genuine warmth. −2 on Persuasion and Negotiation Opposition Checks.
+
+## Opposition Check Modifiers
+
+| Source | Modifier |
+| :----- | :------- |
+| Intimidating Presence | +4 on Intimidation Opposition Checks |
+| Living Memory | +2 on Research Opposition Checks |
+| Arcane Echo | +2 on Supernatural Detection Opposition Checks |
+| Grief | −2 on Willpower Opposition Checks against mind-affecting abilities |
+| Faded | −4 on Fortitude Opposition Checks |
+| Distant | −2 on Persuasion Opposition Checks |
+| Distant | −2 on Negotiation Opposition Checks |

@@ -59,6 +59,7 @@ Fortitude is the body's trained resistance to environmental punishment — poiso
 **Cost:** 1 SP  
 **Prerequisite:** Fortitude VII  
 **Effect:** +1d10 to Opposition Checks against poison, disease, exhaustion, and environmental hazards.
+al hazards.
 
 ### Fortitude IX
 
@@ -70,4 +71,4 @@ Fortitude is the body's trained resistance to environmental punishment — poiso
 
 **Cost:** 1 SP  
 **Prerequisite:** Fortitude IX  
-**Effect:** +1d10 to Opposition Checks against poison, disease, exhaustion, and environmental hazards.
+**Effect:** +1d10 to Opposition Checks against poison, disease, exhaustion, and environment

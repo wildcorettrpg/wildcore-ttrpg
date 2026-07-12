@@ -2,6 +2,22 @@
 
 A dice pool is the set of dice a character assembles for a given roll. Velocity uses two distinct types: **attack pools** for Opposition Checks, and **damage pools** for resolving damage after a hit lands. They are built from different ingredients and serve different purposes.
 
+## Named Pool Types
+
+For the most common check types, the relevant attribute is fixed. These pools are referred to by name throughout the rules — the name carries the attribute, so it does not need to be restated at each use.
+
+| Pool Name | Dice From | Attribute Added |
+| :-------- | :-------- | :-------------- |
+| Melee attack pool | Melee Attack skills | Strength |
+| Ranged attack pool | Ranged Attack skills | Strength |
+| Spellcasting attack pool | Spellcasting skills | Willpower |
+| Dodge pool | Defense (Dodge) skills | Reflex |
+| Parry pool | Defense (Parry) skills | Reflex |
+| Block pool | Defense (Block) skills | Reflex |
+| Willpower pool | Any applicable skills | Willpower |
+
+When a spell or rule refers to a named pool, assemble it using the steps in [Attack Pools](#attack-pools) below with the attribute listed here.
+
 ## Attack Pools
 
 Attack pools are used for Opposition Checks — any contested roll that determines whether an action succeeds or fails. Melee attacks, spell attacks, defensive rolls, social contests, skill checks, and Consciousness Checks all use attack pools.

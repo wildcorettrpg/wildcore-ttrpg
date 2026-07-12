@@ -13,7 +13,7 @@
 - **Target:** One creature
 - **Damage:** 4d4 Fire, Ice, or Electric
 - **Duration:** Instantaneous
-- **Defense:** Dodge ([dice pool](../Core%20Mechanics/Dice%20Pools.md) + Reflex)
+- **Defense:** Dodge
 
 The caster chooses a damage type — Fire, Ice, or Electric — at the moment of casting. The bolt strikes its target with elemental force, dealing 4d4 damage of the chosen type.
 
@@ -30,6 +30,39 @@ The caster chooses a damage type — Fire, Ice, or Electric — at the moment of
 
 The caster lays a hand on the target. The [Poisoned](../Conditions%20and%20Hazards/Conditions.md#poisoned) condition ends immediately.
 
+
+### Kerek's Reckoning
+
+- **Level:** 5
+- **Category:** Utility
+- **Casting Time:** 1 AP
+- **Casting Cost:** 5 Health
+- **Range:** 30 ft. (line of sight)
+- **Target:** One creature
+- **Duration:** Instantaneous
+- **Defense:** Willpower
+
+The caster names a single subject and opens Kerek's eye upon the target's mind. On a failed defense, the target is forced to see the truth of that subject with absolute clarity — stripped of rationalization, self-deception, and illusion. They cannot look away from what is shown to them.
+
+The spell compels sight, not action. What the target does with the truth is entirely their own reckoning.
+
+### Lightning Arc
+
+- **Level:** 5
+- **Category:** Offense, Crowd Control
+- **Casting Time:** 1 AP
+- **Casting Cost:** 5 Health
+- **Range:** 60 ft. (line of sight)
+- **Target:** One creature
+- **Damage:** 2d6 lightning
+- **Duration:** Concentration
+- **Defense:** Dodge
+
+The caster channels a sustained arc of lightning into a single target. On a successful hit, the target takes 2d6 lightning damage and becomes [Electrified](../Conditions%20and%20Hazards/Conditions.md#electrified) for as long as the caster maintains Concentration.
+
+An [Electrified](../Conditions%20and%20Hazards/Conditions.md#electrified) target is [Immobilized](../Conditions%20and%20Hazards/Conditions.md#immobilized), cannot dodge or otherwise defend against the arc, and takes 2d6 lightning damage automatically at the end of each of the caster's turns. Flammable materials on or near an [Electrified](../Conditions%20and%20Hazards/Conditions.md#electrified) target ignite. Any creature that touches an [Electrified](../Conditions%20and%20Hazards/Conditions.md#electrified) target takes 2d6 lightning damage and is thrown back 5 feet.
+
+If Concentration ends for any reason, the [Electrified](../Conditions%20and%20Hazards/Conditions.md#electrified) condition ends immediately on the target.
 
 ### Nunor's Favor
 
@@ -66,35 +99,3 @@ The caster touches two willing creatures and binds them together. At the moment 
 When the other bonded creature takes damage, the Anchor takes the lesser of the declared amount or the total damage dealt; the remainder is dealt to the struck creature. When the Anchor is struck, they take damage normally — the protection is one-directional.
 
 The bond cannot be forced on an unwilling creature. Either bonded creature may ask the caster to end it at any time. If the Anchor is reduced to 0 Health, the bond is dispelled.
-
-### Kerek's Reckoning
-
-- **Level:** 5
-- **Category:** Utility
-- **Casting Time:** 1 AP
-- **Casting Cost:** 5 Health
-- **Range:** 30 ft. (line of sight)
-- **Target:** One creature
-- **Duration:** Instantaneous
-- **Defense:** Willpower ([dice pool](../Core%20Mechanics/Dice%20Pools.md) + Willpower)
-
-The caster names a single subject and opens Kerek's eye upon the target's mind. On a failed defense, the target is forced to see the truth of that subject with absolute clarity — stripped of rationalization, self-deception, and illusion. They cannot look away from what is shown to them.
-
-The spell compels sight, not action. What the target does with the truth is entirely their own reckoning.
-
-
-### Lightning Arc
-
-- **Level:** 5
-- **Category:** Offense, Crowd Control
-- **Casting Time:** 1 AP
-- **Casting Cost:** 5 Health
-- **Range:** 60 ft. (line of sight)
-- **Target:** One creature
-- **Damage:** 2d6 lightning
-- **Duration:** Concentration
-- **Defense:** Dodge ([dice pool](../Core%20Mechanics/Dice%20Pools.md) + Reflex)
-
-The caster channels a sustained arc of lightning into a single target. On a successful hit, the target takes 2d6 lightning damage and becomes [Electrified](../Conditions%20and%20Hazards/Conditions.md#electrified) for as long as the caster maintains Concentration.
-
-An [Electrified](../Conditions%20and%20Hazards/Conditions.md#electrified) target is [Immobilized](../Conditions%20and%20Hazards/Conditions.md#immobilized), cannot dodge or otherwise defend against the arc, and takes 2d6 lightning damage automatically at the end of each of the caster's turns. Flammable materials on or near an [Electrified](../Conditions%20and%20Hazards/Conditions.md#electrified) target ignite. Any creature that touches an [Electrified](../Conditions%20and%20Hazards/Conditions.md#electrified) targ
