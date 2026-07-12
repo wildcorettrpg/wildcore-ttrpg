@@ -20,7 +20,7 @@ A single action taken by a participant to harm a target, resolved as an Oppositi
 
 ### attribute
 
-One of the six core measures of a character's physical, mental, and social capability: Fortitude, Reflex, Social, Strength, Vitality, and Willpower. All attributes begin at 0. Characters assign 2 attribute points at character creation across five assignable attributes (Fortitude, Reflex, Social, Strength, Willpower); no attribute may exceed 3 at creation, for any lineage. Vitality is not creation-assignable. A lineage may apply attribute bonuses or penalties at creation — see **lineage**.
+One of the five core measures of a character's physical, mental, and social capability: Fortitude, Reflex, Social, Strength, and Willpower. All attributes begin at 0. Characters assign 2 attribute points at character creation across these five attributes; no attribute may exceed 3 at creation, for any lineage. A lineage may apply attribute bonuses or penalties at creation — see **lineage**. Health is a separate two-value tracked stat (Current / Maximum), not a core attribute — see **health**.
 
 ### base damage
 
@@ -28,7 +28,7 @@ The damage die a weapon or spell deals before any attribute or skill bonuses are
 
 ### bleeding out
 
-The ongoing Health loss suffered by a **Wounded** character: 1 Health at the end of their turn each round. A character who is **Dying** makes a **Consciousness Check** when they lose Health from Bleeding Out — see **consciousness check** for the complete trigger list. Bleeding out ends when the character is **stabilized**, recovers Health above their **wounded threshold**, or dies.
+A condition applied by any attack, ability, or effect that causes it. The Narrator may apply it to represent a significant wound. A character who is Bleeding Out loses 1 Health at the end of their turn each round; if this loss drops Health to 7 or below, it triggers a **Consciousness Check** (see [Consciousness Checks](../Core%20Rules/Encounters/Consciousness%20Checks.md)). Bleeding Out stacks — each stack adds 1 Health/round of loss and must be removed individually by **stabilization**. Bleeding Out ends when stabilized or when the character dies. See [Dying](../Core%20Rules/Characters/Dying.md).
 
 ### blind
 
@@ -52,7 +52,7 @@ A check made when a concentrating participant takes damage, to determine whether
 
 ### consciousness check
 
-A check made by a non-unconscious character when they enter the **Dying** condition, take damage while Dying, or lose Health from **bleeding out** while Dying. The character rolls their dice pool + Willpower; if the result meets or exceeds the damage value that triggered the check, they remain conscious. If the result is lower, they fall unconscious.
+A check triggered any time a character's Health drops to **7 or below** — from damage, Bleeding Out, falling, or any other source. The character rolls their dice pool + Willpower; if the result meets or exceeds the damage or Health loss value that triggered the check, they remain conscious. If the result is lower, they become **unconscious**. A character who is already unconscious does not make further Consciousness Checks. See [Consciousness Checks](../Core%20Rules/Encounters/Consciousness%20Checks.md).
 
 ### damage
 
@@ -82,13 +82,6 @@ A static number the Narrator assigns to a check, used in place of an opposed rol
 
 A defensive option against an attack. The defender rolls clear, twists, or steps out of the path of the attack, rolling their dice pool from Dodge-granting skills + Reflex. Always available. When the defender has no open space to step into (cornered, completely surrounded, restrained, or within 5 feet of the attacker with no open ground), Dodge takes a −2 penalty. A prone defender may still Dodge but takes the −4 Prone penalty. Parry and Block cannot deflect magic; Dodge is the only physical defense available against physical and elemental spells. See [Attack Resolution](../Core%20Rules/Encounters/Actions.md#attack-resolution).
 
-### dying
-
-A condition. A character enters the Dying condition when their Health is at or below their **dying threshold** (one quarter of maximum Vitality, rounded up). Dying characters suffer −2 on all Opposition Checks and have their movement speed reduced by 5 ft — they can still attack, defend, and act, but at reduced effectiveness. A Dying character is also **Wounded** (and therefore **bleeding out**, if not stabilized). Dying characters must make **Consciousness Checks** when they enter the Dying condition, take damage, or lose Health from bleeding out. If a dying character fails a Consciousness Check, they become **unconscious**, whose stricter restrictions then control. The Dying condition ends when the character's Health is restored above the dying threshold, or when they die. Stabilization ends bleeding out and Consciousness Checks but does not remove the Dying condition. See [Dying](../Core%20Rules/Characters/Dying.md).
-
-### dying threshold
-
-A value equal to one quarter of a character's maximum Vitality, rounded up. When Health is reduced to this value or lower, the character enters the **dying** condition. See also **wounded threshold**.
 
 ### effective level (EL)
 
@@ -132,11 +125,11 @@ The combined capability of a group of characters or enemies, derived from the gr
 
 ### healer check
 
-An Opposition Check (or, for Stabilization, a check against a stated difficulty) using a character's Healing-related dice pool and bonuses, used to stabilize a dying character or provide medical recovery. See [Healing](../Core%20Rules/Skills/Universal/Survival/Healing%20Skill.md).
+An Opposition Check (or, for Stabilization, a check against a stated difficulty) using a character's Healing-related dice pool and bonuses, used to stabilize a Bleeding Out character or provide medical recovery. See [Healing](../Core%20Rules/Skills/Universal/Survival/Healing%20Skill.md).
 
 ### health
 
-A tracked value representing a character's current physical condition, ranging from 0 to their Vitality-set maximum. All characters begin with Health equal to their Vitality (25 at base). Health is reduced by damage (after armor mitigation) and restored by healing or recovery. A character dies when Health reaches 0.
+A two-value tracked stat representing a character's physical condition. **Current Health** is a character's present condition — reduced by damage (after armor mitigation) and restored by healing or recovery; cannot exceed Maximum Health or drop below 0. **Maximum Health** is the ceiling for Current Health — all characters begin at 25; raised through the [Health Skill](../Core%20Rules/Skills/Universal/Attributes/Health%20Skill.md) tree, Fortitude VII and IX (+10 each), and lineage abilities. All characters begin play with Current Health equal to Maximum Health. A character dies when Current Health reaches 0. See [Health](../Core%20Rules/Characters/Health.md).
 
 ### hindered
 
@@ -192,7 +185,7 @@ A structural organizer within a skill tree. Nodes group related skills and gate 
 
 ### opportunity attack
 
-A **Reaction** triggered when an opponent moves out of melee range. The triggering character may immediately make a melee attack against the departing opponent. Opportunity attacks follow all standard Reaction rules: they cost AP, a participant may take at most one Reaction per round unless a rule grants more, and a participant who is Stunned, Unconscious, or Incapacitated cannot take them. See [Common Reaction Triggers](../Core%20Rules/Encounters/Reactions.md#common-reaction-triggers) and [Engagement](../Core%20Rules/Encounters/Movement%20Skill.md#engagement).
+A **Reaction** triggered when an opponent moves out of melee range. The triggering character may immediately make a melee attack against the departing opponent. Opportunity attacks follow all standard Reaction rules: they cost AP, a participant may take at most one Reaction per round unless a rule grants more, and a participant who is Stunned, Unconscious, or Incapacitated cannot take them. See [Common Reaction Triggers](../Core%20Rules/Encounters/Reactions.md#common-reaction-triggers) and [Engagement](../Core%20Rules/Encounters/Movement.md#engagement).
 
 ### opposition check
 
@@ -228,7 +221,7 @@ A declared action held in reserve to trigger on a specific event, allowing a par
 
 ### recovery die
 
-The die rolled to determine Health recovered during natural recovery. All characters recover 1d4 Health from a light rest (less than six hours) and 2d4 from a long rest (six hours or more); passive recovery grants 1 Health per four hours of nonstrenuous activity. Natural recovery is halted during combat, strenuous activity, or while dying. See [Recovery](../Core%20Rules/Characters/Recovery.md).
+The die rolled to determine Health recovered during natural recovery. All characters recover 1d4 Health from a light rest (less than six hours) and 2d4 from a long rest (six hours or more); passive recovery grants 1 Health per four hours of nonstrenuous activity. Natural recovery is halted during combat, strenuous activity, or while Bleeding Out. See [Recovery](../Core%20Rules/Characters/Recovery.md).
 
 ### reflex
 
@@ -256,7 +249,7 @@ A named collection of related skills and nodes (e.g., Melee Attack, Persuasion, 
 
 ### social
 
-An attribute. Determines a character's capacity for social influence — persuasion, intimidation, negotiation, and contests of will or empathy with others. Used to project social influence: Persuasion, Intimidation, Negotiation, and Domination Opposition Checks. Resisting those effects uses Willpower — see **willpower**. A character builds Social through the [Social Skill](Social%20Skill.md) attribute skill tree.
+An attribute. Determines a character's capacity for social influence — persuasion, intimidation, negotiation, and contests of will or empathy with others. Used to project social influence: Persuasion, Intimidation, Negotiation, and Domination Opposition Checks. Resisting those effects uses Willpower — see **willpower**. A character builds Social through the [Social Skill](../Core%20Rules/Skills/Universal/Attributes/Social%20Skill.md) attribute skill tree.
 
 ### spell overcharging
 
@@ -264,7 +257,7 @@ A casting option that amplifies a spell's effect at greater Health cost. An over
 
 ### stabilization
 
-The act of stopping a **Wounded** or **Dying** character's Bleeding Out and Consciousness Checks. A healer adjacent to the character spends 1 AP and succeeds on an **Healing check** against a difficulty equal to **(wounded threshold − current Health)**, with +4 added in combat. Stabilization doesn't restore Health, doesn't remove the Wounded or Dying conditions, and doesn't remove the Unconscious condition — see **Forced Awakening** and [Stabilization](../Core%20Rules/Characters/Stabilization.md).
+The act of stopping a character's **Bleeding Out**. A healer adjacent to the character spends 1 AP and makes a Healing check against a Narrator-assigned difficulty (typically Challenging outside combat, Dangerous in active combat or for a character close to death). Stabilization removes one stack of Bleeding Out; a character with multiple stacks must be stabilized once per stack. Stabilization doesn't restore Health and doesn't remove the **unconscious** condition — see **Forced Awakening** and [Stabilization](../Core%20Rules/Characters/Stabilization.md).
 
 ### stalemate
 
@@ -308,11 +301,11 @@ A melee attack made without a weapon. Unarmed attacks have no base damage die; d
 
 ### unconscious
 
-A condition. An unconscious character cannot act, cannot take Reactions, and is **Incapacitated**. The character is also **Prone** and cannot move at all — these restrictions are stricter than Incapacitated's and override it for movement purposes. An unconscious dying character no longer makes Consciousness Checks but continues to bleed out. An unconscious stabilized character remains unconscious until a healer removes the condition (or, for Forced Awakening, until the listed effects end).
+A condition. An unconscious character cannot act, cannot take Reactions, and is **Incapacitated**. The character is also **Prone** and cannot move at all — these restrictions are stricter than Incapacitated's and override it for movement purposes. An unconscious character does not make further Consciousness Checks but continues Bleeding Out if that condition applies. An unconscious stabilized character remains unconscious until a healer removes the condition (or, for Forced Awakening, until the listed effects end).
 
 ### vitality
 
-An attribute. Determines a character's maximum Health (base 25). Vitality does not decrease during play unless a rule explicitly reduces it, and increases only through the Vitality skill tree, the Fortitude attribute skill tree (tiers VII and IX), lineage abilities, or other explicitly stated effects.
+See **health** (Maximum Health).
 
 ### vulnerable
 
@@ -320,13 +313,6 @@ A condition applied when a character is fully committed to a non-combat activity
 
 ### willpower
 
-An attribute. Provides a flat bonus on magical attack rolls and grants 1 bonus damage die per 3 points of Willpower on spell attacks. Also used to resist social and supernatural effects — domination, charm, compulsion, illusion, fear, and similar mind-affecting spells or abilities. Willpower governs **Consciousness Checks** — a dying character rolls their dice pool + Willpower to stay conscious — see **consciousness check**. Willpower also determines whether Concentration is maintained when a concentrating participant takes damage — see **concentration check**.
+An attribute. Provides a flat bonus on magical attack rolls and grants 1 bonus damage die per 3 points of Willpower on spell attacks. Also used to resist social and supernatural effects — domination, charm, compulsion, illusion, fear, and similar mind-affecting spells or abilities. Willpower governs **Consciousness Checks** — when Health drops to 7 or below, the character rolls their dice pool + Willpower to stay conscious — see **consciousness check**. Willpower also determines whether Concentration is maintained when a concentrating participant takes damage — see **concentration check**.
 
-### wounded
-
-A condition. A character enters the Wounded condition when their Health is at or below their **wounded threshold** (half their maximum Vitality, rounded up). Wounded characters begin **bleeding out** — 1 Health lost per round at the end of their turn — but can still attack, defend, and act without penalty. If Health drops further to or below the **dying threshold**, the character also enters the **dying** condition. The Wounded condition ends when Health is restored above the wounded threshold. Stabilization ends bleeding out but does not remove the Wounded condition. See [Dying](../Core%20Rules/Characters/Dying.md).
-
-### wounded threshold
-
-A value equal to half a character's maximum Vitality, rounded up. When Health is reduced to this value or lower, the character enters the **wounded** condition and begins **bleeding out**. See the [Health Thresholds by Vitality Table](../Core%20Rules/Tables/Health%20Thresholds%20by%20Vitality%20Table.md) for values at each Vitality total.
                                                     

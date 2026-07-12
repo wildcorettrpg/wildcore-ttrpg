@@ -55,6 +55,7 @@ Ethereal binds erupt from the ground and wrap around the target. On a failed def
 - **Casting Time:** 1 AP
 - **Casting Cost:** 2 Health
 - **Range:** 30 ft. (line of sight)
+- **Radius:** 30 ft.
 - **Target:** A point within range
 - **Duration:** Until dismissed
 

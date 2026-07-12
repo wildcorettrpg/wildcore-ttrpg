@@ -1,6 +1,6 @@
 # Movement Modes Table
 
-A Narrator's quick reference for how AP spent on movement translates to distance and consequences, per [Movement](../Encounters/Movement%20Skill.md). All movement types share the same three effort tiers (1/2/3 AP); only the distance yielded and the fictional penalties change. "Base movement" is the character's full Movement Allowance (the distance granted by spending 1 AP on Walking).
+A Narrator's quick reference for how AP spent on movement translates to distance and consequences, per [Movement](../Encounters/Movement.md). All movement types share the same three effort tiers (1/2/3 AP); only the distance yielded and the fictional penalties change. "Base movement" is the character's full Movement Allowance (the distance granted by spending 1 AP on Walking).
 
 See [Glossary](../../Glossary/Glossary.md) for the definition of **Vulnerable**.
 
@@ -30,4 +30,4 @@ Each AP spent on a movement mode grants one full increment of that mode's distan
 **Notes**
 
 1. **Vulnerable**, per the Glossary definition, applies whenever a movement mode fully commits a character's attention and balance (climbing, swimming, flying) — they cannot oppose attacks with Reflex and automatically take hits while moving this way, though armor still mitigates.
-2. This table is a reference, not a new rule — [Movement](../Encounters/Movement%20Skill.md) remains the canonical description of how movement and AP interact.
+2. This table is a reference, not a new rule — [Movement](../Encounters/Movement.md) remains the canonical description of how movement and AP interact.

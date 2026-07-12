@@ -1,54 +1,54 @@
-Name,Level,Category,Casting Time,Casting Cost,Range,Target,Damage,Duration,Defense,Applied Conditions
-Balathor's Gift,0,Utility,1 AP,None,Touch,A point or surface,N/A,Until dismissed,N/A,N/A
-Balathor's Jest,0,Offense,1 AP,None,Touch,One creature,1d4 Fire,Instantaneous,Dodge (dice pool + Reflex),N/A
-Ellessien's Breath,0,Utility,1 AP,None,30 ft. (line of sight),"A 5 ft. square, person, creature, or object",N/A,Instantaneous,N/A,N/A
-Ellessien's Ward,0,Defense,1 AP,None,Touch,One creature,N/A,Until consumed,N/A,N/A
-Fog of War,0,Crowd Control,1 AP,None,30 ft. (line of sight),A location within range,N/A,Until dismissed,N/A,-4 Attack OC (all within area)
-Malavard's Ward,0,Utility,1 AP,None,Touch,"One object, door, or window",N/A,Until dismissed,N/A,N/A
-Nunor's Spring,0,Utility,1 AP,None,30 ft.,A point on the ground within range,N/A,Instantaneous,N/A,N/A
-Elemental Bolt I,1,Offense,1 AP,1 Health,30 ft. (line of sight),One creature,"1d6 Fire, Ice, or Electric",Instantaneous,Dodge (dice pool + Reflex),N/A
-Inoen's Balm,1,Healing,1 AP,1 Health,Touch,One creature,N/A,Instantaneous,N/A,N/A
-Luniel's Garden,1,Crowd Control,1 AP,1 Health,30 ft. (line of sight),"A point within range; all creatures within 15 ft.",N/A,Until dismissed,Dodge (dice pool + Reflex),Movement restricted (can still act)
-Nunor's Ward,1,Defense,1 AP,1 Health,Self,All creatures within 10 ft. of the caster,N/A,Until dismissed,N/A,-2 Attack OC (enemies attacking within ward)
-Tuvien's Thread,1,Utility,1 AP,1 Health,Touch,Two willing creatures,N/A,Until dismissed,N/A,N/A
-Whisper Walk,1,Utility,1 AP,1 Health,30 ft. (line of sight),One creature,N/A,Until dismissed,N/A,N/A
-Balathor's Brand,2,Offense,1 AP,2 Health,Touch,One creature,1d4 Fire (ongoing per turn),Until extinguished,Dodge (dice pool + Reflex),Ongoing fire damage
-Elemental Bolt II,2,Offense,1 AP,2 Health,30 ft. (line of sight),One creature,"1d8 Fire, Ice, or Electric",Instantaneous,Dodge (dice pool + Reflex),N/A
-Enduril's Binds,2,Crowd Control,1 AP,2 Health,30 ft. (line of sight),One creature,N/A,Concentration,Dodge (dice pool + Reflex),Incapacitated
-Kerek's Cloak,2,Crowd Control,1 AP,2 Health,30 ft. (line of sight),A point within range,N/A,Until dismissed,N/A,Blinded (creatures within area relying on sight)
-Solan's Light,2,Utility,1 AP,2 Health,30 ft. (line of sight),"One person, creature, or object",N/A,Until dismissed,N/A,N/A
-Tuvien's Echo,2,Utility,1 AP,2 Health,Touch,One object or location,N/A,Instantaneous,N/A,N/A
-Elemental Bolt III,3,Offense,1 AP,3 Health,30 ft. (line of sight),One creature,"1d10 Fire, Ice, or Electric",Instantaneous,Dodge (dice pool + Reflex),N/A
-Inoen's Grace,3,Healing,1 AP,3 Health,Touch,One creature,N/A,Instantaneous,N/A,N/A
-Nunor's Blessing,3,Utility,1 AP,3 Health,30 ft.,One square,N/A,Until dismissed,N/A,N/A
-Ordred's Hammer,3,Offense,1 AP,3 Health,30 ft. (line of sight),"One person, creature, or object",4d6 Bludgeoning (unmitigated),1 round,None (auto-hit),N/A
-Rasgard's Flying Bridge,3,Utility,1 AP,3 Health,120 ft.,Two points within range,N/A,Until dismissed,N/A,N/A
-Solan's Glory,3,"Offense, Crowd Control",1 AP,3 Health,30 ft. radius (centered on caster),All enemies within range,N/A,2 rounds,Dodge (dice pool + Reflex),Blinded (2 rounds on failed defense)
-Balathor's Mantle,4,Defense,1 AP,4 Health,Self,Self,1d8 Fire (melee attackers),Until dismissed,N/A,N/A
-Elemental Bolt IV,4,Offense,1 AP,4 Health,30 ft. (line of sight),One creature,"1d12 Fire, Ice, or Electric",Instantaneous,Dodge (dice pool + Reflex),N/A
-Inoen's Favor,4,Healing,1 AP,4 Health,Touch,One creature,N/A,Instantaneous,N/A,N/A
-Luniel's Blessing,4,Utility,1 AP,4 Health,Self,Self,N/A,Special,N/A,N/A
-Tuvien's Mercy,4,Healing,1 AP,4 Health,30 ft. (line of sight),One creature (died within the last round),N/A,1 hour,N/A,N/A
-Elemental Bolt V,5,Offense,1 AP,5 Health,30 ft. (line of sight),One creature,"4d4 Fire, Ice, or Electric",Instantaneous,Dodge (dice pool + Reflex),N/A
-Inoen's Salve,5,Healing,1 AP,5 Health,Touch,One creature,N/A,Instantaneous,N/A,Removes: Poisoned
-Kerek's Reckoning,5,Utility,1 AP,5 Health,30 ft. (line of sight),One creature,N/A,Instantaneous,Willpower (dice pool + Willpower),N/A
-Lightning Arc,5,"Offense, Crowd Control",1 AP,5 Health,60 ft. (line of sight),One creature,2d6 Lightning,Concentration,Dodge (dice pool + Reflex),"Electrified, Immobilized"
-Nunor's Favor,5,Defense,1 AP,5 Health,30 ft.,One square,N/A,8 hours,N/A,N/A
-Tuvien's Bond,5,"Defense, Utility",1 AP,5 Health,Touch,Two willing creatures,N/A,Concentration,N/A,N/A
-Elemental Bolt VI,6,Offense,1 AP,6 Health,30 ft. (line of sight),One creature,"2d10 Fire, Ice, or Electric",Instantaneous,Dodge (dice pool + Reflex),N/A
-Inoen's Blessing,6,Defense,1 AP,6 Health,30 ft. (line of sight),All allies in line of sight up to 30 ft.,N/A,Concentration,N/A,N/A
-Ordred's Respite,6,"Crowd Control, Defense",1 AP,6 Health,20 ft.,Caster and all allies within 20 ft.,N/A,Until dismissed,N/A,N/A
-Rasgard's Rage,6,Crowd Control,1 AP,6 Health,60 ft.,All creatures within a 60 ft. cone,N/A,Instantaneous,Dodge (dice pool + Reflex),"Stunned 1 round (success); Prone + Stunned 2 rounds (failure)"
-Balathor's Wrath,7,"Offense, Crowd Control",1 AP,7 Health,30 ft. (line of sight),"A point within range; all within 30 ft.","2d10 Fire (initial); 1d6 Fire/turn (3 rounds)",3 rounds,Dodge (dice pool + Reflex),N/A
-Elemental Bolt VII,7,Offense,1 AP,7 Health,30 ft. (line of sight),One creature,"4d6 Fire, Ice, or Electric",Instantaneous,Dodge (dice pool + Reflex),N/A
-Tree of Life,7,Healing,1 AP,7 Health,30 ft. (line of sight),A point within 30 ft.,N/A,Up to 10 rounds,N/A,N/A
-Tuvien's Veil,7,Defense,1 AP,7 Health,Self,Caster and all allies within 30 ft.,N/A,Concentration,N/A,N/A
-Balathor's Creation,8,Utility,1 AP,8 Health,Self,A point adjacent to the caster,N/A,Until all Bolg are slain,N/A,Bleeding Out (on hit past mitigation)
-Elemental Bolt VIII,8,Offense,1 AP,8 Health,30 ft. (line of sight),One creature,"3d10 Fire, Ice, or Electric",Instantaneous,Dodge (dice pool + Reflex),N/A
-Inoen's Wail,8,Crowd Control,1 AP,8 Health,30 ft. (line of sight),All enemies within 30 ft.,N/A,Concentration,Willpower (dice pool + Willpower),Incapacitated (on failed defense)
-Televard's Fury,8,Offense,1 AP,8 Health,30 ft.,All creatures in a 30 ft. cone,"4d12 Fire (failure); 2d12 Fire (success)",Instantaneous,Dodge (dice pool + Reflex),N/A
-Tuvien's Covenant,8,Utility,1 AP,8 Health,30 ft.,Two willing parties,N/A,Permanent until fulfilled or broken,N/A,N/A
-Elemental Bolt IX,9,Offense,1 AP,9 Health,30 ft. (line of sight),One creature,"4d10 Fire, Ice, or Electric",Instantaneous,Dodge (dice pool + Reflex),N/A
-Lightning Storm,9,Offense,1 AP,9 Health,120 ft. (line of sight),"One creature (primary) + 1d8 enemies within 120 ft.","6d6 Lightning (primary); 3d6 Lightning (secondary)",Concentration,None,"Electrified, Immobilized"
-Nunor's Trident,9,Utility,1 AP,9 Health,Self,N/A,N/A,Instantaneous,N/A,N/A
-Tuvien's Answer,9,Utility,1 AP,9 Health,Self,Self,N/A,Instantane
+Name,Level,Category,Casting Time,Casting Cost,Range,Radius,Target,Damage,Duration,Defense,Applied Conditions
+Balathor's Gift,0,Utility,1 AP,None,Touch,N/A,A point or surface,N/A,Until dismissed,N/A,N/A
+Balathor's Jest,0,Offense,1 AP,None,Touch,N/A,One creature,1d4 Fire,Instantaneous,Dodge (dice pool + Reflex),N/A
+Ellessien's Breath,0,Utility,1 AP,None,30 ft. (line of sight),N/A,"A 5 ft. square, person, creature, or object",N/A,Instantaneous,N/A,N/A
+Ellessien's Ward,0,Defense,1 AP,None,Touch,N/A,One creature,N/A,Until consumed,N/A,N/A
+Fog of War,0,Crowd Control,1 AP,None,30 ft. (line of sight),30 ft.,A location within range,N/A,Until dismissed,N/A,-4 Attack OC (all within area)
+Malavard's Ward,0,Utility,1 AP,None,Touch,N/A,"One object, door, or window",N/A,Until dismissed,N/A,N/A
+Nunor's Spring,0,Utility,1 AP,None,30 ft.,N/A,A point on the ground within range,N/A,Instantaneous,N/A,N/A
+Elemental Bolt I,1,Offense,1 AP,1 Health,30 ft. (line of sight),N/A,One creature,"1d6 Fire, Ice, or Electric",Instantaneous,Dodge (dice pool + Reflex),N/A
+Inoen's Balm,1,Healing,1 AP,1 Health,Touch,N/A,One creature,N/A,Instantaneous,N/A,N/A
+Luniel's Garden,1,Crowd Control,1 AP,1 Health,30 ft. (line of sight),15 ft.,A point within range,N/A,Until dismissed,Dodge (dice pool + Reflex),Movement restricted (can still act)
+Nunor's Ward,1,Defense,1 AP,1 Health,Self,10 ft.,All creatures within radius,N/A,Until dismissed,N/A,-2 Attack OC (enemies attacking within ward)
+Tuvien's Thread,1,Utility,1 AP,1 Health,Touch,N/A,Two willing creatures,N/A,Until dismissed,N/A,N/A
+Whisper Walk,1,Utility,1 AP,1 Health,30 ft. (line of sight),N/A,One creature,N/A,Until dismissed,N/A,N/A
+Balathor's Brand,2,Offense,1 AP,2 Health,Touch,N/A,One creature,1d4 Fire (ongoing per turn),Until extinguished,Dodge (dice pool + Reflex),Ongoing fire damage
+Elemental Bolt II,2,Offense,1 AP,2 Health,30 ft. (line of sight),N/A,One creature,"1d8 Fire, Ice, or Electric",Instantaneous,Dodge (dice pool + Reflex),N/A
+Enduril's Binds,2,Crowd Control,1 AP,2 Health,30 ft. (line of sight),N/A,One creature,N/A,Concentration,Dodge (dice pool + Reflex),Incapacitated
+Kerek's Cloak,2,Crowd Control,1 AP,2 Health,30 ft. (line of sight),30 ft.,A point within range,N/A,Until dismissed,N/A,Blinded (creatures within area relying on sight)
+Solan's Light,2,Utility,1 AP,2 Health,30 ft. (line of sight),N/A,"One person, creature, or object",N/A,Until dismissed,N/A,N/A
+Tuvien's Echo,2,Utility,1 AP,2 Health,Touch,N/A,One object or location,N/A,Instantaneous,N/A,N/A
+Elemental Bolt III,3,Offense,1 AP,3 Health,30 ft. (line of sight),N/A,One creature,"1d10 Fire, Ice, or Electric",Instantaneous,Dodge (dice pool + Reflex),N/A
+Inoen's Grace,3,Healing,1 AP,3 Health,Touch,N/A,One creature,N/A,Instantaneous,N/A,N/A
+Nunor's Blessing,3,Utility,1 AP,3 Health,30 ft.,30 ft.,A point within range,N/A,Until dismissed,N/A,N/A
+Ordred's Hammer,3,Offense,1 AP,3 Health,30 ft. (line of sight),N/A,"One person, creature, or object",4d6 Bludgeoning (unmitigated),1 round,None (auto-hit),N/A
+Rasgard's Flying Bridge,3,Utility,1 AP,3 Health,120 ft.,N/A,Two points within range,N/A,Until dismissed,N/A,N/A
+Solan's Glory,3,"Offense, Crowd Control",1 AP,3 Health,Self,30 ft.,All enemies within radius,N/A,2 rounds,Dodge (dice pool + Reflex),Blinded (2 rounds on failed defense)
+Balathor's Mantle,4,Defense,1 AP,4 Health,Self,N/A,Self,1d8 Fire (melee attackers),Until dismissed,N/A,N/A
+Elemental Bolt IV,4,Offense,1 AP,4 Health,30 ft. (line of sight),N/A,One creature,"1d12 Fire, Ice, or Electric",Instantaneous,Dodge (dice pool + Reflex),N/A
+Inoen's Favor,4,Healing,1 AP,4 Health,Touch,N/A,One creature,N/A,Instantaneous,N/A,N/A
+Luniel's Blessing,4,Utility,1 AP,4 Health,Self,N/A,Self,N/A,Special,N/A,N/A
+Tuvien's Mercy,4,Healing,1 AP,4 Health,30 ft. (line of sight),N/A,One creature (died within the last round),N/A,1 hour,N/A,N/A
+Elemental Bolt V,5,Offense,1 AP,5 Health,30 ft. (line of sight),N/A,One creature,"4d4 Fire, Ice, or Electric",Instantaneous,Dodge (dice pool + Reflex),N/A
+Inoen's Salve,5,Healing,1 AP,5 Health,Touch,N/A,One creature,N/A,Instantaneous,N/A,Removes: Poisoned
+Kerek's Reckoning,5,Utility,1 AP,5 Health,30 ft. (line of sight),N/A,One creature,N/A,Instantaneous,Willpower (dice pool + Willpower),N/A
+Lightning Arc,5,"Offense, Crowd Control",1 AP,5 Health,60 ft. (line of sight),N/A,One creature,2d6 Lightning,Concentration,Dodge (dice pool + Reflex),"Electrified, Immobilized"
+Nunor's Favor,5,Defense,1 AP,5 Health,30 ft.,10 ft.,A point within range,N/A,8 hours,N/A,N/A
+Tuvien's Bond,5,"Defense, Utility",1 AP,5 Health,Touch,N/A,Two willing creatures,N/A,Until dismissed,N/A,N/A
+Elemental Bolt VI,6,Offense,1 AP,6 Health,30 ft. (line of sight),N/A,One creature,"2d10 Fire, Ice, or Electric",Instantaneous,Dodge (dice pool + Reflex),N/A
+Inoen's Blessing,6,Defense,1 AP,6 Health,Self,30 ft.,All allies within radius,N/A,Concentration,N/A,N/A
+Ordred's Respite,6,"Crowd Control, Defense",1 AP,6 Health,Self,20 ft.,Caster and all allies within radius,N/A,Until dismissed,N/A,N/A
+Rasgard's Rage,6,Crowd Control,1 AP,6 Health,60 ft.,60 ft. cone,All creatures within radius,N/A,Instantaneous,Dodge (dice pool + Reflex),"Stunned 1 round (success); Prone + Stunned 2 rounds (failure)"
+Balathor's Wrath,7,"Offense, Crowd Control",1 AP,7 Health,30 ft. (line of sight),30 ft.,A point within range,"2d10 Fire (initial); 1d6 Fire/turn (3 rounds)",3 rounds,Dodge (dice pool + Reflex),N/A
+Elemental Bolt VII,7,Offense,1 AP,7 Health,30 ft. (line of sight),N/A,One creature,"4d6 Fire, Ice, or Electric",Instantaneous,Dodge (dice pool + Reflex),N/A
+Tree of Life,7,Healing,3 AP,7 Health,30 ft. (line of sight),10 ft.,A point within 30 ft.,N/A,Up to 10 rounds,N/A,N/A
+Tuvien's Veil,7,Defense,1 AP,7 Health,Self,30 ft.,Caster and all allies within radius,N/A,Concentration,N/A,N/A
+Balathor's Creation,8,Utility,1 AP,8 Health,Self,N/A,A point adjacent to the caster,N/A,Until all Bolg are slain,N/A,Bleeding Out (on hit past mitigation)
+Elemental Bolt VIII,8,Offense,1 AP,8 Health,30 ft. (line of sight),N/A,One creature,"3d10 Fire, Ice, or Electric",Instantaneous,Dodge (dice pool + Reflex),N/A
+Inoen's Wail,8,Crowd Control,1 AP,8 Health,Self,30 ft.,All enemies within radius,N/A,Concentration,Willpower (dice pool + Willpower),Incapacitated (on failed defense)
+Televard's Fury,8,Offense,1 AP,8 Health,30 ft.,30 ft. cone,All creatures within radius,"4d12 Fire (failure); 2d12 Fire (success)",Instantaneous,Dodge (dice pool + Reflex),N/A
+Tuvien's Covenant,8,Utility,1 AP,8 Health,30 ft.,N/A,Two willing parties,N/A,Permanent until fulfilled or broken,N/A,N/A
+Elemental Bolt IX,9,Offense,1 AP,9 Health,30 ft. (line of sight),N/A,One creature,"4d10 Fire, Ice, or Electric",Instantaneous,Dodge (dice pool + Reflex),N/A
+Lightning Storm,9,Offense,1 AP,9 Health,120 ft. (line of sight),120 ft. (from primary target),"One creature (primary); secondary targets chosen within radius of primary","6d6 Lightning (primary); 3d6 Lightning (secondary)",Concentration,None,"Electrified, Immobilized"
+Nunor's Trident,9,Utility,1 AP,9 Health,Self,N/A,N/A,N/A,Instantaneous,N/A,N/A
+Tuvien's Answer,9,Utility,1 AP,9 Health,Self,N/A,Self,N/A,Instantaneous,N/A,N/A

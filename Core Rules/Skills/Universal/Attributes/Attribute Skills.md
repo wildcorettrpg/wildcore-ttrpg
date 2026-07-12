@@ -18,5 +18,5 @@ Attribute skills represent focused self-improvement — deliberate effort to str
 - [Fortitude Skill](Fortitude%20Skill.md)
 - [Willpower Skill](Willpower%20Skill.md)
 - [Social Skill](Social%20Skill.md)
-- [Vitality Skill](Vitality%20Skill.md)
+- [Health Skill](Health%20Skill.md)
 

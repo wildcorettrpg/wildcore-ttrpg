@@ -52,7 +52,7 @@ Fortitude is the body's trained resistance to environmental punishment — poiso
 
 **Cost:** 1 SP  
 **Prerequisite:** Fortitude VI  
-**Effect:** +10 Vitality.
+**Effect:** +10 Maximum Health.
 
 ### Fortitude VIII
 
@@ -64,7 +64,7 @@ Fortitude is the body's trained resistance to environmental punishment — poiso
 
 **Cost:** 1 SP  
 **Prerequisite:** Fortitude VIII  
-**Effect:** +10 Vitality.
+**Effect:** +10 Maximum Health.
 
 ### Fortitude X
 

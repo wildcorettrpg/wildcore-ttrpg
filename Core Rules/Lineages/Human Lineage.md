@@ -27,6 +27,6 @@ Humans are more susceptible to supernatural compulsion and influence. −2 on Op
 
 ## Opposition Check Modifiers
 
-- +2 on Investigation Opposition Checks when searching for or assessing valuables.
+- +4 on Investigation Opposition Checks when searching for or assessing valuables.
 - +2 on Negotiation Opposition Checks when trading or establishing prices.
 

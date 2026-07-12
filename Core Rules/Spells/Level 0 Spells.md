@@ -61,6 +61,7 @@ The caster lays a hand on the target, raising a shimmering barrier of highly com
 - **Casting Time:** 1 AP
 - **Casting Cost:** None
 - **Range:** 30 ft. (line of sight)
+- **Radius:** 30 ft.
 - **Target:** A location within range
 - **Duration:** Until dismissed
 

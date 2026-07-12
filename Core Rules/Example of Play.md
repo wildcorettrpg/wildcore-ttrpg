@@ -7,7 +7,7 @@ The following scene illustrates how Velocity plays at the table — how Oppositi
 ### Mira
 
 **Lineage:** Elf  
-**Vitality:** 45 (25 base + 20 from Immortal Vitality) | **Health:** 45
+**Max Health:** 45 (25 base + 20 from Immortal Vitality) | **Health:** 45
 
 **Attributes**
 
@@ -31,7 +31,7 @@ The following scene illustrates how Velocity plays at the table — how Oppositi
 | Ranged Attack | III | +2 to ranged damage rolls with light weapons |
 | Light Armor | I | Trained mitigation with light armor |
 
-**Traits:** Arcane Echo (grants access to Spellcasting skills; Spellcasting I unlocked for free), Immortal Vitality (+20 Vitality), Intimidating Presence (+4 on Intimidation Opposition Checks)  
+**Traits:** Arcane Echo (grants access to Spellcasting skills; Spellcasting I unlocked for free), Immortal Vitality (+20 Maximum Health), Intimidating Presence (+4 on Intimidation Opposition Checks)  
 **Flaws:** Grief (−2 on Willpower Opposition Checks against mind-affecting abilities), Faded (−4 on Fortitude Opposition Checks), Distant (−2 on Persuasion and Negotiation Opposition Checks)
 
 **Armor:** Leather armor (light, mitigation 3 trained)  
@@ -44,7 +44,7 @@ The following scene illustrates how Velocity plays at the table — how Oppositi
 ### Cael
 
 **Lineage:** Human  
-**Vitality:** 25 (base) | **Health:** 25
+**Max Health:** 25 (base) | **Health:** 25
 
 **Attributes**
 
@@ -68,7 +68,7 @@ The following scene illustrates how Velocity plays at the table — how Oppositi
 | Melee Attack | III | +2 to melee damage rolls with light weapons |
 | Light Armor | I | Trained mitigation with light armor |
 
-**Traits:** Human Potential (12 starting SP instead of 10), Mundane Presence (cannot be detected by Supernatural Detection or similar abilities), Eye for Value (+2 on Investigation when assessing valuables; +2 on Negotiation when trading), Uncanny Adaptability (once per session, re-roll any failed Opposition Check and take the better result)  
+**Traits:** Human Potential (12 starting SP instead of 10), Mundane Presence (cannot be detected by Supernatural Detection or similar abilities), Eye for Value (+4 on Investigation when assessing valuables; +2 on Negotiation when trading), Uncanny Adaptability (once per session, re-roll any failed Opposition Check and take the better result)  
 **Flaws:** Mortal Nature (−2 on Opposition Checks to resist mind-affecting supernatural abilities)
 
 **Armor:** Leather armor (light, mitigation 3 trained)  
@@ -223,11 +223,11 @@ Voss has his hands up. Then the back door splinters inward. Two enforcers — bi
 
 **Narrator:** You take 16.
 
-*(Cael entered this scene with 21 Health. 21 − 16 = 5 — below both his Wounded threshold (13) and his Dying threshold (7). He crosses both thresholds simultaneously, entering Wounded and then Dying in the same moment.)*
+*(Cael entered this scene with 21 Health. 21 − 16 = 5 — below the 7 HP Consciousness Check threshold. He makes a Consciousness Check immediately.)*
 
-**Cael's player:** That puts me at 5. I'm Dying.
+**Cael's player:** That puts me at 5. Consciousness Check?
 
-**Narrator:** You're Dying — bleeding out, minus 2 on everything. You can still act, but make a Consciousness Check first. 1d10 plus Willpower, against the damage that hit you. That's a 16.
+**Narrator:** Yes — you're below 7. 1d10 plus Willpower, against the damage that hit you. That's a 16.
 
 **Cael's player:** Willpower zero. *(rolls)* Six.
 
@@ -276,13 +276,13 @@ Sela wipes the corner of her mouth — a thin line of blood, the price of castin
 
 **Untrained weapon use shows up in the fiction first.** The −4 penalty on Cael's axe attack meant the enforcer stepped around it like it was nothing. The number didn't just reduce Cael's total — it explained why the story went that way. When the mechanics fit the fiction this cleanly, no one has to explain why something happened.
 
-**Health has two danger zones.** When Cael's Health fell below 13 (his Wounded threshold — half of Vitality 25, rounded up), he entered the Wounded condition and started Bleeding Out: 1 Health per round at the end of his turn. When his Health fell below 7 (his Dying threshold — one quarter of Vitality 25, rounded up), he entered the Dying condition on top of that: −2 on all Opposition Checks, movement reduced by 5 ft, Consciousness Checks on every hit. He crossed both thresholds in the same blow, so both conditions applied at once.
+**Consciousness Checks trigger at 7 HP.** When Cael's Health fell to 5 — below the fixed 7 HP threshold — he made a Consciousness Check immediately. Any source of damage or Health loss that drops a character to 7 or below triggers one: a sword blow, a fall, a Bleeding Out tick. The threshold is the same for every character regardless of Maximum Health.
 
-**Dying is not the end of your turn.** Even in the Dying condition, Cael could still act. The Consciousness Check determined whether he stayed conscious enough to do so. If he'd rolled a 16 or higher, he would have been back on his feet — Wounded, impaired, bleeding, but fighting. The bottom quarter of your Health bar is a last-stand zone, not a waiting room.
+**Consciousness Checks don't end your turn.** Cael still could have acted if he'd passed. The check determines whether he stayed conscious enough to do so. If he'd rolled a 16 or higher, he would have been still standing at 5 Health — hurt, bleeding, but fighting.
 
 **Going unconscious is a story problem, not an elimination.** Cael failed his Consciousness Check, so he went down. That didn't end his role in the scene — it changed what every other character had to respond to. Mira is fighting under pressure. Sela has a reason to act. An unconscious character is a hook, not a removed piece.
 
-**The Consciousness Check is against the damage that triggered it.** Cael rolled 1d10 + Willpower (0) against 16 — the amount of damage that dropped him into the Dying condition. A character with meaningful Willpower investment, or Spellcasting V's trained resilience, would have had a better chance of staying on their feet.
+**The Consciousness Check is against the damage that triggered it.** Cael rolled 1d10 + Willpower (0) against 16 — the damage value that dropped him below 7. A character with meaningful Willpower investment, or Spellcasting V's trained resilience, would have had a better chance of staying on their feet.
 
 **Casting costs Health — visibly.** Sela paid 3 Health to cast Elemental Bolt III. Not a slot, not a point in a mana bar. Health. The blood on her lip was the cost of that casting, legible to everyone in the room. Magic hurts the person using it. That's always true, always present, and never reduced by skill investment.
 

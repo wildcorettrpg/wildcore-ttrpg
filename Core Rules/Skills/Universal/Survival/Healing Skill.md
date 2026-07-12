@@ -13,7 +13,7 @@ Healing is the trained ability to keep people alive under adverse conditions. At
 1. **Treatment cost** — Each treatment costs 1 AP. Some improvised techniques require additional time outside combat, noted in the tier description.
 2. **Healer's Bag** — 5 slots holding up to 5 identical Tiny or Small healing supplies per slot. Using an item removes it from the bag. Unlocked at Healing V. See [Gear](../../../Equipment/Gear.md) §Healer's Supplies.
 3. **Master Healer's Satchel** — 10 slots, same per-slot limit. Unlocked at Healing VII. A character with a Satchel may also use a Healer's Bag if preferred.
-4. **Heroic Measures** — When treating a Wounded or Dying character with a Healer's Bag or Master Healer's Satchel, the healer may declare Heroic Measures instead of a standard treatment. The Opposition Check difficulty is a Narrator-assigned value based on the severity of the patient's injuries (typically Challenging, difficulty 8–13, for Wounded characters; Dangerous, difficulty 14–16, for Dying characters — see the [Opposition Check Difficulty Table](../../../Tables/Opposition%20Check%20Difficulty%20Table.md)), plus 4. On success: the patient is Stabilized, regains consciousness, and recovers Health (Healer's Bag: 1d6 + Willpower; Master Healer's Satchel: 2d6 + Willpower). Costs 1 AP and consumes one item from the bag. Unlocked at Healing VI.
+4. **Heroic Measures** — When treating an injured character with a Healer's Bag or Master Healer's Satchel, the healer may declare Heroic Measures instead of a standard treatment. The Opposition Check difficulty is a Narrator-assigned value based on the severity of the patient's injuries (see the [Opposition Check Difficulty Table](../../../Tables/Opposition%20Check%20Difficulty%20Table.md)), plus 4. On success: the patient is Stabilized, regains consciousness, and recovers Health (Healer's Bag: 1d6 + Willpower; Master Healer's Satchel: 2d6 + Willpower). Costs 1 AP and consumes one item from the bag. Unlocked at Healing VI.
 
 ## Training Tier
 
@@ -21,7 +21,7 @@ Healing is the trained ability to keep people alive under adverse conditions. At
 
 **Cost:** 1 SP  
 **Prerequisite:** None  
-**Effect:** +1 to Healing Opposition Checks. The character can apply improvised pressure or a tourniquet to halt Bleeding Out on a Wounded or Dying character. The patient remains Wounded or Dying but no longer loses Health from bleeding. Requires no equipment beyond available cloth or cordage. Can be performed in or out of combat (1 AP).
+**Effect:** +1 to Healing Opposition Checks. The character can apply improvised pressure or a tourniquet to halt Bleeding Out. The patient remains at their current Health but no longer loses Health from that stack of bleeding. Requires no equipment beyond available cloth or cordage. Can be performed in or out of combat (1 AP).
 
 ### Healing II
 
@@ -65,7 +65,7 @@ Healing is the trained ability to keep people alive under adverse conditions. At
 
 **Cost:** 1 SP  
 **Prerequisite:** Healing VII  
-**Effect:** +1d10 to Healing Opposition Checks. The character may perform Heroic Measures as a Reaction (1 AP) the moment an ally falls Unconscious or enters the Dying condition, without waiting for their turn.
+**Effect:** +1d10 to Healing Opposition Checks. The character may perform Heroic Measures as a Reaction (1 AP) the moment an ally falls Unconscious, without waiting for their turn.
 
 ### Healing IX
 

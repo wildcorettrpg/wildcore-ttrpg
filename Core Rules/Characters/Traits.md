@@ -22,8 +22,9 @@ Each lineage carries its own set of traits. Full trait descriptions appear in th
 
 **Elf** ([Elf Lineage](Elf%20Lineage.md))
 - **Arcane Echo** — Grants access to Spellcasting skills. Spellcasting I is unlocked for free.
-- **Immortal Vitality** — +20 Vitality.
+- **Immortal Vitality** — +20 Maximum Health.
 - **Intimidating Presence** — +4 on Intimidation Opposition Checks.
+- **Living Memory** — +2 on Research Opposition Checks.
 
 **Faerie** ([Faerie Lineage](Faerie%20Lineage.md))
 - **Luminous** — Emits faint ambient light; can produce and direct a nonflammable light illuminating up to 30 ft.

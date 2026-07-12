@@ -27,7 +27,7 @@ Once per day, a Faerie must assume their true form: a purely ethereal state with
 When in their ethereal form, a faerie gains +2 to Opposition Checks to resist magical effects.
 
 ### Lightborne Step
-Faeries walk above the ground, hovering just above its surface. They ignore movement penalties from [Difficult Terrain](../Encounters/Movement%20Skill.md#difficult-terrain) and can pass over bodies of water, deep snow, mud, and other unstable surfaces without impediment. A faerie using Lightborne Step can hover up to 10 feet above any solid object, body of water, or sufficiently viscous fluid.
+Faeries walk above the ground, hovering just above its surface. They ignore movement penalties from [Difficult Terrain](../Encounters/Movement.md#difficult-terrain) and can pass over bodies of water, deep snow, mud, and other unstable surfaces without impediment. A faerie using Lightborne Step can hover up to 10 feet above any solid object, body of water, or sufficiently viscous fluid.
 
 A faerie moving this way gains +4 to all Stealth Opposition Checks.
 
@@ -42,4 +42,4 @@ Iron is antithetical to faerie nature. Any weapon made of iron or steel deals on
 - Automatic success on Opposition Checks to detect or resist deception, lies, or manipulation when within 10 feet.
 - +2 on Opposition Checks to resist magical effects when in their ethereal form.
 - +4 on Stealth Opposition Checks when using Lightborne Step.
-- Ignores movement penalties from Difficult Te
+- Ignores movement penalties from Difficult Terrain.

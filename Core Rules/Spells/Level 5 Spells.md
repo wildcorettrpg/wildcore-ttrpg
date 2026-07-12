@@ -38,7 +38,8 @@ The caster lays a hand on the target. The Poisoned condition ends immediately.
 - **Casting Time:** 1 AP
 - **Casting Cost:** 5 Health
 - **Range:** 30 ft.
-- **Target:** One square
+- **Radius:** 10 ft.
+- **Target:** A point within range
 - **Duration:** 8 hours
 
 A dome of solid ice rises from the target point in a 10 ft. radius. The dome is impervious to mundane and magical attack, cannot be breached by force or spell, and blocks all sound and psychic effects from passing through its walls in either direction — no noise escapes, no noise enters, and mind-affecting spells cannot reach across the boundary.
@@ -58,11 +59,13 @@ Nunor does not provide shelter because he cares. He provides it because he was a
 - **Casting Cost:** 5 Health
 - **Range:** Touch
 - **Target:** Two willing creatures
-- **Duration:** Concentration
+- **Duration:** Until dismissed
 
-The caster touches two willing creatures and binds them together. For as long as the caster maintains Concentration, any damage taken by either bonded creature is divided evenly between both — rounded up to the creature originally struck for odd amounts.
+The caster touches two willing creatures and binds them together. At the moment of casting, one bonded creature designates themselves the **Anchor** and declares an amount (minimum 1). The bond then persists indefinitely — across encounters, across days — until a caster dismisses it.
 
-The bond makes both creatures more resilient against any single attack, and more vulnerable to the cumulative weight of many. It cannot be forced on an unwilling creature. Either bonded creature may ask the caster to end it at any time.
+When the other bonded creature takes damage, the Anchor takes the lesser of the declared amount or the total damage dealt; the remainder is dealt to the struck creature. When the Anchor is struck, they take damage normally — the protection is one-directional.
+
+The bond cannot be forced on an unwilling creature. Either bonded creature may ask the caster to end it at any time. If the Anchor is reduced to 0 Health, the bond is dispelled.
 
 ### Kerek's Reckoning
 

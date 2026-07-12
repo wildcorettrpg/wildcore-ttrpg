@@ -18,7 +18,7 @@ In **Resolution**, the encounter ends when all hostile characters are defeated, 
 
 ## Action Points
 
-Each character receives **3 AP** at the start of their turn — spent on attacks, movement, Concentration, and Reactions. Unspent AP do not carry over. For the full breakdown of costs by action type, see [Actions](Actions.md).
+Each character receives **3 AP** at the start of their turn. Unspent AP do not carry over. For base AP, maximum AP, costs by action type, and which skills grant additional AP, see [Action Points](Action%20Points.md).
 
 ## Making an Attack
 
@@ -46,10 +46,10 @@ Elemental spell damage (fire, cold, lightning, acid) is mitigated by armor norma
 
 ## Conditions
 
-Combat regularly imposes conditions on characters — Dying, Prone, Hindered, Stunned, Bleeding Out, Frightened, and others. Each condition has specific mechanical effects and defined removal triggers. See [Conditions](Conditions.md) for the full list.
+Combat regularly imposes conditions on characters — Prone, Hindered, Stunned, Bleeding Out, Frightened, and others. Each condition has specific mechanical effects and defined removal triggers. See [Conditions](Conditions.md) for the full list.
 
-## Dying and Death
+## Bleeding Out and Death
 
-When a character's Health falls to or below their **wounded threshold** (half their Vitality, rounded up — 13 Health at base Vitality 25), they enter the Wounded condition and begin Bleeding Out. When Health falls further to or below their **dying threshold** (one quarter of their Vitality, rounded up — 7 Health at base Vitality 25), they enter the Dying condition: −2 on all Opposition Checks, movement reduced by 5 ft, Consciousness Checks when they enter the Dying condition, take damage, or lose Health from Bleeding Out. Reaching 0 Health means death.
+The Narrator may apply **Bleeding Out** when a character suffers a significant wound — or any attack, ability, or effect that explicitly causes it. A character who is Bleeding Out loses 1 Health per round at the end of their turn. When any source of damage or Health loss drops a character to **7 Health or below**, they must make a **Consciousness Check**. Reaching 0 Health means death.
 
-See [Dying](../Characters/Dying.md), [Stabilization](../Characters/Stabilization.md), and [Death](../Characters/Death.md).
+See [Consciousness Checks](Consciousness%20Checks.md), [Dying](../Characters/Dying.md), [Stabilization](../Characters/Stabilization.md), and [Death](../Characters/Death.md).

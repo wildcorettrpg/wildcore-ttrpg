@@ -38,7 +38,8 @@ The caster lays a hand on the target, who recovers 1d4 Health.
 - **Casting Time:** 1 AP
 - **Casting Cost:** 1 Health
 - **Range:** 30 ft. (line of sight)
-- **Target:** A point within range; all creatures within 15 ft. of that point
+- **Radius:** 15 ft.
+- **Target:** A point within range
 - **Duration:** Until dismissed
 - **Defense:** Dodge (dice pool + Reflex)
 
@@ -54,7 +55,8 @@ Creatures that succeed their defense are unaffected. Creatures that enter the ar
 - **Casting Time:** 1 AP
 - **Casting Cost:** 1 Health
 - **Range:** Self
-- **Target:** All creatures within 10 ft. of the caster
+- **Radius:** 10 ft.
+- **Target:** All creatures within radius
 - **Duration:** Until dismissed
 
 A wall of swirling seawater rises around the caster in a 10 ft. radius, churning with enough force to deflect and obscure incoming attacks. All enemies attacking creatures within the ward suffer −2 to their attack Opposition Checks. The ward moves with the caster.

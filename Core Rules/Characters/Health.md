@@ -1,25 +1,22 @@
 # Health
 
-## Vitality and Health
+## Maximum Health and Current Health
 
-**Vitality** represents a character's maximum Health. It begins at **25** for every character and increases only through skills or abilities — never through attribute assignment at creation. Vitality does not decrease during play unless a rule explicitly reduces it.
+**Health** has two values:
 
-**Health** represents a character's current physical condition. It is reduced by damage and increased by healing. Health cannot exceed Vitality and cannot be reduced below 0.
+- **Maximum Health** — the ceiling a character's current Health cannot exceed. All characters begin with a Maximum Health of **25**. Maximum Health does not decrease during play unless a rule explicitly reduces it. It increases only through the [Health Skill](../Skills/Universal/Attributes/Health%20Skill.md) tree, Fortitude mastery skills (VII and IX each grant +10), or lineage abilities.
+- **Current Health** — a character's current physical condition. It is reduced by damage and increased by healing. Current Health cannot exceed Maximum Health and cannot be reduced below 0.
 
 ## Starting Values
 
-All characters begin play with **25 Vitality** and Health equal to their Vitality — so every new character starts at full Health.
+All characters begin play with Maximum Health **25** and Current Health equal to their Maximum Health — so every new character starts at full Health.
 
 ## Health Changes
 
-When a character takes damage, reduce their Health by the damage amount after mitigation is applied. When a character receives healing, increase their Health by the amount healed. Health changes are applied immediately.
+When a character takes damage, reduce their Current Health by the damage amount after mitigation is applied. When a character receives healing, increase their Current Health by the amount healed, to a maximum of their Maximum Health. Health changes are applied immediately.
 
-## Health Thresholds
+## Danger Threshold
 
-Thresholds are checked the moment Health is reduced. A character enters the appropriate condition as soon as their Health meets or falls below a threshold.
+When a character's Current Health drops to **7 or below** from any source — incoming damage, Bleeding Out, a fall, or anything else — they must make a **Consciousness Check**. This threshold is fixed for all characters regardless of Maximum Health. See [Consciousness Checks](../Encounters/Consciousness%20Checks.md) for the full procedure.
 
-**Wounded threshold:** half of maximum Vitality, rounded up. A character at or below this value enters the Wounded condition and begins Bleeding Out.
-
-**Dying threshold:** one quarter of maximum Vitality, rounded up. A character at or below this value enters the Dying condition — **−2** on all Opposition Checks, movement reduced by **5 ft** per AP, and Consciousness Checks when they enter the Dying condition, take damage, or lose Health from Bleeding Out.
-
-A character whose Health reaches **0** dies instantly — see [Death](Death.md). For full rules on both conditions, Consciousness Checks, and Bleeding Out, see [Dying](Dying.md). For threshold values at each Vitality total, see [Health Thresholds by Vitality Table](../Tables/Health%20Thresholds%20by%20Vitality%20Table.md).
+A character whose Current Health reaches **0** dies instantly — see [Death](Death.md).

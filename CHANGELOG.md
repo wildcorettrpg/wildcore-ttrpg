@@ -6,6 +6,21 @@ This is the public-facing summary. It doesn't need session-by-session design rat
 
 ## 2026-07-11
 
+**Rules**
+- **Dying system redesigned.** The Wounded and Dying conditions and their per-character threshold calculations are removed. In their place: a single fixed threshold — when a character's Health falls to 7 or below from any source, they make a Consciousness Check (dice pool + Willpower vs. the damage value that triggered it). Failing = Unconscious. The threshold is the same for all characters regardless of Maximum Health.
+- **Bleeding Out is now a Narrator-applied condition**, not an automatic threshold trigger. Any attack, ability, or effect can cause it. 1 Health per round, stacks independently, ends when stabilized.
+- **"Vitality" renamed to "Health."** Health is now a two-value tracked stat: Maximum Health (ceiling) and Current Health (fluctuating). The Vitality skill tree is renamed the Health skill tree (Health I–X).
+- **Kithkin Blood** (Kith and Kin flaw) now triggers while Bleeding Out instead of while Wounded.
+- **Eye for Value** (Human trait) corrected to +4 on Investigation Opposition Checks when assessing valuables.
+- **Elf Living Memory** trait added: +2 on Research Opposition Checks. **Arcane Echo** expanded: also grants +2 on Supernatural Opposition Checks when detecting magical creatures.
+- **Principle 6 exception documented:** halving and doubling values are explicitly permitted. "Half damage" and "double damage" are universally understood and not flagged as math violations.
+
+**Spells**
+- **Radius field added** to all AoE and cone spell stat blocks (Level 0–9) and to Spells.csv. Each area-effect spell now explicitly states its radius (e.g., "30 ft.", "60 ft. cone") in its own stat block field, separate from Range and Target.
+- **Tuvien's Bond redesigned** (Level 5). The old equal-split mechanic is replaced by an **Anchor** system: at cast time, one bonded creature designates themselves the Anchor and declares a flat absorption amount. When the other creature takes damage, the Anchor takes the lesser of that amount or the total damage; the remainder goes to the struck creature. Protection is one-directional. The bond now persists until dismissed by a caster — no longer requires Concentration — and remains active across encounters indefinitely.
+- **Tree of Life** (Level 7): Radius reduced to 10 ft. (from "line of sight"). Casting Time raised to 3 AP. Healing Pool increased to Willpower + 20. Flat drain design — no division anywhere.
+- **Solan's Glory** (Level 3): Description completed (was truncated mid-sentence in source file).
+
 **Website**
 - "Cinema-first" replaced with "narrative-first" throughout the site and Starter Kit.
 
@@ -62,3 +77,5 @@ This is the public-facing summary. It doesn't need session-by-session design rat
 - Split the old single "dying" threshold into two stages: **Wounded** (half of max Vitality) and **Dying** (a quarter of max Vitality). Bleeding Out now begins at Wounded rather than Dying, creating urgency earlier.
 - Renamed **Situational Awareness** to **Perception** and moved it from the Investigation skill branch to Survival, where it no longer requires another skill as a prerequisite.
 - Reworded some Investigation skill descriptions to fit the setting better.
+- Added a Health Thresholds by Vitality reference table.
+- Updated the Starter Kit adventure to match the above.

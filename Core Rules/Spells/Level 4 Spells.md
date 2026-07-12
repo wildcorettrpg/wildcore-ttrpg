@@ -56,9 +56,9 @@ The caster lays a hand on the target, who recovers 1d8 Health.
 - **Target:** Self
 - **Duration:** Special
 
-The caster calls on Luniel, Goddess of Life, summoning an ethereal creature to fight at their side. The caster chooses the creature's form at cast time from the animal shapes available to a Shapeshifter (see [Shapeshifter Lineage](Shapeshifter%20Lineage.md)). The creature appears adjacent to the caster and acts on the caster's turn, following their commands.
+The caster calls on Luniel, Goddess of Life, summoning an ethereal creature to fight at their side. The caster chooses the creature's form at cast time from the animal shapes available to a Shapeshifter (see [Shapeshifter Lineage](../Lineages/Shapeshifter%20Lineage.md)). The creature appears adjacent to the caster and acts on the caster's turn, following their commands.
 
-The creature's Vitality is equal to half the caster's current Vitality score, rounded down. It uses the stat block for its chosen animal form. The creature is vulnerable to magic and iron weapons — attacks of either type deal double damage to it. It cannot be healed by any means.
+The creature's Maximum Health is equal to half the caster's current Maximum Health, rounded down. It uses the stat block for its chosen animal form. The creature is vulnerable to magic and iron weapons — attacks of either type deal double damage to it. It cannot be healed by any means.
 
 When the creature's Health reaches 0, it vanishes. The caster may also dismiss it at any time at no cost.
 

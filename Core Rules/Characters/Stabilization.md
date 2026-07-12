@@ -2,13 +2,13 @@
 
 ## What Stabilization Does
 
-A Wounded or Dying character can be stabilized by a healer. Stabilization ends **Bleeding Out** — nothing more. It does not restore Health, and it does not remove the Wounded, Dying, or Unconscious conditions. A stabilized character is no longer Bleeding Out and no longer makes Consciousness Checks, since Consciousness Checks are a consequence of the Dying condition. Conditions are independent of one another; stabilization addresses only Bleeding Out.
+A character who is Bleeding Out can be stabilized by a healer. Stabilization ends **Bleeding Out** — nothing more. It does not restore Health, and it does not remove the Unconscious condition. A stabilized character at 7 Health or below may still make Consciousness Checks if they take further damage — Stabilization addresses the wound, not the character's current Health.
 
 ## Requirements
 
 To attempt stabilization, the healer must be adjacent to the patient and must spend an action on the attempt.
 
-**Healing Opposition Check.** The target difficulty is the patient's **wounded threshold minus their current Health**, plus a situational modifier: no modifier if the attempt is made outside combat, **+4** if made during combat.
+**Healing Opposition Check.** The Narrator assigns a difficulty from the [Opposition Check Difficulty Table](../Tables/Opposition%20Check%20Difficulty%20Table.md) based on the severity of the patient's condition — typically Challenging (8–13) for a stable situation outside combat, and Dangerous (14–16) in active combat or for a patient close to death.
 
 The healer's roll is **1d10** (plus any additional dice granted by Healing skills), plus flat bonuses from Healing skills (Healing I, II, V, and VI each grant **+1**). Using a Healer's Bag item during the attempt adds **+2** to the roll; using a Master Healer's Satchel item adds **+4**. Consuming an item in either case uses one item from the bag or satchel.
 
@@ -24,4 +24,6 @@ A stabilized character remains at their current Health. They can still take dama
 
 A character with **Healing II** or higher can perform a Forced Awakening on an Unconscious character using smelling salts or an equivalent stimulant. The healer must be adjacent to the patient. Forced Awakening costs **1 AP** and requires no Opposition Check. It may only be attempted once per patient per incident.
 
-Forced Awakening removes the **Unconscious** condition — the character regains consciousness immediately. All other conditions present at the time of awakening remain in effect; a character who was Dying and Bleeding Out continues to be Dying and Bleeding Out. The awakened character is **Prone** and **Hindered** until they receive medical treatment or the scene ends.
+Forced Awakening removes the **Unconscious** condition — the character regains consciousness immediately. All other conditions present at the time of awakening remain in effect; a character who was Bleeding Out continues to be Bleeding Out. The awakened character is **Prone** and **Hindered** until they receive medical treatment or the scene ends.
+
+If the awakened character is still Bleeding Out and their Health remains at 7 or below, they must resume making [Consciousness Checks](../Encounters/Consciousness%20Checks.md) each time they lose Health — Forced Awakening restores consciousness, not safety.

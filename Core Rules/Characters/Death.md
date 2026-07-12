@@ -2,7 +2,7 @@
 
 ## Instant Death
 
-A character who reaches **zero Health** dies immediately. The Dying condition ends at that moment. A dead character cannot take actions, cannot be stabilized, and cannot be forcibly awakened.
+A character who reaches **zero Health** dies immediately. A dead character cannot take actions, cannot be stabilized, and cannot be forcibly awakened.
 
 ## Catastrophic Destruction
 

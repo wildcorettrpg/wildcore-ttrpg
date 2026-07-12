@@ -65,7 +65,7 @@
 
 ## Unarmed
 
-1. Unarmed attacks have no base damage die (see [Combat](../Encounters/Combat.md)'s Unarmed Attacks section).
+1. Unarmed attacks have no base damage die — damage is Strength bonus only (minimum 1).
 2. Unarmed damage equals the attacker's flat Strength bonus, minimum 1 point.
 3. Unarmed attacks have no Size or Cost — they require no equipment.
 
@@ -107,4 +107,4 @@ Special ammunition replaces standard ammunition for that attack and is consumed 
 
 ## Notes for Playtesting
 
-Damage dice are Velocity-native values derived from d20 SRD base damage stepped up one die tier (d4→d6, d6→d8, d8→d10, d10→d12, d12/2d6→3d6). Weapon categories (Light/Medium/Heavy) reflect proficiency access tiers, not damage tiers — category and damage die are independent. Costs are ported from d20 source material and are expected to be tuned once tested against Velocity's damage, mitigation, and Vitality scale.
+Damage dice are Velocity-native values derived from d20 SRD base damage stepped up one die tier (d4→d6, d6→d8, d8→d10, d10→d12, d12/2d6→3d6). Weapon categories (Light/Medium/Heavy) reflect proficiency access tiers, not damage tiers — category and damage die are independent. Costs are ported from d20 source material and are expected to be tuned once tested against Velocity's damage, mitigation, and Health scale.

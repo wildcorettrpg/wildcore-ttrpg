@@ -38,10 +38,11 @@ The caster lays a hand on the target, who recovers 1d6 Health.
 - **Casting Time:** 1 AP
 - **Casting Cost:** 3 Health
 - **Range:** 30 ft.
-- **Target:** One square
+- **Radius:** 30 ft.
+- **Target:** A point within range
 - **Duration:** Until dismissed
 
-The caster summons a rainstorm centered on the target square. The storm appears regardless of location — indoors or out — and spreads in a 30 ft. radius from the target point. While the storm persists:
+The caster summons a rainstorm centered on the target point. The storm appears regardless of location — indoors or out — and spreads in a 30 ft. radius from the target point. While the storm persists:
 
 - Environmental fires within the storm are extinguished. Small fires — torches, lanterns, campfires — go out immediately. Large fires (a burning building, a burning ship) are suppressed over the course of several rounds at the Narrator's discretion.
 - All fire-based attacks against creatures within the storm deal half damage.
@@ -86,9 +87,12 @@ The caster may dismiss the bridge at any time at no cost. If the caster is knock
 - **Category:** Offense, Crowd Control
 - **Casting Time:** 1 AP
 - **Casting Cost:** 3 Health
-- **Range:** 30 ft. radius centered on the caster
-- **Target:** All enemies within range
+- **Range:** Self
+- **Radius:** 30 ft.
+- **Target:** All enemies within radius
 - **Duration:** 2 rounds
 - **Defense:** Dodge (dice pool + Reflex)
 
-A burst of white light flashes from the ca
+A burst of white light flashes from the caster, flooding the area in blinding radiance. All enemies within radius must make a Dodge Opposition Check against the caster's Spellcasting dice pool + Willpower. On a failed defense, the target is Blinded for 2 rounds. On a successful defense, they are unaffected.
+
+Solan does not warn. He simply illuminates.

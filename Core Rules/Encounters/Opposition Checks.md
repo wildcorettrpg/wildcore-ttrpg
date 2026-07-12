@@ -1,4 +1,6 @@
 
+# Opposition Checks
+
 Opposition Checks determine the outcome of any action where one character’s capability directly contests another’s. They are the core resolution mechanic of Velocity. Grapples, negotiations, supernatural clashes, social conflicts, and all other contested actions are resolved through an Opposition Check unless otherwise specified. Physical and magical attacks follow the same structure — see the Actions chapter for attack-specific details. The one deliberate exception is Stabilization, which uses a check against a stated difficulty rather than an opposed dice pool — see [Stabilization](../Characters/Stabilization.md).
 
 Opposition Checks emphasize character capability over randomness. Attributes matter. Skills matter. Dice introduce uncertainty, but they do not overshadow the inherent strengths and weaknesses of the characters involved.
@@ -21,7 +23,7 @@ A stalemate represents a moment of tension where neither side gains ground. The 
 
 Physical and magical attacks are resolved as Opposition Checks. The attacker rolls their dice pool + Strength (melee) or Willpower (magical). Dice and flat bonuses come from applicable attack skills. The defender responds with their chosen defensive skill. Armor does not prevent hits; it mitigates damage after the attack lands. See the Actions chapter for the full attack resolution procedure.
 
-Spell attacks follow the same structure, but the defender's response depends on the spell's type (per its description). **Physical and elemental spells** (fire, lightning, force, cold, and similar) can only be Dodged — Parry and Block cannot deflect or absorb magic. **Mind-affecting spells** (charm, compulsion, illusion, fear, and similar) are resisted with the defender's dice pool + Willpower — a contest of wills that no physical defense can counter. See [Actions](Actions.md) §8.3 for the full procedure.
+Spell attacks follow the same structure, but the defender's response depends on the spell's type (per its description). **Physical and elemental spells** (fire, lightning, force, cold, and similar) can only be Dodged — Parry and Block cannot deflect or absorb magic. **Mind-affecting spells** (charm, compulsion, illusion, fear, and similar) are resisted with the defender's dice pool + Willpower — a contest of wills that no physical defense can counter. See [Attack Resolution](Actions.md#attack-resolution) for the full procedure.
 
 A successful defense Opposition Check against a spell does not automatically mean the target escapes unharmed. The spell's description defines what happens on a successful or failed defense. If the spell specifies no outcome for a successful defense, the target is assumed to emerge unaffected.
 
