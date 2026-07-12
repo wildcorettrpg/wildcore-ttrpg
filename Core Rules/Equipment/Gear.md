@@ -51,8 +51,8 @@ Unlike a backpack, healer's bags impose a per-slot item limit of 5. A slot holds
 
 | Item | Size | Cost | Slots | Per-slot limit | Notes |
 | :--- | :--- | ----: | :--- | :--- | :--- |
-| Healer's Bag | Small | 5 gp | 5 Tiny/Small | 5 items | Unlocked at Healing V — see [Healing](../Skills/Universal/Survival/Healing%20Skill.md) and [Recovery](../Characters/Recovery.md) §3 |
-| Master Healer's Satchel | Medium | 20 gp | 10 Tiny/Small | 5 items | Unlocked at Healing VII — see [Healing](../Skills/Universal/Survival/Healing%20Skill.md) and [Recovery](../Characters/Recovery.md) §3 |
+| Healer's Bag | Small | 5 gp | 5 Tiny/Small | 5 items | Unlocked at Healing V — see [Healing](../Skills/Universal/Survival/Healing%20Skill.md) and [Recovery](../Conditions%20and%20Hazards/Recovery.md) §3 |
+| Master Healer's Satchel | Medium | 20 gp | 10 Tiny/Small | 5 items | Unlocked at Healing VII — see [Healing](../Skills/Universal/Survival/Healing%20Skill.md) and [Recovery](../Conditions%20and%20Hazards/Recovery.md) §3 |
 
 ### Healing Potions
 
@@ -78,17 +78,17 @@ Using a healing supply to treat a condition requires an Opposition Check where t
 
 | Item | Size | Cost | Purpose |
 | :--- | :--- | ----: | :--- |
-| Antivenom (Lethal) | Tiny | 75 gp | End a Lethal poison immediately. No check required. See [Poisons](../Encounters/Poisons.md). |
-| Antivenom (Mild) | Tiny | 10 gp | End a Mild poison immediately. No check required. See [Poisons](../Encounters/Poisons.md). |
-| Antivenom (Potent) | Tiny | 30 gp | End a Potent poison immediately. No check required. See [Poisons](../Encounters/Poisons.md). |
-| Bandages | Tiny | 1 sp | Stop Bleeding Out. Opposition Check required; Healing bonuses apply. A bundle of bandages is also required when setting a bone with a Bone Splint. |
+| Antivenom (Lethal) | Tiny | 75 gp | End a Lethal poison immediately. No check required. See [Poisons](../Conditions%20and%20Hazards/Poisons.md). |
+| Antivenom (Mild) | Tiny | 10 gp | End a Mild poison immediately. No check required. See [Poisons](../Conditions%20and%20Hazards/Poisons.md). |
+| Antivenom (Potent) | Tiny | 30 gp | End a Potent poison immediately. No check required. See [Poisons](../Conditions%20and%20Hazards/Poisons.md). |
+| Bandages | Tiny | 1 sp | Stop [Bleeding Out](../Conditions%20and%20Hazards/Conditions.md#bleeding-out). Opposition Check required; Healing bonuses apply. A bundle of bandages is also required when setting a bone with a Bone Splint. |
 | Bone Splint | Tiny | 5 sp | Set and immobilize a broken limb. Opposition Check required; Healing bonuses apply. Requires Bandages to bind the splint in place. |
 | Common Herbs (bundle) | Tiny | 5 sp | Raw ingredient. One bundle yields one poultice or one dose of healing potion when prepared with a Mortar & Pestle. |
 | Fever Tonic | Tiny | 5 gp | End a fever or illness. Opposition Check required; Healing bonuses apply. |
 | Healing Salve | Tiny | 2 gp | Restore 2 Health when applied to a wound. No check required. |
 | Mortar & Pestle | Small | 3 gp | Tool required to prepare poultices, herbal remedies, and healing potions from raw ingredients. Not consumed on use. |
 | Poultice | Tiny | 1 gp | Herbal compress applied to a wound. Opposition Check required; Healing bonuses apply. On success, restores 1d4 Health. Can be prepared from one bundle of Common Herbs using a Mortar & Pestle, or purchased ready-made. |
-| Smelling Salts | Tiny | 1 gp | **Forced Awakening** (see [Stabilization](../Characters/Stabilization.md#forced-awakening)). Requires Healing II. Costs 1 AP. Once per patient per incident. Removes the Unconscious condition immediately — the patient wakes Prone and Hindered until they receive medical treatment or the scene ends. Does not restore Health. No check required. |
+| Smelling Salts | Tiny | 1 gp | **Forced Awakening** (see [Stabilization](../Conditions%20and%20Hazards/Stabilization.md#forced-awakening)). Requires Healing II. Costs 1 AP. Once per patient per incident. Removes the [Unconscious](../Conditions%20and%20Hazards/Conditions.md#unconscious) condition immediately — the patient wakes [Prone](../Conditions%20and%20Hazards/Conditions.md#prone) and [Hindered](../Conditions%20and%20Hazards/Conditions.md#hindered) until they receive medical treatment or the scene ends. Does not restore Health. No check required. |
 | Vial (empty) | Tiny | 5 sp | Required to bottle a crafted healing potion or other prepared remedy. One vial per dose produced. Stacks by type. |
 
 Costs and healing values are first-draft; calibrate during playtesting.

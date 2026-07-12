@@ -1,6 +1,6 @@
 # Spells
 
-Spells are supernatural effects unlocked by the [Spellcasting](../Skills/Universal/Combat/Spellcasting%20Skill.md) skill tree. For rules on casting, spell attacks, defense, Health cost, and overcharging, see [Magic](../Encounters/Magic.md).
+Spells are supernatural effects unlocked by the [Spellcasting](../Skills/Universal/Combat/Spellcasting%20Skill.md) skill tree. For rules on casting, spell attacks, defense, Health cost, and overcharging, see [Magic](../Magic/Magic.md).
 
 
 ## Spell List by Level

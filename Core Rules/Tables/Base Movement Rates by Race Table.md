@@ -1,6 +1,6 @@
-# Base Movement Rates by Lineage Table
+# Base Movement Rates by Race Table
 
-| Lineage      | Base movement (per AP) | Notes                                                        |
+| Race         | Base movement (per AP) | Notes                                                        |
 | ------------ | ----------------------: | ------------------------------------------------------------ |
 | Human        | 30 ft                   | Baseline for all calculations.                               |
 | Dwarf        | 30 ft                   | Small size; dense build does not reduce speed.               |
@@ -8,4 +8,4 @@
 | Faerie       | 30 ft                   | Human-equivalent movement in physical form.                  |
 | Kin          | 25 ft                   | Small size; movement penalty applies.                        |
 | Kith         | 25 ft                   | Small size; Wallcrawler trait grants full movement on vertical surfaces. |
-| Shapeshifter | 30 ft                   | Human form only. Animal form movement varies by form — see [Shapeshifter Lineage](Shapeshifter%20Lineage.md) §Animal Forms. |
+| Shapeshifter | 30 ft                   | Human form only. Animal form movement varies by form — see [Shapeshifter Race](Shapeshifter%20Lineage.md) §Animal Forms. |

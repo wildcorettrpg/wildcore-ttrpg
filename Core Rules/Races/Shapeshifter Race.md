@@ -1,4 +1,4 @@
-# Shapeshifter Lineage
+# Shapeshifter Race
 
 Shapeshifters appear entirely human — and in many ways, they are. But somewhere around puberty, a second self awakens: an animal form that is uniquely theirs and fixed for life. When they transform, they leave their human attributes behind entirely and become the animal — its speed, its senses, its instincts. The animal is not a mask. It has its own name, its own personality, and its own opinions about what the human half should be doing. They are frequently at odds.
 
@@ -39,7 +39,7 @@ Shapeshifters are distrusted by society at large. −4 on all Social Opposition 
 
 ## Animal Forms
 
-A Shapeshifter’s animal form is chosen at character creation (or when the lineage is unlocked through play) and is fixed for life. It is not a choice so much as a discovery — the form that surfaced at puberty is the only one there is.
+A Shapeshifter’s animal form is chosen at character creation (or when the race is unlocked through play) and is fixed for life. It is not a choice so much as a discovery — the form that surfaced at puberty is the only one there is.
 
 In animal form, the character retains their own Strength and Reflex for attack rolls and defense. Melee Attack skill bonuses apply to natural weapon attacks — claws, fangs, and talons are melee attacks. Natural weapons require no proficiency and impose no untrained penalty. Keen Senses, Low-Light Vision, and Mindspeech carry over in all forms.
 

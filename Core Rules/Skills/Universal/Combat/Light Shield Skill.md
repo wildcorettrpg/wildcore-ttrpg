@@ -13,7 +13,7 @@ Light shields — wooden shields, steel shields, and bucklers — are carried in
 1. An untrained character wielding a light shield uses the Benefit (untrained) value from the [shield table](../../../Equipment/Armor.md#shields).
 2. Light Shield I grants access to the Benefit (trained) value.
 3. Light shields require the off-hand to grip. A buckler is the exception — it straps to the forearm, allowing the same arm to carry a one-handed weapon or item.
-4. The Block bonus applies only when actively blocking. A character who is Incapacitated, Restrained, or otherwise unable to use the shield loses this bonus.
+4. The Block bonus applies only when actively blocking. A character who is [Incapacitated](../../../Conditions%20and%20Hazards/Conditions.md#incapacitated), Restrained, or otherwise unable to use the shield loses this bonus.
 
 ## Skills
 
@@ -45,4 +45,4 @@ Light shields — wooden shields, steel shields, and bucklers — are carried in
 
 **Cost:** 1 SP  
 **Prerequisite:** Light Shield IV  
-**Effect:** **Shield Bash.** You may make a Shield Bash as a melee attack (1 AP). Roll a standard attack Opposition Check (Melee Attack dice + Strength). On a hit, the bash deals 1d4 damage plus the attacker's flat Strength bonus (minimum 1), and the target is Hindered until the start of your next turn. The Strength attribute damage bonus (1 bonus die per 3 points of Strength, per [Damage](../../../Encounters/Damage.md) §3) applies normally.
+**Effect:** **Shield Bash.** You may make a Shield Bash as a melee attack (1 AP). Roll a standard attack Opposition Check (Melee Attack dice + Strength). On a hit, the bash deals 1d4 damage plus the attacker's flat Strength bonus (minimum 1), and the target is [Hindered](../../../Conditions%20and%20Hazards/Conditions.md#hindered) until the start of your next turn. The Strength attribute damage bonus (1 bonus die per 3 points of Strength, per [Damage](../../../Encounters/Damage.md) §3) applies normally.

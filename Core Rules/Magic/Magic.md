@@ -34,9 +34,9 @@ Some spells require sustained effort — see [Concentration Spells](#concentrati
 
 ## Spell Attacks
 
-When a spell targets an unwilling creature, the caster makes a Spellcasting attack Opposition Check. The caster's [dice pool](Dice%20Pools.md) comes from Spellcasting skills that explicitly grant dice to the roll, plus a flat bonus from Willpower and any applicable flat skill bonuses. The target responds with a defensive Opposition Check.
+When a spell targets an unwilling creature, the caster makes a Spellcasting attack Opposition Check. The caster's [dice pool](../Core%20Mechanics/Dice%20Pools.md) comes from Spellcasting skills that explicitly grant dice to the roll, plus a flat bonus from Willpower and any applicable flat skill bonuses. The target responds with a defensive Opposition Check.
 
-**Attacker:** Spellcasting [dice pool](Dice%20Pools.md) + Willpower  
+**Attacker:** Spellcasting [dice pool](../Core%20Mechanics/Dice%20Pools.md) + Willpower  
 **Defender:** see [Spell Defense](#spell-defense) below
 
 If the caster's total exceeds the defender's total, the spell hits. On a hit, apply the spell's effect.
@@ -53,9 +53,9 @@ How a target resists a spell depends on the spell's type, as stated in the spell
 
 **Magical spells** (force, conjured weapons, and effects that are purely supernatural rather than a physical phenomenon) can only be Dodged. Armor provides no mitigation against these effects — there is nothing physical to block. A defender who cannot or chooses not to Dodge takes the full damage. Spells that bypass armor will state **(unmitigated)** in their Damage line.
 
-**Mind-affecting spells** (charm, compulsion, illusion, fear, and similar) are resisted with the defender's [dice pool](Dice%20Pools.md) + Willpower. No physical defense can counter a spell that targets the mind; Parry and Block are unavailable. A defender who cannot make a Willpower check (Stunned, Unconscious, [Incapacitated](Conditions.md), or similar) takes the hit automatically.
+**Mind-affecting spells** (charm, compulsion, illusion, fear, and similar) are resisted with the defender's [dice pool](../Core%20Mechanics/Dice%20Pools.md) + Willpower. No physical defense can counter a spell that targets the mind; Parry and Block are unavailable. A defender who cannot make a Willpower check ([Stunned](../Conditions%20and%20Hazards/Conditions.md#stunned), [Unconscious](../Conditions%20and%20Hazards/Conditions.md#unconscious), [Incapacitated](../Conditions%20and%20Hazards/Conditions.md#incapacitated), or similar) takes the hit automatically.
 
-A defender who cannot make any defensive Opposition Check — because they are [Vulnerable](Conditions.md), unable to act or react, or lack the AP to pay for a defensive Reaction — takes the hit automatically. Armor mitigation still applies normally.
+A defender who cannot make any defensive Opposition Check — because they are [Vulnerable](../Conditions%20and%20Hazards/Conditions.md#vulnerable), unable to act or react, or lack the AP to pay for a defensive Reaction — takes the hit automatically. Armor mitigation still applies normally.
 
 ## Health Cost
 
@@ -112,7 +112,7 @@ A caster may choose to overcharge a spell at the moment of casting, pushing more
 
 Some spells require ongoing effort to maintain. A spell with a Duration of *Concentration* costs **1 AP per round**, paid at the start of the caster's turn, to sustain its effect. If the caster does not pay or cannot pay the AP cost, the spell ends.
 
-See [Concentration](Concentration.md) for full rules — Concentration Checks, Intense Concentration, and stacking limits.
+See [Concentration](Concentration.md) for full rules — Concentration Checks and stacking limits.
 
 ## How to Read a Spell Entry
 
@@ -131,7 +131,7 @@ Each spell in the catalog uses the following fields:
 
 ## The Sight Abilities
 
-Far Sight, Long Sight, and True Sight are cross-lineage traits, not spells. They are innate perceptions — present from birth, requiring no Spellcasting investment, costing no Health, and contributing nothing to the Predation Clock. They cannot be learned, purchased, or trained.
+Far Sight, Long Sight, and True Sight are cross-race traits, not spells. They are innate perceptions — present from birth, requiring no Spellcasting investment, costing no Health, and contributing nothing to the Predation Clock. They cannot be learned, purchased, or trained.
 
 Characters who possess one of these abilities are **God-touched**. See [Traits](../Characters/Traits.md#god-touched) for full rules on God-touched characters and the three Sight abilities.
 
@@ -141,4 +141,4 @@ Characters who possess one of these abilities are **God-touched**. See [Traits](
 The spell catalog lists available spells by level. See [Spells](../Spells/Spells.md).
 
 Campaign settings may add spells to any level. Spells listed in the Core Rules catalog are available in any setting unless a campaign setting explicitly restricts them.
-                                                                                                                              
+                                                                                                                             

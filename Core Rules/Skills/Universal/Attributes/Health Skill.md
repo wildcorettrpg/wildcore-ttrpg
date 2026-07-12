@@ -6,14 +6,14 @@
 
 ## Description
 
-Health investment represents physical conditioning, biological resilience, and the capacity to absorb punishment and keep going. It raises a character's Maximum Health — the ceiling that current Health cannot exceed. All characters begin with a Maximum Health of 25. Investment in the Health branch increases that ceiling, making the character harder to bring down. Lineage abilities can push Maximum Health beyond what this tree can achieve, reflecting the supernatural hardiness of non-human beings.
+Health investment represents physical conditioning, biological resilience, and the capacity to absorb punishment and keep going. It raises a character's Maximum Health — the ceiling that current Health cannot exceed. All characters begin with a Maximum Health of 25. Investment in the Health branch increases that ceiling, making the character harder to bring down. Race abilities can push Maximum Health beyond what this tree can achieve, reflecting the supernatural hardiness of non-human beings.
 
 Each skill in this tree costs Skill Points equal to its tier number — Health I costs 1 SP, Health II costs 2 SP, and so on up to Health X at 10 SP. The full tree costs 55 SP and raises Maximum Health by 40 (to 65).
 
 ## Notes
 
 1. Maximum Health is the ceiling for current Health. Increasing Maximum Health does not restore current Health — it only raises the cap.
-2. Fortitude VII and IX (each +10 Maximum Health) and lineage abilities may increase Maximum Health beyond the values achievable through this tree alone.
+2. Fortitude VII and IX (each +10 Maximum Health) and race abilities may increase Maximum Health beyond the values achievable through this tree alone.
 
 ## Training Tier
 

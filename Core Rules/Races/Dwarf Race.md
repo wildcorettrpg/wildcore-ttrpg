@@ -1,4 +1,4 @@
-# Dwarf Lineage
+# Dwarf Race
 
 Dwarves are compact athletes — shorter than five feet, built with dense muscle and trained from childhood for physical precision. They construct soaring cities of gleaming crystal, throwing skybridges across open sky hundreds of feet up with the same casual confidence they bring to everything else. They work harder than anyone and celebrate louder than anyone. They know no fear, which is occasionally a problem.
 

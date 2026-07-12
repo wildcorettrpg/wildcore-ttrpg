@@ -8,7 +8,7 @@ The stone itself is roughly the size of a closed fist, dark — deep grey-black,
 
 Only Faeries can make them. This is not a matter of craft or recipe — it is a matter of what Faeries are. The runes are not decorative; they are the stone's function, inscribed by a hand incapable of falsehood into material that remembers it. No human artifice has ever produced one. No human artifice ever will.
 
-*Core Rules reference: Core Rules/Lineages/Faerie.md — Incapable of Deception, Sense Truth.*
+*Core Rules reference: Core Rules/Races/Faerie.md — Incapable of Deception, Sense Truth.*
 
 ## How It Works
 

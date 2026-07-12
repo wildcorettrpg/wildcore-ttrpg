@@ -6,9 +6,9 @@ Movement represents a character's ability to reposition during a round. All move
 
 ## Movement Allowance
 
-A character's movement allowance is equal to their lineage's base movement. Spending **1 AP** grants a movement pool equal to the character's full base movement. Additional AP may be spent to increase total movement according to the movement mode being used — see [Movement Modes Table](../Tables/Movement%20Modes%20Table.md) for a quick-reference breakdown by mode and AP spent. Lineage traits, abilities, or conditions may increase or reduce movement allowance. Movement may be divided around actions unless a rule states otherwise.
+A character's movement allowance is equal to their race's base movement. Spending **1 AP** grants a movement pool equal to the character's full base movement. Additional AP may be spent to increase total movement according to the movement mode being used — see [Movement Modes Table](../Tables/Movement%20Modes%20Table.md) for a quick-reference breakdown by mode and AP spent. Race traits, abilities, or conditions may increase or reduce movement allowance. Movement may be divided around actions unless a rule states otherwise.
 
-## Standing from Prone
+## Standing from [Prone](../Conditions%20and%20Hazards/Conditions.md#prone)
 
 Standing from prone is a Free Action. It costs no AP and does not consume movement. A character may stand at any point during their turn.
 
@@ -34,12 +34,12 @@ Some abilities grant special movement modes such as teleportation, shadow-step, 
 
 ## Movement and Conditions
 
-**Prone:** The character takes a **−4 penalty** on Opposition Checks made to Dodge, Parry, or Block (Dodge remains available — see [Conditions](Conditions.md)), and may crawl or stand.
+**[Prone](../Conditions%20and%20Hazards/Conditions.md#prone):** The character takes a **−4 penalty** on Opposition Checks made to Dodge, Parry, or Block (Dodge remains available — see [Conditions](../Conditions%20and%20Hazards/Conditions.md)), and may crawl or stand.
 
-**Hindered:** The character has only **1 AP per round** and moves at half their normal movement rate.
+**[Hindered](../Conditions%20and%20Hazards/Conditions.md#hindered):** The character has only **1 AP per round** and moves at half their normal movement rate.
 
-**Incapacitated:** The character may crawl (per the Crawling movement modes) but cannot otherwise move under their own power.
+**[Incapacitated](../Conditions%20and%20Hazards/Conditions.md#incapacitated):** The character may crawl (per the Crawling movement modes) but cannot otherwise move under their own power.
 
-**Unconscious:** The character is prone and cannot move at all — Unconscious's own restrictions are stricter than Incapacitated's and control.
+**[Unconscious](../Conditions%20and%20Hazards/Conditions.md#unconscious):** The character is prone and cannot move at all — [Unconscious](../Conditions%20and%20Hazards/Conditions.md#unconscious)'s own restrictions are stricter than [Incapacitated](../Conditions%20and%20Hazards/Conditions.md#incapacitated)'s and control.
 
 Other conditions may impose additional movement penalties or restrictions.

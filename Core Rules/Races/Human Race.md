@@ -1,4 +1,4 @@
-# Human Lineage
+# Human Race
 
 Humanity's defining quality is not strength, magic, or longevity — it's potential. Humans learn faster and adapt more readily than any other people. In a world shaped by the supernatural, their mundane nature is both a vulnerability and a kind of camouflage.
 

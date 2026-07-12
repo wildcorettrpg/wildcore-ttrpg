@@ -1,4 +1,4 @@
-# Elf Lineage
+# Elf Race
 
 Elves are tall—often seven feet in height—with lean, muscular builds. They are graceful and noble in bearing — and profoundly, quietly sad. 
 
@@ -38,11 +38,4 @@ Immortality and perfect memory are a heavy combination. Every loss an elf has ev
 The fading of their innate magic left elves physically fragile in ways their constitution cannot compensate for. −4 on Fortitude Opposition Checks.
 
 ### Distant
-That same imperious quality that makes elves so formidable in confrontation makes genuine warmth nearly impossible. −2 on Persuasion and Negotiation Opposition Checks.
-
-## Opposition Check Modifiers
-
-- +2 on Research Opposition Checks.
-- +2 on Supernatural Opposition Checks when attempting to detect the presence and type of magical creatures.
-- +4 on Intimidation Opposition Checks.fs
-
+That same imperious quality that makes elves so formidable in confrontation makes genuine warmth nearly im

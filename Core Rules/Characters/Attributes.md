@@ -6,7 +6,7 @@ Attributes represent a character's core physical, mental, and social capabilitie
 
 ## Core Attributes
 
-**Fortitude** measures a character's physical resistance to environmental threats — poison, disease, exhaustion, and extreme conditions (freezing cold, scorching heat, toxic atmosphere, oxygen deprivation — see [Environmental Hazards](../Encounters/Environmental%20Hazards.md)).
+**Fortitude** measures a character's physical resistance to environmental threats — poison, disease, exhaustion, and extreme conditions (freezing cold, scorching heat, toxic atmosphere, oxygen deprivation — see [Environmental Hazards](../Conditions%20and%20Hazards/Environmental%20Hazards.md)).
 
 **Reflex** is used when a character attempts to dodge, parry, or block.
 
@@ -14,26 +14,26 @@ Attributes represent a character's core physical, mental, and social capabilitie
 
 **Strength** is used for opposed physical checks and provides a damage bonus on melee and ranged attacks (see Damage Modifiers, below).
 
-**Willpower** is used to resist domination, intimidation, and similar Social-based effects, provides a damage bonus on spell attacks (see Damage Modifiers, below), and is used for Consciousness Checks — when a character's Health drops to 7 or below, they roll their [dice pool](../Encounters/Dice%20Pools.md) + Willpower to stay conscious.
+**Willpower** is used to resist domination, intimidation, and similar Social-based effects, provides a damage bonus on spell attacks (see Damage Modifiers, below), and is used for Consciousness Checks — when a character's Health drops to 7 or below, they roll their [dice pool](../Core%20Mechanics/Dice%20Pools.md) + Willpower to stay conscious.
 
 ## Health
 
 Health is a two-value tracked stat, not a core attribute:
 
-- **Maximum Health** — the ceiling a character's current Health cannot exceed. All characters begin with a Maximum Health of **25**. Maximum Health is not assigned during character creation; it increases only through the [Health Skill](Health%20Skill.md) tree, Fortitude mastery skills (VII and IX each grant +10), or lineage abilities.
+- **Maximum Health** — the ceiling a character's current Health cannot exceed. All characters begin with a Maximum Health of **25**. Maximum Health is not assigned during character creation; it increases only through the [Health Skill](Health%20Skill.md) tree, Fortitude mastery skills (VII and IX each grant +10), or race abilities.
 - **Current Health** — a character's current physical condition. Reduced by damage; restored by healing and recovery. Cannot exceed Maximum Health or drop below 0.
 
 ## Attribute Assignment
 
 Characters receive **2 attribute points** at character creation, assigned to any of the five attributes: **Fortitude**, **Reflex**, **Social**, **Strength**, or **Willpower**. No attribute may exceed **3** during character creation.
 
-## Lineage and Attributes
+## Race and Attributes
 
-No attribute may exceed **3** during character creation, regardless of lineage. A lineage may apply attribute bonuses or penalties, situational bonuses or penalties to specific checks (e.g., a Faerie's ethereal nature imposing a penalty on Strength-based Opposition Checks), or grant access to an alternate stat block (e.g., a Shapeshifter's animal form has its own attributes, separate from the base form's).
+No attribute may exceed **3** during character creation, regardless of lineage. A race may apply attribute bonuses or penalties, situational bonuses or penalties to specific checks (e.g., a Faerie's ethereal nature imposing a penalty on Strength-based Opposition Checks), or grant access to an alternate stat block (e.g., a Shapeshifter's animal form has its own attributes, separate from the base form's).
 
 Lineages unlocked through play (e.g., Angel, Demon, Fae, Shapeshifter, Vampire, Werewolf) come with their own skill trees, and — like the Universal Attribute trees — some skills within those trees may grant attribute bonuses as purchased progression. This is earned advancement, not a creation-time bonus.
 
-Humans receive no lineage skill tree. To keep Human a meaningful choice, Humans instead receive a one-time Skill Point bonus at character creation — see "Human Potential" in the Session Zero Guide.
+Humans receive no race skill tree. To keep Human a meaningful choice, Humans instead receive a one-time Skill Point bonus at character creation — see "Human Potential" in the Session Zero Guide.
 
 ## Attribute Advancement
 

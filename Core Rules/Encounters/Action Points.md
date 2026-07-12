@@ -17,7 +17,7 @@ The maximum AP a character may have in a single turn is **5**. Six skills each g
 - **Spellcasting VI** — +1 AP
 - **Spellcasting X** — +1 AP
 
-Lineage abilities and other effects may also grant AP, but a character's total for the turn cannot exceed 5.
+Race abilities and other effects may also grant AP, but a character's total for the turn cannot exceed 5.
 
 ## What AP Buys
 
@@ -31,7 +31,7 @@ Movement costs **1 AP** for a full base movement pool. Additional AP purchases a
 
 ### Concentration Maintenance
 
-Maintaining an active Concentration effect costs **1 AP per round**, paid at the start of the character's turn before any other AP is spent. If the character cannot or chooses not to pay, the Concentration effect ends immediately. See [Concentration](Concentration.md).
+Maintaining an active Concentration effect costs **1 AP per round**, paid at the start of the character's turn before any other AP is spent. If the character cannot or chooses not to pay, the Concentration effect ends immediately. See [Concentration](../Magic/Concentration.md).
 
 ### Reactions
 

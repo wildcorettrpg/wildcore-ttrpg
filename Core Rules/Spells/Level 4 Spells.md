@@ -28,7 +28,7 @@ The mantle sheds light in a 20 ft. radius. It does not harm the caster or their 
 - **Target:** One creature
 - **Damage:** 1d12 Fire, Ice, or Electric
 - **Duration:** Instantaneous
-- **Defense:** Dodge ([dice pool](../Encounters/Dice%20Pools.md) + Reflex)
+- **Defense:** Dodge ([dice pool](../Core%20Mechanics/Dice%20Pools.md) + Reflex)
 
 The caster chooses a damage type — Fire, Ice, or Electric — at the moment of casting. The bolt strikes its target with elemental force, dealing 1d12 damage of the chosen type.
 
@@ -56,7 +56,7 @@ The caster lays a hand on the target, who recovers 1d8 Health.
 - **Target:** Self
 - **Duration:** Special
 
-The caster calls on Luniel, Goddess of Life, summoning an ethereal creature to fight at their side. The caster chooses the creature's form at cast time from the animal shapes available to a Shapeshifter (see [Shapeshifter Lineage](../Lineages/Shapeshifter%20Lineage.md)). The creature appears adjacent to the caster and acts on the caster's turn, following their commands.
+The caster calls on Luniel, Goddess of Life, summoning an ethereal creature to fight at their side. The caster chooses the creature's form at cast time from the animal shapes available to a Shapeshifter (see [Shapeshifter Race](../Races/Shapeshifter%20Race.md)). The creature appears adjacent to the caster and acts on the caster's turn, following their commands.
 
 The creature's Maximum Health is equal to half the caster's current Maximum Health, rounded down. It uses the stat block for its chosen animal form. The creature is vulnerable to magic and iron weapons — attacks of either type deal double damage to it. It cannot be healed by any means.
 

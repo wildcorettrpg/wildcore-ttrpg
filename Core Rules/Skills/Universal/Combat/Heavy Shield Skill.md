@@ -53,4 +53,4 @@ Heavy shields — wooden shields, steel shields, and tower shields — put somet
 **Cost:** 1 SP  
 **Prerequisite:** Heavy Shield IV  
 **Effect:** 
-- **Shield Bash.** You may make a Shield Bash as a melee attack (1 AP). Roll a standard attack Opposition Check (Melee Attack dice + Strength). On a hit, the bash deals 1d8 damage plus the attacker's flat Strength bonus (minimum 1), and the target is knocked Prone. The Strength attribute damage bonus (1 bonus die per 3 points of Strength, per [Damage](../../../Encounters/Damage.md) §3) applies normally.
+- **Shield Bash.** You may make a Shield Bash as a melee attack (1 AP). Roll a standard attack Opposition Check (Melee Attack dice + Strength). On a hit, the bash deals 1d8 damage plus the attacker's flat Strength bonus (minimum 1), and the target is knocked [Prone](../../../Conditions%20and%20Hazards/Conditions.md#prone). The Strength attribute damage bonus (1 bonus die per 3 points of Strength, per [Damage](../../../Encounters/Damage.md) §3) applies normally.

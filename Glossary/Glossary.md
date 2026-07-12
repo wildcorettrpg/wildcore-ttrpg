@@ -20,7 +20,7 @@ A single action taken by a participant to harm a target, resolved as an Oppositi
 
 ### attribute
 
-One of the five core measures of a character's physical, mental, and social capability: Fortitude, Reflex, Social, Strength, and Willpower. All attributes begin at 0. Characters assign 2 attribute points at character creation across these five attributes; no attribute may exceed 3 at creation, for any lineage. A lineage may apply attribute bonuses or penalties at creation — see **lineage**. Health is a separate two-value tracked stat (Current / Maximum), not a core attribute — see **health**.
+One of the five core measures of a character's physical, mental, and social capability: Fortitude, Reflex, Social, Strength, and Willpower. All attributes begin at 0. Characters assign 2 attribute points at character creation across these five attributes; no attribute may exceed 3 at creation, for any race. A race may apply attribute bonuses or penalties at creation — see **race**. Health is a separate two-value tracked stat (Current / Maximum), not a core attribute — see **health**.
 
 ### base damage
 
@@ -28,11 +28,11 @@ The damage die a weapon or spell deals before any attribute or skill bonuses are
 
 ### bleeding out
 
-A condition applied by any attack, ability, or effect that causes it. The Narrator may apply it to represent a significant wound. A character who is Bleeding Out loses 1 Health at the end of their turn each round; if this loss drops Health to 7 or below, it triggers a **Consciousness Check** (see [Consciousness Checks](../Core%20Rules/Encounters/Consciousness%20Checks.md)). Bleeding Out stacks — each stack adds 1 Health/round of loss and must be removed individually by **stabilization**. Bleeding Out ends when stabilized or when the character dies. See [Dying](../Core%20Rules/Characters/Dying.md).
+A condition applied by any attack, ability, or effect that causes it. The Narrator may apply it to represent a significant wound. A character who is Bleeding Out loses 1 Health at the end of their turn each round; if this loss drops Health to 7 or below, it triggers a **Consciousness Check** (see [Consciousness Checks](../Core%20Rules/Encounters/Consciousness%20Checks.md)). Bleeding Out stacks — each stack adds 1 Health/round of loss and must be removed individually by **stabilization**. Bleeding Out ends when stabilized or when the character dies. See [Dying](../Core%20Rules/Conditions%20and%20Hazards/Dying.md).
 
 ### blind
 
-A condition. A Blind character cannot see. They cannot target unseen characters or objects by sight alone; before attacking or interacting with an unseen target, they must first succeed on a Perception Opposition Check to locate it by sound or other means. All sight-based Investigation and Perception checks fail automatically. See [Conditions](../Core%20Rules/Encounters/Conditions.md).
+A condition. A Blind character cannot see. They cannot target unseen characters or objects by sight alone; before attacking or interacting with an unseen target, they must first succeed on a Perception Opposition Check to locate it by sound or other means. All sight-based Investigation and Perception checks fail automatically. See [Conditions](../Core%20Rules/Conditions%20and%20Hazards/Conditions.md).
 
 ### block
 
@@ -44,7 +44,7 @@ A condition. A character whose body suffers catastrophic destruction dies instan
 
 ### concentration
 
-A maintained state (not an action) required by some effects, such as damage-over-time, barriers, shields, grapples, and ongoing supernatural abilities. A participant may maintain only one Concentration effect at a time unless a rule allows otherwise. Maintaining Concentration costs 1 AP per round, paid at the start of the participant's turn before other AP is spent (see [Maintaining Concentration](../Core%20Rules/Encounters/Concentration.md#maintaining-concentration)). Concentration ends immediately if a **Concentration Check** is failed, or if the participant becomes **Stunned**, **Unconscious**, or otherwise **Incapacitated**.
+A maintained state (not an action) required by some effects, such as damage-over-time, barriers, shields, grapples, and ongoing supernatural abilities. A participant may maintain only one Concentration effect at a time unless a rule allows otherwise. Maintaining Concentration costs 1 AP per round, paid at the start of the participant's turn before other AP is spent (see [Maintaining Concentration](../Core%20Rules/Magic/Concentration.md#maintaining-concentration)). Concentration ends immediately if a **Concentration Check** is failed, or if the participant becomes **Stunned**, **Unconscious**, or otherwise **Incapacitated**.
 
 ### concentration check
 
@@ -60,15 +60,15 @@ The reduction in a target's Health following a successful attack or harmful effe
 
 ### dead / death
 
-A condition. A character dies instantly when their Health reaches 0, or if they suffer **Catastrophic Destruction**. A dead character cannot act, cannot regain Health except through revival, and cannot be stabilized or forcibly awakened. See [Death](../Core%20Rules/Characters/Death.md) for revival rules.
+A condition. A character dies instantly when their Health reaches 0, or if they suffer **Catastrophic Destruction**. A dead character cannot act, cannot regain Health except through revival, and cannot be stabilized or forcibly awakened. See [Death](../Core%20Rules/Conditions%20and%20Hazards/Death.md) for revival rules.
 
 ### deaf
 
-A condition. A Deaf character cannot hear. All hearing-based Perception and Investigation checks fail automatically. The character cannot understand verbal communication. Social skills requiring spoken exchange (Persuasion, Intimidation, Negotiation) require written or gestural alternatives; the Narrator determines whether this is feasible in context. See [Conditions](../Core%20Rules/Encounters/Conditions.md).
+A condition. A Deaf character cannot hear. All hearing-based Perception and Investigation checks fail automatically. The character cannot understand verbal communication. Social skills requiring spoken exchange (Persuasion, Intimidation, Negotiation) require written or gestural alternatives; the Narrator determines whether this is feasible in context. See [Conditions](../Core%20Rules/Conditions%20and%20Hazards/Conditions.md).
 
 ### dice pool
 
-The set of dice a character rolls for an Opposition Check. Every character starts with a base of 1d10; skills that explicitly grant dice add to this base. Flat bonuses from skills and the relevant Attribute are added after rolling. See [Dice Pools](../Core%20Rules/Encounters/Dice%20Pools.md).
+The set of dice a character rolls for an Opposition Check. Every character starts with a base of 1d10; skills that explicitly grant dice add to this base. Flat bonuses from skills and the relevant Attribute are added after rolling. See [Dice Pools](../Core%20Rules/Core%20Mechanics/Dice%20Pools.md).
 
 ### difficult terrain
 
@@ -76,7 +76,7 @@ Terrain — rubble, deep water, dense foliage, unstable surfaces, or anything th
 
 ### difficulty
 
-A static number the Narrator assigns to a check, used in place of an opposed roll. [Stabilization](../Core%20Rules/Characters/Stabilization.md), [Environmental Hazards](../Core%20Rules/Encounters/Environmental%20Hazards.md), and low-stakes actions resolved using a character's **opposition score** all compare against a Narrator-assigned difficulty. See the [Opposition Check Difficulty Table](../Core%20Rules/Tables/Opposition%20Check%20Difficulty%20Table.md) for standard values.
+A static number the Narrator assigns to a check, used in place of an opposed roll. [Stabilization](../Core%20Rules/Conditions%20and%20Hazards/Stabilization.md), [Environmental Hazards](../Core%20Rules/Conditions%20and%20Hazards/Environmental%20Hazards.md), and low-stakes actions resolved using a character's **opposition score** all compare against a Narrator-assigned difficulty. See the [Opposition Check Difficulty Table](../Core%20Rules/Tables/Opposition%20Check%20Difficulty%20Table.md) for standard values.
 
 ### dodge
 
@@ -101,7 +101,7 @@ Merged into **dodge** as of 2026-06-24. Dodge now covers both rolling clear of a
 
 ### forced awakening
 
-Reviving an **Unconscious** character using smelling salts or an equivalent stimulant. Requires Healing II; costs 1 AP; no Healing Opposition Check; may only be attempted once per patient per incident. The Unconscious condition is removed immediately — the character regains consciousness. All other conditions present at the time of awakening remain in effect. The character is **Prone** and **Hindered** until they receive medical treatment or the scene ends. Forced Awakening does not heal the patient. See [Forced Awakening](../Core%20Rules/Characters/Stabilization.md#forced-awakening).
+Reviving an **Unconscious** character using smelling salts or an equivalent stimulant. Requires Healing II; costs 1 AP; no Healing Opposition Check; may only be attempted once per patient per incident. The Unconscious condition is removed immediately — the character regains consciousness. All other conditions present at the time of awakening remain in effect. The character is **Prone** and **Hindered** until they receive medical treatment or the scene ends. Forced Awakening does not heal the patient. See [Forced Awakening](../Core%20Rules/Conditions%20and%20Hazards/Stabilization.md#forced-awakening).
 
 ### forced movement
 
@@ -109,7 +109,7 @@ Movement imposed on a participant by an external effect. Costs the target no AP,
 
 ### fortitude
 
-An attribute. Measures physical resistance to environmental threats — poison, disease, exhaustion, and extremes of heat and cold. Fortitude applies as a flat bonus to environmental Opposition Checks. See [Core Attributes](../Core%20Rules/Characters/Attributes.md#core-attributes) and [Environmental Hazards](../Core%20Rules/Encounters/Environmental%20Hazards.md).
+An attribute. Measures physical resistance to environmental threats — poison, disease, exhaustion, and extremes of heat and cold. Fortitude applies as a flat bonus to environmental Opposition Checks. See [Core Attributes](../Core%20Rules/Characters/Attributes.md#core-attributes) and [Environmental Hazards](../Core%20Rules/Conditions%20and%20Hazards/Environmental%20Hazards.md).
 
 ### free action
 
@@ -117,7 +117,7 @@ An activity that requires little to no exertion and doesn't cost AP unless a rul
 
 ### frightened
 
-A condition. A frightened character cannot willingly move toward the source of their fear. While the source is visible, the character takes a −2 penalty on all Opposition Checks. If forced into proximity with the source and unable to retreat, the character is also **Stunned** for that round. Ends when the source of fear is no longer visible, the effect expires, or the character succeeds on a Willpower Opposition Check against the effect's difficulty. See [Conditions](../Core%20Rules/Encounters/Conditions.md).
+A condition. A frightened character cannot willingly move toward the source of their fear. While the source is visible, the character takes a −2 penalty on all Opposition Checks. If forced into proximity with the source and unable to retreat, the character is also **Stunned** for that round. Ends when the source of fear is no longer visible, the effect expires, or the character succeeds on a Willpower Opposition Check against the effect's difficulty. See [Conditions](../Core%20Rules/Conditions%20and%20Hazards/Conditions.md).
 
 ### group effective level
 
@@ -129,7 +129,7 @@ An Opposition Check (or, for Stabilization, a check against a stated difficulty)
 
 ### health
 
-A two-value tracked stat representing a character's physical condition. **Current Health** is a character's present condition — reduced by damage (after armor mitigation) and restored by healing or recovery; cannot exceed Maximum Health or drop below 0. **Maximum Health** is the ceiling for Current Health — all characters begin at 25; raised through the [Health Skill](../Core%20Rules/Skills/Universal/Attributes/Health%20Skill.md) tree, Fortitude VII and IX (+10 each), and lineage abilities. All characters begin play with Current Health equal to Maximum Health. A character dies when Current Health reaches 0. See [Health](../Core%20Rules/Characters/Health.md).
+A two-value tracked stat representing a character's physical condition. **Current Health** is a character's present condition — reduced by damage (after armor mitigation) and restored by healing or recovery; cannot exceed Maximum Health or drop below 0. **Maximum Health** is the ceiling for Current Health — all characters begin at 25; raised through the [Health Skill](../Core%20Rules/Skills/Universal/Attributes/Health%20Skill.md) tree, Fortitude VII and IX (+10 each), and race abilities. All characters begin play with Current Health equal to Maximum Health. A character dies when Current Health reaches 0. See [Health](../Core%20Rules/Characters/Health.md).
 
 ### hindered
 
@@ -139,9 +139,7 @@ A condition. A hindered character has only 1 AP per round and moves at half thei
 
 A condition. An incapacitated character may speak, crawl, gesture, and take other very simple actions, but cannot attack, cast spells, concentrate, or do anything else strenuous. Often applied as a consequence of another condition, such as **unconscious** — while Unconscious is active, its own stricter restrictions control.
 
-### intense concentration
 
-A state the Narrator may declare when a character is fully absorbed in a Concentration effect — so completely committed that they cannot track threats around them. A character in this state becomes **Vulnerable** for the duration. Not all Concentration effects qualify; the Narrator decides based on the nature of the effect and the fiction of the scene. Intense Concentration does not restrict movement. See [Intense Concentration](../Core%20Rules/Encounters/Concentration.md#intense-concentration) and **vulnerable**.
 
 ### inventory
 
@@ -149,7 +147,11 @@ The slot-based system that tracks what a character carries. Each character has a
 
 ### lineage
 
-A character's ancestry or origin (e.g., Human, Elf, Vampire, Shapeshifter). A lineage may apply attribute bonuses or penalties, situational bonuses or penalties to specific checks, or grant an alternate stat block (such as a Shapeshifter's animal form). No attribute may exceed 3 during character creation, regardless of lineage. Lineages unlocked through play may include skills that grant attribute bonuses as purchased progression, same as the Universal Attribute trees. By default, lineages other than Human are unlocked through play rather than chosen at creation; some campaign settings (such as Anar) override this and make multiple lineages available as creation-time ancestries. See [Lineage and Attributes](../Core%20Rules/Characters/Attributes.md#lineage-and-attributes) and the Lineages chapter.
+A supernatural transformation, curse, blessing, pact, or awakening a character acquires through play — Vampire, Werewolf, Angel, Demon, and similar. A lineage is not what a character is born as (see **race**); it is something that happens to them during the story. Each lineage has its own skill tree, entered narratively when the character undergoes the transformation. Multiple lineages can be held simultaneously. See the Lineages chapter.
+
+### race
+
+A character's birth ancestry (e.g., Human, Elf, Dwarf, Faerie, Kin, Kith, Shapeshifter). A race may apply attribute bonuses or penalties, situational bonuses or penalties to specific checks, or grant an alternate stat block (such as a Shapeshifter's animal form). No attribute may exceed 3 during character creation, regardless of race. Races have no skill tree — traits and flaws carry the race's identity at creation. See [Race and Attributes](../Core%20Rules/Characters/Attributes.md#race-and-attributes) and the Races chapter.
 
 ### martial action
 
@@ -161,15 +163,15 @@ A Standard Action resolved as an Opposition Check. The target must be within the
 
 ### modifier
 
-A bonus or penalty, granted by a lineage, skill, ability, or temporary effect, that applies to attack rolls, Opposition Checks, or damage rolls when its conditions are met. Modifiers stack unless a rule states otherwise, and can't reduce a roll below 0. See [Modifiers](../Core%20Rules/Characters/Modifiers.md).
+A bonus or penalty, granted by a race, lineage, skill, ability, or temporary effect, that applies to attack rolls, Opposition Checks, or damage rolls when its conditions are met. Modifiers stack unless a rule states otherwise, and can't reduce a roll below 0. See [Modifiers](../Core%20Rules/Characters/Modifiers.md).
 
 ### movement allowance
 
-The distance a participant can move per AP spent on movement, equal to their lineage's base movement. Spending 1 AP grants a movement pool equal to the participant's full base movement; each additional AP spent on movement grants another full increment of base movement (see [Movement](../Core%20Rules/Skills/Universal/Combat/Movement%20Skill.md)).
+The distance a participant can move per AP spent on movement, equal to their race's base movement. Spending 1 AP grants a movement pool equal to the participant's full base movement; each additional AP spent on movement grants another full increment of base movement (see [Movement](../Core%20Rules/Skills/Universal/Combat/Movement%20Skill.md)).
 
 ### mute
 
-A condition. A Mute character cannot speak. Skills and abilities requiring verbal communication cannot be used. Spells with verbal components cannot be cast. Social skills relying on speech (Persuasion, Intimidation, Negotiation) fail automatically unless the Narrator determines that written or gestural communication is feasible in context. See [Conditions](../Core%20Rules/Encounters/Conditions.md).
+A condition. A Mute character cannot speak. Skills and abilities requiring verbal communication cannot be used. Spells with verbal components cannot be cast. Social skills relying on speech (Persuasion, Intimidation, Negotiation) fail automatically unless the Narrator determines that written or gestural communication is feasible in context. See [Conditions](../Core%20Rules/Conditions%20and%20Hazards/Conditions.md).
 
 ### natural armor
 
@@ -177,7 +179,7 @@ Armor provided by a creature's own physiology — scales, hide, bone plates, or 
 
 ### nauseated
 
-A condition. A nauseated character cannot Concentrate and takes a −2 penalty on all Opposition Checks. Ends when the source of the condition is removed, a Healing check removes it, or the effect expires. See [Conditions](../Core%20Rules/Encounters/Conditions.md).
+A condition. A nauseated character cannot Concentrate and takes a −2 penalty on all Opposition Checks. Ends when the source of the condition is removed, a Healing check removes it, or the effect expires. See [Conditions](../Core%20Rules/Conditions%20and%20Hazards/Conditions.md).
 
 ### node
 
@@ -189,11 +191,11 @@ A **Reaction** triggered when an opponent moves out of melee range. The triggeri
 
 ### opposition check
 
-The core resolution mechanic of Velocity. Both sides roll a dice pool (minimum 1d10 plus any dice from skills), add flat bonuses from applicable skills, and add their relevant Attribute. The higher total wins. If both sides reach the same total, the result is a **stalemate**. All contested actions — attacks, grapples, negotiations, supernatural clashes, and more — are resolved this way. Not every situation calls for a roll; see **opposition score** and [When to Make an Opposition Check](../Core%20Rules/Encounters/Opposition%20Checks.md#when-to-make-an-opposition-check).
+The core resolution mechanic of Velocity. Both sides roll a dice pool (minimum 1d10 plus any dice from skills), add flat bonuses from applicable skills, and add their relevant Attribute. The higher total wins. If both sides reach the same total, the result is a **stalemate**. All contested actions — attacks, grapples, negotiations, supernatural clashes, and more — are resolved this way. Not every situation calls for a roll; see **opposition score** and [When to Make an Opposition Check](../Core%20Rules/Core%20Mechanics/Opposition%20Checks.md#when-to-make-an-opposition-check).
 
 ### opposition score
 
-A character's relevant Attribute plus any flat bonuses granted by applicable skills, with no dice included. Used to determine automatic success on routine, low-stakes actions outside combat — compare against a Narrator-assigned **difficulty** from the [Opposition Check Difficulty Table](../Core%20Rules/Tables/Opposition%20Check%20Difficulty%20Table.md). See [When to Make an Opposition Check](../Core%20Rules/Encounters/Opposition%20Checks.md#when-to-make-an-opposition-check).
+A character's relevant Attribute plus any flat bonuses granted by applicable skills, with no dice included. Used to determine automatic success on routine, low-stakes actions outside combat — compare against a Narrator-assigned **difficulty** from the [Opposition Check Difficulty Table](../Core%20Rules/Tables/Opposition%20Check%20Difficulty%20Table.md). See [When to Make an Opposition Check](../Core%20Rules/Core%20Mechanics/Opposition%20Checks.md#when-to-make-an-opposition-check).
 
 ### parry
 
@@ -201,7 +203,7 @@ A defensive option against a melee attack. The defender rolls their dice pool fr
 
 ### poisoned
 
-A condition. A Poisoned character is **Hindered** and loses Health at the end of each of their turns at a rate set by the poison's severity tier (Mild: 1/round, Potent: 1d4/round, Lethal: 2d6/round). The character may make a Fortitude check against the poison's difficulty each round; on a success, they lose no Health that round but the condition is not ended. A character with Healing V or higher may treat a Poisoned character by spending 1 AP and consuming one item from a Healer's Bag, halving the Fortitude check difficulty for the remainder of the scene. Antivenom (grade-matched to the poison's severity) ends the condition immediately without a check. See [Poisons](../Core%20Rules/Encounters/Poisons.md) and [Conditions](../Core%20Rules/Encounters/Conditions.md).
+A condition. A Poisoned character is **Hindered** and loses Health at the end of each of their turns at a rate set by the poison's severity tier (Mild: 1/round, Potent: 1d4/round, Lethal: 2d6/round). The character may make a Fortitude check against the poison's difficulty each round; on a success, they lose no Health that round but the condition is not ended. A character with Healing V or higher may treat a Poisoned character by spending 1 AP and consuming one item from a Healer's Bag, halving the Fortitude check difficulty for the remainder of the scene. Antivenom (grade-matched to the poison's severity) ends the condition immediately without a check. See [Poisons](../Core%20Rules/Conditions%20and%20Hazards/Poisons.md) and [Conditions](../Core%20Rules/Conditions%20and%20Hazards/Conditions.md).
 
 ### prone
 
@@ -221,7 +223,7 @@ A declared action held in reserve to trigger on a specific event, allowing a par
 
 ### recovery die
 
-The die rolled to determine Health recovered during natural recovery. All characters recover 1d4 Health from a light rest (less than six hours) and 2d4 from a long rest (six hours or more); passive recovery grants 1 Health per four hours of nonstrenuous activity. Natural recovery is halted during combat, strenuous activity, or while Bleeding Out. See [Recovery](../Core%20Rules/Characters/Recovery.md).
+The die rolled to determine Health recovered during natural recovery. All characters recover 1d4 Health from a light rest (less than six hours) and 2d4 from a long rest (six hours or more); passive recovery grants 1 Health per four hours of nonstrenuous activity. Natural recovery is halted during combat, strenuous activity, or while Bleeding Out. See [Recovery](../Core%20Rules/Conditions%20and%20Hazards/Recovery.md).
 
 ### reflex
 
@@ -245,7 +247,7 @@ The resource spent to purchase skills, awarded only by the Narrator (never from 
 
 ### skill tree
 
-A named collection of related skills and nodes (e.g., Melee Attack, Persuasion, a lineage's tree). Skill trees are organized as **Universal** (available to every character) or **Setting** (defined by a campaign setting, covering lineage paths and setting-specific capabilities).
+A named collection of related skills and nodes (e.g., Melee Attack, Persuasion, a lineage's tree). Skill trees are organized as **Universal** (available to every character) or **Setting** (defined by a campaign setting, covering setting-specific races, lineages, and capabilities).
 
 ### social
 
@@ -253,11 +255,11 @@ An attribute. Determines a character's capacity for social influence — persuas
 
 ### spell overcharging
 
-A casting option that amplifies a spell's effect at greater Health cost. An overcharged spell costs 1.5× the spell's level in Health (rounded up, minimum 1) instead of the normal cost. All numerical aspects of the spell — range, number of targets, duration, radius, damage — are doubled. Overcharging a Level 1+ spell subtracts its overcharged Health cost from the Predation Difficulty instead of the spell's normal level. Overcharging a Level 0 spell does not affect the Predation Difficulty. See [Spell Overcharging](../Core%20Rules/Encounters/Magic.md#spell-overcharging).
+A casting option that amplifies a spell's effect at greater Health cost. An overcharged spell costs 1.5× the spell's level in Health (rounded up, minimum 1) instead of the normal cost. All numerical aspects of the spell — range, number of targets, duration, radius, damage — are doubled. Overcharging a Level 1+ spell subtracts its overcharged Health cost from the Predation Difficulty instead of the spell's normal level. Overcharging a Level 0 spell does not affect the Predation Difficulty. See [Spell Overcharging](../Core%20Rules/Magic/Magic.md#spell-overcharging).
 
 ### stabilization
 
-The act of stopping a character's **Bleeding Out**. A healer adjacent to the character spends 1 AP and makes a Healing check against a Narrator-assigned difficulty (typically Challenging outside combat, Dangerous in active combat or for a character close to death). Stabilization removes one stack of Bleeding Out; a character with multiple stacks must be stabilized once per stack. Stabilization doesn't restore Health and doesn't remove the **unconscious** condition — see **Forced Awakening** and [Stabilization](../Core%20Rules/Characters/Stabilization.md).
+The act of stopping a character's **Bleeding Out**. A healer adjacent to the character spends 1 AP and makes a Healing check against a Narrator-assigned difficulty (typically Challenging outside combat, Dangerous in active combat or for a character close to death). Stabilization removes one stack of Bleeding Out; a character with multiple stacks must be stabilized once per stack. Stabilization doesn't restore Health and doesn't remove the **unconscious** condition — see **Forced Awakening** and [Stabilization](../Core%20Rules/Conditions%20and%20Hazards/Stabilization.md).
 
 ### stalemate
 
@@ -281,7 +283,7 @@ A condition. A stunned character cannot take actions or Reactions for the durati
 
 ### supernatural action
 
-A Standard Action representing the use of a supernatural ability (spells, lineage powers, and similar). Costs AP as listed in its description.
+A Standard Action representing the use of a supernatural ability (spells, race and lineage powers, and similar). Costs AP as listed in its description.
 
 ### surprise
 
@@ -309,10 +311,10 @@ See **health** (Maximum Health).
 
 ### vulnerable
 
-A condition applied when a character is fully committed to a non-combat activity — committed climbing, swimming, flight, Intense Concentration, Forced Awakening, or any comparable situation the Narrator designates. A vulnerable character cannot roll Reflex to oppose melee or ranged attacks and automatically takes the hit; armor mitigation still applies. A vulnerable character may continue opposing whatever activity caused the condition (e.g., a supernatural contest). See [Conditions](../Core%20Rules/Encounters/Conditions.md).
+A condition applied when a character is fully committed to a non-combat activity — committed climbing, swimming, flight, Forced Awakening, or any comparable situation the Narrator designates. A vulnerable character cannot roll Reflex to oppose melee or ranged attacks and automatically takes the hit; armor mitigation still applies. A vulnerable character may continue opposing whatever activity caused the condition (e.g., a supernatural contest). See [Conditions](../Core%20Rules/Conditions%20and%20Hazards/Conditions.md).
 
 ### willpower
 
 An attribute. Provides a flat bonus on magical attack rolls and grants 1 bonus damage die per 3 points of Willpower on spell attacks. Also used to resist social and supernatural effects — domination, charm, compulsion, illusion, fear, and similar mind-affecting spells or abilities. Willpower governs **Consciousness Checks** — when Health drops to 7 or below, the character rolls their dice pool + Willpower to stay conscious — see **consciousness check**. Willpower also determines whether Concentration is maintained when a concentrating participant takes damage — see **concentration check**.
 
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            

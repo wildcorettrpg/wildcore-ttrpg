@@ -43,6 +43,17 @@ const BOOKS = [
     chapterOrder: [
       'Introduction',
       'Example of Play',
+      'Characters',
+      'Races',
+      'Lineages',
+      'Skills',
+      'Equipment',
+      'Core Mechanics',
+      'Encounters',
+      'Conditions and Hazards',
+      'Magic',
+      'Spells',
+      'Tables',
     ],
   },
   {
@@ -806,17 +817,28 @@ function walkMdFiles(dir) {
 
 function orderChapters(chapters, chapterOrder) {
   if (!chapterOrder || !chapterOrder.length) return chapters;
-  // Supports both bare names ('Overview') for top-level chapters and full
-  // nav-path keys ("Narrator's Guide/Overview") for nested chapters.
+  // Supports bare names ('Overview') for top-level chapters, full nav-path
+  // keys ("Narrator's Guide/Overview") for nested chapters, and folder names
+  // ('Characters') to order entire groups of chapters together.
   // Ranked chapters are sorted by their chapterOrder index; unranked chapters
   // follow in their original filesystem order.
-  function chapterKey(ch) {
-    return ch.navPath.length ? ch.navPath.join('/') + '/' + ch.name : ch.name;
+  function chapterRank(ch) {
+    // Exact match (bare name or full path/name key)
+    const fullKey = ch.navPath.length ? ch.navPath.join('/') + '/' + ch.name : ch.name;
+    let idx = chapterOrder.indexOf(fullKey);
+    if (idx !== -1) return idx;
+    // Folder/group match: check navPath prefixes so 'Characters' ranks all
+    // chapters whose navPath starts with ['Characters'] at that position.
+    for (let len = ch.navPath.length; len >= 1; len--) {
+      idx = chapterOrder.indexOf(ch.navPath.slice(0, len).join('/'));
+      if (idx !== -1) return idx;
+    }
+    return -1;
   }
 
   const ranked = [], unranked = [];
   for (const ch of chapters) {
-    const idx = chapterOrder.indexOf(chapterKey(ch));
+    const idx = chapterRank(ch);
     if (idx === -1) unranked.push(ch);
     else ranked.push({ ch, idx });
   }
@@ -1074,13 +1096,12 @@ function main() {
 
   const pageCount = new Set(allEntries.map(e => e.url.split('#')[0])).size;
 
-  console.log(`\n✅  Done — ${allEntries.length} paragraphs indexed across ${pageCount} pages.`);
-  console.log('    Index written to: search-index.json');
+  console.log(`    Index written to: search-index.json`);
   console.log();
   console.log('    Next steps:');
   console.log('    1. Confirm GITHUB_REPO at the top of build.js matches your actual org/repo.');
-  console.log('    2. Enable GitHub Pages (repo Settings → Pages → Source: GitHub Actions).');
-  console.log('    3. Push to GitHub — the deploy workflow builds and publishes automatically.')
+  console.log('    2. Enable GitHub Pages (repo Settings -> Pages -> Source: GitHub Actions).');
+  console.log('    3. Push to GitHub -- the deploy workflow builds and publishes automatically.')
   console.log();
 }
 

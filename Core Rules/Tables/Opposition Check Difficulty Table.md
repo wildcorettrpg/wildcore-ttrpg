@@ -1,6 +1,6 @@
 # Opposition Check Difficulty Table
 
-Used when an Opposition Check doesn't need to be rolled — see [Opposition Checks](../Encounters/Opposition%20Checks.md) §"When to Make an Opposition Check". The Narrator picks a difficulty from the appropriate tier, then compares the acting character's **opposition score** (relevant Attribute + applicable flat skill bonuses, no dice) against it. Meeting or exceeding it is an automatic success; falling short is an automatic failure.
+Used when an Opposition Check doesn't need to be rolled — see [Opposition Checks](../Core%20Mechanics/Opposition%20Checks.md) §"When to Make an Opposition Check". The Narrator picks a difficulty from the appropriate tier, then compares the acting character's **opposition score** (relevant Attribute + applicable flat skill bonuses, no dice) against it. Meeting or exceeding it is an automatic success; falling short is an automatic failure.
 
 | Tier | Difficulty | Example |
 | :--- | :---: | :--- |

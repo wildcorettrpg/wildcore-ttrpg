@@ -8,7 +8,7 @@
 
 Spellcasting represents a character's mastery of magic — channeling supernatural power to alter reality and, when necessary, harm a target. The specific tradition (glyphweaving, wavebinding, or whatever form magic takes in a given campaign setting) is defined by that setting's magic system. Skills in this tree unlock spell levels and improve Spellcasting attack Opposition Checks and spell damage. Spellcasting is only available to characters with a lineage, skill, or campaign setting rule that grants access to magical abilities.
 
-For the full rules on how magic works — Health cost, Predation Clock, spell attacks and defense, overcharging, and creature spellcasting — see [Magic](../../../Encounters/Magic.md).
+For the full rules on how magic works — Health cost, Predation Clock, spell attacks and defense, overcharging, and creature spellcasting — see [Magic](../../../Magic/Magic.md).
 
 ## Notes
 

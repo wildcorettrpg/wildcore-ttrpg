@@ -2,7 +2,7 @@
 
 ## Modifier System
 
-Modifiers are bonuses or penalties that apply to attacks, Opposition Checks, and damage. A character has no modifiers at creation unless granted by their lineage or by skills chosen at character creation. Modifiers stack unless a rule explicitly states otherwise, and a modifier applies automatically whenever its conditions are met.
+Modifiers are bonuses or penalties that apply to attacks, Opposition Checks, and damage. A character has no modifiers at creation unless granted by their race or by skills chosen at character creation. Modifiers stack unless a rule explicitly states otherwise, and a modifier applies automatically whenever its conditions are met.
 
 ## Modifier Application
 

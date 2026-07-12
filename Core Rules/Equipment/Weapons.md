@@ -90,21 +90,39 @@ Special ammunition replaces standard ammunition for that attack and is consumed 
 
 | Item | Size | Cost | Effect |
 | :--- | :--- | ---: | :--- |
-| Arrows, blunt (20) | Medium | 2 gp | On a hit, the target becomes Hindered until the end of their next turn. Deals no damage. |
+| Arrows, blunt (20) | Medium | 2 gp | On a hit, the target becomes [Hindered](../Conditions%20and%20Hazards/Conditions.md#hindered) until the end of their next turn. Deals no damage. |
 | Arrows, broadhead (20) | Medium | 3 gp | +1d6 damage on a hit. |
 | Arrows, flight (20) | Medium | 2 gp | Eliminates the long-range −2 penalty. You may shoot up to the weapon's max range without penalty. |
-| Arrows, serrated (20) | Medium | 3 gp | On a hit, the target gains the Bleeding Out condition. |
+| Arrows, serrated (20) | Medium | 3 gp | On a hit, the target gains the [Bleeding Out](../Conditions%20and%20Hazards/Conditions.md#bleeding-out) condition. |
 | Arrows, whistling (20) | Medium | 2 gp | Audible to 300 ft. Used for signals; no combat effect. |
-| Bolts, blunt (20) | Medium | 2 gp | On a hit, the target becomes Hindered until the end of their next turn. Deals no damage. |
+| Bolts, blunt (20) | Medium | 2 gp | On a hit, the target becomes [Hindered](../Conditions%20and%20Hazards/Conditions.md#hindered) until the end of their next turn. Deals no damage. |
 | Bolts, broadhead (20) | Medium | 3 gp | +1d6 damage on a hit. |
-| Bolts, serrated (20) | Medium | 3 gp | On a hit, the target gains the Bleeding Out condition. |
+| Bolts, serrated (20) | Medium | 3 gp | On a hit, the target gains the [Bleeding Out](../Conditions%20and%20Hazards/Conditions.md#bleeding-out) condition. |
 
-## Access and Use
+## Special Materials
 
-1. A character may use any weapon — there are no class or background restrictions on weapon access.
-2. A weapon's category determines its base damage die and which Melee Attack or Ranged Attack tier is required to use it without penalty (light: tier I, medium: tier IV, heavy: tier VI).
-3. The Narrator may introduce setting-specific weapons; assign them to the closest matching category, size, and cost above.
+Certain weapon materials deal 1 additional damage die against specific races and lineages. The additional die uses the same die type as the weapon's base damage die.
 
-## Notes for Playtesting
+| Material | Additional Die vs. | Notes |
+| :--- | :--- | :--- |
+| Iron or steel | [Faerie](../Races/Faerie%20Race.md) race; [Fae-Touched](../Skills/Lineages/Fae-Touched%20Lineage.md) lineage | Standard material for most metal weapons. No surcharge. |
+| Silver | [Vampire](../Skills/Lineages/Vampire%20Lineage.md) lineage; [Werewolf](../Skills/Lineages/Werewolf%20Lineage.md) lineage | Special order. ×10 base weapon cost. Silver arrows and bolts are available at 10 gp per 20. |
 
-Damage dice are Velocity-native values derived from d20 SRD base damage stepped up one die tier (d4→d6, d6→d8, d8→d10, d10→d12, d12/2d6→3d6). Weapon categories (Light/Medium/Heavy) reflect proficiency access tiers, not damage tiers — category and damage die are independent. Costs are ported from d20 source material and are expected to be tuned once tested against Velocity's damage, mitigation, and Health scale.
+1. Most metal weapons are iron or steel by default. Weapons made of other materials (wooden clubs, bone knives, obsidian blades) do not trigger the iron/steel bonus.
+2. Silver weapons are softer than steel â they are not inherently better against other targets, just specifically effective against Vampire and Werewolf lineages.
+3. Dual-material weapons (e.g., a silver blade on an iron crossguard) are not supported. A weapon is either silver or iron/steel, not both.
+
+## Weapon Coatings
+
+Silver and wolfsbane can be applied as coatings to bladed weapons and arrowheads to deliver their effects against supernatural creatures without forging the weapon from a special material.
+
+Applying a coating takes **1 AP** and requires a free hand. A coated weapon holds **3 doses** â each hit against a living target expends one dose. Coatings can also be applied to arrowheads or bolts individually (1 dose each).
+
+| Coating | Delivery | Effect on Hit | Cost per Dose |
+| :--- | :--- | :--- | :--- |
+| Silver paste | Injury | Counts as a silver weapon: +1 damage die vs. [Vampire](../Skills/Lineages/Vampire%20Lineage.md) and [Werewolf](../Skills/Lineages/Werewolf%20Lineage.md) lineages; suppresses healing until cleansed (see each lineage entry) | 25 gp |
+| Wolfsbane | Injury | Delivers [Wolfsbane](../Conditions%20and%20Hazards/Poisons.md) poison to the target on a hit that deals damage | 25 gp |
+
+1. Silver paste produces the same mechanical effects as a silver weapon against affected lineages. It does not make the weapon physically silver â a coated iron blade is still iron and still triggers iron/steel effects against Faerie and Fae-Touched.
+2. Wolfsbane coating uses the Injury delivery type. The full wolfsbane poison entry â including the werewolf-specific healing suppression â applies on a successful hit that deals damage.
+3. Wiping a coated weapon clean requires 1 AP and a cloth or rag. A coating on an arrowhead or bolt in the quiver does not expire â only fired shots expend doses.

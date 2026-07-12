@@ -170,7 +170,7 @@ Voss is taken into custody by the tribunal's own guards — the same guards who 
 
 **Voss is not evil.** He is a man who made a choice and then made every subsequent choice to protect the first one. Let that come through in how he plays in this scene — not as a cartoon villain, but as someone who genuinely thought he could manage this, and is only now discovering he couldn't.
 
-**Liriel's testimony needs no corroboration.** Faeries cannot lie — it is not a reputation, it is what they are. If a player asks why the hall simply accepts her word, the answer is that they always have. See *Core Rules/Lineages/Faerie.md* and *The Truthstone.md* for the full rule.
+**Liriel's testimony needs no corroboration.** Faeries cannot lie — it is not a reputation, it is what they are. If a player asks why the hall simply accepts her word, the answer is that they always have. See *Core Rules/Races/Faerie.md* and *The Truthstone.md* for the full rule.
 
 **If Sela enters blood rage during the fight.** Once she's Wounded (Health 13 or lower), Sela must roll 1d10 + 2 against difficulty 20 at the start of each turn — she will almost certainly fail. When she does, she attacks the nearest target regardless of allegiance. The Narrator does not take over the character; the *player* declares the attack, targeting whoever is closest. The fight becomes two problems simultaneously: stop Voss and protect Sela from herself. If an ally needs to physically restrain her (a grapple, a Strength Opposition Check), that is a valid action. The blood rage ends when combat ends or her Health is restored above 13.
 

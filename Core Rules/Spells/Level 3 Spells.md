@@ -13,7 +13,7 @@
 - **Target:** One creature
 - **Damage:** 1d10 Fire, Ice, or Electric
 - **Duration:** Instantaneous
-- **Defense:** Dodge ([dice pool](../Encounters/Dice%20Pools.md) + Reflex)
+- **Defense:** Dodge ([dice pool](../Core%20Mechanics/Dice%20Pools.md) + Reflex)
 
 The caster chooses a damage type — Fire, Ice, or Electric — at the moment of casting. The bolt strikes its target with elemental force, dealing 1d10 damage of the chosen type.
 
@@ -76,9 +76,9 @@ The caster summons an ethereal hammer in the likeness of Ordred's forge hammer. 
 
 The caster summons an ethereal bridge spanning up to 120 ft. between two points they can see. The bridge is 5 ft. wide — wide enough for one character at a time — and bears weight normally. Characters cross it single-file at their normal movement rate.
 
-The bridge has no railings. Characters with a fear of heights may find the crossing more difficult than the spell itself — the Narrator may apply the Frightened condition as the situation warrants.
+The bridge has no railings. Characters with a fear of heights may find the crossing more difficult than the spell itself — the Narrator may apply the [Frightened](../Conditions%20and%20Hazards/Conditions.md#frightened) condition as the situation warrants.
 
-The caster may dismiss the bridge at any time at no cost. If the caster is knocked Unconscious or Incapacitated, the bridge vanishes immediately and any character mid-crossing falls.
+The caster may dismiss the bridge at any time at no cost. If the caster is knocked [Unconscious](../Conditions%20and%20Hazards/Conditions.md#unconscious) or [Incapacitated](../Conditions%20and%20Hazards/Conditions.md#incapacitated), the bridge vanishes immediately and any character mid-crossing falls.
 
 
 ### Solan's Glory
@@ -91,6 +91,6 @@ The caster may dismiss the bridge at any time at no cost. If the caster is knock
 - **Radius:** 30 ft.
 - **Target:** All enemies within radius
 - **Duration:** 2 rounds
-- **Defense:** Dodge ([dice pool](../Encounters/Dice%20Pools.md) + Reflex)
+- **Defense:** Dodge ([dice pool](../Core%20Mechanics/Dice%20Pools.md) + Reflex)
 
 A burst of white light

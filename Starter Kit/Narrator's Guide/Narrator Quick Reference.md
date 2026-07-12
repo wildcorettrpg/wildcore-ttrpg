@@ -71,7 +71,7 @@ Unspent AP does not carry over.
 | Strength | Melee and ranged attack rolls; bonus damage |
 | Willpower | Magic attack rolls; Consciousness Checks; bonus spell damage |
 
-**Vitality** is not an assignable attribute and is not used in Opposition Checks. It sets maximum Health (base 25 for all characters). It increases only through the Vitality skill tree, lineage traits, or specific abilities — never through creation-time point assignment.
+**Vitality** is not an assignable attribute and is not used in Opposition Checks. It sets maximum Health (base 25 for all characters). It increases only through the Vitality skill tree, race traits, or specific abilities — never through creation-time point assignment.
 
 [Core Rules reference: Attributes — Core Attributes](Core%20Rules/Characters/Attributes.md#core-attributes)
 
@@ -106,25 +106,25 @@ Characters in this adventure wearing light armor (leather, mitigation 3) subtrac
 
 ## Health and Dying
 
-- **Base Vitality:** 25 (modified by the Vitality skill tree and lineage traits)
+- **Base Vitality:** 25 (modified by the Vitality skill tree and race traits)
 - **Wounded threshold:** Half of max Vitality, rounded up. At base Vitality 25, this is **13 Health**.
 - **Dying threshold:** One quarter of max Vitality, rounded up. At base Vitality 25, this is **7 Health**.
 - **Death:** Health reaches 0.
 
 When a character's Health drops to or below the **Wounded threshold**:
 
-- They enter the **Wounded** condition and begin Bleeding Out: 1 Health lost per round at end of their turn.
+- They enter the **Wounded** condition and begin [Bleeding Out](../../Core%20Rules/Conditions%20and%20Hazards/Conditions.md#bleeding-out): 1 Health lost per round at end of their turn.
 - No OC penalty. No movement penalty. They can still act normally — they're hurt, not impaired.
 - Kith and Kin must make a Willpower OC (difficulty 20) at the start of each turn or enter blood rage.
 
 When Health drops further to or below the **Dying threshold**:
 
 - They enter the **Dying** condition: −2 on all Opposition Checks, movement reduced by 5 ft per AP.
-- They are still Bleeding Out (started at Wounded).
+- They are still [Bleeding Out](../../Core%20Rules/Conditions%20and%20Hazards/Conditions.md#bleeding-out) (started at Wounded).
 - They must make a **Consciousness Check** (1d10 + Willpower vs. the damage that triggered it). Failure = unconscious.
 - They can still act if they pass the Consciousness Check.
 
-Stabilization ends Bleeding Out and Consciousness Checks but does not remove the Wounded or Dying conditions. Those end only when Health is healed above the relevant threshold.
+Stabilization ends [Bleeding Out](../../Core%20Rules/Conditions%20and%20Hazards/Conditions.md#bleeding-out) and Consciousness Checks but does not remove the Wounded or Dying conditions. Those end only when Health is healed above the relevant threshold.
 
 Going unconscious is not death — it is a story problem.
 
@@ -134,7 +134,7 @@ Going unconscious is not death — it is a story problem.
 
 ## Stabilization
 
-A conscious character can stabilize an unconscious, bleeding-out ally. Stabilization stops the bleeding and ends Consciousness Checks. It does not restore Health or remove the Unconscious condition — a stabilized character remains unconscious until healed.
+A conscious character can stabilize an unconscious, bleeding-out ally. Stabilization stops the bleeding and ends Consciousness Checks. It does not restore Health or remove the [Unconscious](../../Core%20Rules/Conditions%20and%20Hazards/Conditions.md#unconscious) condition — a stabilized character remains unconscious until healed.
 
 A character with Healing skills and a Healer's Bag can restore Health: 1d6 + Willpower per charge (10 charges). Without tools, stabilization alone is available.
 

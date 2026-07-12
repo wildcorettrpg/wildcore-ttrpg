@@ -13,7 +13,7 @@
 - **Target:** One creature
 - **Damage:** 1d8 Fire, Ice, or Electric
 - **Duration:** Instantaneous
-- **Defense:** Dodge ([dice pool](../Encounters/Dice%20Pools.md) + Reflex)
+- **Defense:** Dodge ([dice pool](../Core%20Mechanics/Dice%20Pools.md) + Reflex)
 
 The caster chooses a damage type — Fire, Ice, or Electric — at the moment of casting. The bolt strikes its target with elemental force, dealing 1d8 damage of the chosen type.
 
@@ -28,7 +28,7 @@ The caster chooses a damage type — Fire, Ice, or Electric — at the moment of
 - **Target:** One creature
 - **Damage:** 1d4 Fire (ongoing, per turn)
 - **Duration:** Until extinguished
-- **Defense:** Dodge ([dice pool](../Encounters/Dice%20Pools.md) + Reflex)
+- **Defense:** Dodge ([dice pool](../Core%20Mechanics/Dice%20Pools.md) + Reflex)
 
 The caster touches the target and sets them alight with magical fire. On a failed defense, the target catches fire and takes 1d4 fire damage at the end of each of their turns until the fire is extinguished.
 
@@ -43,9 +43,9 @@ The fire can be extinguished by spending 1 AP to stop, drop, and smother it; by 
 - **Range:** 30 ft. (line of sight)
 - **Target:** One creature
 - **Duration:** Concentration
-- **Defense:** Dodge ([dice pool](../Encounters/Dice%20Pools.md) + Reflex)
+- **Defense:** Dodge ([dice pool](../Core%20Mechanics/Dice%20Pools.md) + Reflex)
 
-Ethereal binds erupt from the ground and wrap around the target. On a failed defense, the target is Incapacitated for as long as the caster maintains Concentration. The binds vanish the moment Concentration ends.
+Ethereal binds erupt from the ground and wrap around the target. On a failed defense, the target is [Incapacitated](../Conditions%20and%20Hazards/Conditions.md#incapacitated) for as long as the caster maintains Concentration. The binds vanish the moment Concentration ends.
 
 
 ### Kerek's Cloak
@@ -61,7 +61,7 @@ Ethereal binds erupt from the ground and wrap around the target. On a failed def
 
 The caster calls on Kerek, God of Dark, plunging a 30 ft. radius around the target point into absolute darkness. No natural or magical light source can illuminate the area for the duration.
 
-Any creature within the darkness that relies on sight to perceive is treated as Blinded. Creatures with abilities that allow them to perceive without light are unaffected. The caster may dismiss the darkness at any time at no cost.
+Any creature within the darkness that relies on sight to perceive is treated as [Blind](../Conditions%20and%20Hazards/Conditions.md#blind)ed. Creatures with abilities that allow them to perceive without light are unaffected. The caster may dismiss the darkness at any time at no cost.
 
 
 ### Solan's Light

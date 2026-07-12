@@ -30,4 +30,4 @@ Calm despite her circumstances. She is old enough to have survived worse, and sh
 
 Faeries cannot lie. This is not reputation — it is what they are. Her testimony needs no stone, no oath, no corroboration. When she speaks, the hall knows it is true. If Voss attempts to deny her account and she is within ten feet of him, she will say so plainly: *"That is a lie."* She cannot do otherwise. She will not soften it.
 
-*Core Rules reference: Core Rules/Lineages/Faerie.md — Incapable of Deception, Sense Truth. See also: The Truthstone.md.*
+*Core Rules reference: Core Rules/Races/Faerie.md — Incapable of Deception, Sense Truth. See also: The Truthstone.md.*

@@ -4,7 +4,7 @@
 
 Environmental hazards are passive, ongoing threats posed by the environment itself — extreme temperatures, toxic air, oxygen deprivation, and similar conditions that wear a character down over time. They are not combatants and do not roll against the character; instead, the character rolls to resist them.
 
-Environmental hazards are resolved as **Fortitude checks against a static difficulty**, making them one of the system's two deliberate exceptions to the opposed-dice-pool model (alongside Stabilization — see [Opposition Checks](Opposition%20Checks.md)).
+Environmental hazards are resolved as **Fortitude checks against a static difficulty**, making them one of the system's two deliberate exceptions to the opposed-dice-pool model (alongside Stabilization — see [Opposition Checks](../Core%20Mechanics/Opposition%20Checks.md)).
 
 ## Severity
 
@@ -12,13 +12,13 @@ The Narrator assigns a severity tier based on narrative logic. The same hazard c
 
 | Severity | Examples | Check Frequency | Difficulty | Failure Effect |
 | :--- | :--- | :--- | :---: | :--- |
-| **Mild** | Cold snap, dry heat, stale air, high elevation (thin air, breathlessness), stale mine air | Once per scene | 8 | **Hindered** until the exposure ends or the character rests in a safe environment |
-| **Severe** | Blizzard, scorching desert, smoke-filled room, very high altitude (altitude sickness), carbon dioxide buildup in enclosed spaces | Once per round | 14 | **1d4 damage + Hindered** |
-| **Lethal** | Arctic exposure without shelter, volcanic heat, toxic atmosphere, death-zone altitude, oxygen depletion, hydrogen sulfide or methane gas pockets | Once per round | 20 | **2d8 damage + Hindered** |
+| **Mild** | Cold snap, dry heat, stale air, high elevation (thin air, breathlessness), stale mine air | Once per scene | 8 | **[Hindered](Conditions.md#hindered)** until the exposure ends or the character rests in a safe environment |
+| **Severe** | Blizzard, scorching desert, smoke-filled room, very high altitude (altitude sickness), carbon dioxide buildup in enclosed spaces | Once per round | 14 | **1d4 damage + [Hindered](Conditions.md#hindered)** |
+| **Lethal** | Arctic exposure without shelter, volcanic heat, toxic atmosphere, death-zone altitude, oxygen depletion, hydrogen sulfide or methane gas pockets | Once per round | 20 | **2d8 damage + [Hindered](Conditions.md#hindered)** |
 
 ## Making the Check
 
-The character rolls their [dice pool](Dice%20Pools.md) + Fortitude against the hazard's difficulty. On a result equal to or higher than the difficulty, the check succeeds and the character suffers no effect this interval. On a lower result, apply the failure effect for that severity tier.
+The character rolls their [dice pool](../Core%20Mechanics/Dice%20Pools.md) + Fortitude against the hazard's difficulty. On a result equal to or higher than the difficulty, the check succeeds and the character suffers no effect this interval. On a lower result, apply the failure effect for that severity tier.
 
 Applicable bonuses from the Fortitude skill tree apply normally.
 
@@ -57,7 +57,7 @@ Some hazardous environments are not merely toxic — they are flammable. Methane
 
 The explosion affects all characters within the pocket. The Narrator determines the radius and severity based on the size of the pocket, but as a baseline:
 
-- All characters in the area take **6d10 fire damage** and are knocked **Prone**.
+- All characters in the area take **6d10 fire damage** and are knocked **[Prone](Conditions.md#prone)**.
 - Characters at the edge of the blast radius take **3d10 fire damage**.
 - The tunnel or chamber may suffer structural damage — cave-in risk, collapsed exits, or fire spreading to wooden supports — at the Narrator's discretion.
 

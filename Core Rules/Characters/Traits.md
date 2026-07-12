@@ -2,7 +2,7 @@
 
 Traits are innate qualities — things a character *is*, not things they have learned. They cannot be purchased with Skill Points, retrained, or improved through advancement. A character either has a trait or they don't. Traits do not change.
 
-Most traits come from a character's lineage and are present from the moment of creation. A small number of traits are cross-lineage — they can appear in any character regardless of lineage, through birth, circumstance, or something the Narrator determines happened before play began.
+Most traits come from a character's race and are present from the moment of creation. A small number of traits are cross-lineage — they can appear in any character regardless of lineage, through birth, circumstance, or something the Narrator determines happened before play began.
 
 Traits that grant mechanical bonuses are noted in the character's Opposition Check Modifiers.
 
@@ -10,40 +10,40 @@ Traits that grant mechanical bonuses are noted in the character's Opposition Che
 
 Each lineage carries its own set of traits. Full trait descriptions appear in the relevant lineage file.
 
-**Human** ([Human Lineage](Human%20Lineage.md))
+**Human** ([Human Race](Human%20Lineage.md))
 - **Human Potential** — Begins play with 12 Skill Points instead of 10.
 - **Mundane Presence** — Cannot be detected by Supernatural Detection or similar abilities.
 - **Eye for Value** — +4 to find and assess the value of treasure; +2 on Investigation and Negotiation checks when trading.
 - **Uncanny Adaptability** — Once per session, re-roll any failed Opposition Check and take the better result.
 
-**Dwarf** ([Dwarf Lineage](Dwarf%20Lineage.md))
+**Dwarf** ([Dwarf Race](Dwarf%20Lineage.md))
 - **Fearless** — Immune to fear effects. Automatic success on Willpower Opposition Checks to resist fear.
-- **Low Center of Gravity** — +2 on Opposition Checks to resist being tripped, knocked Prone, or forced into movement.
+- **Low Center of Gravity** — +2 on Opposition Checks to resist being tripped, knocked [Prone](../Conditions%20and%20Hazards/Conditions.md#prone), or forced into movement.
 
-**Elf** ([Elf Lineage](Elf%20Lineage.md))
+**Elf** ([Elf Race](Elf%20Lineage.md))
 - **Arcane Echo** — Grants access to Spellcasting skills. Spellcasting I is unlocked for free.
 - **Immortal Vitality** — +20 Maximum Health.
 - **Intimidating Presence** — +4 on Intimidation Opposition Checks.
 - **Living Memory** — +2 on Research Opposition Checks.
 
-**Faerie** ([Faerie Lineage](Faerie%20Lineage.md))
+**Faerie** ([Faerie Race](Faerie%20Lineage.md))
 - **Luminous** — Emits faint ambient light; can produce and direct a nonflammable light illuminating up to 30 ft.
 - **Incapable of Deception** — Cannot make a false statement. Constitutionally incapable, not culturally restrained.
 - **Sense Truth** — Detects sincerity of any statement made within 10 ft. Automatic success on checks to detect deception within 10 ft.; +2 beyond.
 - **Ethereal Form** — Once per day, assumes a purely ethereal state for four consecutive hours. Cannot physically interact with the world while ethereal; heals at double rate.
 - **Lightborne Step** — Hovers above the ground; ignores Difficult Terrain; +4 to Stealth Opposition Checks while moving.
 
-**Kin** ([Kin Lineage](Kin%20Lineage.md))
+**Kin** ([Kin Race](Kin%20Lineage.md))
 - **Gregarious Nature** — +2 on Social Opposition Checks.
 - **Voracious Mind** — +2 on Investigation Opposition Checks; +4 on Research Opposition Checks.
 - **Innate Magic** — Grants access to Spellcasting skills. Spellcasting I is unlocked for free. +2 on Spellcasting Opposition Checks.
 
-**Kith** ([Kith Lineage](Kith%20Lineage.md))
+**Kith** ([Kith Race](Kith%20Lineage.md))
 - **Improvised Combatant** — All purchased Melee Attack or Ranged Attack skills apply to improvised weapons. +2 on Attack Opposition Checks with improvised weapons.
 - **Terrain Mastery** — +2 on attack Opposition Checks when exploiting terrain features.
 - **Wallcrawler** — Can scale any vertical surface without assistance; can run or sprint across walls and ceilings.
 
-**Shapeshifter** ([Shapeshifter Lineage](Shapeshifter%20Lineage.md))
+**Shapeshifter** ([Shapeshifter Race](Shapeshifter%20Lineage.md))
 - **Inner Animal** — +2 on Fortitude Opposition Checks.
 - **Keen Senses** — +2 to perception-based Opposition Checks within 30 ft.
 - **Low-Light Vision** — Sees in low-light conditions as clearly as daylight within 30 ft. +2 on Perception Opposition Checks at night or in low light.

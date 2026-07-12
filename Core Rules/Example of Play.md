@@ -276,7 +276,7 @@ Sela wipes the corner of her mouth — a thin line of blood, the price of castin
 
 **Untrained weapon use shows up in the fiction first.** The −4 penalty on Cael's axe attack meant the enforcer stepped around it like it was nothing. The number didn't just reduce Cael's total — it explained why the story went that way. When the mechanics fit the fiction this cleanly, no one has to explain why something happened.
 
-**Consciousness Checks trigger at 7 HP.** When Cael's Health fell to 5 — below the fixed 7 HP threshold — he made a Consciousness Check immediately. Any source of damage or Health loss that drops a character to 7 or below triggers one: a sword blow, a fall, a Bleeding Out tick. The threshold is the same for every character regardless of Maximum Health.
+**Consciousness Checks trigger at 7 HP.** When Cael's Health fell to 5 — below the fixed 7 HP threshold — he made a Consciousness Check immediately. Any source of damage or Health loss that drops a character to 7 or below triggers one: a sword blow, a fall, a [Bleeding Out](Conditions%20and%20Hazards/Conditions.md#bleeding-out) tick. The threshold is the same for every character regardless of Maximum Health.
 
 **Consciousness Checks don't end your turn.** Cael still could have acted if he'd passed. The check determines whether he stayed conscious enough to do so. If he'd rolled a 16 or higher, he would have been still standing at 5 Health — hurt, bleeding, but fighting.
 
