@@ -4,6 +4,20 @@ Notable changes to Velocity — rules, content, and the website — recorded her
 
 This is the public-facing summary. It doesn't need session-by-session design rationale (why a decision was made, alternatives considered) — just what changed, in plain terms a player, Narrator, or site visitor would care about.
 
+## 2026-07-13
+
+**Rules — Damage**
+- **Force damage split into two distinct types.** Elemental Force (kinetic impact, compressed air, concussive wave) is physical — armor mitigates it normally. Magical Force (conjured weapons, raw supernatural energy) is purely supernatural — armor does not apply. A new Damage Types table in `Encounters/Damage.md` lists all damage types with their mitigation status.
+- **Ordred's Hammer** reclassified from Bludgeoning to Magical Force — it is a conjured weapon of pure supernatural energy, not a physical impact.
+
+**Rules — Conditions**
+- **Restrained** added as a new condition. A Restrained character is physically bound — shackled, cuffed, held, pinned — and cannot act of their own volition. They cannot take actions, Reactions, or move voluntarily, and cannot make attack, Dodge, Parry, or Block Opposition Checks. Armor mitigation still applies to attacks against a Restrained character. Breaking free requires a Strength Opposition Check against a Narrator-assigned difficulty.
+
+**Rules — Action Points**
+- **5 AP per turn maximum** now explicitly noted in Blood Surge (Vampire VIII) and Reflex VII, making the cap visible at all points where bonus AP can be granted.
+
+---
+
 ## 2026-07-12
 
 **Rules — Lineages**

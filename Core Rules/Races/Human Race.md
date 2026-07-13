@@ -15,7 +15,7 @@ Humans begin play with 12 Skill Points instead of 10.
 Humans carry no supernatural signature and cannot be detected by Supernatural Detection skills or similar abilities.
 
 ### Eye for Value
-Humans have an instinctive sense for what things are worth — and what they can get for them. They notice valuables others overlook and extract more from every transaction. +4 to find and assess the value of treasure.
+Humans have an instinctive sense for what things are worth — and what they can get for them. They notice valuables others overlook and extract more from every transaction. +4 to find and assess the value of treasure; +2 on Investigation and Negotiation checks when trading.
 
 ### Uncanny Adaptability
 Once per session, a Human may re-roll any failed Opposition Check and take the better result.
@@ -29,7 +29,8 @@ Humans are more susceptible to supernatural compulsion and influence. −2 on Op
 
 | Source | Modifier |
 | :----- | :------- |
-| Eye for Value | +4 on Investigation OCs when searching for or assessing valuables |
-| Eye for Value | +2 on Negotiation OCs when trading or establishing prices |
+| Eye for Value | +4 to find and assess the value of treasure |
+| Eye for Value | +2 on Investigation OCs when trading |
+| Eye for Value | +2 on Negotiation OCs when trading |
 | Mortal Nature | −2 on OCs to resist mind-affecting supernatural abilities |
 

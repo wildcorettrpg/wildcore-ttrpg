@@ -21,7 +21,7 @@ Tuvien's Echo,2,Utility,1 AP,2 Health,Touch,N/A,One object or location,N/A,Insta
 Elemental Bolt III,3,Offense,1 AP,3 Health,30 ft. (line of sight),N/A,One creature,"1d10 Fire, Ice, or Electric",Instantaneous,Dodge (dice pool + Reflex),N/A
 Inoen's Grace,3,Healing,1 AP,3 Health,Touch,N/A,One creature,N/A,Instantaneous,N/A,N/A
 Nunor's Blessing,3,Utility,1 AP,3 Health,30 ft.,30 ft.,A point within range,N/A,Until dismissed,N/A,N/A
-Ordred's Hammer,3,Offense,1 AP,3 Health,30 ft. (line of sight),N/A,"One person, creature, or object",4d6 Bludgeoning (unmitigated),1 round,None (auto-hit),N/A
+Ordred's Hammer,3,Offense,1 AP,3 Health,30 ft. (line of sight),N/A,"One person, creature, or object",4d6 Magical Force (unmitigated),1 round,None (auto-hit),N/A
 Rasgard's Flying Bridge,3,Utility,1 AP,3 Health,120 ft.,N/A,Two points within range,N/A,Until dismissed,N/A,N/A
 Solan's Glory,3,"Offense, Crowd Control",1 AP,3 Health,Self,30 ft.,All enemies within radius,N/A,2 rounds,Dodge (dice pool + Reflex),Blinded (2 rounds on failed defense)
 Balathor's Mantle,4,Defense,1 AP,4 Health,Self,N/A,Self,1d8 Fire (melee attackers),Until dismissed,N/A,N/A

@@ -16,7 +16,7 @@ Faeries emit a faint silver or golden glimmer at night. On command, they can pro
 ### Incapable of Deception
 Faeries cannot lie. This is not a cultural norm, a discipline, or a matter of will — it is what they are. A Faerie is constitutionally incapable of making a false statement. They can decline to speak, choose what to reveal, and frame truths carefully — but they cannot say something they know to be false.
 
-This makes Faerie testimony legally and culturally unimpeachable throughout Anar. When a Faerie states something in a tribunal, no oath or instrument is required to confirm it.
+In societies that know of them, Faeries are widely regarded as incapable of deception — their word is considered binding without oath or instrument to confirm it.
 
 ### Sense Truth
 Faeries can sense the truthfulness of any statement made within 10 ft. of them. This ability detects sincerity, not objective fact — if the speaker genuinely believes what they are saying, it registers as true regardless of whether it is. A deliberate lie registers immediately. +2 on Opposition Checks to detect or resist deception, lies, or manipulation. Automatic success on Opposition Checks to detect or resist deception, lies, or manipulation when within 10 feet.

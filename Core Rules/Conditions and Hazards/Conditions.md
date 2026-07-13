@@ -88,6 +88,14 @@ Conditions are temporary or persistent states imposed by combat, injury, superna
 **Effect:** The character takes a −4 penalty on Opposition Checks made to Dodge, Parry, or Block. Dodge remains available — rolling clear of an attack is possible from the ground. The Narrator may rule a specific defense unavailable when the situation makes it physically impossible (pinned, boxed in, no room to move). A prone character may crawl or stand up. Standing from prone is a Free Action.  
 
 **Ends:** The character stands up (Free Action).
+## Restrained
+
+**Trigger:** Applied by shackles, manacles, bindings, a grapple technique, or any effect that physically constrains the character's freedom of movement.
+
+**Effect:** The character is physically bound and cannot act of their own volition. They cannot take actions, Reactions, or move voluntarily. The character may still speak and perceive normally unless the restraint explicitly prevents it. The character cannot make attack, Dodge, Parry, or Block Opposition Checks. Armor mitigation still applies to attacks against a Restrained character.
+
+**Ends:** The restraint is removed or broken. Breaking free typically requires a Strength Opposition Check against a Narrator-assigned difficulty based on the restraint's material and construction; some restraints can only be removed with tools or keys.
+
 ## Stunned
 
 **Trigger:** Imposed by a specific skill, ability, or Narrator judgment.  

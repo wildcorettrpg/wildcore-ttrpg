@@ -13,7 +13,7 @@ Light shields — wooden shields, steel shields, and bucklers — are carried in
 1. An untrained character wielding a light shield uses the Benefit (untrained) value from the [shield table](../../../Equipment/Armor.md#shields).
 2. Light Shield I grants access to the Benefit (trained) value.
 3. Light shields require the off-hand to grip. A buckler is the exception — it straps to the forearm, allowing the same arm to carry a one-handed weapon or item.
-4. The Block bonus applies only when actively blocking. A character who is [Incapacitated](../../../Conditions%20and%20Hazards/Conditions.md#incapacitated), Restrained, or otherwise unable to use the shield loses this bonus.
+4. The Block bonus applies only when actively blocking. A character who is [Incapacitated](../../../Conditions%20and%20Hazards/Conditions.md#incapacitated), [Restrained](../../../Conditions%20and%20Hazards/Conditions.md#restrained), or otherwise unable to use the shield loses this bonus.
 
 ## Skills
 

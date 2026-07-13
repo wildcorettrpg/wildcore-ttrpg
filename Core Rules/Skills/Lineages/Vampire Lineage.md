@@ -65,7 +65,7 @@ A vampire must feed (consume blood from a living creature) at least once per ses
 
 **Cost:** 1 SP  
 **Prerequisite:** Vampire VII  
-**Effect:** **Blood Surge.** Once per encounter, the character may spend 5 Health at the start of their turn (free action) to gain +1 AP this turn and +1d10 to all attack Opposition Checks made this turn. The Health cost cannot be mitigated or reduced.
+**Effect:** **Blood Surge.** Once per encounter, the character may spend 5 Health at the start of their turn (free action) to gain +1 AP this turn and +1d10 to all attack Opposition Checks made this turn. AP granted this way cannot exceed the 5 AP per turn maximum. The Health cost cannot be mitigated or reduced.
 
 ### Vampire IX
 
@@ -77,7 +77,7 @@ A vampire must feed (consume blood from a living creature) at least once per ses
 
 **Cost:** 1 SP  
 **Prerequisite:** Vampire IX  
-**Effect:** **Apex Predator.** The character's Blood Healing (Vampire III) now transfers **16 Health per round** (increased from 8) and may target **any creature regardless of condition** — willing, resistant, or actively fighting. Dominating Gaze (Vampire VII) is no longer limited to once per scene. Dominating Gaze (Vampire VII) is no longer limited to once per scene. Sunlight no longer causes pain, though it continues to suppress their vampiric abilities (Narrator's discretion on which, if any, at this tier).
+**Effect:** **Apex Predator.** The character's Blood Healing (Vampire III) now transfers **16 Health per round** (increased from 8) and may target **any creature regardless of condition** — willing, resistant, or actively fighting. Dominating Gaze (Vampire VII) is no longer limited to once per scene. Sunlight no longer causes pain, though it continues to suppress their vampiric abilities (Narrator's discretion on which, if any, at this tier).
 
 ## Notes
 

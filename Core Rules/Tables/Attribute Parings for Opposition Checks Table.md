@@ -21,6 +21,6 @@
 
 **Footnotes**
 
-¹ **Physical and elemental spells** (fire, lightning, force, cold, and similar): the spell occupies space — the defender can get out of the way. Dodge applies with standard rules (−2 when space is restricted, −4 when prone). Parry and Block are unavailable.
+¹ **Physical and elemental spells** (fire, lightning, cold, Elemental Force, and similar): the spell occupies space — the defender can get out of the way. Dodge applies with standard rules (−2 when space is restricted, −4 when prone). Parry and Block are unavailable. Magical Force spells (conjured weapons, raw supernatural energy) are also Dodge-only but bypass armor mitigation — see [Damage Types](../Encounters/Damage.md#damage-types).
 
 ² **Mind-affecting spells** (charm, compulsion, illusion, fear, and similar): the spell targets the mind — no physical movement can deflect it. The defender resists with their [Spellcasting attack pool](../Core%20Mechanics/Dice%20Pools.md). Parry and Block are unavailable. A defender who is [Stunned](../Conditions%20and%20Hazards/Conditions.md#stunned), [Unconscious](../Conditions%20and%20Hazards/Conditions.md#unconscious), or [Incapacitated](../Conditions%20and%20Hazards/Conditions.md#incapacitated) takes the hit automatically.

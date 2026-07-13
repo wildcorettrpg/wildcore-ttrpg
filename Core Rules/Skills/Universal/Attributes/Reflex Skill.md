@@ -52,7 +52,7 @@ Reflex represents physical quickness and reactive instinct — the body's capaci
 
 **Cost:** 1 SP  
 **Prerequisite:** Reflex VI  
-**Effect:** When an attack against the character is successfully dodged, parried, or blocked, the character gains 1 AP. This AP must be spent immediately or it is forfeited — it does not carry over to the character's next turn.
+**Effect:** When an attack against the character is successfully dodged, parried, or blocked, the character gains 1 AP. This AP must be spent immediately or it is forfeited — it does not carry over to the character's next turn. AP granted this way cannot exceed the 5 AP per turn maximum.
 
 ### Reflex VIII
 

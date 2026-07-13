@@ -28,13 +28,32 @@ Some attacks inflict conditions in addition to damage. Conditions are applied af
 
 Armor provides flat damage mitigation applied to every hit unless a rule states otherwise. Armor does not modify hit chance — it only reduces damage after a hit lands. Mitigation sources stack unless a rule specifies a cap or exception. Sources include worn armor, natural armor, temporary effects, and abilities or traits.
 
+## Damage Types
+
+All damage in Velocity has a type. Damage type determines whether armor mitigates and, for spells, how a target may defend. See [Spell Defense](../Magic/Magic.md#spell-defense) for defense rules by type.
+
+| Damage Type | Description | Armor Mitigates? |
+| :--- | :--- | :--- |
+| Slashing | Blades, edges, claws | Yes |
+| Piercing | Points, arrows, fangs | Yes |
+| Bludgeoning | Impact, crushing force, unarmed strikes | Yes |
+| Fire | Flame, heat, combustion | Yes |
+| Cold | Frost, ice, freezing temperature | Yes |
+| Lightning | Electrical discharge | Yes |
+| Acid | Corrosive liquid or vapor | Yes |
+| Elemental Force | Kinetic impact, compressed air, concussive wave | Yes |
+| Magical Force | Conjured weapons, raw supernatural energy | No |
+| Poison | Venom, toxin — delivered separately; see [Poisons](../Conditions%20and%20Hazards/Poisons.md) | No |
+
+Magic weapons bypass armor regardless of their damage type. A spell states **(unmitigated)** in its Damage line when armor does not apply.
+
 ## What Armor Protects Against
 
 The default is that armor mitigates. It does not mitigate when a rule explicitly says otherwise.
 
-**Mitigated:** mundane weapons (slashing, piercing, and bludgeoning damage from non-magical weapons); natural attacks (claws, teeth, unarmed strikes, and similar physical attacks from any creature); and elemental spell damage — fire, cold, lightning, acid, and similar effects that produce a real physical phenomenon. Armor reduces how much of that heat, cold, or current reaches the body beneath.
+**Mitigated:** mundane weapons (slashing, piercing, and bludgeoning); natural attacks (claws, teeth, unarmed strikes); elemental spell damage (fire, cold, lightning, acid, and Elemental Force). Armor reduces how much physical force or elemental energy reaches the body beneath.
 
-**Not mitigated:** magic weapons bypass armor entirely regardless of damage type; purely magical effects — force, conjured weapons, and effects that are supernatural rather than physical — bypass armor; magical creature abilities that are explicitly supernatural (not breath weapons, which are elemental) bypass armor; environmental hazards including toxic atmosphere, extreme temperatures, and poison bypass armor. A spell indicates **(unmitigated)** in its Damage line when armor does not apply.
+**Not mitigated:** magic weapons bypass armor entirely regardless of damage type; Magical Force (conjured weapons and raw supernatural energy) bypasses armor — there is nothing physical to block; magical creature abilities that are explicitly supernatural (not breath weapons, which are elemental) bypass armor; environmental hazards including toxic atmosphere and poison bypass armor. A spell indicates **(unmitigated)** in its Damage line when armor does not apply.
 
 ## Natural Armor
 
