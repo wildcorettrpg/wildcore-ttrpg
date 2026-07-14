@@ -54,15 +54,10 @@ const BOOKS = [
       'Magic',
       'Spells',
       'Tables',
+      'Glossary',
+      'Creatures',
     ],
-  },
-  {
-    id:         'glossary',
-    name:       'Glossary',
-    slug:       'glossary',
-    color:      '#ffd76f',
-    source:     path.join(PROJECT_ROOT, 'Glossary'),
-    navExclude: new Set(),
+    extraSources: [path.join(PROJECT_ROOT, 'Glossary')],
   },
   {
     id:           'starter-kit',
@@ -848,7 +843,9 @@ function orderChapters(chapters, chapterOrder) {
 
 // files (optional): a Set of basenames (without .md) to include. When provided,
 // only those files are collected and subdirectory traversal is skipped entirely.
-function collectChapters(sourceDir, navExclude, chapterOrder, files) {
+// extraSources (optional): additional directories to walk after sourceDir (used to
+// pull in files from sibling directories, e.g. Glossary/ into Core Rules).
+function collectChapters(sourceDir, navExclude, chapterOrder, files, extraSources) {
   const chapters = [];
   if (!fs.existsSync(sourceDir)) {
     console.warn(`  ⚠  Source not found: ${sourceDir}`);
@@ -883,6 +880,10 @@ function collectChapters(sourceDir, navExclude, chapterOrder, files) {
   }
 
   walk(sourceDir, []);
+  for (const extra of (extraSources || [])) {
+    if (fs.existsSync(extra)) walk(extra, []);
+    else console.warn(`  ⚠  Extra source not found: ${extra}`);
+  }
   return orderChapters(chapters, chapterOrder);
 }
 
@@ -957,7 +958,7 @@ function main() {
   const localPathIndex = new Map();
 
   for (const book of BOOKS) {
-    const chapters = collectChapters(book.source, book.navExclude, book.chapterOrder, book.files).map(ch => {
+    const chapters = collectChapters(book.source, book.navExclude, book.chapterOrder, book.files, book.extraSources).map(ch => {
       const slug = fileSlug(ch.mdPath, book.source);
       const url  = book.outputAtRoot ? `${slug}.html` : `reader/${book.slug}/${slug}.html`;
       return { ...ch, slug, url };

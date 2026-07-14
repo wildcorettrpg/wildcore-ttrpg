@@ -29,4 +29,5 @@ Bulletproof/
 Thumbs.db
 
 # Core Rules Analysis working documents
-Core Rules Analysis - *.md
+.analysis/
+.backup/

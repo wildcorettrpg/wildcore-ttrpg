@@ -12,7 +12,7 @@ The resource that pays for actions, movement, and Concentration upkeep during an
 
 ### armor
 
-Equipment, natural traits, or temporary effects that provide flat damage mitigation. Armor is applied after a hit lands and reduces the damage total before it is applied to Health. Armor does not affect whether an attack hits — that is determined entirely by the Opposition Check between attacker and defender. Armor mitigates damage from mundane weapons and natural physical attacks only; magic weapons, spells, magical creature abilities, and environmental hazards bypass armor entirely. See [Armor](../Core%20Rules/Equipment/Armor.md).
+Equipment, natural traits, or temporary effects that provide flat damage mitigation. Armor is applied after a hit lands and reduces the damage total before it is applied to Health. Armor does not affect whether an attack hits — that is determined entirely by the Opposition Check between attacker and defender. Armor mitigates damage from mundane weapons, natural physical attacks, and elemental spell damage (fire, cold, lightning, acid, Elemental Force). Magic weapons, Magical Force spells (tagged **(unmitigated)**), magical creature abilities, and environmental hazards bypass armor entirely. See [Armor](../Core%20Rules/Equipment/Armor.md).
 
 ### attack
 
@@ -259,7 +259,7 @@ An attribute. Determines a character's capacity for social influence — persuas
 
 ### spell overcharging
 
-A casting option that amplifies a spell's effect at greater Health cost. An overcharged spell costs 1.5× the spell's level in Health (rounded up, minimum 1) instead of the normal cost. All numerical aspects of the spell — range, number of targets, duration, radius, damage — are doubled. Overcharging a Level 1+ spell subtracts its overcharged Health cost from the Predation Difficulty instead of the spell's normal level. Overcharging a Level 0 spell does not affect the Predation Difficulty. See [Spell Overcharging](../Core%20Rules/Magic/Magic.md#spell-overcharging).
+A casting option that amplifies a spell's effect at greater Health cost. An overcharged spell costs 1.5× the spell's level in Health (rounded up, minimum 1) instead of the normal cost. All numerical aspects of the spell — range, number of targets, duration, radius, damage — are doubled. Overcharging a Level 1+ spell subtracts its overcharged Health cost from the Predation Clock instead of the spell's normal level. Overcharging a Level 0 spell does not affect the Predation Clock. See [Spell Overcharging](../Core%20Rules/Magic/Magic.md#spell-overcharging).
 
 ### stabilization
 
@@ -299,7 +299,7 @@ A participant's opportunity to act during a round. At the start of their turn, a
 
 ### turn order
 
-The sequence in which participants act during a round: the Narrator determines which side acts first (once, at the start of the encounter), and each side decides its own participants' acting order at the start of every round. Replaces the former Initiative attribute/roll. See [Turn Order](../Core%20Rules/Encounters/Turn%20Order.md) and [Initiative](../Design%20Philosophy/Initiative.md).
+The sequence in which participants act during a round: the Narrator determines which side acts first (once, at the start of the encounter), and each side decides its own participants' acting order at the start of every round. Replaces the former Initiative attribute/roll. See [Turn Order](../Core%20Rules/Encounters/Turn%20Order.md).
 
 ### unarmed attack
 
@@ -320,4 +320,3 @@ A condition applied when a character is fully committed to a non-combat activity
 ### willpower
 
 An attribute. Provides a flat bonus on magical attack rolls and grants 1 bonus damage die per 3 points of Willpower on spell attacks. Also used to resist social and supernatural effects — domination, charm, compulsion, illusion, fear, and similar mind-affecting spells or abilities. Willpower governs **Consciousness Checks** — when Health drops to 7 or below, the character rolls their dice pool + Willpower to stay conscious — see **consciousness check**. Willpower also determines whether Concentration is maintained when a concentrating participant takes damage — see **concentration check**.
-

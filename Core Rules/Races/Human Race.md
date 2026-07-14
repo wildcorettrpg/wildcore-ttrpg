@@ -33,4 +33,3 @@ Humans are more susceptible to supernatural compulsion and influence. −2 on Op
 | Eye for Value | +2 on Investigation OCs when trading |
 | Eye for Value | +2 on Negotiation OCs when trading |
 | Mortal Nature | −2 on OCs to resist mind-affecting supernatural abilities |
-

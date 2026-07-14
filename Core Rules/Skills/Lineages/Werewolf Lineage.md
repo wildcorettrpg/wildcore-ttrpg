@@ -59,7 +59,7 @@ The werewolf's animal instincts are a permanent presence — not a mechanical co
 
 **Cost:** 1 SP  
 **Prerequisite:** Werewolf VI  
-**Effect:** **Blood Healing.** Once per scene, as a free action, the character may spend 5 Health to immediately heal 3d6 Health. This represents the lycanthropic regeneration surging in response to injury. Cannot be used while [Unconscious](../../Conditions%20and%20Hazards/Conditions.md#unconscious).
+**Effect:** **Lycan Healing.** Once per scene, as a free action, the character may spend 5 Health to immediately heal 3d6 Health. This represents the lycanthropic regeneration surging in response to injury. Cannot be used while [Unconscious](../../Conditions%20and%20Hazards/Conditions.md#unconscious).
 
 ### Werewolf VIII
 

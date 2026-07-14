@@ -6,7 +6,7 @@ The vampiric transformation is complete and irreversible. The character retains 
 
 ## What You Gain
 
-The first skill of the tree completes the transformation: immunity to mundane [Bleeding Out](../Conditions%20and%20Hazards/Conditions.md#bleeding-out), the cessation of aging, and freedom from biological needs. Training tier skills add **+2 Strength**, **Blood Healing** (rapidly restore Health by feeding from a willing or incapacitated creature), **+2 Reflex**, and **Mist Step** (teleportation through any mist or fog within 30 ft.).
+The first skill of the tree completes the transformation: immunity to mundane [Bleeding Out](../Conditions%20and%20Hazards/Conditions.md#bleeding-out), the cessation of aging, and freedom from biological needs. Training tier skills add **+2 Strength**, **Blood Healing** (rapidly restore Health by feeding from a willing or incapacitated creature), **+2 Reflex**, and **Mist Step** (partially dissolve into mist and reappear up to 10 ft. in any direction, avoiding one physical attack that would have connected — requires unobstructed space at the destination).
 
 The mastery tier unlocks **Dominating Gaze** (compel a target to obey a single command), **Blood Surge** (spend stockpiled blood to dramatically enhance physical capabilities for 1 round), **Mist Form** (full transformation into mist, with immunity to physical damage), and at the pinnacle, **Apex Predator** (which enhances all active abilities and removes feeding constraints during an encounter).
 

@@ -16,6 +16,7 @@ Balathor's Brand,2,Offense,1 AP,2 Health,Touch,N/A,One creature,1d4 Fire (ongoin
 Elemental Bolt II,2,Offense,1 AP,2 Health,30 ft. (line of sight),N/A,One creature,"1d8 Fire, Ice, or Electric",Instantaneous,Dodge (dice pool + Reflex),N/A
 Enduril's Binds,2,Crowd Control,1 AP,2 Health,30 ft. (line of sight),N/A,One creature,N/A,Concentration,Dodge (dice pool + Reflex),Incapacitated
 Kerek's Cloak,2,Crowd Control,1 AP,2 Health,30 ft. (line of sight),30 ft.,A point within range,N/A,Until dismissed,N/A,Blinded (creatures within area relying on sight)
+Rasgard's Bolts,2,Offense,1–5 AP,2 Health per AP spent,30 ft. (line of sight),N/A,One creature per bolt (split freely),1d8 Magical Force (unmitigated) per bolt,Instantaneous,None (automatic hit),N/A
 Solan's Light,2,Utility,1 AP,2 Health,30 ft. (line of sight),N/A,"One person, creature, or object",N/A,Until dismissed,N/A,N/A
 Tuvien's Echo,2,Utility,1 AP,2 Health,Touch,N/A,One object or location,N/A,Instantaneous,N/A,N/A
 Elemental Bolt III,3,Offense,1 AP,3 Health,30 ft. (line of sight),N/A,One creature,"1d10 Fire, Ice, or Electric",Instantaneous,Dodge (dice pool + Reflex),N/A

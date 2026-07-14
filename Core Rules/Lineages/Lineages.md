@@ -2,7 +2,7 @@
 
 A **lineage** is a supernatural transformation a character acquires through play — a vampiric turning, a lycanthropic curse, a celestial bond, an infernal pact, or a marking by the fae world. It is not something chosen at character creation. It is something that happens to a character during a campaign and changes them permanently.
 
-Lineages are distinct from **races**, which are birth ancestries. A character's race (Human, Elf, Dwarf, and so on) never changes. A character's lineage is layered on top of it — and a character may carry only one lineage, though they remain fully their race alongside it.
+Lineages are distinct from **races**, which are birth ancestries. A character's race (Human, Elf, Dwarf, and so on) never changes. A character's lineage is layered on top of it — and a character may hold more than one lineage simultaneously, each developing independently through its own skill tree.
 
 ## Acquiring a Lineage
 

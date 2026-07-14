@@ -32,20 +32,22 @@ Armor provides flat damage mitigation applied to every hit unless a rule states 
 
 All damage in Velocity has a type. Damage type determines whether armor mitigates and, for spells, how a target may defend. See [Spell Defense](../Magic/Magic.md#spell-defense) for defense rules by type.
 
-| Damage Type | Description | Armor Mitigates? |
-| :--- | :--- | :--- |
-| Slashing | Blades, edges, claws | Yes |
-| Piercing | Points, arrows, fangs | Yes |
-| Bludgeoning | Impact, crushing force, unarmed strikes | Yes |
-| Fire | Flame, heat, combustion | Yes |
-| Cold | Frost, ice, freezing temperature | Yes |
-| Lightning | Electrical discharge | Yes |
-| Acid | Corrosive liquid or vapor | Yes |
-| Elemental Force | Kinetic impact, compressed air, concussive wave | Yes |
-| Magical Force | Conjured weapons, raw supernatural energy | No |
-| Poison | Venom, toxin — delivered separately; see [Poisons](../Conditions%20and%20Hazards/Poisons.md) | No |
+| Damage Type     | Description                                                                                  | Armor Mitigates? |
+| :-------------- | :------------------------------------------------------------------------------------------- | :--------------- |
+| Slashing        | Blades, edges, claws                                                                         | Yes              |
+| Piercing        | Points, arrows, fangs                                                                        | Yes              |
+| Bludgeoning     | Impact, crushing force, unarmed strikes                                                      | Yes              |
+| Fire            | Flame, heat, combustion                                                                      | Yes              |
+| Cold            | Frost, ice, freezing temperature                                                             | Yes              |
+| Lightning       | Electrical discharge                                                                         | Yes              |
+| Acid            | Corrosive liquid or vapor                                                                    | Yes              |
+| Elemental Force | Kinetic impact, compressed air, concussive wave | Yes              |
+| Magical Force   | Conjured weapons, raw supernatural energy                                                    | No               |
+| Poison          | Venom, toxin — delivered separately; see [Poisons](../Conditions%20and%20Hazards/Poisons.md)          | No               |
 
 Magic weapons bypass armor regardless of their damage type. A spell states **(unmitigated)** in its Damage line when armor does not apply.
+
+Specific rules always override the general table. An individual spell or ability may specify that its damage bypasses armor regardless of what the table shows for that damage type — the specific rule takes precedence.
 
 ## What Armor Protects Against
 

@@ -6,7 +6,7 @@ Most traits come from a character's race and are present from the moment of crea
 
 Traits that grant mechanical bonuses are noted in the character's Opposition Check Modifiers.
 
-## Lineage Traits
+## Race Traits
 
 Each lineage carries its own set of traits. Full trait descriptions appear in the relevant lineage file.
 
@@ -50,7 +50,7 @@ Each lineage carries its own set of traits. Full trait descriptions appear in th
 - **Mindspeech** — Communicates telepathically with other Shapeshifters up to one mile, in any form.
 - **Multi-Strike** — Once per round, may make a single unarmed attack that strikes twice, each with its own attack and damage roll.
 
-## Cross-Lineage Traits
+## Cross-Race Traits
 
 Some traits are not tied to any lineage. They arise through birth, a singular event in a character's history, or something the Narrator determines about who the character is.
 

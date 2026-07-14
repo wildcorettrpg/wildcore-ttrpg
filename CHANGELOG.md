@@ -4,6 +4,25 @@ Notable changes to Velocity — rules, content, and the website — recorded her
 
 This is the public-facing summary. It doesn't need session-by-session design rationale (why a decision was made, alternatives considered) — just what changed, in plain terms a player, Narrator, or site visitor would care about.
 
+## 2026-07-14
+
+**Rules — Damage**
+- **Specific overrides general** documented in `Encounters/Damage.md` and `Magic/Magic.md`. The Damage Types table is the general rule — individual spells and abilities may specify that their damage bypasses armor regardless of damage type, and the specific rule always takes precedence over the table. This makes Hellfire Touch's fire damage being unmitigated by armor a legitimate documented exception rather than a one-off inconsistency.
+
+**Rules — Lineages**
+- **Werewolf VII renamed from "Blood Healing" to "Lycan Healing"** to eliminate name collision with Vampire III (also "Blood Healing"). The mechanics are opposite — Werewolf VII spends own Health to burst-heal; Vampire III drains target Health — and the identical name caused table confusion.
+
+**Spells**
+- **Rasgard's Bolts** added (Level 2, Offense). Variable AP cost (1–5 AP); each AP fires one bolt dealing 1d8 Magical Force (unmitigated). Auto-hit — no attack OC, no defense. Predation Clock subtracts total Health cost paid rather than the spell's base level. Bolts may be split freely among targets in range.
+- **Spell description restorations:** Malavard's Ward (Level 0), Whisper Walk (Level 1), and Tuvien's Echo (Level 2) were truncated in the file and never complete in git history. Content reconstructed: Malavard's Ward now states that speaking the correct password dispels the ward and permits normal use; Whisper Walk now states that any action that would break Stealth dispels the spell; Tuvien's Echo now includes Narrator guidance on what the echo shows.
+
+**Creatures — New Chapter**
+- **Creatures chapter added** to Core Rules, appearing last in the site navigation. Contains a landing page (`Creatures.md`) with an alphabetical creature index, and one file per creature.
+- **Bolg** added as the first Core Rules creature entry. Stat block: 15 Health, Natural Armor 9, Movement 60 ft., Scent 60 ft. (immune to Blind for tracking). Attributes: Strength 2. Attack: unarmed Multi-Strike (1 AP) — one bite OC (2d4) and two claw OCs (1d6 each), resolved independently, no cumulative multi-attack penalty within the Multi-Strike. Each successful strike applies one stack of Bleeding Out. Defenders may Dodge, Parry, or Block each strike.
+- **Balathor's Creation** (Level 8) updated to reference the Bolg creature entry rather than embedding the full stat block inline.
+
+---
+
 ## 2026-07-13
 
 **Rules — Damage**
@@ -41,7 +60,7 @@ This is the public-facing summary. It doesn't need session-by-session design rat
 - **Intense Concentration removed.** Concentration no longer grants the Narrator discretion to impose [Vulnerable](Core%20Rules/Conditions%20and%20Hazards/Conditions.md#vulnerable) on a concentrating character. If a specific spell or ability imposes [Vulnerable](Core%20Rules/Conditions%20and%20Hazards/Conditions.md#vulnerable), it says so in its own description. Removed from `Concentration.md`, `Opposition Checks.md`, `Conditions.md`, and the Glossary.
 - **All condition mentions across the Core Rules are now linked** to their entries in `Conditions.md`.
 - **Encounters chapter split into four chapters.** `Core Rules/Encounters/` contained unrelated content. Files redistributed:
-  - **Core Mechanics** (new) — Opposition Checks, Dice Pools
+  - *  - **Core Mechanics** (new) — Opposition Checks, Dice Pools
   - **Magic** (new) — Magic, Concentration
   - **Conditions and Hazards** (new) — Conditions, Environmental Hazards, Poisons, Dying, Death, Stabilization, Recovery
   - **Encounters** (retained) — Encounter Structure, Turn Order, Turn Structure, Action Points, Actions, Free Actions, Reactions, Combat, Damage, Consciousness Checks, Movement
@@ -62,13 +81,15 @@ This is the public-facing summary. It doesn't need session-by-session design rat
 **Website**
 - **Anchor navigation fixed.** Links to section headings now scroll correctly — the target heading is no longer hidden behind the fixed playtest banner. Fix: `scroll-margin-top` set on all headings in `#reader-content` using the banner and topbar CSS variables.
 
+---
+
 ## 2026-07-11
 
 **Rules**
-- **Dying system redesigned.** The Wounded and Dying conditions and their per-character threshold calculations are removed. In their place: a single fixed threshold — when a character's Health falls to 7 or below from any source, they make a Consciousness Check (dice pool + Willpower vs. the damage value that triggered it). Failing = [Unconscious](Core%20Rules/Conditions%20and%20Hazards/Conditions.md#unconscious). The threshold is the same for all characters regardless of Maximum Health.
-- **[Bleeding Out](Core%20Rules/Conditions%20and%20Hazards/Conditions.md#bleeding-out) is now a Narrator-applied condition**, not an automatic threshold trigger. Any attack, ability, or effect can cause it. 1 Health per round, stacks independently, ends when stabilized.
+- **Dying system redesigned.** The Wounded and Dying conditions and their per-character threshold calculations are removed. In their place: a single fixed threshold — when a character's Health falls to 7 or below from any source, they make a Consciousness Check (dice pool + Willpower vs. the damage value that triggered it). Failing = Unconscious. The threshold is the same for all characters regardless of Maximum Health.
+- **Bleeding Out is now a Narrator-applied condition**, not an automatic threshold trigger. Any attack, ability, or effect can cause it. 1 Health per round, stacks independently, ends when stabilized.
 - **"Vitality" renamed to "Health."** Health is now a two-value tracked stat: Maximum Health (ceiling) and Current Health (fluctuating). The Vitality skill tree is renamed the Health skill tree (Health I–X).
-- **Kithkin Blood** (Kith and Kin flaw) now triggers while [Bleeding Out](Core%20Rules/Conditions%20and%20Hazards/Conditions.md#bleeding-out) instead of while Wounded.
+- **Kithkin Blood** (Kith and Kin flaw) now triggers while Bleeding Out instead of while Wounded.
 - **Eye for Value** (Human trait) corrected to +4 on Investigation Opposition Checks when assessing valuables.
 - **Elf Living Memory** trait added: +2 on Research Opposition Checks. **Arcane Echo** expanded: also grants +2 on Supernatural Opposition Checks when detecting magical creatures.
 - **Principle 6 exception documented:** halving and doubling values are explicitly permitted. "Half damage" and "double damage" are universally understood and not flagged as math violations.
@@ -82,16 +103,20 @@ This is the public-facing summary. It doesn't need session-by-session design rat
 **Website**
 - "Cinema-first" replaced with "narrative-first" throughout the site and Starter Kit.
 
+---
+
 ## 2026-07-10
 
 **Rules**
 - Added two new spells: **Lightning Arc** (Level 5) and **Lightning Storm** (Level 9).
-  - Lightning Arc locks a single target in a sustained arc of electricity for as long as the caster maintains Concentration. On hit: 2d6 lightning damage and the target is [Electrified](Core%20Rules/Conditions%20and%20Hazards/Conditions.md#electrified) and [Immobilized](Core%20Rules/Conditions%20and%20Hazards/Conditions.md#immobilized) until the arc ends. Additional 2d6 per damage instance if the target is wearing metal or in contact with water. Anyone who touches an [Electrified](Core%20Rules/Conditions%20and%20Hazards/Conditions.md#electrified) target takes 2d6 and is thrown back 5 feet.
-  - Lightning Storm strikes a primary target plus up to 1d8 additional enemies within 120 feet. 6d6 lightning to the primary, 3d6 to each secondary. Cannot be dodged. All targets [Electrified](Core%20Rules/Conditions%20and%20Hazards/Conditions.md#electrified) for the duration of Concentration, taking repeated automatic damage each round.
-- Added two new conditions: **[Electrified](Core%20Rules/Conditions%20and%20Hazards/Conditions.md#electrified)** and **[Immobilized](Core%20Rules/Conditions%20and%20Hazards/Conditions.md#immobilized)**.
-  - [Electrified](Core%20Rules/Conditions%20and%20Hazards/Conditions.md#electrified): imposes [Immobilized](Core%20Rules/Conditions%20and%20Hazards/Conditions.md#immobilized), ignites nearby flammables, conducts damage to anyone who makes physical contact, and makes stealth impossible.
-  - [Immobilized](Core%20Rules/Conditions%20and%20Hazards/Conditions.md#immobilized): cannot take actions, Reactions, or move voluntarily; auto-fails checks that require voluntary movement.
-- **Predation Clock redesigned.** Now a pure countdown rather than a die roll. Starts at 25 each encounter. When a Level 1+ spell is cast, subtract its level. When a concentration spell is maintained, subtract 1 per maintained spell per round. When PD reaches 0, a manifestation occurs — and every subsequent draw on the magical field triggers another immediately. The PD is shared across all casters on the battlefield, friends and enemies alike.
+  - Lightning Arc locks a single target in a sustained arc of electricity for as long as the caster maintains Concentration. On hit: 2d6 lightning damage and the target is Electrified and Immobilized until the arc ends. Additional 2d6 per damage instance if the target is wearing metal or in contact with water. Anyone who touches an Electrified target takes 2d6 and is thrown back 5 feet.
+  - Lightning Storm strikes a primary target plus up to 1d8 additional enemies within 120 feet. 6d6 lightning to the primary, 3d6 to each secondary. Cannot be dodged. All targets Electrified for the duration of Concentration, taking repeated automatic damage each round.
+- Added two new conditions: **Electrified** and **Immobilized**.
+  - Electrified: imposes Immobilized, ignites nearby flammables, conducts damage to anyone who makes physical contact, and makes stealth impossible.
+  - Immobilized: cannot take actions, Reactions, or move voluntarily; auto-fails checks that require voluntary movement.
+- **Predation Clock redesigned.** Now a pure countdown rather than a die roll. Starts at 25 each encounter. When a Level 1+ spell is cast, subtract its level. When a concentration spell is maintained, subtract 1 per maintained spell per round. When the clock reaches 0, a manifestation occurs — and every subsequent draw on the magical field triggers another immediately. The clock is shared across all casters on the battlefield, friends and enemies alike.
+
+---
 
 ## 2026-07-07
 
@@ -101,5 +126,5 @@ This is the public-facing summary. It doesn't need session-by-session design rat
 **Rules**
 - Added a **Spells** section to Core Rules: ten files, one per spell level, covering Level 0 through Level 9.
 - Each spell entry now includes a **Damage** field where applicable, showing dice, damage type, and any special notes.
-- **Armor mitigation rule clarified for spells:** Elemental spell damage (fire, cold, lightning, acid) is mitigated by armor. Purely magical effects — force, conjured weapons — bypass armor entirely and are tagged `(unmitigated)` in the spell's Damage field. The default is that armor mitigates unless a spell says otherwise. Updated Magic.md, Combat.md, and Damage.md to reflect this.
-- **Balathor's Creation** (Level 8): Bolg stat block updated. Each Bolg has 15 Vitality, 9 damage mitigation from
+- **Armor mitigation rule clarified for spells:** Elemental spell damage (fire, cold, lightning, acid) is mitigated by armor. Purely magical effects — force, conjured weapons — bypass armor entirely and are tagged `(unmitigated)` in the spell's Damage field. The default is that armor mitigates unless a spell says otherwise.
+- **Balathor's Creation** (Level 8): Bolg stat block added. Each Bolg has 15 Health, Natural Armor 9, Movement 60 ft., and Scent 60 ft. Attack: Multi-Strike (1 AP) — one bite (2d4) and two claws (1d6 each), resolved independently. Each successful strike applies one stack of Bleeding Out.

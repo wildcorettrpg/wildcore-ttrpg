@@ -15,25 +15,9 @@
 
 The caster calls on Balathor, who reaches into his endless workshop and releases one of his favorite experiments.
 
-1d6 Bolg appear adjacent to the caster. They are real — not summoned, not ethereal. Balathor made them, and he sent them here. They cannot be dismissed.
+1d6 [Bolg](../Creatures/Bolg.md) appear adjacent to the caster. They are real — not summoned, not ethereal. Balathor made them, and he sent them here. They cannot be dismissed.
 
-**The Bolg**
-
-Bolg are 1.5 ft. tall, hairless, pale, and built almost entirely around their mouths. Their heads are dominated by rows of razor-sharp teeth set into jaws that hinge wider than their skull should allow. They have no eyes. They hunt by scent, and they can smell blood through skin, scale, and hide.
-
-They are hive creatures. Individually, they are small. Together, they have killed dragons.
-
-**How They Fight**
-
-Each Bolg acts on the caster's turn. They fight with one goal: find the most wounded thing in their priority order and kill it.
-
-Their priority is as follows: enemies first, working through the healthiest enemy until all enemies are down. When no enemies remain, they turn to horses, pack animals, and other non-combatant creatures present. When those are gone, they turn to party members, starting with the healthiest. _Bolg crave blood._
-
-They do not stop. The encounter ending does not stop them. The caster's wishes do not stop them. Balathor sent them here to do a job, and they are going to do it until there is nothing left to do it to or until they are dead.
-
-The Bolg swarm their current target together. A bolg has a bite dealing 2d4 damage and two claws dealing 1d6, each. If any attack should get past armor mitigation, the target immediately enters the [Bleeding Out](../Conditions%20and%20Hazards/Conditions.md#bleeding-out) condition. Multiple successful hits stack the [Bleeding Out](../Conditions%20and%20Hazards/Conditions.md#bleeding-out) condition on the target.
-
-A single Bolg has 15 Maximum Health and naturally tough hide that serves as armor, providing 9 damage mitigation. Their base movement speed is 60 ft.
+See [Bolg](../Creatures/Bolg.md) for full stat block, attack rules, and behavior.
 
 Balathor is very proud of the Bolg.
 

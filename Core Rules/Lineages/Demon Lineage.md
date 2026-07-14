@@ -8,7 +8,7 @@ The infernal power behind the bond is not a benefactor. It made the bargain for 
 
 The mark manifests immediately: the eyes carry an unnatural quality (color, glow, or pupil shape the player defines), the character becomes immune to mundane fear, and they can speak and understand any language. The training tier develops **Infernal Resilience** (fire damage mitigation and heat immunity), **Shadowstep** (short-range teleportation through shadow), and **Hellfire Touch** (a melee attack that delivers fire damage that bypasses armor).
 
-At the mastery tier, the character gains **Infernal Command** (compelling obedience from creatures of lesser infernal rank), **Wings of Ash** (demonic wings granting full flight), and **Soul Sight** (the ability to perceive the nature and emotional state of any soul within range). At the pinnacle, Hellfire Touch is upgraded to a ranged ability and Shadowstep becomes usable twice per encounter.
+At the mastery tier, the character gains **Infernal Command** (compel a single creature within 30 ft. to follow a command — no infernal rank restriction applies), **Wings of Ash** (demonic wings granting full flight), and **Soul Sight** (the ability to perceive the nature and emotional state of any soul within range). At the pinnacle, Hellfire Touch loses its once-per-scene limit, Infernal Command may be used twice per scene, and Shadowstep extends to 60 ft. and becomes usable twice per encounter.
 
 **Strongest abilities:** Shadowstep (combat mobility), Hellfire Touch (unmitigated fire damage), Wings of Ash (flight), Soul Sight (perception and social leverage), Infernal Command (creature compulsion).
 

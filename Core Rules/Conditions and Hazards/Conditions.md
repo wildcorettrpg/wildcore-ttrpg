@@ -109,11 +109,4 @@ Conditions are temporary or persistent states imposed by combat, injury, superna
 
 **Effect:** The character cannot act, cannot take Reactions, and is Incapacitated. The character is also Prone and cannot move at all — these restrictions are stricter than Incapacitated's and override it for movement purposes. While Unconscious, the character does not make further Consciousness Checks but continues Bleeding Out if that condition applies. If the character is stabilized, they remain Unconscious until a healer removes the condition — see [Stabilization](Stabilization.md#after-stabilization) — or until Forced Awakening ([Stabilization](Stabilization.md#forced-awakening)).  
 
-**Ends:** A healer removes the Unconscious condition (requires stabilization first if the character is Bleeding Out), or Forced Awakening (which removes Unconscious but imposes additional impairments — see [Stabilization](Stabilization.md#forced-awakening)).
-## Vulnerable
-
-**Trigger:** Certain movement states (Narrator's judgment, e.g., committed climbing, swimming, or flight); Forced Awakening; or any comparable situation the Narrator designates.
-
-**Effect:** The character cannot roll Reflex to oppose melee or ranged attacks and automatically takes the hit. Armor mitigation still applies. The character may continue opposing whatever activity caused the condition (e.g., maintaining a supernatural contest or Concentration effect).
-
-**Ends:** The movement or activity causing Vulnerable ends, or the Narrator determines the character is no longer fully committed.
+**Ends:** A healer removes the Unconscious condition (requiring stabilization first if the character is [Bleeding Out](Conditions.md#bleeding-out)), or Forced Awakening (which removes [Unconscious](Conditions.md#unconscious) but imposes additional impairments — see [Stabilization](Stabilization.md#forced-awakening)).

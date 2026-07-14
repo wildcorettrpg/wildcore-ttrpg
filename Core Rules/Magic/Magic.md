@@ -49,7 +49,7 @@ Spells that do not target an unwilling creature — healing, utility, and buff s
 
 How a target resists a spell depends on the spell's type, as stated in the spell's description.
 
-**Elemental spells** (fire, lightning, cold, acid, Elemental Force, and similar effects that produce a real physical phenomenon) can only be Dodged. Parry and Block cannot deflect magic. Standard Dodge rules apply, including the −2 restricted-space penalty and −4 prone penalty. A defender who cannot or chooses not to Dodge takes the hit automatically. **Armor mitigates elemental spell damage normally** — fire burns through what it touches, and armor reduces how much of that energy reaches the body beneath.
+**Elemental spells** (fire, lightning, cold, acid, Elemental Force, and similar effects that produce a real physical phenomenon) can only be Dodged. Parry and Block cannot deflect magic. Standard Dodge rules apply, including the −2 restricted-space penalty and −4 prone penalty. A defender who cannot or chooses not to Dodge takes the hit automatically. **Armor mitigates elemental spell damage normally** — fire burns through what it touches, and armor reduces how much of that energy reaches the body beneath. Individual spells and abilities may specify that their elemental damage is unmitigated — when they do, the specific rule takes precedence over this default.
 
 **Magical Force spells** (conjured weapons and effects comprised of raw supernatural energy) can only be Dodged. Armor provides no mitigation — there is nothing physical to block. A defender who cannot or chooses not to Dodge takes the full damage. Spells that deal Magical Force damage state **(unmitigated)** in their Damage line.
 

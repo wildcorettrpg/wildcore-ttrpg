@@ -41,4 +41,4 @@ Armor does not influence Opposition Checks. It does not prevent hits or make cha
 
 ## Narrator Guidance
 
-Use the Attribute pairings consistently to reinforce the logic of the world, and let stalemates create tension rather than frustration. Apply the [Vulnerable](../Conditions%20and%20Hazards/Conditions.md#vulnerable) condition whenever a character is fully committed to a supernatural contest. 
+Use the Attribute pairings consistently to reinforce the logic of the world, and let stalemates create tension rather than frustration.

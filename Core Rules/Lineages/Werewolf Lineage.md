@@ -4,9 +4,9 @@
 
 ## What You Gain
 
-The first skill of the tree establishes the lycanthropic strain: **accelerated healing** (2 Health per hour of rest instead of the standard 1 per 4 hours) and immunity to mundane diseases and poisons. Training tier skills add **Partial Shift** (claws, teeth, and heightened senses without full transformation), **+2 Strength**, **Heightened Senses** (+1d10 on Perception checks within 60 ft., immune to surprise), and **Full Shift** (complete transformation into wolf form with enhanced combat capabilities).
+The first skill of the tree establishes the lycanthropic strain: **accelerated healing** (2 Health per hour of rest instead of the standard 1 per 4 hours) and immunity to mundane diseases and poisons. Training tier skills add **Partial Shift** (claws, teeth, and heightened senses without full transformation), **+2 Strength**, **Keen Senses** (+2 on Perception Opposition Checks; can track by scent within 30 ft.), and **Full Shift** (complete transformation into wolf form with enhanced combat capabilities).
 
-The mastery tier unlocks **+2 Strength** again, **Blood Healing** (feed from a fallen creature mid-combat to recover Health), **Pack Bond** (a 60 ft. awareness link to other willing characters, sharing sensory information and providing a defensive bonus), **Fearsome Presence** (a howl that forces all enemies to make Willpower checks or become [Frightened](../Conditions%20and%20Hazards/Conditions.md#frightened)), and at the pinnacle, **Apex Wolf** (enhanced shift capabilities and pack bond upgrades).
+The mastery tier unlocks **+2 Strength** again, **Blood Healing** (spend 5 Health to immediately heal 3d6 Health), **Pack Bond** (+1 OC bonus for designated pack members within 30 ft.; the werewolf always knows the direction and approximate distance to pack members within 1 mile), **Fearsome Presence** (a howl that forces all enemies to make Willpower checks or become [Frightened](../Conditions%20and%20Hazards/Conditions.md#frightened)), and at the pinnacle, **Apex Wolf** (enhanced shift capabilities and pack bond upgrades).
 
 **Strongest abilities:** Accelerated healing (passive), Partial Shift (natural weapon access), Full Shift (wolf form combat), Pack Bond (party coordination), Fearsome Presence (area fear effect).
 

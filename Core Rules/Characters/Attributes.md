@@ -14,7 +14,7 @@ Attributes represent a character's core physical, mental, and social capabilitie
 
 **Strength** is used for opposed physical checks and provides a damage bonus on melee and ranged attacks (see Damage Modifiers, below).
 
-**Willpower** is used to resist domination, intimidation, and similar Social-based effects, provides a damage bonus on spell attacks (see Damage Modifiers, below), and is used for Consciousness Checks — when a character's Health drops to 7 or below, they roll their [Spellcasting attack pool](../Core%20Mechanics/Dice%20Pools.md) to stay conscious.
+**Willpower** is used to resist domination, intimidation, and similar Social-based effects, provides a damage bonus on spell attacks (see Damage Modifiers, below), and is used for Consciousness Checks — when a character's Health drops to 7 or below, they roll their [Willpower pool](../Core%20Mechanics/Dice%20Pools.md) to stay conscious.
 
 ## Health
 
