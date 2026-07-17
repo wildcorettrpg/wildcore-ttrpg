@@ -77,11 +77,11 @@ The werewolf's animal instincts are a permanent presence — not a mechanical co
 
 **Cost:** 1 SP  
 **Prerequisite:** Werewolf IX  
-**Effect:** **Apex Wolf.** The character shifts form in 1 AP (down from 2 AP). Full shift no longer requires concentration to maintain — the character may use all skills and abilities normally while shifted. Blood Healing (Werewolf VII) no longer has a once-per-scene limit. The character is immune to the full moon's instinctive pull — they shift and hold form entirely at will, at any time.
+**Effect:** **Apex Wolf.** The character shifts form in 1 AP (down from 2 AP). Full shift no longer requires concentration to maintain — the character may use all skills and abilities normally while shifted. Lycan Healing (Werewolf VII) no longer has a once-per-scene limit. The character is immune to the full moon's instinctive pull — they shift and hold form entirely at will, at any time.
 
 ## Notes
 
 1. **Full moon pressure** applies to characters at Werewolf I–IV who have not yet mastered their shift. The Narrator may call for Willpower checks during a full moon to avoid partial involuntary shifting or acting on the beast's instincts. At Werewolf V and above, the character can shift at will and the moon is no longer a source of pressure unless a specific ability or setting rule says otherwise.
 2. **Infecting others** via bite is a narrative event, not an automatic mechanical result. The Narrator determines whether a bite wound could transmit lycanthropy based on story context and setting lore.
-3. **Silver weapons** deal 1 additional damage die against werewolves. Silver also suppresses accelerated healing: a werewolf cannot benefit from their passive healing (Werewolf I) or Blood Healing (Werewolf VII) to close a silver wound while any silver remains in the wound. Removing silver from a wound is a medical action (Narrator-assigned difficulty based on depth and severity).
+3. **Silver weapons** deal 1 additional damage die against werewolves. Silver also suppresses accelerated healing: a werewolf cannot benefit from their passive healing (Werewolf I) or Lycan Healing (Werewolf VII) to close a silver wound while any silver remains in the wound. Removing silver from a wound is a medical action (Narrator-assigned difficulty based on depth and severity).
 4. **Wolfsbane** (aconite) suppresses all wound healing for the duration of the poisoning — both passive regeneration and Blood Healing are suspended. See [Poisons](../../Conditions%20and%20Hazards/Poisons.md#wolfsbane).

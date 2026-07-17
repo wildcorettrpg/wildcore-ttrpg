@@ -4,6 +4,63 @@ Notable changes to Velocity — rules, content, and the website — recorded her
 
 This is the public-facing summary. It doesn't need session-by-session design rationale (why a decision was made, alternatives considered) — just what changed, in plain terms a player, Narrator, or site visitor would care about.
 
+## 2026-07-17
+
+**Rules — Characters**
+- **Health Archetypes added** (`Characters/Health.md`). At character creation, players may declare a Health Archetype reflecting their character's natural constitution. **Frail** — 20 Maximum Health, +1 SP at creation; the entire Health skill tree is locked until the first SP is earned through play (may not purchase Health I at creation). **Average** — 25 Maximum Health; no declaration required. **Robust** — 30 Maximum Health; costs 1 SP from the starting pool. Replaces the previous flat 25 Maximum Health baseline for all characters.
+
+**Rules — Encounters**
+- **AP timing now consistent across all documents.** `Action Points.md` §1 and `Turn Structure.md` updated to state that unspent AP are lost "when the round ends" (once all characters have taken their turns), not "at the end of the turn." This aligns with the Reactions system, which requires AP to persist through other participants' turns within the same round.
+- **Dodge removed from the Standard Actions list** in `Actions.md`. Dodge is a Reaction triggered by an incoming attack — a participant cannot declare it proactively on their own turn.
+
+**Rules — Lineages / Races**
+- **Fae-Touched III Lightborne Step** updated in `Fae-Touched Lineage.md` to resolve a naming conflict with the Faerie race trait of the same name (which grants a +4 Stealth bonus that the Fae-Touched version did not include).
+- **Werewolf Lineage Note 3** corrected: "Blood Healing (Werewolf VII)" changed to "Lycan Healing (Werewolf VII)."
+
+**Spells**
+- **Nunor's Spring** (Level 0) restored — was absent from `Level 0 Spells.md` after the prior restoration pass.
+- **Nunor's Blessing** (Level 3) and **Rasgard's Flying Bridge** (Level 3) restored — both were absent from `Level 3 Spells.md` after the prior restoration pass.
+
+**Fixes**
+- `Characters/Traits.md` — "cross-lineage" corrected to "cross-race" in the God-touched trait introduction.
+- `Races/Faerie Race.md` — OC Modifiers table now includes the Ethereal Form daily −4 penalty (applies the following day if Ethereal Form is not assumed during the prior day).
+- `Glossary/Glossary.md` — Dead link to revival rules removed from the **dead/death** entry. Revival via spell is a deferred design decision not yet defined in Core Rules.
+
+---
+
+## 2026-07-15
+
+**Rules — Combat (Size Disparity)**
+- **Size Categories Table added** (`Core Rules/Tables/Size Categories Table.md`). Six size categories — Tiny, Small, Medium, Large, Huge, Gargantuan — with race assignments. Dwarf, Kin, and Kith are Small; Human, Elf, Faerie, and Shapeshifter (humanoid form) are Medium. Shapeshifter animal form sizes are defined in the Shapeshifter race file.
+- **Auto-hit rule for size disparity added** to `Actions.md`. When a combatant attacks a melee target two or more size categories larger than themselves, no attack Opposition Check is required — the attack automatically hits. Damage is still rolled normally. One category difference has no effect. Ranged attacks and spellcasting are excluded.
+- **Dodge bonus for size disparity added** to `Actions.md`. When a defender is two or more size categories smaller than a melee attacker, they gain +2 to their Dodge pool against that attack. Does not apply to Parry or Block, and does not apply against ranged attacks or spells.
+- **§Attack Resolution restructured** into four named subsections: Attack Roll, Defense Roll, Final Resolution, and Multiple Attackers.
+
+**Rules — Action Points**
+- **Reaction AP clarified** in `Action Points.md`. A character holding AP in reserve for a Reaction does not voluntarily end their turn — their turn remains open until the reserved AP is spent or they choose to close it. Unspent AP are lost when the round ends (all characters have taken their turns), not when an individual character stops acting.
+
+**Spells**
+- **All ten spell files restored** (Level 0–9). Every file was truncated mid-sentence. Content restored to complete state across the full catalog.
+
+**Creatures — Shapeshifter Animal Forms**
+- **15 animal form creature entries added** to the Creatures chapter: Bat, Bear, Crocodile, Eagle, Fox, Hawk, Mountain Lion, Otter, Owl, Panther, Raven, Serpent, Stag, Wild Boar, and Wolf. Each entry includes a full stat block (Health, Natural Armor, Size, Movement), Strength score, and attack table. Description and Behavior sections are placeholders pending prose pass.
+- **Health** derived from SRD equivalent HP + 10 flat, ensuring no animal goes down in a single hit at baseline.
+- **Natural Armor** assigned by hide toughness: Crocodile 8, Wild Boar 6, Bear 4, Stag 2, all others 0.
+- **Strength** assigned by physical power: Bear 3, Mountain Lion/Panther/Crocodile 2, Stag/Wild Boar/Wolf 1, all others 0. Bear's Strength 3 grants a bonus attack and damage die on every strike.
+- **Multi-Strike** granted to all creatures with claws or talons: Bear, Eagle, Fox, Hawk, Mountain Lion, Otter, Owl, Panther, Raven.
+- **Crocodile** has a special follow-on ability: **Deathroll** (1 AP after a successful Bite) — opposed Strength check; on failure the target is Restrained and, if near water, dragged beneath the surface.
+- **Serpent** is a Large constrictor with a special follow-on ability: **Constrict** (1 AP after a successful Bite) — Strength OC vs. difficulty 12; on failure the target is Restrained and takes 1d8 crushing damage each round until they break free.
+- **Owl** carries a note: silent flight — no Stealth penalty for movement while airborne.
+- **Creatures.md** index updated to include all 15 new entries alongside Bolg.
+
+**Fixes**
+- `Core Mechanics/Dice Pools.md` — Example 1 corrected: final total was labelled "15 damage" (wrong number, wrong label, wrong context). Correct final attack total is 21. Example 2 was truncated from the file; restored and updated with a worked armor mitigation note using Hide Armor.
+- `Characters/Traits.md` — Arcane Echo entry now includes the +2 bonus on Supernatural Detection Opposition Checks, matching the Elf race file.
+- `Skills/Universal/Survival/Healing Skill.md` — Healing I now cross-references `Stabilization.md` for the stabilization procedure; prior wording implied the tourniquet worked automatically with no roll required.
+- `Skills/Lineages/Werewolf Lineage.md` — Werewolf X now correctly references "Lycan Healing (Werewolf VII)" instead of "Blood Healing (Werewolf VII)."
+
+---
+
 ## 2026-07-14
 
 **Rules — Damage**

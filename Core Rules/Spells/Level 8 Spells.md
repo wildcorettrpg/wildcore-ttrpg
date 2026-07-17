@@ -1,6 +1,6 @@
 # Level 8 Spells
 
-*Level 8 spells cost 8 Health to cast. They are unlocked at Spellcasting IX.*
+*Level 8 spells cost 8 [Health](../Characters/Health.md) to cast. They are unlocked at [Spellcasting IX](../Skills/Universal/Combat/Spellcasting%20Skill.md).*
 
 
 ### Balathor's Creation

@@ -21,7 +21,7 @@ Each lineage carries its own set of traits. Full trait descriptions appear in th
 - **Low Center of Gravity** — +2 on Opposition Checks to resist being tripped, knocked [Prone](../Conditions%20and%20Hazards/Conditions.md#prone), or forced into movement.
 
 **Elf** ([Elf Race](../Races/Elf%20Race.md))
-- **Arcane Echo** — Grants access to Spellcasting skills. Spellcasting I is unlocked for free.
+- **Arcane Echo** — Grants access to Spellcasting skills. Spellcasting I is unlocked for free. +2 on Supernatural Detection Opposition Checks when attempting to detect the presence and type of magical creatures.
 - **Immortal Vitality** — +20 Maximum Health.
 - **Intimidating Presence** — +4 on Intimidation Opposition Checks.
 - **Living Memory** — +2 on Research Opposition Checks.
@@ -52,7 +52,7 @@ Each lineage carries its own set of traits. Full trait descriptions appear in th
 
 ## Cross-Race Traits
 
-Some traits are not tied to any lineage. They arise through birth, a singular event in a character's history, or something the Narrator determines about who the character is.
+Some traits are not tied to any race. They arise through birth, a singular event in a character's history, or something the Narrator determines about who the character is.
 
 ### God-touched
 
@@ -60,7 +60,7 @@ A God-touched character was born with one of three Sight abilities — a direct,
 
 **A God-touched character may possess exactly one of the three Sight abilities.** They cannot learn the other two by any means — through spells, skills, or any other mechanism. Characters who are not God-touched may become God-touched through the story, but these traits are otherwise unavailable to them.
 
-A player character who is God-touched must establish this with the Narrator before play begins and work the ability into their backstory. It is not a creation choice made in isolation.
+A player character who is God-touched must establish this with the Narrator before play begins and work the ability into their backstory. It is not a creation choice made in isolation. Alternatively, the Narrator may reveal through play that the character is God-touched, for good or ill.
 
 God-touched Sight abilities do not cost Health, do not require Spellcasting investment, and do not affect the Predation Clock. They are perception — not magic the character wields, but something the character simply is.
 

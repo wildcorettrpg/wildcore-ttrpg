@@ -1,6 +1,6 @@
 # Level 6 Spells
 
-*Level 6 spells cost 6 Health to cast. They are unlocked at Spellcasting VII.*
+*Level 6 spells cost 6 [Health](../Characters/Health.md) to cast. They are unlocked at [Spellcasting VII](../Skills/Universal/Combat/Spellcasting%20Skill.md).*
 
 
 ### Elemental Bolt VI

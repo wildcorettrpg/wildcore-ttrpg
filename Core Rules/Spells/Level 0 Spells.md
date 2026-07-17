@@ -1,6 +1,6 @@
 # Level 0 Spells
 
-*Level 0 spells cost no Health to cast and do not affect the Predation Clock. They are unlocked at Spellcasting I.*
+*Level 0 spells cost no [Health](../Characters/Health.md) to cast and do not affect the [Predation Clock](../Magic/Magic.md#predation-clock). They are unlocked at [Spellcasting I](../Skills/Universal/Combat/Spellcasting%20Skill.md).*
 
 ### Balathor's Gift
 
@@ -96,3 +96,17 @@ Nunor does not acknowledge the casting. The water simply comes.
 The caster touches a mundane object, door, or window and speaks a password of their choosing. A magical ward settles over the target — it cannot be opened or moved by any means unless the correct password is spoken aloud. The caster must declare the password at the time of casting.
 
 The ward has no effect on magical objects or living creatures. Speaking the correct password dispels the ward, allowing the object to be opened or moved normally.
+
+#### Nunor's Spring
+
+- **Level:** 0
+- **Category:** Utility
+- **Casting Time:** 1 AP
+- **Casting Cost:** None
+- **Range:** 30 ft.
+- **Target:** A point on the ground within range
+- **Duration:** Instantaneous
+
+The caster calls on Nunor and clean water rises from the earth at the target point — enough to fill a waterskin, water a small flock, or serve a handful of travelers. The water is fresh regardless of the ground it rises from. It does not continue to flow once it has surfaced.
+
+Nunor does not acknowledge the casting. The water simply comes.

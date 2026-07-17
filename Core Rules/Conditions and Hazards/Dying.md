@@ -1,6 +1,6 @@
 # Dying
 
-## [Bleeding Out](Conditions.md#bleeding-out)
+## Bleeding Out
 
 [Bleeding Out](Conditions.md#bleeding-out) is a condition applied by any attack, ability, or effect that causes it. The Narrator may apply it whenever a character suffers a significant wound — a deep cut, a punctured lung, a crushing blow that tears muscle. A character who is [Bleeding Out](Conditions.md#bleeding-out) loses **1 Health** at the end of each of their turns. If Health reaches 0, they die instantly. [Bleeding Out](Conditions.md#bleeding-out) is removed only by [Stabilization](Stabilization.md) or healing.
 

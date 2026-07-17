@@ -1,6 +1,6 @@
 # Level 1 Spells
 
-*Level 1 spells cost 1 Health to cast. They are unlocked at Spellcasting II.*
+*Level 1 spells cost 1 [Health](../Characters/Health.md) to cast. They are unlocked at [Spellcasting II](../Skills/Universal/Combat/Spellcasting%20Skill.md).*
 
 
 ### Elemental Bolt I
@@ -89,4 +89,5 @@ The thread conveys location only, not condition, thought, or sensation. Either c
 
 The target's movement produces no sound for the duration. Stealth Opposition Checks against the target that rely solely on auditory detection automatically succeed. Visual detection is unaffected.
 
-The spell is cast on a target within 30 ft., but the target may move up to 120 ft. from the caster without breaking the effect, provided they remain within the caster's line of sight. Moving beyond 120 ft. or out of the caster's line of sight ends the spell immediately. Any action taken by the target that would break Stealth dispels the spell.
+The spell is cast on a target within 30 ft., but the target may move up to 120 ft. from the caster without breaking the effect, provided they remain within the caster's line of sight. Moving beyond 120 ft. or out of the caster's line of sight ends the spell immediately. Any action taken by the target that would break Stealth ends the spell immediately.
+

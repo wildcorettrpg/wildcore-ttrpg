@@ -21,7 +21,7 @@ Healing is the trained ability to keep people alive under adverse conditions. At
 
 **Cost:** 1 SP  
 **Prerequisite:** None  
-**Effect:** +1 to Healing Opposition Checks. The character can apply improvised pressure or a tourniquet to halt [Bleeding Out](../../../Conditions%20and%20Hazards/Conditions.md#bleeding-out). The patient remains at their current Health but no longer loses Health from that stack of bleeding. Requires no equipment beyond available cloth or cordage. Can be performed in or out of combat (1 AP).
+**Effect:** +1 to Healing Opposition Checks. The character can apply improvised pressure or a tourniquet to halt [Bleeding Out](../../../Conditions%20and%20Hazards/Conditions.md#bleeding-out). The patient remains at their current Health but no longer loses Health from that stack of bleeding. Requires no equipment beyond available cloth or cordage. Can be performed in or out of combat (1 AP). A Healing Opposition Check is required (see [Stabilization](../../../Conditions%20and%20Hazards/Stabilization.md).)
 
 ### Healing II
 

@@ -4,7 +4,7 @@ Items are grouped by area. Strike items and move a summary line to `CHANGELOG.md
 
 ---
 
-- [ ] Move Glossary into the Core Rules.
+- [x] Move Glossary into the Core Rules.
 - [x] WILL NOT IMPLEMENT. Add a suggestion to the Narrator's Guide to introduce the chance of armor breaking after x number of attacks get through.
       This was Claude's suggestion and requires careful consideration. It requires the Narrator to track how many hits got through each participant's armor. That's an enormous amount of additional bookkeeping. 
       This would be easy to implement in a video game, but incredibly challenging at a tabletop session.

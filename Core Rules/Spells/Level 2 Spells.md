@@ -1,6 +1,6 @@
 # Level 2 Spells
 
-*Level 2 spells cost 2 Health to cast. They are unlocked at Spellcasting III.*
+*Level 2 spells cost 2 [Health](../Characters/Health.md) to cast. They are unlocked at [Spellcasting III](../Skills/Universal/Combat/Spellcasting%20Skill.md).*
 
 
 ### Elemental Bolt II

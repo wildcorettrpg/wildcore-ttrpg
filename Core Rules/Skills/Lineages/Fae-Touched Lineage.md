@@ -29,7 +29,7 @@ Fae-Touched characters can lie. Unlike true faeries, they are not metaphysically
 
 **Cost:** 1 SP  
 **Prerequisite:** Fae-Touched II  
-**Effect:** **Lightborne Step.** The character ignores movement penalties from difficult terrain. In natural environments (forests, wild places, open fields), they move as if the ground offers no resistance — floating just above the surface without conscious effort.
+**Effect:** **Lightborne Step.** The character ignores movement penalties from difficult terrain. In natural environments (forests, wild places, open fields), they move as if the ground offers no resistance — floating just above the surface without conscious effort. +4 bonus to Stealth Opposition Checks when using Lightborne Step.
 
 ### Fae-Touched IV
 

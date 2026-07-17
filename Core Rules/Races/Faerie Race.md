@@ -38,10 +38,11 @@ Iron is antithetical to faerie nature. Any weapon made of iron or steel deals on
 
 ## Opposition Check Modifiers
 
-| Source | Modifier |
-| :----- | :------- |
-| Sense Truth | +2 on OCs to detect or resist deception beyond 10 ft |
-| Sense Truth | Automatic success on OCs to detect or resist deception within 10 ft |
-| Ethereal Form | +2 on OCs to resist magical effects (while ethereal) |
-| Lightborne Step | +4 on Stealth OCs while using Lightborne Step |
-| Lightborne Step | Ignores movement penalties from Difficult Terrain |
+| Source          | Modifier                                                                            |
+| :-------------- | :---------------------------------------------------------------------------------- |
+| Sense Truth     | +2 on OCs to detect or resist deception beyond 10 ft                                |
+| Sense Truth     | Automatic success on OCs to detect or resist deception within 10 ft                 |
+| Ethereal Form   | +2 on OCs to resist magical effects (while ethereal)                                |
+| Ethereal Form   | -4 on all OCs the following day (if Ethereal Form not assumed during the prior day) |
+| Lightborne Step | +4 on Stealth OCs while using Lightborne Step                                       |
+| Lightborne Step | Ignores movement penalties from Difficult Terrain                                   |

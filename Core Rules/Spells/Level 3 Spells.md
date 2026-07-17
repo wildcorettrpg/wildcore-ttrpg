@@ -1,6 +1,6 @@
 # Level 3 Spells
 
-*Level 3 spells cost 3 Health to cast. They are unlocked at Spellcasting IV.*
+*Level 3 spells cost 3 [Health](../Characters/Health.md) to cast. They are unlocked at [Spellcasting IV](../Skills/Universal/Combat/Spellcasting%20Skill.md).*
 
 
 ### Elemental Bolt III
@@ -84,7 +84,7 @@ The caster may dismiss the bridge at any time at no cost. If the caster is knock
 ### Solan's Glory
 
 - **Level:** 3
-- **Category:** Offense, Crowd Control
+- **Category:** Crowd Control
 - **Casting Time:** 1 AP
 - **Casting Cost:** 3 Health
 - **Range:** Self
@@ -96,3 +96,37 @@ The caster may dismiss the bridge at any time at no cost. If the caster is knock
 A burst of white light erupts from the caster, filling the area in a 30 ft. radius. All enemies within range must make a Dodge Opposition Check against the caster's [Spellcasting attack pool](../Core%20Mechanics/Dice%20Pools.md). On a failed defense, the target is [Blind](../Conditions%20and%20Hazards/Conditions.md#blind) for 2 rounds. On a successful defense, the target is [Blind](../Conditions%20and%20Hazards/Conditions.md#blind) for 1 round.
 
 Solan does not warn before he illuminates.
+
+#### Nunor's Blessing
+
+- **Level:** 3
+- **Category:** Utility
+- **Casting Time:** 1 AP
+- **Casting Cost:** 3 Health
+- **Range:** 30 ft.
+- **Radius:** 30 ft.
+- **Target:** A point within range
+- **Duration:** Until dismissed
+
+The caster summons a rainstorm centered on the target point. The storm appears regardless of location — indoors or out — and spreads in a 30 ft. radius from the target point. While the storm persists:
+
+- Environmental fires within the storm are extinguished. Small fires — torches, lanterns, campfires — go out immediately. Large fires (a burning building, a burning ship) are suppressed over the course of several rounds at the Narrator's discretion.
+- All fire-based attacks against creatures within the storm deal half damage.
+
+The storm counters fire as a condition of the environment, not fire as a weapon actively being wielded. A dragon's breath, a fire elemental's attacks, and similar active abilities are not extinguished — they are only mitigated by the half-damage clause above. The caster may dismiss the storm at any time at no cost.
+
+#### Rasgard's Flying Bridge
+
+- **Level:** 3
+- **Category:** Utility
+- **Casting Time:** 1 AP
+- **Casting Cost:** 3 Health
+- **Range:** 120 ft.
+- **Target:** Two points within range designated by the caster
+- **Duration:** Until dismissed
+
+The caster summons an ethereal bridge spanning up to 120 ft. between two points they can see. The bridge is 5 ft. wide — wide enough for one character at a time — and bears weight normally. Characters cross it single-file at their normal movement rate.
+
+The bridge has no railings. Characters with a fear of heights may find the crossing more difficult than the spell itself — the Narrator may apply the [Frightened](../Conditions%20and%20Hazards/Conditions.md#frightened) condition as the situation warrants.
+
+The caster may dismiss the bridge at any time at no cost. If the caster is knocked [Unconscious](../Conditions%20and%20Hazards/Conditions.md#unconscious) or [Incapacitated](../Conditions%20and%20Hazards/Conditions.md#incapacitated), the bridge vanishes immediately and any character mid-crossing falls.

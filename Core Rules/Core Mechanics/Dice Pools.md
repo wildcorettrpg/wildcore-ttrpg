@@ -71,7 +71,31 @@ Building her attack pool:
 3. Strength 3 adds 1d10. Pool is now 3d10.
 4. Roll 3d10: results are 7, 4, and 5. Running total: 16.
 5. Melee Attack V adds +2 flat. Running total: 18.
-6. Strength 3 adds +3 flat. Final
-total: **15 damage**.
+6. Strength 3 adds +3 flat. 
 
-Armor mitigation is applied to this total before Health is reduced.
+Final Attack Opposition Check total: **21**.
+
+Her opponent rolls their defense pool and adds their relevant attribute. The higher total wins.
+
+## Example 2: Damage Roll with Bonus Dice
+
+Ryn hits. Now she rolls damage. Her mace's base damage die is 1d8. Her Strength is 3, which grants 1 bonus damage die (1 per 3 points of Strength).
+
+Her skills and attributes relevant to this damage roll:
+
+- Melee Attack V: +2 flat to melee damage rolls with medium weapons.
+- Strength 3: 
+	- +1 bonus damage die (1d8, matching the mace); 
+	- +3 flat to damage.
+
+Building her damage pool:
+
+1. Start with 1d8 (mace base).
+2. Strength 3 adds 1d8. Pool is now 2d8.
+3. Roll 2d8: results are 6 and 4. Running total: 10.
+4. Melee Attack V adds +2 flat. Running total: 12.
+5. Strength 3 adds +3 flat. Final total: **15 damage**.
+
+Armor mitigation is subtracted from this total before Health is reduced. 
+
+For example, assume her target is wearing Hide Armor. It provides 8 damage mitigation. So the amount of damage that actually gets through is 15 - 8 = 7. Her target loses 7 Health.

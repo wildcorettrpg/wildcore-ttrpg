@@ -1,6 +1,6 @@
 # Level 4 Spells
 
-*Level 4 spells cost 4 Health to cast. They are unlocked at Spellcasting V.*
+*Level 4 spells cost 4 [Health](../Characters/Health.md) to cast. They are unlocked at [Spellcasting V](../Skills/Universal/Combat/Spellcasting%20Skill.md).*
 
 
 ### Balathor's Mantle

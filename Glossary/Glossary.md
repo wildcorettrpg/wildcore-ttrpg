@@ -60,7 +60,7 @@ The reduction in a target's Health following a successful attack or harmful effe
 
 ### dead / death
 
-A condition. A character dies instantly when their Health reaches 0, or if they suffer **Catastrophic Destruction**. A dead character cannot act, cannot regain Health except through revival, and cannot be stabilized or forcibly awakened. See [Death](../Core%20Rules/Conditions%20and%20Hazards/Death.md) for revival rules.
+A condition. A character dies instantly when their Health reaches 0, or if they suffer **Catastrophic Destruction**. A dead character cannot act, cannot regain Health except through revival, and cannot be stabilized or forcibly awakened. 
 
 ### deaf
 

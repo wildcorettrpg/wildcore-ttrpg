@@ -12,4 +12,4 @@ A character may spend AP in any order during their turn. Actions cost AP as list
 
 ## Ending the Turn
 
-A character's turn ends when all AP have been spent or when the character voluntarily ends their turn. Any unspent AP are lost at the end of the turn. Effects that last "until the start of your next turn" or "until the end of your turn" resolve at this point.
+A character's turn ends when all AP have been spent or when the character voluntarily ends their turn. Any unspent AP are lost at the end of the round. Effects that last "until the start of your next turn" or "until the end of your turn" resolve at this point.

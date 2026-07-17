@@ -1,6 +1,6 @@
 # Level 5 Spells
 
-*Level 5 spells cost 5 Health to cast. They are unlocked at Spellcasting VI.*
+*Level 5 spells cost 5 [Health](../Characters/Health.md) to cast. They are unlocked at [Spellcasting VI](../Skills/Universal/Combat/Spellcasting%20Skill.md).*
 
 
 ### Elemental Bolt V

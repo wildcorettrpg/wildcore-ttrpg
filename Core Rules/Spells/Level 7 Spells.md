@@ -1,6 +1,6 @@
 # Level 7 Spells
 
-*Level 7 spells cost 7 Health to cast. They are unlocked at Spellcasting VIII.*
+*Level 7 spells cost 7 [Health](../Characters/Health.md) to cast. They are unlocked at [Spellcasting VIII](../Skills/Universal/Combat/Spellcasting%20Skill.md).*
 
 
 ### Balathor's Wrath

@@ -1,6 +1,6 @@
 # Level 9 Spells
 
-*Level 9 spells cost 9 Health to cast. They are unlocked at Spellcasting X.*
+*Level 9 spells cost 9 [Health](../Characters/Health.md) to cast. They are unlocked at [Spellcasting X](../Skills/Universal/Combat/Spellcasting%20Skill.md).*
 
 
 ### Elemental Bolt IX

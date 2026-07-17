@@ -1,12 +1,10 @@
 # Action Points
 
-## What Action Points Are
-
-Action Points (AP) represent the total effort, focus, and exertion a character can commit during their turn. Every deliberate activity in an encounter — attacking, moving, maintaining a spell, responding to a threat — costs AP.
+Action Points (AP) represent the total effort, focus, and exertion a character can commit during their turn in a combat round. Every deliberate activity in an encounter — attacking, moving, maintaining a spell, responding to a threat — costs AP.
 
 ## Base and Maximum AP
 
-Every character receives **3 AP** at the start of their turn. AP refreshes fully at the start of each of the character's turns. Unspent AP are lost when the turn ends — they do not carry over.
+Every character receives **3 AP** at the start of their turn. AP refreshes fully at the start of each of the character's turns. Unspent AP are lost when the round ends — they do not carry over into the next round.
 
 The maximum AP a character may have in a single turn is **5**. Six skills each grant +1 AP when purchased, and their bonuses stack up to this cap:
 
@@ -35,7 +33,7 @@ Maintaining an active Concentration effect costs **1 AP per round**, paid at the
 
 ### Reactions
 
-A Reaction costs **1 AP** and is taken outside the character's turn when its trigger occurs. A character may take at most **one Reaction per round** unless a rule, skill, or lineage explicitly allows more. The AP spent on a Reaction comes from the character's current pool — a character with 0 AP remaining cannot take Reactions. See [Reactions](Reactions.md).
+A Reaction costs **1 AP** and is taken outside the character's turn when its trigger occurs. A character may take at most **one Reaction per round** unless a rule, skill, or lineage explicitly allows more. The AP spent on a Reaction comes from the character's current pool — a character with 0 AP remaining cannot take Reactions. A character who wishes to hold AP in reserve for a Reaction does not voluntarily end their turn — their turn remains open until they either spend the reserved AP or choose to close it. Unspent AP are lost when the round ends and all characters have taken their turns. See [Reactions](Reactions.md).
 
 ### Free Actions
 
