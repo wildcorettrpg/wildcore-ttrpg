@@ -21,19 +21,19 @@ The Kin share the Kith's compact frame and dark skin, but where Kith pour their 
 ### Gregarious Nature
 Kin are natural socialites, effortlessly reading tone, intention, and emotional undercurrents. Their curiosity and warmth make them quick to connect with others, smoothing conversations and negotiations alike. +2 on Social Opposition Checks.
 
-### Voracious Mind
-Kin read everything, remember most of it, and ask questions constantly. +2 on Investigation Opposition Checks, and +4 on Research Opposition Checks.
-
 ### Innate Magic
 Kin have a natural affinity for magic that predates any formal training. This affinity grants access to Spellcasting skills and manifests as exceptional aptitude on magical attacks. Kin have Spellcasting I unlocked for free. +2 on Spellcasting Opposition Checks.
 
-## Flaws
+### Voracious Mind
+Kin read everything, remember most of it, and ask questions constantly. +2 on Investigation Opposition Checks, and +4 on Research Opposition Checks.
 
-### Unblooded
-Kin have no tradition of personal combat. −2 on melee and ranged attack Opposition Checks.
+## Flaws
 
 ### Kithkin Blood
 While [Bleeding Out](../Conditions%20and%20Hazards/Conditions.md#bleeding-out), at the start of each turn the character must make a Willpower Opposition Check against difficulty 20. On failure, they enter a blood rage: all attacks suffer −4 but deal +1 weapon damage die on a hit. The rage persists until combat ends or they are no longer [Bleeding Out](../Conditions%20and%20Hazards/Conditions.md#bleeding-out). While raging, the character cannot distinguish friend from foe — they attack the nearest target regardless of allegiance.
+
+### Unblooded
+Kin have no tradition of personal combat. −2 on melee and ranged attack Opposition Checks.
 
 ## Opposition Check Modifiers
 

@@ -8,14 +8,14 @@ Humanity's defining quality is not strength, magic, or longevity — it's potent
 
 ## Traits
 
+### Eye for Value
+Humans have an instinctive sense for what things are worth — and what they can get for them. They notice valuables others overlook and extract more from every transaction. +4 to find and assess the value of treasure; +2 on Investigation and Negotiation checks when trading.
+
 ### Human Potential
 Humans begin play with 12 Skill Points instead of 10.
 
 ### Mundane Presence
 Humans carry no supernatural signature and cannot be detected by Supernatural Detection skills or similar abilities.
-
-### Eye for Value
-Humans have an instinctive sense for what things are worth — and what they can get for them. They notice valuables others overlook and extract more from every transaction. +4 to find and assess the value of treasure; +2 on Investigation and Negotiation checks when trading.
 
 ### Uncanny Adaptability
 Once per session, a Human may re-roll any failed Opposition Check and take the better result.
