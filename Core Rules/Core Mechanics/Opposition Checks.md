@@ -29,7 +29,7 @@ A successful defense Opposition Check against a spell does not automatically mea
 
 ## Attribute Pairings
 
-[Attribute Parings for Opposition Checks Table](../Tables/Attribute%20Parings%20for%20Opposition%20Checks%20Table.md) lists all standard Opposition Check pairings used throughout the system.
+[Attribute Pairings for Opposition Checks Table](Attribute%20Pairings%20for%20Opposition%20Checks%20Table.md) lists all standard Opposition Check pairings used throughout the system.
 
 ## Stalemates
 

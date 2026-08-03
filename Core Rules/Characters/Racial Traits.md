@@ -2,13 +2,13 @@
 
 Traits are innate qualities — things a character *is*, not things they have learned. They cannot be purchased with Skill Points, retrained, or improved through advancement. A character either has a trait or they don't. Traits do not change.
 
-Most traits come from a character's race and are present from the moment of creation. A small number of traits are cross-lineage — they can appear in any character regardless of lineage, through birth, circumstance, or something the Narrator determines happened before play began.
+Most traits come from a character's race and are present from the moment of creation. A small number of traits are cross-race — they can appear in any character regardless of race, through birth, circumstance, or something the Narrator determines happened before play began.
 
 Traits that grant mechanical bonuses are noted in the character's Opposition Check Modifiers.
 
 ## Race Traits
 
-Each lineage carries its own set of traits. Full trait descriptions appear in the relevant lineage file.
+Each race carries its own set of traits. Full trait descriptions appear in the relevant race section.
 
 **Human** ([Human Race](../Races/Human%20Race.md))
 - **Human Potential** — Begins play with 12 Skill Points instead of 10.

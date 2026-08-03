@@ -31,3 +31,4 @@ Thumbs.db
 # Core Rules Analysis working documents
 .analysis/
 .backup/
+.references/

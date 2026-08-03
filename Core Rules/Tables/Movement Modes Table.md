@@ -2,7 +2,7 @@
 
 A Narrator's quick reference for how AP spent on movement translates to distance and consequences, per [Movement](../Encounters/Movement.md). All movement types share the same three effort tiers (1/2/3 AP); only the distance yielded and the fictional penalties change. "Base movement" is the character's full Movement Allowance (the distance granted by spending 1 AP on Walking).
 
-See [Glossary](../../Glossary/Glossary.md) for the definition of **[Vulnerable](../Conditions%20and%20Hazards/Conditions.md#vulnerable)**.
+See [Glossary](../../Glossary.md) for the definition of **[Vulnerable](../Conditions%20and%20Hazards/Conditions.md#vulnerable)**.
 
 Each AP spent on a movement mode grants one full increment of that mode's distance unit. The unit varies by mode — Walking's unit is full base movement; Crawling's unit is ¼ base movement; Climbing and Wading's unit is ½ base movement; Flying's unit is full base movement.
 

@@ -7,29 +7,28 @@
 
 ## General Gear
 
-| Item | Size | Cost |
-| :--- | :--- | ----: |
-| Backpack | Small | 2 gp |
-| Bedroll | Small | 1 sp |
-| Candle | Tiny | 1 cp |
-| Chalk (1 piece) | Tiny | 1 cp |
-| Bottomless Coinpurse | Tiny | 50 gp |
-| Crowbar | Small | 2 gp |
-| Flask of oil | Tiny | 1 sp |
-| Flint | Tiny | 1 cp |
-| Grappling hook | Medium | 1 gp |
-| Holy symbol | Tiny | 5 gp |
-| Lantern | Small | 5 gp |
-| Manacles | Small | 2 gp |
-| Rations (1 day) | Tiny | 5 sp |
-| Rope (50 ft) | Medium | 1 gp |
-| Spell component pouch | Small | 5 gp |
-| Steel mirror | Small | 5 gp |
-| Tent | Large | 5 gp |
-| Thieves' tools | Small | 25 gp |
-| Torch | Tiny | 1 cp |
-| Waterskin | Small | 2 sp |
-| Whetstone | Tiny | 1 cp |
+| Item                 | Size   |  Cost |
+| :------------------- | :----- | ----: |
+| Backpack             | Small  |  2 gp |
+| Bedroll              | Small  |  1 sp |
+| Candle               | Tiny   |  1 cp |
+| Chalk (1 piece)      | Tiny   |  1 cp |
+| Bottomless Coinpurse | Tiny   | 50 gp |
+| Crowbar              | Small  |  2 gp |
+| Flask of oil         | Tiny   |  1 sp |
+| Flint                | Tiny   |  1 cp |
+| Grappling hook       | Medium |  1 gp |
+| Holy symbol          | Tiny   |  5 gp |
+| Lantern              | Small  |  5 gp |
+| Manacles             | Small  |  2 gp |
+| Rations (1 day)      | Tiny   |  5 sp |
+| Rope (50 ft)         | Medium |  1 gp |
+| Steel mirror         | Small  |  5 gp |
+| Tent                 | Large  |  5 gp |
+| Thieves' tools       | Small  | 25 gp |
+| Torch                | Tiny   |  1 cp |
+| Waterskin            | Small  |  2 sp |
+| Whetstone            | Tiny   |  1 cp |
 
 A Bottomless Coinpurse is a Bag of Holding for wealth — see [Currency](Currency.md) for details on how it works and what happens when one is lost. Its cost reflects that it's specialty gear; characters who already own one from the Universal Starting Kit pay 50 gp only to replace a lost or destroyed purse.
 

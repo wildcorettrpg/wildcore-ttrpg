@@ -8,7 +8,7 @@ Movement represents a character's ability to reposition during a round. All move
 
 A character's movement allowance is equal to their race's base movement. Spending **1 AP** grants a movement pool equal to the character's full base movement. Additional AP may be spent to increase total movement according to the movement mode being used — see [Movement Modes Table](../Tables/Movement%20Modes%20Table.md) for a quick-reference breakdown by mode and AP spent. Race traits, abilities, or conditions may increase or reduce movement allowance. Movement may be divided around actions unless a rule states otherwise.
 
-## Standing from [Prone](../Conditions%20and%20Hazards/Conditions.md#prone)
+## Standing from Prone
 
 Standing from prone is a Free Action. It costs no AP and does not consume movement. A character may stand at any point during their turn.
 
@@ -26,7 +26,7 @@ Movement may trigger reactions such as opportunity attacks or abilities that act
 
 ## Engagement
 
-A character is engaged when within melee range of an opponent. Moving within melee range does not trigger reactions. Moving out of melee range may trigger an Opportunity Attack from any opponent who has AP available — see **opportunity attack** in the [Glossary](../../Glossary/Glossary.md). Entering melee range may trigger abilities that activate when a character comes within proximity. The Narrator determines melee range based on the fiction and the abilities involved.
+A character is engaged when within melee range of an opponent. Moving within melee range does not trigger reactions. Moving out of melee range may trigger an Opportunity Attack from any opponent who has AP available — see **opportunity attack** in the [Glossary](../Glossary.md). Entering melee range may trigger abilities that activate when a character comes within proximity. The Narrator determines melee range based on the fiction and the abilities involved.
 
 ## Special Movement Types
 

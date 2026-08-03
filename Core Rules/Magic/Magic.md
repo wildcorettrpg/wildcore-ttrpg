@@ -133,7 +133,7 @@ Each spell in the catalog uses the following fields:
 
 Far Sight, Long Sight, and True Sight are cross-race traits, not spells. They are innate perceptions — present from birth, requiring no Spellcasting investment, costing no Health, and contributing nothing to the Predation Clock. They cannot be learned, purchased, or trained.
 
-Characters who possess one of these abilities are **God-touched**. See [Traits](../Characters/Traits.md#god-touched) for full rules on God-touched characters and the three Sight abilities.
+Characters who possess one of these abilities are **God-touched**. See [Racial Traits](Racial%20Traits.md#god-touched) for full rules on God-touched characters and the three Sight abilities.
 
 
 ## Available Spells

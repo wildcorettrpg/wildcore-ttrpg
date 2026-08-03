@@ -4,6 +4,43 @@ Notable changes to Velocity — rules, content, and the website — recorded her
 
 This is the public-facing summary. It doesn't need session-by-session design rationale (why a decision was made, alternatives considered) — just what changed, in plain terms a player, Narrator, or site visitor would care about.
 
+## 2026-08-02
+
+Session 30: reference library, file reorg, rules clarifications, CI fixes
+
+### File reorganization
+- Moved `Glossary/Glossary.md` → `Core Rules/Glossary.md` (Glossary is now a Core Rules chapter)
+- Renamed `Characters/Traits.md` → `Characters/Racial Traits.md`
+- Fixed longstanding typo: `Attribute Parings for Opposition Checks Table.md` → `Attribute Pairings for Opposition Checks Table.md`
+- Updated all internal links across Core Rules to reflect the above moves
+
+### Health Archetypes propagation
+- `Characters/Attributes.md`: Maximum Health now references Archetypes (20/25/30) instead of flat 25; links updated
+- `Tables/Character Attributes Table.md`: Max Health row reflects Archetypes; added Reflex tiebreaker note
+- `Skills/Universal/Attributes/Health Skill.md`: description updated to reference Archetypes and link to Health.md
+
+### Rules clarifications (Actions.md)
+- Added explicit rule: Stunned, Immobilized, Unconscious, and Restrained characters cannot use Dodge, Parry, or Block
+- Removed "restrained" from Dodge's constraint list (Restrained already blocks all defense entirely)
+- Added rule: Vulnerable characters lose their Reflex bonus on defense rolls
+- Fixed link casing: `action points.md` → `Action Points.md`
+
+### Conditions
+- Mute: replaced d20 "verbal components" language with "spells requiring the caster to speak"
+- Restrained: clarified that other conditions (Blind, Mute) may apply additionally to a Restrained character
+- Recovery.md: fixed heading render bug `[Unconscious]ness` → `Unconscious`; minor wording fix
+
+### Spells
+- Level 0: removed duplicate Nunor's Spring entry; fixed heading level (H4 → H3)
+- Level 3: removed Nunor's Blessing and Rasgard's Flying Bridge
+
+### Equipment
+- Gear.md: reformatted General Gear table for alignment; removed Spell Component Pouch
+
+### CI/CD
+- `build-and-deploy.yml`: added missing Deploy to GitHub Pages step and IndexNow URL submission step
+
+
 ## 2026-07-17
 
 **Rules — Characters**

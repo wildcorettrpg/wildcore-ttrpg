@@ -64,7 +64,7 @@ Conditions are temporary or persistent states imposed by combat, injury, superna
 
 **Trigger:** Injury, magic, poisoning, or any effect that eliminates the character's ability to speak.  
 
-**Effect:** The character cannot speak. Skills and abilities that require verbal communication cannot be used. Spells with verbal components cannot be cast. Social checks relying on speech (Persuasion, Intimidation, Negotiation) fail automatically unless the Narrator determines that written or gestural communication is a feasible substitute in context.  
+**Effect:** The character cannot speak. Skills and abilities that require verbal communication cannot be used. Spells requiring the caster to speak cannot be cast. Social checks relying on speech (Persuasion, Intimidation, Negotiation) fail automatically unless the Narrator determines that written or gestural communication is a feasible substitute in context.  
 
 **Ends:** The source of the condition is removed (magical or poison effect lifted, injury treated).
 ## Nauseated
@@ -92,7 +92,7 @@ Conditions are temporary or persistent states imposed by combat, injury, superna
 
 **Trigger:** Applied by shackles, manacles, bindings, a grapple technique, or any effect that physically constrains the character's freedom of movement.
 
-**Effect:** The character is physically bound and cannot act of their own volition. They cannot take actions, Reactions, or move voluntarily. The character may still speak and perceive normally unless the restraint explicitly prevents it. The character cannot make attack, Dodge, Parry, or Block Opposition Checks. Armor mitigation still applies to attacks against a Restrained character.
+**Effect:** The character is physically bound and cannot act of their own volition. They cannot take actions, Reactions, or move voluntarily. The character may still speak and perceive normally unless the restraint explicitly prevents it or other conditions (such as Blind or Mute) apply. The character cannot make attack, Dodge, Parry, or Block Opposition Checks. Armor mitigation still applies to attacks against a Restrained character.
 
 **Ends:** The restraint is removed or broken. Breaking free typically requires a Strength Opposition Check against a Narrator-assigned difficulty based on the restraint's material and construction; some restraints can only be removed with tools or keys.
 

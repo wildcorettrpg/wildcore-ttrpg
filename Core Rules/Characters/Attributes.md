@@ -20,7 +20,7 @@ Attributes represent a character's core physical, mental, and social capabilitie
 
 Health is a two-value tracked stat, not a core attribute:
 
-- **Maximum Health** — the ceiling a character's current Health cannot exceed. All characters begin with a Maximum Health of **25**. Maximum Health is not assigned during character creation; it increases only through the [Health Skill](Health%20Skill.md) tree, Fortitude mastery skills (VII and IX each grant +10), or race abilities.
+- **Maximum Health** — the ceiling a character's current Health cannot exceed. All characters begin with a Maximum Health of 20, 25, or 30, depending on which [Health Archetype](Health.md#health-archetype) they select at character creation. Maximum Health increases only through the [Health Skill](../Skills/Universal/Attributes/Health%20Skill.md) tree, [Fortitude Skill](../Skills/Universal/Attributes/Fortitude%20Skill.md) mastery skills (VII and IX each grant +10), or race abilities.
 - **Current Health** — a character's current physical condition. Reduced by damage; restored by healing and recovery. Cannot exceed Maximum Health or drop below 0.
 
 ## Attribute Assignment
