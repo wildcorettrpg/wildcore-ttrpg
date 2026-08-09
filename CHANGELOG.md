@@ -4,6 +4,29 @@ Notable changes to Velocity — rules, content, and the website — recorded her
 
 This is the public-facing summary. It doesn't need session-by-session design rationale (why a decision was made, alternatives considered) — just what changed, in plain terms a player, Narrator, or site visitor would care about.
 
+## 2026-08-08
+
+Session 31: Core Rules Analysis resolution pass — all 16 issues from the 2026-08-02 analysis resolved
+
+### Rules changes
+- **Elf — Fell Presence** (renamed from "Intimidating Presence"): the trait now applies to all Social Opposition Checks made in person, not just Intimidation. The bonus (+4) is unchanged.
+- **Strength VII and IX** now explicitly grant +1 additional damage die to ranged damage rolls as well as melee, matching the design intent. Previously the tier descriptions said "melee" only while the skill description said "both."
+- **Forced Awakening** now correctly imposes [Vulnerable] alongside Prone and Hindered. A character woken by smelling salts in a fight is prone, hindered, and vulnerable until treated or the scene ends.
+- **Actions** — added Incapacitated to the list of conditions that prevent a character from using Dodge, Parry, or Block.
+- **Health.md** — clarified that characters who make no Health Archetype declaration use the Average Archetype (25 Maximum Health), not an undefined "standard baseline."
+
+### Consistency and link fixes
+- `Racial Traits.md` converted to a link index pointing to each race file; eliminates the duplication that caused trait descriptions to drift out of sync
+- `Glossary.md` — health entry updated to reference Health Archetypes (20/25/30); forced awakening entry updated to include Vulnerable
+- `Werewolf Lineage.md` Note 4 — "Blood Healing" corrected to "Lycan Healing"
+- `Magic.md` — removed "(cantrips)" parenthetical; Level 0 spells throughout
+- `Health Skill.md` — fixed broken anchor (#health-archetypes.md → #health-archetypes)
+- Creatures index: The Fae added; Source column standardized to "Core Rules" for all current entries
+- The Fae stat block: Size row added
+- Various internal link corrections across Opposition Checks, Turn Structure, and Magic
+
+---
+
 ## 2026-08-02
 
 Session 30: reference library, file reorg, rules clarifications, CI fixes

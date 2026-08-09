@@ -8,47 +8,15 @@ Traits that grant mechanical bonuses are noted in the character's Opposition Che
 
 ## Race Traits
 
-Each race carries its own set of traits. Full trait descriptions appear in the relevant race section.
+Each race carries its own set of traits. For complete descriptions of the traits specific to each race, see the Traits section for each Race.
 
-**Human** ([Human Race](../Races/Human%20Race.md))
-- **Human Potential** — Begins play with 12 Skill Points instead of 10.
-- **Mundane Presence** — Cannot be detected by Supernatural Detection or similar abilities.
-- **Eye for Value** — +4 to find and assess the value of treasure; +2 on Investigation and Negotiation checks when trading.
-- **Uncanny Adaptability** — Once per session, re-roll any failed Opposition Check and take the better result.
-
-**Dwarf** ([Dwarf Race](../Races/Dwarf%20Race.md))
-- **Fearless** — Immune to fear effects. Automatic success on Willpower Opposition Checks to resist fear.
-- **Low Center of Gravity** — +2 on Opposition Checks to resist being tripped, knocked [Prone](../Conditions%20and%20Hazards/Conditions.md#prone), or forced into movement.
-
-**Elf** ([Elf Race](../Races/Elf%20Race.md))
-- **Arcane Echo** — Grants access to Spellcasting skills. Spellcasting I is unlocked for free. +2 on Supernatural Detection Opposition Checks when attempting to detect the presence and type of magical creatures.
-- **Immortal Vitality** — +20 Maximum Health.
-- **Intimidating Presence** — +4 on Intimidation Opposition Checks.
-- **Living Memory** — +2 on Research Opposition Checks.
-
-**Faerie** ([Faerie Race](../Races/Faerie%20Race.md))
-- **Luminous** — Emits faint ambient light; can produce and direct a nonflammable light illuminating up to 30 ft.
-- **Incapable of Deception** — Cannot make a false statement. Constitutionally incapable, not culturally restrained.
-- **Sense Truth** — Detects sincerity of any statement made within 10 ft. Automatic success on checks to detect deception within 10 ft.; +2 beyond.
-- **Ethereal Form** — Once per day, assumes a purely ethereal state for four consecutive hours. Cannot physically interact with the world while ethereal; heals at double rate.
-- **Lightborne Step** — Hovers above the ground; ignores Difficult Terrain; +4 to Stealth Opposition Checks while moving.
-
-**Kin** ([Kin Race](../Races/Kin%20Race.md))
-- **Gregarious Nature** — +2 on Social Opposition Checks.
-- **Voracious Mind** — +2 on Investigation Opposition Checks; +4 on Research Opposition Checks.
-- **Innate Magic** — Grants access to Spellcasting skills. Spellcasting I is unlocked for free. +2 on Spellcasting Opposition Checks.
-
-**Kith** ([Kith Race](../Races/Kith%20Race.md))
-- **Improvised Combatant** — All purchased Melee Attack or Ranged Attack skills apply to improvised weapons. +2 on Attack Opposition Checks with improvised weapons.
-- **Terrain Mastery** — +2 on attack Opposition Checks when exploiting terrain features.
-- **Wallcrawler** — Can scale any vertical surface without assistance; can run or sprint across walls and ceilings.
-
-**Shapeshifter** ([Shapeshifter Race](../Races/Shapeshifter%20Race.md))
-- **Inner Animal** — +2 on Fortitude Opposition Checks.
-- **Keen Senses** — +2 to perception-based Opposition Checks within 30 ft.
-- **Low-Light Vision** — Sees in low-light conditions as clearly as daylight within 30 ft. +2 on Perception Opposition Checks at night or in low light.
-- **Mindspeech** — Communicates telepathically with other Shapeshifters up to one mile, in any form.
-- **Multi-Strike** — Once per round, may make a single unarmed attack that strikes twice, each with its own attack and damage roll.
+- [Human](../Races/Human%20Race.md#traits)
+- [Dwarf](../Races/Dwarf%20Race.md#traits)
+- [Elf](../Races/Elf%20Race.md#traits)
+- [Faerie](../Races/Faerie%20Race.md#traits)
+- [Kin](../Races/Kin%20Race.md#traits)
+- [Kith](../Races/Kith%20Race.md#traits)
+- [Shapeshifter](../Races/Shapeshifter%20Race.md#traits)
 
 ## Cross-Race Traits
 

@@ -10,7 +10,7 @@ A character cannot cast spells unless something explicitly grants access to magi
 
 Spells are not automatically known. A character with Spellcasting access can only cast spells they have specifically learned. Learning a spell requires encountering it in the world — through a spellbook, scroll, mentor, or other narrative source — and spending time studying it.
 
-**Starting spells.** A new caster begins play knowing all Level 0 spells (cantrips) and one spell from each spell level their Spellcasting tier unlocks. Starting spells are chosen in consultation with the Narrator and should reflect what is narratively available in the setting.
+**Starting spells.** A new caster begins play knowing all Level 0 spells and one spell from each spell level their Spellcasting tier unlocks. Starting spells are chosen in consultation with the Narrator and should reflect what is narratively available in the setting.
 
 To learn a spell, the character makes a Research Opposition Check against a difficulty based on the spell's level:
 
@@ -133,7 +133,7 @@ Each spell in the catalog uses the following fields:
 
 Far Sight, Long Sight, and True Sight are cross-race traits, not spells. They are innate perceptions — present from birth, requiring no Spellcasting investment, costing no Health, and contributing nothing to the Predation Clock. They cannot be learned, purchased, or trained.
 
-Characters who possess one of these abilities are **God-touched**. See [Racial Traits](Racial%20Traits.md#god-touched) for full rules on God-touched characters and the three Sight abilities.
+Characters who possess one of these abilities are **God-touched**. See [Racial Traits](../Characters/Racial%20Traits.md#god-touched) for full rules on God-touched characters and the three Sight abilities.
 
 
 ## Available Spells

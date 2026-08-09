@@ -48,8 +48,8 @@ What the Magesea once was for the Elves, it is no longer — but something remai
 ### Immortal Vitality
 Luniel built her children to endure. Elves within the Three Kingdoms gain +20 Maximum Health. See [The Price of Leaving](#the-price-of-leaving).
 
-### Intimidating Presence
-Seven feet of patient, unhurried muscle produces an effect that has nothing to do with intent. +4 on Social Opposition Checks where size and physical bearing are relevant.
+### Fell Presence
+To stand before an Anaric elf is to be measured by something that was old before your bloodline had a name. +4 on all Social Opposition Checks made in person. This bonus does not apply to written communication, messages delivered through intermediaries, or any interaction where the elf is not physically present.
 
 ### Living Memory
 Elven memory never fades. A conversation from eight hundred years ago is as clear as one from this morning. +2 on Research Opposition Checks.
@@ -87,15 +87,15 @@ The following are not racial flaws — they are personal character tendencies th
 
 ### Traits
 
-| Source | Modifier |
-| :----- | :------- |
-| Arcane Echo | Spellcasting I unlocked at no cost |
-| Arcane Echo | +2 on Supernatural Detection OCs to detect presence and type of magical creatures |
-| Immortal Vitality | +20 Maximum Health (Three Kingdoms only) |
-| Intimidating Presence | +4 on Social OCs where size and bearing are relevant |
-| Living Memory | +2 on Research OCs |
-| Longstrider | Movement speed 35 ft (base 30 ft) |
-| Longstrider | Melee weapon reach +5 ft |
+| Source            | Modifier                                                                          |
+| :---------------- | :-------------------------------------------------------------------------------- |
+| Arcane Echo       | Spellcasting I unlocked at no cost                                                |
+| Arcane Echo       | +2 on Supernatural Detection OCs to detect presence and type of magical creatures |
+| Immortal Vitality | +20 Maximum Health (Three Kingdoms only)                                          |
+| Fell Presence     | +4 on Social OCs where size and bearing are relevant                              |
+| Living Memory     | +2 on Research OCs                                                                |
+| Longstrider       | Movement speed 35 ft (base 30 ft)                                                 |
+| Longstrider       | Melee weapon reach +5 ft                                                          |
 
 ### Racial Flaws
 

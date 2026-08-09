@@ -4,6 +4,12 @@ Items are grouped by area. Strike items and move a summary line to `CHANGELOG.md
 
 ---
 
+- [ ] **Follow up on Core Rules Analysis 2026-08-02.** Many of the 16 issues found (SG-01 through SG-06, MN-01 through MN-09, AD-01, AD-02) may already be resolved. Run a fresh analysis pass to confirm current status before acting on any item. See `.analysis/Core Rules Analysis - 2026-08-02.md` for the full report.
+
+- [ ] **Review `Core Mechanics/Dice Pools.md` to simplify math calculus.**
+
+- [ ] **CR-01 — Multi-Race Characters.md racial skill tree system (deferred design work).** `Races/Multi-Race Characters.md` describes a complete racial skill tree subsystem for base races (open branches, experience-gated branches, two-tree interaction rules for multi-race characters). This contradicts the standing "base races have no skill trees" design decision but may represent intentional new design direction. Needs Mike's decision: design reversal (requiring new skill tree files and balancing) or document to be deleted/replaced.
+
 - [x] Move Glossary into the Core Rules.
 - [x] WILL NOT IMPLEMENT. Add a suggestion to the Narrator's Guide to introduce the chance of armor breaking after x number of attacks get through.
       This was Claude's suggestion and requires careful consideration. It requires the Narrator to track how many hits got through each participant's armor. That's an enormous amount of additional bookkeeping. 

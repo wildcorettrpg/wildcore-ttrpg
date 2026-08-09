@@ -31,7 +31,7 @@ The following scene illustrates how Velocity plays at the table — how Oppositi
 | Ranged Attack | III | +2 to ranged damage rolls with light weapons |
 | Light Armor | I | Trained mitigation with light armor |
 
-**Traits:** Arcane Echo (grants access to Spellcasting skills; Spellcasting I unlocked for free), Immortal Vitality (+20 Maximum Health), Intimidating Presence (+4 on Intimidation Opposition Checks)  
+**Traits:** Arcane Echo (grants access to Spellcasting skills; Spellcasting I unlocked for free), Immortal Vitality (+20 Maximum Health), Fell Presence (+4 on Social Opposition Checks)  
 **Flaws:** Grief (−2 on Willpower Opposition Checks against mind-affecting abilities), Faded (−4 on Fortitude Opposition Checks), Distant (−2 on Persuasion and Negotiation Opposition Checks)
 
 **Armor:** Leather armor (light, mitigation 3 trained)  
@@ -115,7 +115,7 @@ The party needs information from a smuggler named Voss. He's meeting with an ass
 
 **Narrator:** That's Intimidation. What do you have for it?
 
-**Mira's player:** No Intimidation skills. But Intimidating Presence gives me plus 4 from my race. So 1d10 plus 4.
+**Mira's player:** No Social skills. But Fell Presence gives me plus 4 from my race. So 1d10 plus 4.
 
 **Narrator:** The situation is doing the rest of the work. Roll.
 
@@ -128,7 +128,7 @@ The party needs information from a smuggler named Voss. He's meeting with an ass
 
 Every action was an Opposition Check. The Narrator named the type of check and rolled the opposition privately. Each player assembled their total — base 1d10, flat bonuses from skills, applicable attribute — and announced it before rolling. Neither side rolled against a fixed number.
 
-Mira's Intimidation check is worth noting: she has no investment in Intimidation skills, but her Elf race grants +4 on Intimidation Opposition Checks through Intimidating Presence. The crossbow pressed against the guard's ribs gave the Narrator reason to let that bonus carry the scene. Lineage modifiers are always in play — skill investment amplifies them.
+Mira's Intimidation check is worth noting: she has no investment in Social skills, but her Elf race grants +4 on Social Opposition Checks through Fell Presence. The crossbow pressed against the guard's ribs gave the Narrator reason to let that bonus carry the scene. Lineage modifiers are always in play — skill investment amplifies them.
 
 If Cael's second Persuasion total had matched the guard's, the result would have been a stalemate. The Narrator narrates forward; nobody wins, and the scene evolves.
 

@@ -88,16 +88,16 @@
 
 Special ammunition replaces standard ammunition for that attack and is consumed on use. Arrows pair with bows; bolts pair with crossbows.
 
-| Item | Size | Cost | Effect |
-| :--- | :--- | ---: | :--- |
-| Arrows, blunt (20) | Medium | 2 gp | On a hit, the target becomes [Hindered](../Conditions%20and%20Hazards/Conditions.md#hindered) until the end of their next turn. Deals no damage. |
-| Arrows, broadhead (20) | Medium | 3 gp | +1d6 damage on a hit. |
-| Arrows, flight (20) | Medium | 2 gp | Eliminates the long-range −2 penalty. You may shoot up to the weapon's max range without penalty. |
-| Arrows, serrated (20) | Medium | 3 gp | On a hit, the target gains the [Bleeding Out](../Conditions%20and%20Hazards/Conditions.md#bleeding-out) condition. |
-| Arrows, whistling (20) | Medium | 2 gp | Audible to 300 ft. Used for signals; no combat effect. |
-| Bolts, blunt (20) | Medium | 2 gp | On a hit, the target becomes [Hindered](../Conditions%20and%20Hazards/Conditions.md#hindered) until the end of their next turn. Deals no damage. |
-| Bolts, broadhead (20) | Medium | 3 gp | +1d6 damage on a hit. |
-| Bolts, serrated (20) | Medium | 3 gp | On a hit, the target gains the [Bleeding Out](../Conditions%20and%20Hazards/Conditions.md#bleeding-out) condition. |
+| Item                   | Size   | Cost | Effect                                                                                                                                           |
+| :--------------------- | :----- | ---: | :----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Arrows, blunt (20)     | Medium | 2 gp | On a hit, the target becomes [Hindered](../Conditions%20and%20Hazards/Conditions.md#hindered) until the end of their next turn. Deals no damage. |
+| Arrows, broadhead (20) | Medium | 3 gp | +1d6 damage on a hit.                                                                                                                            |
+| Arrows, flight (20)    | Medium | 2 gp | Eliminates the long-range −2 penalty. You may shoot up to the weapon's max range without penalty.                                                |
+| Arrows, serrated (20)  | Medium | 3 gp | On a hit, the target gains the [Bleeding Out](../Conditions%20and%20Hazards/Conditions.md#bleeding-out) condition.                               |
+| Arrows, whistling (20) | Medium | 2 gp | Audible to 300 ft. Used for signals; no combat effect.                                                                                           |
+| Bolts, blunt (20)      | Medium | 2 gp | On a hit, the target becomes [Hindered](../Conditions%20and%20Hazards/Conditions.md#hindered) until the end of their next turn. Deals no damage. |
+| Bolts, broadhead (20)  | Medium | 3 gp | +1d6 damage on a hit.                                                                                                                            |
+| Bolts, serrated (20)   | Medium | 3 gp | On a hit, the target gains the [Bleeding Out](../Conditions%20and%20Hazards/Conditions.md#bleeding-out) condition.                               |
 
 ## Special Materials
 

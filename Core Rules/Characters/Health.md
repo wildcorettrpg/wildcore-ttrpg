@@ -13,7 +13,7 @@ A character's starting Maximum Health is determined by their Health Archetype, c
 
 ### Health Archetypes
 
-At character creation, a player may declare a Health Archetype reflecting their character's natural constitution. This is an optional choice — characters who make no declaration use the standard baseline.
+At character creation, a player may declare a Health Archetype reflecting their character's natural constitution. This is an optional choice — characters who make no declaration use the Average Archetype.
 
 |Archetype|Maximum Health|SP Adjustment|
 |---|---|---|

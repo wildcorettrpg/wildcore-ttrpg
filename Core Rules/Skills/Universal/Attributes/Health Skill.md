@@ -6,7 +6,7 @@
 
 ## Description
 
-Health investment represents physical conditioning, biological resilience, and the capacity to absorb punishment and keep going. It raises a character's [Maximum Health](../../../Characters/Health.md) — the ceiling that current Health cannot exceed. All characters begin with a Maximum Health of 20, 25, or 30, based on their chosen [Health Archetype](../../../Characters/Health.md#health-archetypes.md). Investment in the Health Skill increases that ceiling, making the character harder to bring down. Race abilities can push Maximum Health beyond what this tree can achieve, reflecting the supernatural hardiness of non-human beings.
+Health investment represents physical conditioning, biological resilience, and the capacity to absorb punishment and keep going. It raises a character's [Maximum Health](../../../Characters/Health.md) — the ceiling that current Health cannot exceed. All characters begin with a Maximum Health of 20, 25, or 30, based on their chosen [Health Archetype](../../../Characters/Health.md#health-archetypes). Investment in the Health Skill increases that ceiling, making the character harder to bring down. Race abilities can push Maximum Health beyond what this tree can achieve, reflecting the supernatural hardiness of non-human beings.
 
 Each skill in this tree costs Skill Points equal to its tier number — Health I costs 1 SP, Health II costs 2 SP, and so on up to Health X at 10 SP. The full tree costs 55 SP and raises Maximum Health by 40 (to 65).
 

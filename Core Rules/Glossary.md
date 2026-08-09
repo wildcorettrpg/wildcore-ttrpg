@@ -101,7 +101,7 @@ Merged into **dodge** as of 2026-06-24. Dodge now covers both rolling clear of a
 
 ### forced awakening
 
-Reviving an **Unconscious** character using smelling salts or an equivalent stimulant. Requires Healing II; costs 1 AP; no Healing Opposition Check; may only be attempted once per patient per incident. The Unconscious condition is removed immediately — the character regains consciousness. All other conditions present at the time of awakening remain in effect. The character is **Prone** and **Hindered** until they receive medical treatment or the scene ends. Forced Awakening does not heal the patient. See [Forced Awakening](../Core%20Rules/Conditions%20and%20Hazards/Stabilization.md#forced-awakening).
+Reviving an **Unconscious** character using smelling salts or an equivalent stimulant. Requires Healing II; costs 1 AP; no Healing Opposition Check; may only be attempted once per patient per incident. The Unconscious condition is removed immediately — the character regains consciousness. All other conditions present at the time of awakening remain in effect. The character is **Prone**, **Hindered**, and **Vulnerable** until they receive medical treatment or the scene ends. Forced Awakening does not heal the patient. See [Forced Awakening](../Core%20Rules/Conditions%20and%20Hazards/Stabilization.md#forced-awakening).
 
 ### forced movement
 
@@ -129,7 +129,7 @@ An Opposition Check (or, for Stabilization, a check against a stated difficulty)
 
 ### health
 
-A two-value tracked stat representing a character's physical condition. **Current Health** is a character's present condition — reduced by damage (after armor mitigation) and restored by healing or recovery; cannot exceed Maximum Health or drop below 0. **Maximum Health** is the ceiling for Current Health — all characters begin at 25; raised through the [Health Skill](../Core%20Rules/Skills/Universal/Attributes/Health%20Skill.md) tree, Fortitude VII and IX (+10 each), and race abilities. All characters begin play with Current Health equal to Maximum Health. A character dies when Current Health reaches 0. See [Health](../Core%20Rules/Characters/Health.md).
+A two-value tracked stat representing a character's physical condition. **Current Health** is a character's present condition — reduced by damage (after armor mitigation) and restored by healing or recovery; cannot exceed Maximum Health or drop below 0. **Maximum Health** is the ceiling for Current Health — all characters begin at 20, 25, or 30 based on their chosen [Health Archetype](Characters/Health.md#health-archetypes); raised through the [Health Skill](../Core%20Rules/Skills/Universal/Attributes/Health%20Skill.md) tree, Fortitude VII and IX (+10 each), and race abilities. All characters begin play with Current Health equal to Maximum Health. A character dies when Current Health reaches 0. See [Health](../Core%20Rules/Characters/Health.md).
 
 ### hindered
 

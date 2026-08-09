@@ -10,12 +10,13 @@
 
 ## Stat Block
 
-| | |
-| :--- | :--- |
-| **Health** | — (see Notes) |
-| **Natural Armor** | — |
-| **Movement** | 50 ft. (flight) |
-| **Senses** | The Fae cannot be deceived, misdirected, or surprised. She perceives intent, memory, and truth as clearly as most creatures perceive sound and light. |
+|                   |                                                                                                                                                       |
+| :---------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Health**        | — (see Notes)                                                                                                                                         |
+| **Natural Armor** | —                                                                                                                                                     |
+| **Size**          | Medium                                                                                                                                                |
+| **Movement**      | 50 ft. (flight)                                                                                                                                       |
+| **Senses**        | The Fae cannot be deceived, misdirected, or surprised. She perceives intent, memory, and truth as clearly as most creatures perceive sound and light. |
 
 ## Attributes
 

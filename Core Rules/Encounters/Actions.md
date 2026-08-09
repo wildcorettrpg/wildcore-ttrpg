@@ -50,7 +50,7 @@ The relevant attack attribute is **Strength** for melee attacks, **Strength** fo
 
 ### Defense Roll
 
-Stunned, Immobilized, Unconscious, and Restrained characters are unable to defend themselves for the duration of the effect using dodge, parry, or block.
+Stunned, Immobilized, Incapacitated, Unconscious, and Restrained characters are unable to defend themselves for the duration of the effect using dodge, parry, or block.
 
 For all other characters, the defender's response depends on the type of attack. For melee and ranged attacks, the defender makes an Opposition Check using one of the following options:
 

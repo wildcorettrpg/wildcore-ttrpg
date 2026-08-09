@@ -8,7 +8,7 @@ A character may spend AP in any order during their turn. Actions cost AP as list
 
 ## Action Types
 
-**Free Actions** don't cost AP unless a rule states otherwise. **Martial Actions** (a Standard Action — see [Glossary](Glossary.md)) cost AP as listed in their descriptions and cover physical maneuvers: attacks, shoves, grapples, and similar. **Supernatural Actions** (a Standard Action — see [Glossary](../Glossary.md)) cost AP as listed in their descriptions and cover magical abilities: spells, lineage powers, and similar. **Reactions** may be taken outside the character's turn when their trigger occurs and cost AP as listed. **Movement** is purchased with AP and follows the rules in the Movement chapter.
+**Free Actions** don't cost AP unless a rule states otherwise. **Martial Actions** (a Standard Action — see [Glossary](../Glossary.md)) cost AP as listed in their descriptions and cover physical maneuvers: attacks, shoves, grapples, and similar. **Supernatural Actions** (a Standard Action — see [Glossary](../Glossary.md)) cost AP as listed in their descriptions and cover magical abilities: spells, lineage powers, and similar. **Reactions** may be taken outside the character's turn when their trigger occurs and cost AP as listed. **Movement** is purchased with AP and follows the rules in the Movement chapter.
 
 ## Ending the Turn
 

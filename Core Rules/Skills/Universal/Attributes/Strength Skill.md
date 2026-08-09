@@ -52,7 +52,7 @@ Strength represents raw physical power — the capacity to hit hard, lift heavy,
 
 **Cost:** 1 SP  
 **Prerequisite:** Strength VI  
-**Effect:** +1 additional damage die to melee damage rolls.
+**Effect:** +1 additional damage die to melee and ranged damage rolls, excluding magical attacks.
 
 ### Strength VIII
 
@@ -64,7 +64,7 @@ Strength represents raw physical power — the capacity to hit hard, lift heavy,
 
 **Cost:** 1 SP  
 **Prerequisite:** Strength VIII  
-**Effect:** +1 additional damage die to melee damage rolls.
+**Effect:** +1 additional damage die to melee and ranged damage rolls, excluding magical attacks.
 
 ### Strength X
 
