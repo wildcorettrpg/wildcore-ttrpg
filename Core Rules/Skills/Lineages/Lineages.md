@@ -32,4 +32,4 @@ Once acquired, the lineage's skill tree becomes available immediately. The chara
 
 A character's race does not change when they acquire a lineage. A human turned vampire is still human — still shaped by human culture, human relationships, and human memory. The transformation adds to what they are; it does not replace it. A werewolf who was a dwarven blacksmith is still a dwarven blacksmith — now with claws.
 
-This is intentional. Velocity does not use lineages to reassign a character's identity. They are something that happened to the character. What the character does with it belongs to play, not to the rules.
+This is intentional. WildCore does not use lineages to reassign a character's identity. They are something that happened to the character. What the character does with it belongs to play, not to the rules.

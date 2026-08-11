@@ -1,8 +1,47 @@
 # Changelog
 
-Notable changes to Velocity — rules, content, and the website — recorded here as they're committed. Newest entries first, grouped by date and area.
+Notable changes to WildCore — rules, content, and the website — recorded here as they're committed. Newest entries first, grouped by date and area.
 
 This is the public-facing summary. It doesn't need session-by-session design rationale (why a decision was made, alternatives considered) — just what changed, in plain terms a player, Narrator, or site visitor would care about.
+
+## 2026-08-11
+
+Session 33: Magic system redesign — AP-based casting replaces spell levels; Spells catalog restructured to one file per spell
+
+### Rules changes
+- **Magic** — spell levels removed. Casting Time (in AP) replaces spell level as the core unit of a spell's cost, and the flat per-level Health cost is gone. Three new systems: **Potency and Charging** (a caster may commit AP beyond a spell's base Casting Time as a whole-number multiplier — ×2 costs twice the base Casting Time and doubles every numerical value in the spell, ×3 costs three times and triples them, and so on), **Overclocking** (spend Health to shave AP off a cast, at an escalating Health cost and Predation Clock penalty), and **Multi-Round Casting** (any cast — base or charged — whose total AP exceeds what the caster can spend in one turn is cast as a Concentration effect spread across multiple rounds, so a heavily charged spell takes proportionally longer rather than getting cheaper to overcharge). **Learning Spells** reworked: a spell now actively resists being learned via a Spellcasting Defense Opposition Check, with difficulty scaled to the spell's Casting Time, replacing the old flat Research check against spell level. **Predation Clock** now drains by AP spent casting (plus an Overclocking penalty when used) instead of by spell level.
+- **Spellcasting skill tree** — removed "may cast Level N spells" language from every tier; spell access is no longer level-gated. Spellcasting IV now grants +2 to Concentration Checks (previously an empty tier). Mastery Tier split into two independent branches: **Mastery Tier: Combat** (the existing VI–X progression) and a new **Mastery Tier: Overclocking** (five new skills, Overclocking I–V, prerequisite Spellcasting V) that mitigates Overclocking's risks — bonus to Consciousness Checks from Overclocking, a once-per-session Predation waiver, a once-per-encounter Concentration Check reroll, immunity to Bleeding Out from Overclocking Health loss, and a once-per-session floor of 1 Health instead of dropping to 0.
+- **Tree of Life** — Casting Time reduced from 7 AP to 3 AP; Healing Pool, initial burst, and per-round recovery reduced to match. Full power is recoverable by charging the spell.
+
+### Spells catalog restructure
+- Replaced the 10 `Level 0–9 Spells.md` files with 46 individual spell files (one per spell), matching the Creatures and Races convention. The old Level-based files are preserved in `.backup/Spells/`.
+- `Spells.md` rebuilt: the category grid and the alphabetical list now show AP cost instead of spell level and link directly to each spell's own file.
+- Elemental Bolt collapsed from nine separate tiered spells (Elemental Bolt I–IX) into a single spell that scales with charging.
+- Every 0 AP ("Minor") spell now explicitly states it cannot be charged or overclocked and is cast as a Free Action.
+
+### Assets
+- Added `Logo/` folder: WildCore logo in PNG and SVG, standard and transparent variants.
+- Added `Licensing/Compatible with WildCore Badge.png`; removed the outdated `Compatible with Velocty Badge.png`.
+
+### Fixes
+- `Licensing` — corrected the license acronym from the old **VOL**/**VOL-DL** to **WOL**/**WOL-DL** throughout all five renamed license documents; only the filenames and the word "WildCore" had been updated previously, leaving the acronym stale in the body text.
+- `Spellcasting Skill.md` — Spellcasting X's prerequisite corrected to Spellcasting IX (was duplicated from Overclocking I's prerequisite during the Mastery Tier split).
+
+---
+
+## 2026-08-09
+
+Session 32: Dice Pools rewrite; game rename cleanup; licensing folder cleared
+
+### Rules changes
+- **Dice Pools** — assembly steps in both Attack Pools and Damage Pools reframed as a character-sheet task, not a roll-time procedure. Sections renamed "Building your pool (do this on your character sheet, not during play)"; the roll step is removed from the procedure; a "Record" step added at the end. Added a "During play" one-liner to each section: grab your recorded pool, roll, add flat, done. Examples restructured into explicit "Building (character sheet)" and "At the table" stages.
+
+### File cleanup
+- Licensing folder: renamed all five VOL documents from `Velocity*` to `WildCore*` (Open License v1.0, Dual-License Variant, Plain-English Summary, Creator FAQ, Publisher's Guide)
+- Renamed "Velocity" → "WildCore" throughout: `README.md`, `Core Rules/Introduction.md`, `Starter Kit/Introduction.md`, `Starter Kit/Narrator's Guide/Narrator Quick Reference.md`, `Starter Kit/Narrator's Guide/Overview.md`, `Starter Kit/Characters/Paivel.md`, `TODO.md`
+- TODO.md: removed resolved and struck-through items
+
+---
 
 ## 2026-08-08
 

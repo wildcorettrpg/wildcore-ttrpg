@@ -30,7 +30,7 @@ Armor provides flat damage mitigation applied to every hit unless a rule states 
 
 ## Damage Types
 
-All damage in Velocity has a type. Damage type determines whether armor mitigates and, for spells, how a target may defend. See [Spell Defense](../Magic/Magic.md#spell-defense) for defense rules by type.
+All damage in WildCore has a type. Damage type determines whether armor mitigates and, for spells, how a target may defend. See [Spell Defense](../Magic/Magic.md#spell-defense) for defense rules by type.
 
 | Damage Type     | Description                                                                                  | Armor Mitigates? |
 | :-------------- | :------------------------------------------------------------------------------------------- | :--------------- |

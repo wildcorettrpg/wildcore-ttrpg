@@ -1,8 +1,8 @@
-# Velocity Starter Kit: The Weight of Silence
+# WildCore Starter Kit: The Weight of Silence
 
 ## What Is This?
 
-*The Weight of Silence* is a self-contained starter adventure for Velocity — a narrative-first tabletop RPG built for emotionally intense, relationship-driven stories.
+*The Weight of Silence* is a self-contained starter adventure for WildCore — a narrative-first tabletop RPG built for emotionally intense, relationship-driven stories.
 
 This kit contains everything a group needs to sit down and play: a complete adventure, four pregenerated characters, and a Narrator's Quick Reference that covers the rules you'll need to run the game. No other books required.
 
@@ -21,4 +21,4 @@ This kit contains everything a group needs to sit down and play: a complete adve
 
 The Narrator should read the full kit before play. Players should read only their character sheet — the mystery works best when no one at the table knows how it ends.
 
-The Narrator's Quick Reference covers everything needed to run Opposition Checks, manage Action Points, and handle social and investigation scenes. For deeper reading on any rule, references to the Velocity Core Rules are provided throughout.
+The Narrator's Quick Reference covers everything needed to run Opposition Checks, manage Action Points, and handle social and investigation scenes. For deeper reading on any rule, references to the WildCore Core Rules are provided throughout.

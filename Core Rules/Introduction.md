@@ -1,16 +1,16 @@
 # Introduction
 
-This is the **Core Rules** — the complete mechanical reference for Velocity. It defines every system precisely: attributes, Health, Skill Points, Opposition Checks, turn structure, damage, equipment, and the full universal skill catalog. If a rule needs to resolve at the table, this is the document with the final word on how.
+This is the **Core Rules** — the complete mechanical reference for WildCore. It defines every system precisely: attributes, Health, Skill Points, Opposition Checks, turn structure, damage, equipment, and the full universal skill catalog. If a rule needs to resolve at the table, this is the document with the final word on how.
 
-The Core Rules are a reference, not an onboarding document. They assume you already know roughly what Velocity is and are here to look up or learn exactly how something works. A Player's Guide and Narrator's Guide are in development and will accompany the first full campaign setting release.
+The Core Rules are a reference, not an onboarding document. They assume you already know roughly what WildCore is and are here to look up or learn exactly how something works. A Player's Guide and Narrator's Guide are in development and will accompany the first full campaign setting release.
 
-A few terms recur throughout without re-explanation: the person running the game is the **Narrator**, not the GM; a character's birth ancestry is their **Race**; supernatural transformations they acquire through play are their **Lineage**. Every term used across all of Velocity's books is defined in [Glossary](Glossary.md) — consult it whenever a word is unfamiliar.
+A few terms recur throughout without re-explanation: the person running the game is the **Narrator**, not the GM; a character's birth ancestry is their **Race**; supernatural transformations they acquire through play are their **Lineage**. Every term used across all of WildCore's books is defined in [Glossary](Glossary.md) — consult it whenever a word is unfamiliar.
 
 Campaign settings add their own races, lineages, magic systems, and lore on top of these Core Rules. They don't replace anything here — they extend it.
 
 ## What Kind of Game Is This?
 
-Velocity is built around eight principles. Every rule in this document exists to serve them. Every design decision was tested against them. If something in these rules ever feels wrong at your table, these are the right questions to ask.
+WildCore is built around eight principles. Every rule in this document exists to serve them. Every design decision was tested against them. If something in these rules ever feels wrong at your table, these are the right questions to ask.
 
 **Narrative First.** Every rule exists to serve the story. A rule that creates tension belongs. A rule that creates friction without serving a story beat is cut.
 
@@ -30,6 +30,6 @@ Velocity is built around eight principles. Every rule in this document exists to
 
 ## Where to Start
 
-**New to Velocity?** Start with [Opposition Checks](Core%20Mechanics/Opposition%20Checks.md) — it's the one mechanic everything else builds on. Then read [Characters](Characters/Attributes.md) to understand what a character is made of, and [Skills](Skills/Skills.md) to understand how characters grow. **Building a character?** Start with [Characters](Characters/Attributes.md), then [Skills](Skills/Skills.md) for the full skill catalog, then [Equipment](Equipment/Weapons.md) for gear. **Running an encounter?** Start with [Encounters](Encounters/Encounter%20Structure.md) — turn order, actions, damage, and conditions are all there.
+**New to WildCore?** Start with [Opposition Checks](Core%20Mechanics/Opposition%20Checks.md) — it's the one mechanic everything else builds on. Then read [Characters](Characters/Attributes.md) to understand what a character is made of, and [Skills](Skills/Skills.md) to understand how characters grow. **Building a character?** Start with [Characters](Characters/Attributes.md), then [Skills](Skills/Skills.md) for the full skill catalog, then [Equipment](Equipment/Weapons.md) for gear. **Running an encounter?** Start with [Encounters](Encounters/Encounter%20Structure.md) — turn order, actions, damage, and conditions are all there.
 
 **Coming from D&D?** The biggest difference is [Opposition Checks](Core%20Mechanics/Opposition%20Checks.md) — there are no fixed DCs, no saving throws, and no attack rolls against AC. Every contested action is an opposed roll. Read that first, then [Skills](Skills/Skills.md) to see how the skill system differs from D&D's feat and proficiency model. **Looking something up?** The [Glossary](Glossary.md) defines every system term. The [Tables](Tables/) chapter collects all reference tables in one place.

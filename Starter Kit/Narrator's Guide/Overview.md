@@ -32,7 +32,7 @@ The adventure runs in three acts:
 - **Social and investigation scenes as the primary mode of play.** Combat is the climax, not the through-line.
 - **Opposition Checks in practice.** When to roll, when to auto-succeed, how the gate works at the table.
 - **Action Points in a short, motivated combat.** Three AP per turn, meaningful choices, combat as punctuation.
-- **The ticking clock.** Velocity has no initiative stat and no encounter grids. Urgency comes from story, not mechanics.
+- **The ticking clock.** WildCore has no initiative stat and no encounter grids. Urgency comes from story, not mechanics.
 - **The Narrator's dramatic judgment.** Several moments in this adventure require the Narrator to make a call. Those moments are flagged and supported with guidance.
 
 ## The Truth

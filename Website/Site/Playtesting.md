@@ -1,6 +1,6 @@
 # Playtesting & Feedback
 
-Velocity is still being built. The rules in these books are the current best draft — mechanics, numbers, and in some places whole systems are expected to change as actual play reveals what works and what doesn't. If something here seems off, it might just be wrong, and saying so is one of the most useful things a playtester can do right now.
+WildCore is still being built. The rules in these books are the current best draft — mechanics, numbers, and in some places whole systems are expected to change as actual play reveals what works and what doesn't. If something here seems off, it might just be wrong, and saying so is one of the most useful things a playtester can do right now.
 
 ## Report an issue right where you find it
 
@@ -17,7 +17,7 @@ Submitting a report files it directly as an issue on the project's GitHub reposi
 
 ## Browse what's already been flagged
 
-Visit the [issue tracker on GitHub](https://github.com/velocityttrpg/velocity-ttrpg/issues) to see what's already been reported, add your own perspective to an existing issue, or start a broader discussion that doesn't fit neatly under a single paragraph.
+Visit the [issue tracker on GitHub](https://github.com/WildCorettrpg/WildCore-ttrpg/issues) to see what's already been reported, add your own perspective to an existing issue, or start a broader discussion that doesn't fit neatly under a single paragraph.
 
 ## What "in development" means in practice
 

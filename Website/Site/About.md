@@ -1,10 +1,10 @@
-# What Makes Velocity Different
+# What Makes WildCore Different
 
-Velocity is built for low-math, frictionless, story-driven play. It's not a combat simulator or a tactical wargame — combat is a punctuation mark in a scene, not the point of it. Every rule exists to keep romantic tension, supernatural horror, noir mystery, and desperate chases moving, and to get out of the way when it isn't needed.
+WildCore is built for low-math, frictionless, story-driven play. It's not a combat simulator or a tactical wargame — combat is a punctuation mark in a scene, not the point of it. Every rule exists to keep romantic tension, supernatural horror, noir mystery, and desperate chases moving, and to get out of the way when it isn't needed.
 
 ## Less math, by design.
 
-Velocity actively removes math that doesn't change what happens at the table. Wherever another system asks for a calculation that exists only to justify its own bookkeeping — converting pounds into encumbrance, totaling coin weight, tracking a second resource pool just for spells — Velocity asks whether that number actually changes a scene. If it doesn't, it's gone. That principle shows up everywhere below: in how inventory works, how armor works, even in how dying — and magic — work.
+WildCore actively removes math that doesn't change what happens at the table. Wherever another system asks for a calculation that exists only to justify its own bookkeeping — converting pounds into encumbrance, totaling coin weight, tracking a second resource pool just for spells — WildCore asks whether that number actually changes a scene. If it doesn't, it's gone. That principle shows up everywhere below: in how inventory works, how armor works, even in how dying — and magic — work.
 
 ## No classes. No levels.
 
@@ -16,7 +16,7 @@ Every contested action — attacks, persuasion, medicine, tracking, intimidation
 
 ## The Narrator, not the GM.
 
-The person running the game is the Narrator. They don't referee rules; they direct scenes — deciding what the world does, how it reacts, and when the camera cuts. It's not a semantic difference. It reflects how Velocity asks the whole table to approach play: lead with the fiction, let mechanics serve the moment instead of gating it.
+The person running the game is the Narrator. They don't referee rules; they direct scenes — deciding what the world does, how it reacts, and when the camera cuts. It's not a semantic difference. It reflects how WildCore asks the whole table to approach play: lead with the fiction, let mechanics serve the moment instead of gating it.
 
 ## Lineage can be earned, not just chosen.
 
@@ -32,7 +32,7 @@ Health and Vitality are separate: Vitality sets the ceiling, Health tracks what'
 
 ## Armor protects you — it doesn't make you harder to hit.
 
-Most attacks in Velocity connect. Armor doesn't change whether a hit lands; it changes whether the hit matters, absorbing or deflecting damage after the fact instead of subtracting from an attacker's chance to hit. It's the difference between a dragon that survives because everything keeps "missing" it, and a dragon that gets hit, shrugs the damage off, and keeps coming — like soldiers firing on a kaiju that simply doesn't notice.
+Most attacks in WildCore connect. Armor doesn't change whether a hit lands; it changes whether the hit matters, absorbing or deflecting damage after the fact instead of subtracting from an attacker's chance to hit. It's the difference between a dragon that survives because everything keeps "missing" it, and a dragon that gets hit, shrugs the damage off, and keeps coming — like soldiers firing on a kaiju that simply doesn't notice.
 
 ## Magic costs blood, not mana.
 
@@ -43,8 +43,8 @@ Casting a spell hurts the caster directly: every spell costs Health equal to its
 
 ## Built to feel familiar, not to start from zero.
 
-Spell levels, weapon categories, and a straightforward path for converting existing d20-style monsters are all intentionally compatible with material players and Narrators may already know. Velocity isn't trying to make you forget everything you've learned running other systems — it's trying to spend your group's energy on the parts that actually make a scene feel alive, not on rebuilding a bestiary from scratch.
+Spell levels, weapon categories, and a straightforward path for converting existing d20-style monsters are all intentionally compatible with material players and Narrators may already know. WildCore isn't trying to make you forget everything you've learned running other systems — it's trying to spend your group's energy on the parts that actually make a scene feel alive, not on rebuilding a bestiary from scratch.
 
 ## Where to go next
 
-New to Velocity? Start with the `Player's Guide/Introduction.md` — it walks through character creation and how a turn at the table actually works. Want the full mechanical reference? The `Core Rules/Introduction.md` is the complete rulebook. Curious why a given rule works the way it does? The `Design Philosophy/A Core Design Philosophy.md` explains the reasoning behind every major decision.
+New to WildCore? Start with the `Player's Guide/Introduction.md` — it walks through character creation and how a turn at the table actually works. Want the full mechanical reference? The `Core Rules/Introduction.md` is the complete rulebook. Curious why a given rule works the way it does? The `Design Philosophy/A Core Design Philosophy.md` explains the reasoning behind every major decision.

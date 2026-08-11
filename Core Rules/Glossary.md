@@ -191,7 +191,7 @@ A **Reaction** triggered when an opponent moves out of melee range. The triggeri
 
 ### opposition check
 
-The core resolution mechanic of Velocity. Both sides roll a dice pool (minimum 1d10 plus any dice from skills), add flat bonuses from applicable skills, and add their relevant Attribute. The higher total wins. If both sides reach the same total, the result is a **stalemate**. All contested actions — attacks, grapples, negotiations, supernatural clashes, and more — are resolved this way. Not every situation calls for a roll; see **opposition score** and [When to Make an Opposition Check](../Core%20Rules/Core%20Mechanics/Opposition%20Checks.md#when-to-make-an-opposition-check).
+The core resolution mechanic of WildCore. Both sides roll a dice pool (minimum 1d10 plus any dice from skills), add flat bonuses from applicable skills, and add their relevant Attribute. The higher total wins. If both sides reach the same total, the result is a **stalemate**. All contested actions — attacks, grapples, negotiations, supernatural clashes, and more — are resolved this way. Not every situation calls for a roll; see **opposition score** and [When to Make an Opposition Check](../Core%20Rules/Core%20Mechanics/Opposition%20Checks.md#when-to-make-an-opposition-check).
 
 ### opposition score
 

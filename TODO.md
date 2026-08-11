@@ -1,59 +1,12 @@
-# Velocity TTRPG — Open Work
+# WildCore TTRPG — Open Work
 
 Items are grouped by area. Strike items and move a summary line to `CHANGELOG.md` when done.
 
 ---
 
-- [ ] **Follow up on Core Rules Analysis 2026-08-02.** Many of the 16 issues found (SG-01 through SG-06, MN-01 through MN-09, AD-01, AD-02) may already be resolved. Run a fresh analysis pass to confirm current status before acting on any item. See `.analysis/Core Rules Analysis - 2026-08-02.md` for the full report.
-
 - [ ] **Review `Core Mechanics/Dice Pools.md` to simplify math calculus.**
 
 - [ ] **CR-01 — Multi-Race Characters.md racial skill tree system (deferred design work).** `Races/Multi-Race Characters.md` describes a complete racial skill tree subsystem for base races (open branches, experience-gated branches, two-tree interaction rules for multi-race characters). This contradicts the standing "base races have no skill trees" design decision but may represent intentional new design direction. Needs Mike's decision: design reversal (requiring new skill tree files and balancing) or document to be deleted/replaced.
-
-- [x] Move Glossary into the Core Rules.
-- [x] WILL NOT IMPLEMENT. Add a suggestion to the Narrator's Guide to introduce the chance of armor breaking after x number of attacks get through.
-      This was Claude's suggestion and requires careful consideration. It requires the Narrator to track how many hits got through each participant's armor. That's an enormous amount of additional bookkeeping. 
-      This would be easy to implement in a video game, but incredibly challenging at a tabletop session.
-- [x] Move Consciousness Checks to their own document in Encounters.
-- [x] Create a document that captures Action Point rules in Encounters.
-
-## Equipment Chapter
-
-### ~~Shields~~
-~~Done — `Armor.md` §Shields (buckler / shield / tower shield item table); `Skills/Universal/Combat/Light Shield Skill.md` (3 skills, Block bonus); `Skills/Universal/Combat/Heavy Shield Skill.md` (4 skills, mitigation + penalty removal).~~
-
-### ~~Ammunition~~
-~~`Weapons.md` §Ammunition has the mechanic (Tiny, stacks to 20/slot, 20 pieces = 1 gp) but no itemized table. Decide whether different ammo types exist beyond "generic ammo for your weapon type." If not, a short item-table entry in `Gear.md` closes this.~~
-
-### Medical & Healing Supplies
-~~Add a Name / Size / Cost / Purpose table to `Gear.md`.~~ Done — see `Equipment/Gear.md` §Healing Supplies (bandages, bone splint, smelling salts, healing salve, fever tonic, antivenom ×3) and §Healing Potions (six grades, automatic).
-
-### ~~Gems & Jewels~~
-~~Port gem/jewelry types and values from the d20 SRD.~~ Done — see `Equipment/Gear.md` §Gems and Jewels (six grades, Ornamental 10 gp through Jewel 5,000 gp).
-
----
-
-## ~~Healer's Bag Redesign (Charges → Inventory)~~
-
-~~**Direction confirmed (2026-07-02):** "charges" are eliminated entirely — not renamed, deleted. Both bags become expanded inventory that holds only Tiny or Small items; using an item removes it from the bag like any other consumable. No separate counter.~~
-
-- ~~Healer's Bag — 5 Tiny/Small slots~~
-- ~~Master Healer's Satchel — 10 Tiny/Small slots~~
-
-~~This is blocked on the Medical & Healing Supplies table above — the bag's contents need to be defined before the bag mechanic makes sense.~~
-
-**Files to update:**
-- ~~`Skills/Universal/Survival/Healing Skill.md`~~ — done
-- ~~`Characters/Stabilization.md`~~ — done
-- ~~`Equipment/Gear.md`~~ — done
-- ~~`Characters/Recovery.md` §3~~ — done
-- ~~`Characters/Death.md`~~ — done
-- ~~`Encounters/Poisons.md`~~ — done
-- ~~`Encounters/Conditions.md`~~ — done
-- ~~`Characters/Starting Equipment.md`~~ — done
-
----
-
 ## Website — Hand-Maintained Files Resync
 
 > **Deferred.** Not a blocker for the current publication target.

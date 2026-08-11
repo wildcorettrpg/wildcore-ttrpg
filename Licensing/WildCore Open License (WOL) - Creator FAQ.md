@@ -1,9 +1,9 @@
-# Velocity Open License (VOL) — Creator FAQ
+# WildCore Open License (WOL) — Creator FAQ
 
-This FAQ explains how creators, publishers, and community members can use the Velocity ruleset under the Velocity Open License (VOL).  
+This FAQ explains how creators, publishers, and community members can use the WildCore ruleset under the WildCore Open License (WOL).  
 If anything here seems different from the legal text, the legal text takes priority.
 
-## **What can I do with the Velocity rules?**
+## **What can I do with the WildCore rules?**
 You can:
 - Use the rules in your own games  
 - Modify them  
@@ -14,11 +14,11 @@ You can:
 - Make digital tools  
 - Make videos, streams, and podcasts  
 
-Velocity is designed to be an open, creator‑friendly system.
+WildCore is designed to be an open, creator‑friendly system.
 
-## **Can I sell my Velocity-based content?**
+## **Can I sell my WildCore-based content?**
 **Yes.**  
-You can sell anything you create that uses the Velocity rules, including:
+You can sell anything you create that uses the WildCore rules, including:
 - Adventures  
 - Settings  
 - Expansions  
@@ -39,10 +39,10 @@ You may **reference** the rules, summarize them, or require them — but you may
 
 Your product must not restrict access to the original Work.
 
-## **Can I make a standalone game using Velocity?**
+## **Can I make a standalone game using WildCore?**
 Yes — as long as:
-- the core Velocity rules remain free  
-- your game is released under the VOL  
+- the core WildCore rules remain free  
+- your game is released under the WOL  
 - you don’t restrict others from using your additions  
 
 You can sell your standalone game.
@@ -51,11 +51,11 @@ You can sell your standalone game.
 No.  
 You can sell your content.
 
-The only thing that must remain free is the **core Velocity rules**.
+The only thing that must remain free is the **core WildCore rules**.
 
-## **Do I have to use the same license (VOL) for my content?**
+## **Do I have to use the same license (WOL) for my content?**
 Yes.  
-All Velocity‑based content must use the same open license.
+All WildCore‑based content must use the same open license.
 
 This keeps the ecosystem open and prevents anyone from locking down parts of the system.
 
@@ -65,7 +65,7 @@ Attribution is optional.
 
 It’s appreciated, but never required.
 
-## **Can I use Velocity in a commercial stream, podcast, or video?**
+## **Can I use WildCore in a commercial stream, podcast, or video?**
 Yes.  
 All commercial performances are allowed, including:
 - monetized streams  
@@ -76,7 +76,7 @@ All commercial performances are allowed, including:
 
 You can earn ad revenue, sponsorships, tips, subscriptions, etc.
 
-## **Can I make digital tools for Velocity?**
+## **Can I make digital tools for WildCore?**
 Yes — including:
 - character builders  
 - inventory managers  
@@ -86,32 +86,32 @@ Yes — including:
 
 You can sell these tools if you want.
 
-## **Can I use AI-generated content in my Velocity products?**
+## **Can I use AI-generated content in my WildCore products?**
 Yes.  
-The VOL does not restrict your creative tools.
+The WOL does not restrict your creative tools.
 
-## **Can I translate the Velocity rules or my own content?**
+## **Can I translate the WildCore rules or my own content?**
 Yes.  
 Translations are allowed and may be sold.
 
-## **Can I combine Velocity with another open system?**
+## **Can I combine WildCore with another open system?**
 Yes, as long as:
 - the other system’s license allows it  
-- your Velocity‑based content remains under the VOL  
-- you do not restrict access to the Velocity core rules  
+- your WildCore‑based content remains under the WOL  
+- you do not restrict access to the WildCore core rules  
 
-## **Can a company use Velocity?**
+## **Can a company use WildCore?**
 Yes — but they must follow the same rules:
 - core rules stay free  
-- derivative works stay under the VOL  
+- derivative works stay under the WOL  
 - no DRM or restrictions  
 - no paywalling the core rules  
 
-Velocity cannot be “closed” or corporately captured.
+WildCore cannot be “closed” or corporately captured.
 
-## **Can someone fork Velocity and make their own version?**
+## **Can someone fork WildCore and make their own version?**
 Yes — but:
-- the fork must remain under the VOL  
+- the fork must remain under the WOL  
 - the core rules must remain free  
 - they cannot restrict others from using their fork  
 
@@ -119,23 +119,23 @@ This ensures the ecosystem stays healthy and open.
 
 ## **Can I revoke the license from someone?**
 No.  
-Once someone has the Work under the VOL, they keep those rights.
+Once someone has the Work under the WOL, they keep those rights.
 
 ## **What if I want to release something under a different license?**
-If it is **based on Velocity**, it must use the VOL.
+If it is **based on WildCore**, it must use the WOL.
 
-If it is **not based on Velocity**, you may use any license you want.
+If it is **not based on WildCore**, you may use any license you want.
 
 ## **Where can I ask questions or get help?**
-Wherever the Velocity community gathers — Discord, GitHub, forums, etc.  
+Wherever the WildCore community gathers — Discord, GitHub, forums, etc.  
 (You can add official links here.)
 
 ## **In short**
-- You can sell your Velocity content.  
+- You can sell your WildCore content.  
 - You can make tools, expansions, and full games.  
 - You can monetize streams and videos.  
 - You must keep the core rules free.  
-- You must use the VOL for Velocity‑based content.  
+- You must use the WOL for WildCore‑based content.  
 - You cannot lock down or restrict the system.  
 
-Velocity is open, creator‑friendly, and built for a thriving community.
+WildCore is open, creator‑friendly, and built for a thriving community.

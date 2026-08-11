@@ -67,7 +67,7 @@
 
 **Melee attack:** 1d10 + 3 (Melee Attack II +2, Strength +1)  
 **Melee damage:** 1d8 + 2 (Melee Attack III)  
-**Multi-Strike (unarmed):** Two attacks, 1d10 + 1 (Strength) each; 1 damage each (flat Strength bonus — unarmed strikes deal no base die in Velocity)  
+**Multi-Strike (unarmed):** Two attacks, 1d10 + 1 (Strength) each; 1 damage each (flat Strength bonus — unarmed strikes deal no base die in WildCore)  
 **Tracking (within 30 ft):** 1d10 + 8 (Tracking I–IV +4, Keen Senses +4)  
 **Tracking (beyond 30 ft):** 1d10 + 4 (Tracking I–IV)  
 **Perception (within 30 ft):** 1d10 + 4 (Keen Senses)  
@@ -101,7 +101,7 @@ Paivel's animal form is a peregrine falcon — compact, dark-backed, capable of 
 
 **No armor** in falcon form.
 
-*Talon, beak damage values, and the Reflex-based attack are all Velocity-native — falcon does not appear in the d20 SRD.*
+*Talon, beak damage values, and the Reflex-based attack are all WildCore-native — falcon does not appear in the d20 SRD.*
 
 Transformation costs 1 AP and may be performed once per round in either direction.
 

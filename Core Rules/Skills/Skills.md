@@ -26,7 +26,7 @@ Skill Points are spent between sessions, outside of play. When a skill is purcha
 
 ## Skill Trees
 
-Skill trees are organized into two categories: **Universal** and **Setting**. Universal trees are available to every character regardless of race or campaign setting. Attribute skills have no prerequisites and are always available. Setting trees are defined by the campaign setting and are not part of the core rules — they cover setting-specific races, lineages, and capabilities, and campaign settings built on Velocity may define their own.
+Skill trees are organized into two categories: **Universal** and **Setting**. Universal trees are available to every character regardless of race or campaign setting. Attribute skills have no prerequisites and are always available. Setting trees are defined by the campaign setting and are not part of the core rules — they cover setting-specific races, lineages, and capabilities, and campaign settings built on WildCore may define their own.
 
 **Universal trees:**
 

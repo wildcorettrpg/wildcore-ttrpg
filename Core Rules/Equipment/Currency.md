@@ -2,7 +2,7 @@
 
 ## Denominations
 
-1. Velocity uses the standard d20 economy: **copper pieces (cp)**, **silver pieces (sp)**, **gold pieces (gp)**, and **platinum pieces (pp)**.
+1. WildCore uses the standard d20 economy: **copper pieces (cp)**, **silver pieces (sp)**, **gold pieces (gp)**, and **platinum pieces (pp)**.
 2. Exchange rate: 10 cp = 1 sp, 10 sp = 1 gp, 10 gp = 1 pp.
 3. Item costs throughout [Weapons](Weapons.md), [Armor](Armor.md), and [Gear](Gear.md) are given in these denominations, ported from d20 source material using the same d20-number-direct approach applied throughout.
 

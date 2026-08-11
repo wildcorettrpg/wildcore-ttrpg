@@ -1,15 +1,15 @@
-# Velocity TTRPG
+# WildCore TTRPG
 
 A narrative-first tabletop roleplaying game built for emotionally intense, relationship-driven stories. Combat is a punctuation mark, not the core loop. The rules stay out of the way so the story can move.
 
-**Live site:** [velocityttrpg.github.io/velocity-ttrpg](https://velocityttrpg.github.io/velocity-ttrpg)
+**Live site:** [wildcorettrpg.github.io/wildcore-ttrpg](https://wildcorettrpg.github.io/wildcore-ttrpg)
 
 ---
 
 ## What's in this repository
 
 ```
-Core Rules/       — The complete Velocity Core Rules in Markdown
+Core Rules/       — The complete WildCore Core Rules in Markdown
 Glossary/         — System-wide glossary
 Licensing/        — OGL and product identity documents
 Website/          — Static site builder and hand-maintained pages
@@ -50,10 +50,10 @@ The workflow fires when `.md` source files, the build script, the stylesheet, or
 
 ## Feedback and issues
 
-This repository does not accept pull requests — the Core Rules are authored and maintained by the Velocity design team. If you spot an error, have a question, or want to propose a change, please use the **⚑ Report Issue** button on any page of the live site, or file an issue directly in the [Issues tab](https://github.com/velocityttrpg/velocity-ttrpg/issues).
+This repository does not accept pull requests — the Core Rules are authored and maintained by the WildCore design team. If you spot an error, have a question, or want to propose a change, please use the **⚑ Report Issue** button on any page of the live site, or file an issue directly in the [Issues tab](https://github.com/WildCorettrpg/WildCore-ttrpg/issues).
 
 ---
 
 ## License
 
-The Velocity Core Rules are published under the Velocity Open License (VOL). See the [Licensing](Licensing/) folder for the full license text, plain-English summary, creator FAQ, and commercial licensing information.
+The WildCore Core Rules are published under the WildCore Open License (VOL). See the [Licensing](Licensing/) folder for the full license text, plain-English summary, creator FAQ, and commercial licensing information.

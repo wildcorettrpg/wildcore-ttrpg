@@ -1,6 +1,6 @@
 # Character Creation
 
-Character creation is the one moment in Velocity where the **No Unnecessary Math** principle yields to necessity. The choices made here define who the character is at the start of play — and, through the flaw and milestone systems, who they have the potential to become. Take the time to make them deliberately.
+Character creation is the one moment in WildCore where the **No Unnecessary Math** principle yields to necessity. The choices made here define who the character is at the start of play — and, through the flaw and milestone systems, who they have the potential to become. Take the time to make them deliberately.
 
 Work through the following steps in order.
 

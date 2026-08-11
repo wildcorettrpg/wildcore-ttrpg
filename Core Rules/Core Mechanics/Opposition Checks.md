@@ -1,13 +1,13 @@
 
 # Opposition Checks
 
-Opposition Checks determine the outcome of any action where one character’s capability directly contests another’s. They are the core resolution mechanic of Velocity. Grapples, negotiations, supernatural clashes, social conflicts, and all other contested actions are resolved through an Opposition Check unless otherwise specified. Physical and magical attacks follow the same structure — see the Actions chapter for attack-specific details. The one deliberate exception is Stabilization, which uses a check against a stated difficulty rather than an opposed [dice pool](Dice%20Pools.md) — see [Stabilization](../Conditions%20and%20Hazards/Stabilization.md).
+Opposition Checks determine the outcome of any action where one character’s capability directly contests another’s. They are the core resolution mechanic of WildCore. Grapples, negotiations, supernatural clashes, social conflicts, and all other contested actions are resolved through an Opposition Check unless otherwise specified. Physical and magical attacks follow the same structure — see the Actions chapter for attack-specific details. The one deliberate exception is Stabilization, which uses a check against a stated difficulty rather than an opposed [dice pool](Dice%20Pools.md) — see [Stabilization](../Conditions%20and%20Hazards/Stabilization.md).
 
 Opposition Checks emphasize character capability over randomness. Attributes matter. Skills matter. Dice introduce uncertainty, but they do not overshadow the inherent strengths and weaknesses of the characters involved.
 
 ## When to Make an Opposition Check
 
-Not every action calls for dice. Per Velocity's drama-over-detail principle (A Core Design Philosophy), the Narrator only calls for an Opposition Check when at least one of these is true: the outcome is genuinely uncertain and a reasonable Narrator wouldn't already know how it goes; the action takes place in combat; or rolling would heighten the stakes of the scene, even if the outcome seems likely.
+Not every action calls for dice. Per WildCore's drama-over-detail principle (A Core Design Philosophy), the Narrator only calls for an Opposition Check when at least one of these is true: the outcome is genuinely uncertain and a reasonable Narrator wouldn't already know how it goes; the action takes place in combat; or rolling would heighten the stakes of the scene, even if the outcome seems likely.
 
 If none of these apply, don't roll. Instead, compare the acting character's **opposition score** — their relevant Attribute plus any flat bonuses granted by applicable skills, with no dice involved — against a **difficulty** the Narrator assigns using the [Opposition Check Difficulty Table](../Tables/Opposition%20Check%20Difficulty%20Table.md). If the opposition score **meets or exceeds** the difficulty, the character automatically succeeds and no roll is made. If the opposition score **falls short**, or the Narrator decides the moment calls for tension after all, resolve the action as a full Opposition Check instead.
 

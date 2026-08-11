@@ -45,7 +45,7 @@ The following poisons are available for purchase where illegal trade thrives. Fi
 
 ## Notes
 
-All poisons are Tiny, and multiple doses of the same poison stack in a single inventory slot (see [Inventory](../Equipment/Inventory.md) §Stacking). Poisons in the Named Poisons table are available as Open Game Content from the d20 SRD; they appear here in Velocity terms. Special conditions listed in the Notes column apply as stated in each entry — when no trigger is specified, the condition applies immediately on exposure and lasts until the poison ends.
+All poisons are Tiny, and multiple doses of the same poison stack in a single inventory slot (see [Inventory](../Equipment/Inventory.md) §Stacking). Poisons in the Named Poisons table are available as Open Game Content from the d20 SRD; they appear here in WildCore terms. Special conditions listed in the Notes column apply as stated in each entry — when no trigger is specified, the condition applies immediately on exposure and lasts until the poison ends.
 
 The Narrator may introduce original poisons using any severity tier and delivery type; named poison entries serve as reference points for calibrating new ones.
 

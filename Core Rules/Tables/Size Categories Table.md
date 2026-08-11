@@ -1,6 +1,6 @@
 ## Size
 
-Velocity uses six size categories, adopted from the d20 standard. Size affects melee combat when there is a significant difference between attacker and defender — specifically, whether an attack Opposition Check is required at all, and whether the smaller combatant has an easier time avoiding the larger one.
+WildCore uses six size categories, adopted from the d20 standard. Size affects melee combat when there is a significant difference between attacker and defender — specifically, whether an attack Opposition Check is required at all, and whether the smaller combatant has an easier time avoiding the larger one.
 
 ### Size Categories
 

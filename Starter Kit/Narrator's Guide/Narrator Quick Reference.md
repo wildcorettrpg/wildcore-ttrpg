@@ -1,12 +1,12 @@
 # Narrator Quick Reference
 
-This document covers everything you need to run *The Weight of Silence*. For deeper reading on any rule, references to the Velocity Core Rules are provided.
+This document covers everything you need to run *The Weight of Silence*. For deeper reading on any rule, references to the WildCore Core Rules are provided.
 
 ---
 
 ## The Core Loop
 
-Every contested action in Velocity resolves as an **Opposition Check**: both sides assemble a dice pool plus an Attribute bonus. Highest total wins. A tie is a stalemate — narrate forward without declaring a winner.
+Every contested action in WildCore resolves as an **Opposition Check**: both sides assemble a dice pool plus an Attribute bonus. Highest total wins. A tie is a stalemate — narrate forward without declaring a winner.
 
 **How to build a total:**
 
@@ -144,7 +144,7 @@ A character with Healing skills and a Healer's Bag can restore Health: 1d6 + Wil
 
 ## Social and Investigation Scenes
 
-Velocity's social resolution uses the same Opposition Check framework as combat. The difference is what's at stake.
+WildCore's social resolution uses the same Opposition Check framework as combat. The difference is what's at stake.
 
 **Key principles for running social scenes:**
 

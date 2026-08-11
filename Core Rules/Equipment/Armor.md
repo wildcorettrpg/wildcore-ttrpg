@@ -25,7 +25,7 @@ For armor mitigation rules — how mitigation works, what armor protects against
 | Heavy    | Splint armor    | Large  |   200 gp |                   16 |                      8 |
 | Light    | Studded leather | Medium |    25 gp |                    5 |                      3 |
 
-6. The mitigation values above are a first draft intended for playtesting, in keeping with [Weapons](Weapons.md)'s draft status. They're expected to be tuned once tested against Velocity's damage dice scale (base die + attribute/skill bonus dice).
+6. The mitigation values above are a first draft intended for playtesting, in keeping with [Weapons](Weapons.md)'s draft status. They're expected to be tuned once tested against WildCore's damage dice scale (base die + attribute/skill bonus dice).
 
 ## Shields
 

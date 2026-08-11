@@ -1,6 +1,6 @@
 # Example of Play
 
-The following scene illustrates how Velocity plays at the table — how Opposition Checks work, how Action Points are spent, and how the narrative stays in front of the mechanics.
+The following scene illustrates how WildCore plays at the table — how Opposition Checks work, how Action Points are spent, and how the narrative stays in front of the mechanics.
 
 ## The Characters
 
